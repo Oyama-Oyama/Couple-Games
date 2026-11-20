@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/nav_home">
+
+    <fragment
+        android:id="@+id/nav_home"
+        android:name="com.velvet.couplesgame.ui.home.HomeFragment"
+        android:label="@string/nav_home">
+        <action
+            android:id="@+id/action_home_to_couple_board"
+            app:destination="@id/nav_couple_board" />
+        <action
+            android:id="@+id/action_home_to_blind_match"
+            app:destination="@id/nav_blind_match" />
+        <action
+            android:id="@+id/action_home_to_lucky_wheel"
+            app:destination="@id/nav_lucky_wheel" />
+        <action
+            android:id="@+id/action_home_to_couple_mines"
+            app:destination="@id/nav_couple_mines" />
+        <action
+            android:id="@+id/action_home_to_draw_guess"
+            app:destination="@id/nav_draw_guess" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_couple_board"
+        android:name="com.velvet.couplesgame.ui.chess.CoupleBoardFragment"
+        android:label="@string/mode_chess" />
+
+    <fragment
+        android:id="@+id/nav_blind_match"
+        android:name="com.velvet.couplesgame.ui.blindmatch.BlindMatchFragment"
+        android:label="@string/mode_blind_match">
+        <action
+            android:id="@+id/action_blind_match_to_couple_board"
+            app:destination="@id/nav_couple_board" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_lucky_wheel"
+        android:name="com.velvet.couplesgame.ui.wheel.LuckyWheelFragment"
+        android:label="@string/mode_wheel" />
+
+    <fragment
+        android:id="@+id/nav_couple_mines"
+        android:name="com.velvet.couplesgame.ui.minesweeper.CoupleMinesFragment"
+        android:label="@string/mode_minesweeper" />
+
+    <fragment
+        android:id="@+id/nav_draw_guess"
+        android:name="com.velvet.couplesgame.ui.drawguess.DrawGuessFragment"
+        android:label="@string/mode_draw_guess" />
+
+    <fragment
+        android:id="@+id/nav_consent"
+        android:name="com.velvet.couplesgame.ui.consent.ConsentFragment"
+        android:label="@string/nav_consent" />
+
+    <fragment
+        android:id="@+id/nav_deck"
+        android:name="com.velvet.couplesgame.ui.deck.DeckFragment"
+        android:label="@string/nav_deck" />
+
+    <fragment
+        android:id="@+id/nav_settings"
+        android:name="com.velvet.couplesgame.ui.settings.SettingsFragment"
+        android:label="@string/nav_settings" />
+</navigation>

@@ -1,0 +1,121 @@
+{
+  "words": [
+    {
+      "word": "ファーストキス",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "word": "キャンドルディナー",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "word": "手をつなぐ",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "word": "おうち映画館",
+      "tier": 1,
+      "tags": [
+        "indoor"
+      ]
+    },
+    {
+      "word": "夕暮れの海辺",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "word": "枕投げ",
+      "tier": 2,
+      "tags": [
+        "playful",
+        "indoor"
+      ]
+    },
+    {
+      "word": "秘密のラブレター",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "word": "スローダンス",
+      "tier": 2,
+      "tags": [
+        "playful",
+        "physical_light"
+      ]
+    },
+    {
+      "word": "ベッドで朝食",
+      "tier": 2,
+      "tags": [
+        "indoor"
+      ]
+    },
+    {
+      "word": "シャンパンで乾杯",
+      "tier": 2,
+      "tags": [
+        "alcohol"
+      ]
+    },
+    {
+      "word": "首筋へのキス",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "word": "肩マッサージ",
+      "tier": 3,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ]
+    },
+    {
+      "word": "深夜のバー",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "alcohol"
+      ]
+    },
+    {
+      "word": "彼氏のパーカー",
+      "tier": 3,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "word": "シルクの目隠し",
+      "tier": 4,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ]
+    },
+    {
+      "word": "秘密の待ち合わせ",
+      "tier": 4,
+      "tags": [
+        "roleplay"
+      ]
+    }
+  ]
+}

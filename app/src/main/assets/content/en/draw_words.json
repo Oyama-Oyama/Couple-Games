@@ -1,0 +1,121 @@
+{
+  "words": [
+    {
+      "word": "First Kiss",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "word": "Candlelight Dinner",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "word": "Holding Hands",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "word": "Movie Night",
+      "tier": 1,
+      "tags": [
+        "indoor"
+      ]
+    },
+    {
+      "word": "Sunset Beach",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "word": "Pillow Fight",
+      "tier": 2,
+      "tags": [
+        "playful",
+        "indoor"
+      ]
+    },
+    {
+      "word": "Secret Love Note",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "word": "Slow Dance",
+      "tier": 2,
+      "tags": [
+        "playful",
+        "physical_light"
+      ]
+    },
+    {
+      "word": "Breakfast in Bed",
+      "tier": 2,
+      "tags": [
+        "indoor"
+      ]
+    },
+    {
+      "word": "Champagne Toast",
+      "tier": 2,
+      "tags": [
+        "alcohol"
+      ]
+    },
+    {
+      "word": "Neck Kiss",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "word": "Shoulder Massage",
+      "tier": 3,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ]
+    },
+    {
+      "word": "Midnight Lounge",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "alcohol"
+      ]
+    },
+    {
+      "word": "Stolen Hoodie",
+      "tier": 3,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "word": "Silk Blindfold",
+      "tier": 4,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ]
+    },
+    {
+      "word": "Secret Rendezvous",
+      "tier": 4,
+      "tags": [
+        "roleplay"
+      ]
+    }
+  ]
+}

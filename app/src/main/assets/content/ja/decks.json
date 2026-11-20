@@ -1,0 +1,590 @@
+{
+  "decks": [
+    {
+      "id": "deck_spark",
+      "title": "イブニング・スパーク",
+      "subtitle": "静かなときめきと甘い駆け引き",
+      "tier": 1,
+      "premium": false,
+      "cards": [
+        {
+          "id": "spark_001",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "思わず抱き寄せたくなる、私の無意識な小さな仕草を1つ教えてください。"
+        },
+        {
+          "id": "spark_002",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "deep_talk",
+            "eye_contact",
+            "timed"
+          ],
+          "durationSec": 45,
+          "text": "45秒間、無言で目をそらさず見つめ合いましょう。先に目をそらした方が耳元で本音をささやきます。"
+        },
+        {
+          "id": "spark_003",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "「この人とは他の誰とも違う」と強く惹かれた瞬間はいつでしたか？"
+        },
+        {
+          "id": "spark_004",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "2人に似合うスローな曲を流し、指を絡めて最初の20秒だけそっと揺れましょう。"
+        },
+        {
+          "id": "spark_005",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "何気ない日常の中で、心がふっとほどける私との瞬間はどれですか？"
+        },
+        {
+          "id": "spark_006",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "今でも映画のワンシーンのように鮮やかに蘇る、2人で過ごした夜は？"
+        },
+        {
+          "id": "spark_007",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "2人の相性を3つの言葉で表して——相手がうなずいたら優しいキスを1つ。"
+        },
+        {
+          "id": "spark_008",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "疲れた夜、どんな触れ方やハグをされるといちばん力が抜けますか？"
+        },
+        {
+          "id": "playful_001",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "初めて出会った夜のつもりで30秒間アプローチしてみてください。合格かどうかは相手次第。"
+        },
+        {
+          "id": "playful_002",
+          "tier": 2,
+          "type": "TRUTH",
+          "tags": [
+            "playful",
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "出会った頃、照れくさくて言えなかった私への密かなときめきは？"
+        },
+        {
+          "id": "playful_003",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "physical_light",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "音楽なしで30秒スローダンス。腰に手を回し、おでこが触れそうな距離で笑わずに。"
+        },
+        {
+          "id": "playful_004",
+          "tier": 2,
+          "type": "CONNECTION",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "今夜だけの少し甘い呼び名を決めて、話すたびに優しい声で呼んでください。"
+        },
+        {
+          "id": "playful_005",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "落ち着いた低めの声で30秒間、今夜のパートナーの魅力を映画のように語ってください。"
+        },
+        {
+          "id": "playful_006",
+          "tier": 2,
+          "type": "TRUTH",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "今夜世界中の隠れ家バルコニーへ瞬間移動できるなら、どこで乾杯したい？"
+        },
+        {
+          "id": "playful_007",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "今夜の照明・選曲・ドリンクの主導権をすべてパートナーに委ねましょう。"
+        },
+        {
+          "id": "playful_008",
+          "tier": 2,
+          "type": "CONNECTION",
+          "tags": [
+            "deep_talk",
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "ずっと話しているのに未実現の大人デートを2つ挙げ、今夜1つ日程を約束しましょう。"
+        }
+      ]
+    },
+    {
+      "id": "deck_long_distance",
+      "title": "離れていても近くに",
+      "subtitle": "夜更けのささやきと再会の余韻",
+      "tier": 2,
+      "premium": false,
+      "cards": [
+        {
+          "id": "ld_001",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "目を閉じて次の再会を思い浮かべた時、最初の1秒目に浮かぶ光景は？"
+        },
+        {
+          "id": "ld_002",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "今でも胸が温かくなる保存済みメッセージを1つ、優しい声で読み上げましょう。"
+        },
+        {
+          "id": "ld_003",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "雨のホテルの窓辺からかける設定で、30秒間の艶やかな留守電メッセージを演じてください。"
+        },
+        {
+          "id": "ld_004",
+          "tier": 2,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "離れている夜、声・香り・笑い声の中でふいに恋しくなるのはどれですか？"
+        },
+        {
+          "id": "ld_005",
+          "tier": 2,
+          "type": "CONNECTION",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "次に会う24時間を「ゆっくりな朝・2人だけの午後・真夜中」の3幕で描きましょう。"
+        },
+        {
+          "id": "ld_006",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "最近ちょっと大胆なメッセージを打ちかけて、送らずに消したことはありますか？"
+        },
+        {
+          "id": "ld_007",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "roleplay",
+            "timed"
+          ],
+          "durationSec": 45,
+          "text": "静かなささやき声で45秒間、理想の週末ホテルステイを細部まで語りかけてください。"
+        },
+        {
+          "id": "ld_008",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "次に2人きりになってドアが閉まった瞬間、最初にしてほしいことは何ですか？"
+        }
+      ]
+    },
+    {
+      "id": "deck_after_dark",
+      "title": "アフターダーク",
+      "subtitle": "吐息の距離、じらしと濃密な余韻（VIP）",
+      "tier": 3,
+      "premium": true,
+      "cards": [
+        {
+          "id": "flirty_001",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "唇が触れない距離で吐息がかかるほど耳元に近づき、今夜あとで叶えたいことをそっとささやいてください。"
+        },
+        {
+          "id": "flirty_002",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk",
+            "physical_light"
+          ],
+          "durationSec": 0,
+          "text": "つい目が離せなくなり、触れたくなってしまう私の仕草や雰囲気はどれですか？"
+        },
+        {
+          "id": "flirty_003",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "45秒間ゆっくり肩と首筋をほぐしながら、相手の惹かれるところを3つ静かに伝えてください。"
+        },
+        {
+          "id": "flirty_004",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "eye_contact",
+            "physical_light",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "吐息を感じる距離で指を絡め、30秒間見つめ合い続けて——タイマーが鳴るまでキスはお預け。"
+        },
+        {
+          "id": "flirty_005",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "普通の夜を一瞬で艶やかな空気へ変えてしまう、私のさりげない合図は？"
+        },
+        {
+          "id": "flirty_006",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 30,
+          "text": "無言で目を合わせたまま、指先でパートナーの手首の内側と手のひらを30秒ゆっくりなぞりましょう。"
+        },
+        {
+          "id": "flirty_007",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "alcohol",
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "視線を外さずグラスを合わせて一口飲み、今夜胸に秘めている大胆な想いを1つ明かしてください。"
+        },
+        {
+          "id": "flirty_008",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "physical_light",
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "じわじわ高まる焦らしと、不意打ちのキス——どちらの方が心拍数が上がりますか？"
+        },
+        {
+          "id": "bold_001",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "blindfold",
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "60秒間パートナーに目を閉じてもらい、指先で首筋・鎖骨・手首をゆっくりたどりながら、止まるたびに感じた気持ちをささやいてもらいましょう。"
+        },
+        {
+          "id": "bold_002",
+          "tier": 4,
+          "type": "TRUTH",
+          "tags": [
+            "roleplay",
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "今夜、偽名で間接照明のホテルにチェックインするなら、どんなロールプレイをしてみたいですか？"
+        },
+        {
+          "id": "bold_003",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "45秒間パートナーは動かずに身を委ね、あなたは唇以外の場所へゆっくりキスを贈って——一番求めている場所の手前でそっと止めて。"
+        },
+        {
+          "id": "bold_004",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "roleplay",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "深夜のバーで視線が合った見知らぬ2人を演じ、60秒以内に相手を誘い出してください。"
+        },
+        {
+          "id": "bold_005",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "eye_contact",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "唇が触れそうな1センチ手前で鼓動5回分だけ静止し、そこから先は相手のリードに委ねましょう。"
+        },
+        {
+          "id": "bold_006",
+          "tier": 4,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk",
+            "physical_light"
+          ],
+          "durationSec": 0,
+          "text": "照明・音楽・香り・ペースまで、あなたが一番とろける理想の夜を描いてみてください。"
+        },
+        {
+          "id": "bold_007",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "blindfold",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "目を閉じたまま45秒間、耳元でハミングするメロディに合わせて密着スローダンスを。"
+        },
+        {
+          "id": "bold_008",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "「ベルベット特権」獲得：今夜あとで叶えてほしいロマンチックな願いを耳元でささやき、相手はスローキスで約束を交わします。"
+        }
+      ]
+    },
+    {
+      "id": "deck_desire_match",
+      "title": "ブラインドマッチ",
+      "subtitle": "お互いにYESを選んだ特別な願いだけが公開されます",
+      "tier": 2,
+      "premium": false,
+      "cards": [
+        {
+          "id": "dm_001",
+          "tier": 1,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "deep_talk",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "スマホをしまって、キャンドルとお気に入りの曲だけで過ごす静かな夜のおうちディナー。"
+        },
+        {
+          "id": "dm_002",
+          "tier": 1,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "行き先も演出もすべて1人に委ねる、秘密のミステリーデートナイト。"
+        },
+        {
+          "id": "dm_003",
+          "tier": 2,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "時間を気にせず、温かいオイルで10分ずつじっくり背中と肩のマッサージ交換。"
+        },
+        {
+          "id": "dm_004",
+          "tier": 2,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "間接照明だけの部屋で、ルームウェアのまま裸足で踊る真夜中のスローダンス。"
+        },
+        {
+          "id": "dm_005",
+          "tier": 2,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "惹かれている理由を手紙に書いて封をし、ベッドサイドの灯りで声に出して読み合う。"
+        },
+        {
+          "id": "dm_006",
+          "tier": 3,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "physical_light",
+            "eye_contact",
+            "timed"
+          ],
+          "durationSec": 60,
+          "text": "10秒ごとに少し離れて吐息を見つめ合う、60秒スローモーションキスチャレンジ。"
+        },
+        {
+          "id": "dm_007",
+          "tier": 3,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "roleplay",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "ドレスアップしてバーで別々に待ち合わせ、初対面の2人として惹かれ合うロールプレイ。"
+        },
+        {
+          "id": "dm_008",
+          "tier": 3,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "alcohol",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "お互いのためにオリジナルカクテルを作り、1口ごとに大胆な本音を1つずつ打ち明ける。"
+        },
+        {
+          "id": "dm_009",
+          "tier": 4,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "blindfold",
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "シルクの目隠し感覚ゲーム：優しいタッチ・香り・甘い味を3つ当て合う。"
+        },
+        {
+          "id": "dm_010",
+          "tier": 4,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "15分間「今夜の監督」タイム：1人が耳元で優しいリクエストをささやき、相手が応える。"
+        }
+      ]
+    }
+  ]
+}

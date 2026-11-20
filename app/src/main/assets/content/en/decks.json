@@ -1,0 +1,590 @@
+{
+  "decks": [
+    {
+      "id": "deck_spark",
+      "title": "Evening Spark",
+      "subtitle": "Warm magnetism, lingering glances & playful tension",
+      "tier": 1,
+      "premium": false,
+      "cards": [
+        {
+          "id": "spark_001",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "Tell me one tiny, unintentional thing I do that still makes you want to pull me closer."
+        },
+        {
+          "id": "spark_002",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "deep_talk",
+            "eye_contact",
+            "timed"
+          ],
+          "durationSec": 45,
+          "text": "Hold steady eye contact in complete silence for 45 seconds—no looking away. Whoever breaks first owes a whispered confession."
+        },
+        {
+          "id": "spark_003",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "What was the exact moment you knew the pull between us was different from anyone else?"
+        },
+        {
+          "id": "spark_004",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "Put on a slow song that feels like us—interlace your fingers and sway together for the first 20 seconds."
+        },
+        {
+          "id": "spark_005",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "What quiet everyday moment with me makes your pulse soften the second it happens?"
+        },
+        {
+          "id": "spark_006",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "Which night we spent together still replays in your head like a favorite midnight scene?"
+        },
+        {
+          "id": "spark_007",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "Describe the chemistry between us in three words—then let your partner kiss you if they agree."
+        },
+        {
+          "id": "spark_008",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "When you're exhausted at the end of a long day, what touch or gesture from me melts your tension fastest?"
+        },
+        {
+          "id": "playful_001",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "Flirt with your partner like it's the night we first met—30 seconds on the clock, and they decide if you won them over."
+        },
+        {
+          "id": "playful_002",
+          "tier": 2,
+          "type": "TRUTH",
+          "tags": [
+            "playful",
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "What secret first impression did you have of me that you were too shy to admit back then?"
+        },
+        {
+          "id": "playful_003",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "physical_light",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "Pull your partner in for a 30-second slow dance with no music—hands stay on their waist, foreheads almost touching, no laughing allowed."
+        },
+        {
+          "id": "playful_004",
+          "tier": 2,
+          "type": "CONNECTION",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "Invent a teasing secret nickname for your partner—you have to whisper it every time you speak to them tonight."
+        },
+        {
+          "id": "playful_005",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "In a low, cinematic voice, spend 30 seconds describing your partner as the irresistible lead of a late-night romance."
+        },
+        {
+          "id": "playful_006",
+          "tier": 2,
+          "type": "TRUTH",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "If we could vanish to a hidden hotel balcony anywhere in the world tonight, where are we pouring our drinks?"
+        },
+        {
+          "id": "playful_007",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "Hand over tonight's soundtrack and drink order to your partner—no vetoes allowed."
+        },
+        {
+          "id": "playful_008",
+          "tier": 2,
+          "type": "CONNECTION",
+          "tags": [
+            "deep_talk",
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "Name two bold date nights we've only talked about—pick one tonight and promise a date on the calendar."
+        }
+      ]
+    },
+    {
+      "id": "deck_long_distance",
+      "title": "Close Across Miles",
+      "subtitle": "Late-night whispers, longing & reunion sparks",
+      "tier": 2,
+      "premium": false,
+      "cards": [
+        {
+          "id": "ld_001",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "Close your eyes and picture our next reunion—what is the very first second you see?"
+        },
+        {
+          "id": "ld_002",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "Read aloud a saved text or note from me that still gives you butterflies."
+        },
+        {
+          "id": "ld_003",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "Leave a 30-second low-voiced midnight voicemail as if you're calling from a rain-soaked hotel room."
+        },
+        {
+          "id": "ld_004",
+          "tier": 2,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "When we're apart, which tiny sensory detail about me—my voice, scent, or laugh—hits you out of nowhere?"
+        },
+        {
+          "id": "ld_005",
+          "tier": 2,
+          "type": "CONNECTION",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "Script our next 24 hours together in three scenes: slow morning, stolen afternoon, and after midnight."
+        },
+        {
+          "id": "ld_006",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "What is one lingering, daring text you typed out to me recently—then deleted before hitting send?"
+        },
+        {
+          "id": "ld_007",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "roleplay",
+            "timed"
+          ],
+          "durationSec": 45,
+          "text": "Drop your voice to a quiet whisper and paint our dream weekend getaway for 45 seconds—slowly, detail by detail."
+        },
+        {
+          "id": "ld_008",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "The moment the door clicks shut behind us next time we meet, what do you want me to do first?"
+        }
+      ]
+    },
+    {
+      "id": "deck_after_dark",
+      "title": "After Dark",
+      "subtitle": "Slow tension, breathless pauses & velvet dares (VIP)",
+      "tier": 3,
+      "premium": true,
+      "cards": [
+        {
+          "id": "flirty_001",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "Lean in until your breath brushes their ear—without touching—and whisper the exact thing you want them to do to you later tonight."
+        },
+        {
+          "id": "flirty_002",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk",
+            "physical_light"
+          ],
+          "durationSec": 0,
+          "text": "What look, scent, or small movement of mine makes it impossible for you to keep your hands to yourself?"
+        },
+        {
+          "id": "flirty_003",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "Let your hands linger on your partner's neck and shoulders for 45 seconds, slowly naming three things that draw you to them."
+        },
+        {
+          "id": "flirty_004",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "eye_contact",
+            "physical_light",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "Move close enough to feel each other's breath for 30 seconds—interlace your fingers, hold eye contact, and resist kissing until the timer ends."
+        },
+        {
+          "id": "flirty_005",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "What subtle cue from me instantly shifts an ordinary night into something electric between us?"
+        },
+        {
+          "id": "flirty_006",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 30,
+          "text": "Without saying a word, trace the inside of your partner's wrist and palm with one fingertip for 30 seconds while watching their eyes."
+        },
+        {
+          "id": "flirty_007",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "alcohol",
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "Clink glasses without breaking eye contact, take a slow sip, and admit a bold thought you've been hiding tonight."
+        },
+        {
+          "id": "flirty_008",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "physical_light",
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "Do you melt faster for slow, agonizing anticipation or an unexpected kiss that catches you off guard?"
+        },
+        {
+          "id": "bold_001",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "blindfold",
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "Have your partner close their eyes and surrender the lead for 60 seconds: glide your fingertips along their collarbone, neck, or wrist and let them whisper how each pause feels."
+        },
+        {
+          "id": "bold_002",
+          "tier": 4,
+          "type": "TRUTH",
+          "tags": [
+            "roleplay",
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "If we checked into a velvet-lit boutique hotel under fake names tonight, what playful roles would we step into?"
+        },
+        {
+          "id": "bold_003",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "For 45 seconds, your partner isn't allowed to move a muscle while you leave slow, lingering kisses anywhere except their lips—stopping just short of where they want you most."
+        },
+        {
+          "id": "bold_004",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "roleplay",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "Play strangers locked in eye contact across a midnight cocktail bar—you have 60 seconds to cross the room and convince them to leave with you."
+        },
+        {
+          "id": "bold_005",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "eye_contact",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "Lean in until your lips are a whisper apart, freeze for five slow heartbeats, then let your partner decide how the kiss begins."
+        },
+        {
+          "id": "bold_006",
+          "tier": 4,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk",
+            "physical_light"
+          ],
+          "durationSec": 0,
+          "text": "Paint your ideal late-night atmosphere—lighting, music, pace, and the exact way you want to be pulled close."
+        },
+        {
+          "id": "bold_007",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "blindfold",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "Eyes closed for 45 seconds: guide your partner's hands around you and pull them into a breathless slow sway to a tune only you hum."
+        },
+        {
+          "id": "bold_008",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "Claim a Velvet Privilege: whisper one bold, romantic wish for later tonight—your partner seals the promise with a slow kiss."
+        }
+      ]
+    },
+    {
+      "id": "deck_desire_match",
+      "title": "Desire Match",
+      "subtitle": "Swipe blindly — only ideas you BOTH crave are revealed",
+      "tier": 2,
+      "premium": false,
+      "cards": [
+        {
+          "id": "dm_001",
+          "tier": 1,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "deep_talk",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "Phones locked away, candlelight dimmed low, slow playlist, and a late dinner made just for two."
+        },
+        {
+          "id": "dm_002",
+          "tier": 1,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "A mystery date night where one partner plans every stop and the other simply surrenders to the surprise."
+        },
+        {
+          "id": "dm_003",
+          "tier": 2,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "Unrushed 10-minute warm oil shoulder and back massages—no phones, no rush, just slow hands."
+        },
+        {
+          "id": "dm_004",
+          "tier": 2,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "Dim every lamp in the living room and slow dance barefoot in loungewear to midnight jazz."
+        },
+        {
+          "id": "dm_005",
+          "tier": 2,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "Write sealed confession notes about what draws you to each other and read them softly by bedside light."
+        },
+        {
+          "id": "dm_006",
+          "tier": 3,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "physical_light",
+            "eye_contact",
+            "timed"
+          ],
+          "durationSec": 60,
+          "text": "A 60-second slow-motion kiss tease—pull back an inch every 10 seconds to build the tension."
+        },
+        {
+          "id": "dm_007",
+          "tier": 3,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "roleplay",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "Dress to impress, meet separately at a cocktail lounge, and flirt like strangers who can't resist each other."
+        },
+        {
+          "id": "dm_008",
+          "tier": 3,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "alcohol",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "Mix signature midnight cocktails for each other—every sip unlocks a bolder truth."
+        },
+        {
+          "id": "dm_009",
+          "tier": 4,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "blindfold",
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "Silk blindfold sensory tease: guess three slow touches, scents, or sweet tastes chosen by your partner."
+        },
+        {
+          "id": "dm_010",
+          "tier": 4,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "15 minutes as 'Tonight's Director': one partner whispers gentle, teasing requests while the other gladly follows."
+        }
+      ]
+    }
+  ]
+}

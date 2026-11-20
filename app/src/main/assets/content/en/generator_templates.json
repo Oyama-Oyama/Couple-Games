@@ -1,0 +1,139 @@
+{
+  "templates": [
+    {
+      "id": "gen_spark_01",
+      "tier": 1,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "Recall a quiet moment from {timeframe} and tell your partner why it still feels {feeling}."
+    },
+    {
+      "id": "gen_spark_02",
+      "tier": 1,
+      "type": "CONNECTION",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "Hold your partner's hands and share two quiet reasons {timeframe} pulled you even closer."
+    },
+    {
+      "id": "gen_playful_01",
+      "tier": 2,
+      "type": "DARE",
+      "tags": [
+        "playful",
+        "timed"
+      ],
+      "durationSec": 30,
+      "pattern": "Set the scene for our dream {date_setting} in {duration} seconds without speaking—if they catch the mood, claim a slow kiss on the cheek."
+    },
+    {
+      "id": "gen_playful_02",
+      "tier": 2,
+      "type": "TRUTH",
+      "tags": [
+        "playful"
+      ],
+      "durationSec": 0,
+      "pattern": "If we slipped away to {date_setting} tonight, what song would you play as the lights dim?"
+    },
+    {
+      "id": "gen_flirty_01",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "{action_gentle} your partner's {safe_zone} for {duration} seconds while {constraint}."
+    },
+    {
+      "id": "gen_flirty_02",
+      "tier": 3,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "physical_light"
+      ],
+      "durationSec": 0,
+      "pattern": "Whisper how you'd set the pace at {date_setting} so the air turns {feeling} from the very first glance."
+    },
+    {
+      "id": "gen_bold_01",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "timed"
+      ],
+      "durationSec": 60,
+      "pattern": "Have your partner close their eyes and stay completely still while you {action_gentle} their {safe_zone} for {duration} seconds—no rushing."
+    },
+    {
+      "id": "gen_bold_02",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "roleplay",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Pretend we're strangers locking eyes at {date_setting}—tease and win them over for {duration} seconds while {constraint}."
+    }
+  ],
+  "slots": {
+    "timeframe": [
+      "this past month",
+      "our first summer together",
+      "a late-night drive",
+      "a slow Sunday morning",
+      "a rain-soaked evening indoors"
+    ],
+    "feeling": [
+      "electric",
+      "unforgettable",
+      "intoxicating",
+      "warm and magnetic",
+      "impossibly close"
+    ],
+    "date_setting": [
+      "a candlelit rooftop lounge",
+      "a midnight seaside balcony",
+      "a firelit mountain cabin",
+      "a velvet-lit boutique hotel bar",
+      "a hidden late-night jazz room"
+    ],
+    "action_gentle": [
+      "Slowly trace",
+      "Leave lingering kisses along",
+      "Warmly massage",
+      "Feather-light brush your fingertips across"
+    ],
+    "safe_zone": [
+      "wrist",
+      "neck",
+      "shoulder",
+      "collarbone",
+      "cheek"
+    ],
+    "duration": [
+      "30",
+      "45",
+      "60"
+    ],
+    "constraint": [
+      "holding steady eye contact",
+      "staying completely silent",
+      "whispering what you adore about them",
+      "keeping your fingers laced together"
+    ]
+  }
+}

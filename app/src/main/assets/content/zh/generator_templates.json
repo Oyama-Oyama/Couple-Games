@@ -1,0 +1,139 @@
+{
+  "templates": [
+    {
+      "id": "gen_spark_01",
+      "tier": 1,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "回想一段{timeframe}关于我们的私密记忆，告诉伴侣为什么它至今仍让你觉得{feeling}。"
+    },
+    {
+      "id": "gen_spark_02",
+      "tier": 1,
+      "type": "CONNECTION",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "握住伴侣的双手，低声说出在{timeframe}里让你更深陷的两个瞬间。"
+    },
+    {
+      "id": "gen_playful_01",
+      "tier": 2,
+      "type": "DARE",
+      "tags": [
+        "playful",
+        "timed"
+      ],
+      "durationSec": 30,
+      "pattern": "不准出声，用 {duration} 秒把我们理想中的{date_setting}演出来——伴侣猜中氛围就索取一个脸颊慢吻。"
+    },
+    {
+      "id": "gen_playful_02",
+      "tier": 2,
+      "type": "TRUTH",
+      "tags": [
+        "playful"
+      ],
+      "durationSec": 0,
+      "pattern": "如果今晚我们悄悄逃到{date_setting}，灯光暗下来时你最想放哪一首歌？"
+    },
+    {
+      "id": "gen_flirty_01",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "在{constraint}的前提下，用最慢的节奏{action_gentle}伴侣的{safe_zone}，持续 {duration} 秒。"
+    },
+    {
+      "id": "gen_flirty_02",
+      "tier": 3,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "physical_light"
+      ],
+      "durationSec": 0,
+      "pattern": "轻声描述你会如何在{date_setting}掌控节奏，让空气从第一眼就变得{feeling}。"
+    },
+    {
+      "id": "gen_bold_01",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "timed"
+      ],
+      "durationSec": 60,
+      "pattern": "请伴侣闭上眼睛保持不动，由你放慢呼吸{action_gentle}对方的{safe_zone}，持续 {duration} 秒。"
+    },
+    {
+      "id": "gen_bold_02",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "roleplay",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "假装我们在{date_setting}初次四目相对，在{constraint}的同时用 {duration} 秒把对方彻底撩动。"
+    }
+  ],
+  "slots": {
+    "timeframe": [
+      "最近一个月里",
+      "我们刚心动的那个夏天",
+      "某次深夜兜风途中",
+      "某个慵懒的周末清晨",
+      "某个下着雨的微醺夜晚"
+    ],
+    "feeling": [
+      "心跳加速",
+      "念念不忘",
+      "微醺沉醉",
+      "无比着迷",
+      "暧昧难忘"
+    ],
+    "date_setting": [
+      "烛光摇曳的露台酒廊",
+      "午夜海景阳台",
+      "壁炉微暖的山间木屋",
+      "丝绒灯影的精品酒店清吧",
+      "隐秘的深夜爵士吧"
+    ],
+    "action_gentle": [
+      "指尖缓慢游走于",
+      "留下克制而缠绵的轻吻于",
+      "温热地轻柔按摩",
+      "羽毛般轻拂"
+    ],
+    "safe_zone": [
+      "手腕内侧",
+      "颈侧",
+      "肩头",
+      "锁骨",
+      "耳后"
+    ],
+    "duration": [
+      "30",
+      "45",
+      "60"
+    ],
+    "constraint": [
+      "眼神始终不躲闪",
+      "全程保持静默",
+      "贴近耳边低声夸赞对方",
+      "紧紧十指相扣"
+    ]
+  }
+}

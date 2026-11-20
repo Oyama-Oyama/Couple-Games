@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 1. Velvet Noir (Classic Wine & Champagne Gold) -->
+    <color name="velvet_bg">#121013</color>
+    <color name="velvet_surface">#1D1820</color>
+    <color name="velvet_surface_elevated">#28212C</color>
+    <color name="velvet_crimson">#8C1D40</color>
+    <color name="velvet_crimson_light">#B82E58</color>
+    <color name="velvet_gold">#D4AF37</color>
+    <color name="velvet_stroke">#40D4AF37</color>
+    <color name="velvet_ivory">#F5F0EB</color>
+    <color name="velvet_muted">#A69BA8</color>
+
+    <!-- 2. Blush Champagne (Intimate Rose Cocoa & Rosé Mist) -->
+    <color name="blush_bg">#1A1116</color>
+    <color name="blush_surface">#271A21</color>
+    <color name="blush_surface_elevated">#34222C</color>
+    <color name="blush_primary">#C44569</color>
+    <color name="blush_accent">#F3C6B8</color>
+    <color name="blush_stroke">#48F3C6B8</color>
+    <color name="blush_text">#FBF3F5</color>
+    <color name="blush_muted">#C3A6B2</color>
+
+    <!-- 3. Midnight Plum (Sultry Velvet Plum & Lavender Glow) -->
+    <color name="plum_bg">#120E1D</color>
+    <color name="plum_surface">#1D162E</color>
+    <color name="plum_surface_elevated">#292040</color>
+    <color name="plum_primary">#7D2E68</color>
+    <color name="plum_accent">#DCA8F0</color>
+    <color name="plum_stroke">#48DCA8F0</color>
+    <color name="plum_text">#F5EFFC</color>
+    <color name="plum_muted">#ABA0C2</color>
+
+    <!-- 4. Candlelight Amber (Warm Espresso, Terracotta Rouge & Honey Gold) -->
+    <color name="amber_bg">#17110E</color>
+    <color name="amber_surface">#241A15</color>
+    <color name="amber_surface_elevated">#32241D</color>
+    <color name="amber_primary">#B84A27</color>
+    <color name="amber_accent">#EAB676</color>
+    <color name="amber_stroke">#48EAB676</color>
+    <color name="amber_text">#FBF3EA</color>
+    <color name="amber_muted">#BDA896</color>
+
+    <!-- 5. Crimson Neon (After-Hours Indigo, Magenta Silk & Electric Violet) -->
+    <color name="neon_bg">#0D0C18</color>
+    <color name="neon_surface">#17152B</color>
+    <color name="neon_surface_elevated">#231F3F</color>
+    <color name="neon_primary">#D91E5B</color>
+    <color name="neon_accent">#C77DFF</color>
+    <color name="neon_stroke">#55C77DFF</color>
+    <color name="neon_text">#F8F2FF</color>
+    <color name="neon_muted">#A49EC4</color>
+
+    <!-- Consent Boundary Status Colors -->
+    <color name="status_yes">#2E7D5B</color>
+    <color name="status_soft">#B7791F</color>
+    <color name="status_hard_no">#9B2C2C</color>
+</resources>

@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">丝绒约会夜</string>
+    <string name="nav_home">大厅</string>
+    <string name="nav_consent">边界</string>
+    <string name="nav_deck">卡组</string>
+    <string name="nav_settings">我的</string>
+    <string name="cd_back">返回</string>
+
+    <!-- Header, Onboarding & Safe Pause -->
+    <string name="home_subtitle">微醺私密双人桌游 · 100% 纯离线</string>
+    <string name="home_couple_pill">%1$s &amp; %2$s ✎</string>
+    <string name="home_vip_banner">♛ 解锁午夜升温题库与 VIP 氛围主题</string>
+    <string name="btn_safe_pause">⏸ 暂停</string>
+    <string name="safe_pause_title">慢下来，深呼吸</string>
+    <string name="safe_pause_message">不需要任何勉强。你们的专属暗号是「%1$s」——随时可以跳过当前动作、调整舒适边界，或先休息片刻。</string>
+    <string name="safe_pause_resume">继续今晚</string>
+    <string name="safe_pause_boundaries">调整边界</string>
+    <string name="safe_pause_exit">退出当前模式</string>
+
+    <string name="onboarding_title">开启今晚的微醺氛围</string>
+    <string name="onboarding_step1_desc">写下你们的专属称呼，整场游戏将只属于你们两个人，所有数据仅保存在本机。</string>
+    <string name="onboarding_partner_1">伴侣 1</string>
+    <string name="onboarding_partner_2">伴侣 2</string>
+    <string name="onboarding_step2_promise">• 100% 纯离线 —— 无需账号、零云端上传\n• 零广告打扰 —— 沉浸享受私密夜晚\n• 同意优先 —— 任一方勾选“禁止”的边界将在全模式静默屏蔽</string>
+    <string name="onboarding_safeword_label">你们的温柔安全词（可选）</string>
+    <string name="onboarding_back">上一步</string>
+    <string name="onboarding_continue">继续</string>
+    <string name="onboarding_begin">开始今夜</string>
+
+    <!-- Heat Tiers & Localized Metadata -->
+    <string name="label_intensity">今晚升温档位</string>
+    <string name="tier_short_1">微醺初燃</string>
+    <string name="tier_short_2">心跳试探</string>
+    <string name="tier_short_3">暧昧拉扯</string>
+    <string name="tier_short_4">午夜失控</string>
+    <string name="tier_name_1">微醺初燃</string>
+    <string name="tier_name_2">心跳试探</string>
+    <string name="tier_name_3">暧昧拉扯</string>
+    <string name="tier_name_4">午夜失控</string>
+
+    <string name="task_type_truth">耳语真心话</string>
+    <string name="task_type_dare">心动大冒险</string>
+    <string name="task_type_connection">亲密时刻</string>
+    <string name="task_type_desire">秘密幻想</string>
+    <string name="badge_velvet_spark">灵感加戏</string>
+    <string name="badge_custom_card">专属自建</string>
+    <string name="badge_favorite_card">红心收藏</string>
+    <string name="badge_mutual_desire">双向默契</string>
+
+    <!-- Localized Consent Tags -->
+    <string name="tag_deep_talk">深夜走心</string>
+    <string name="tag_playful">调皮试探</string>
+    <string name="tag_eye_contact">眼神对视</string>
+    <string name="tag_physical_light">轻柔触碰</string>
+    <string name="tag_blindfold">闭眼 / 蒙眼</string>
+    <string name="tag_roleplay">暧昧角色扮演</string>
+    <string name="tag_public_space">户外 / 公共场合</string>
+    <string name="tag_alcohol">微醺小酌</string>
+    <string name="tag_indoor">居家私密</string>
+    <string name="tag_timed">限时挑战</string>
+    <string name="tag_custom">自定义</string>
+
+    <!-- Themes -->
+    <string name="label_theme">夜色氛围主题</string>
+    <string name="theme_badge_active">使用中</string>
+    <string name="theme_badge_vip">VIP</string>
+    <string name="theme_velvet_noir">暗夜丝绒</string>
+    <string name="theme_velvet_noir_desc">勃艮第红 · 香槟金</string>
+    <string name="theme_blush_champagne">微醺玫瑰</string>
+    <string name="theme_blush_champagne_desc">雾面玫粉 · 柔雾暧昧</string>
+    <string name="theme_midnight_plum">午夜魅紫</string>
+    <string name="theme_midnight_plum_desc">暗梅魅紫 · 卧室夜灯</string>
+    <string name="theme_candlelight_amber">烛光琥珀</string>
+    <string name="theme_candlelight_amber_desc">暖光红陶 · 香薰微醺</string>
+    <string name="theme_neon_silk">绯夜霓虹</string>
+    <string name="theme_neon_silk_desc">绯红品红 · 迷离霓虹</string>
+
+    <!-- Game Mode Cards -->
+    <string name="label_game_modes">选择今晚的玩法</string>
+    <string name="mode_chess_tag">招牌桌游 · 36 格渐进升温</string>
+    <string name="mode_chess">♛ 情侣飞行棋</string>
+    <string name="mode_chess_desc">掷骰子从微醺一路升温至午夜挑战，率先抵达终点赢取伴侣承诺的大奖。</string>
+    <string name="mode_blind_match">♥ 双向盲选配对</string>
+    <string name="mode_blind_match_desc">各自秘密滑动，只揭晓彼此同时心动的想法。</string>
+    <string name="mode_wheel">◎ 幸运转盘</string>
+    <string name="mode_wheel_desc">转动丝绒轮盘，把下一秒交给心跳与运气。</string>
+    <string name="mode_minesweeper">♥ 双人红心扫雷</string>
+    <string name="mode_minesweeper_desc">步步试探安全格，踩中隐藏红心立刻升温惩罚。</string>
+    <string name="mode_draw_guess">✎ 你画我猜</string>
+    <string name="mode_draw_guess_desc">60 秒浪漫词条画板，猜不出就接受心动小惩罚。</string>
+
+    <!-- Quick Tonight Spark Card -->
+    <string name="home_quick_draw_label">今晚速翻一张</string>
+    <string name="label_procedural_mix">自动混入离线灵感惊喜卡</string>
+    <string name="card_placeholder_hint">调暗房间灯光，倒一杯微醺小酒，翻开今晚的第一张牌。</string>
+    <string name="btn_draw_card">翻开下一张</string>
+    <string name="btn_skip_card">跳过（剩 %1$d 次）</string>
+    <string name="btn_start_timer">开启 %1$d 秒倒计时</string>
+    <string name="btn_favorite">红心收藏</string>
+    <string name="btn_favorited">已收藏 ♥</string>
+    <string name="label_language">界面与题库语言</string>
+
+    <!-- Consent & Boundaries -->
+    <string name="consent_title">同意优先 · 舒适边界</string>
+    <string name="consent_mode_together">一起设定</string>
+    <string name="consent_mode_private">🔒 隐私轮流填</string>
+    <string name="consent_desc">点击任意一方切换 接受 / 试探 / 禁止。只要有一方选择“禁止”，所有模式都会静默过滤该主题。</string>
+    <string name="consent_private_prompt">%1$s，请私密勾选你的真实舒适度，伴侣不会看到你的单独选择。</string>
+    <string name="consent_pass_to_partner">填好了 — 交给 %1$s</string>
+    <string name="consent_finish_private">静默锁定今晚边界</string>
+    <string name="consent_private_done_hint">你们的舒适边界已静默生效，全 5 大玩法实时遵守。</string>
+    <string name="consent_private_shield_title">今晚已静默守护</string>
+    <string name="consent_private_summary_text">已静默屏蔽 %1$d 项绝对禁止主题\n已标记 %2$d 项温柔试探主题\n\n不会公开是谁否决了具体哪一项。</string>
+    <string name="consent_review_together">查看共同列表</string>
+    <string name="status_yes">接受</string>
+    <string name="status_soft">试探</string>
+    <string name="status_hard_no">禁止</string>
+
+    <!-- Decks & Favorites -->
+    <string name="deck_title">专属卡组与收藏</string>
+    <string name="deck_tab_custom">自定义卡牌</string>
+    <string name="deck_tab_favorites">红心收藏夹</string>
+    <string name="deck_favorites_empty">遇到让你们心跳加速的卡牌时点一下收藏，就能在这里随时重温。</string>
+    <string name="hint_custom_prompt">偷偷塞进一张只属于你们的真心话或大冒险...</string>
+    <string name="btn_add_custom_card">加入今晚卡组</string>
+    <string name="msg_card_added">已私密保存到本机</string>
+    <string name="msg_no_skips">本局跳过次数已用完</string>
+    <string name="msg_no_eligible_cards">当前热度与边界下暂无可翻开的卡牌</string>
+    <string name="timer_done">时间到 —— 刚才心跳加速了吗？</string>
+
+    <!-- Pass Phone Shield -->
+    <string name="pass_phone_title">请传递手机</string>
+    <string name="pass_phone_message">请先将手机交给 %1$s，再点击揭晓内容。</string>
+    <string name="btn_ready">我是 %1$s — 点击查看</string>
+
+    <!-- Blind Match -->
+    <string name="blind_match_title">双向盲选配对</string>
+    <string name="blind_match_subtitle">双方各自私密滑动，只有两人都向右滑“心动”的项目才会被揭晓。</string>
+    <string name="blind_match_turn_banner">%1$s 正在盲选 · 第 %2$d / %3$d 张</string>
+    <string name="blind_match_swipe_hint">← 左滑略过   ·   右滑心动 →</string>
+    <string name="blind_match_stamp_yes">心动 ♥</string>
+    <string name="blind_match_stamp_pass">略过</string>
+    <string name="btn_swipe_pass">✕ 略过</string>
+    <string name="btn_swipe_yes">♥ 心动</string>
+    <string name="blind_match_reveal_count">共解锁 %1$d 项双向心动！</string>
+    <string name="blind_match_no_matches">这一轮暂未撞出共同心动，试试放宽边界或再滑一轮。</string>
+    <string name="btn_play_board_with_matches">带入情侣飞行棋立即开玩</string>
+    <string name="btn_restart_blind_match">重新盲选一轮</string>
+
+    <!-- Couple Board -->
+    <string name="board_turn_indicator">轮到 %1$s 行动</string>
+    <string name="board_player_pos">%1$s · 第 %2$d/%3$d 格</string>
+    <string name="btn_rewards_short">♛ 大奖</string>
+    <string name="board_ready_hint">掷骰子从微醺一路升温至午夜挑战，踩中 ♥ 格优先触发你们的双向默契！</string>
+    <string name="btn_roll_dice">掷骰子前进</string>
+    <string name="board_rolling_status">%1$s 正在掷骰子...</string>
+    <string name="board_rolled_status">%1$s 掷出了 %2$d 点！</string>
+    <string name="board_event_boost">心跳加速！顺势再进 2 格。</string>
+    <string name="board_event_back">暧昧拉扯！俏皮退后 2 格。</string>
+    <string name="board_event_swap">命运互换！你们交换了棋盘位置。</string>
+    <string name="board_event_extra_roll">幸运眷顾！完成本题后可再掷一次。</string>
+    <string name="board_event_desire_wildcard">♥ 默契惊喜格！抽中了一项你们彼此都心动的心愿。</string>
+    <string name="btn_partner_approved">伴侣满意过关 ✓</string>
+    <string name="btn_partner_redo">退后 1 格</string>
+    <string name="board_rewards_title">设定终点大奖</string>
+    <string name="board_reward_named_label">%1$s 获胜后的专属奖励</string>
+    <string name="board_rewards_saved">终极大奖已更新</string>
+    <string name="board_victory_title">♛ %1$s 率先抵达终点！</string>
+    <string name="board_victory_message">今晚解锁的终极大奖：\n\n%1$s</string>
+    <string name="btn_play_again">再玩一局</string>
+
+    <!-- Lucky Wheel -->
+    <string name="wheel_title">幸运转盘</string>
+    <string name="wheel_mode_classic">微醺混合</string>
+    <string name="wheel_mode_desire">默契池 ♥</string>
+    <string name="wheel_mode_custom">自定义</string>
+    <string name="wheel_slice_truth">真心话</string>
+    <string name="wheel_slice_playful">试探</string>
+    <string name="wheel_slice_flirty">暧昧</string>
+    <string name="wheel_slice_bold">午夜</string>
+    <string name="wheel_slice_desire">♥ 默契</string>
+    <string name="wheel_slice_ai">✦ 灵感</string>
+    <string name="wheel_custom_hint">添加一条专属转盘选项（如：10分钟肩颈按摩）...</string>
+    <string name="wheel_custom_seed_1">10分钟肩背按摩</string>
+    <string name="wheel_custom_seed_2">决定今晚气氛歌单</string>
+    <string name="wheel_custom_seed_3">慢动作缠绵一吻</string>
+    <string name="wheel_custom_seed_4">特调微醺饮品</string>
+    <string name="wheel_custom_max_hint">转盘最多支持 10 个扇区</string>
+    <string name="wheel_custom_count">已装填 %1$d 个自定义扇区，轻触即可旋转！</string>
+    <string name="wheel_desire_loaded">已将你们的 %1$d 项双向心动装入转盘！</string>
+    <string name="wheel_no_desire_fallback">先去玩一轮双向盲选吧，当前暂用微醺混合轮盘。</string>
+    <string name="wheel_ready_hint">轻触转盘或点击下方按钮，交给命运决定下一秒。</string>
+    <string name="wheel_spinning">丝绒转盘旋转中...</string>
+    <string name="wheel_landed_status">命运停在了：%1$s</string>
+    <string name="btn_spin_wheel">转动幸运转盘</string>
+    <string name="btn_wheel_pass_turn">换人继续</string>
+
+    <!-- Couple Mines -->
+    <string name="mines_title">双人红心扫雷</string>
+    <string name="mines_player_score">%1$s · 安全 %2$d · ♥ %3$d</string>
+    <string name="mines_ready_hint">点按揭开安全格，长按插旗 ⚑。每颗隐藏的 ♥ 都会点燃一次升温挑战！</string>
+    <string name="mines_safe_status">平安度过！翻开 %1$d 格。</string>
+    <string name="mines_hit_status">♥ %1$s 触碰了红心雷 —— 接受心动挑战！</string>
+    <string name="mines_badge_label">♥ 红心挑战</string>
+    <string name="mines_cleared_title">♛ 雷区清空！%1$s 领先</string>
+    <string name="mines_cleared_summary">%1$s：翻开 %2$d 安全格（触发 %3$d 次 ♥ 挑战）\n%4$s：翻开 %5$d 安全格（触发 %6$d 次 ♥ 挑战）</string>
+    <string name="btn_mines_reset">重新布雷</string>
+
+    <!-- Draw & Guess -->
+    <string name="draw_role_banner">正在作画：%1$s</string>
+    <string name="draw_score_banner">默契分：%1$d  ·  回合：%2$d</string>
+    <string name="draw_ready_banner">点击开始回合，私密查看本轮暧昧词条</string>
+    <string name="draw_hide_word">隐藏</string>
+    <string name="draw_peek_word">偷看</string>
+    <string name="draw_brush_fine">细笔</string>
+    <string name="draw_brush_bold">粗笔</string>
+    <string name="draw_undo">撤回</string>
+    <string name="draw_clear">清空</string>
+    <string name="btn_draw_start_round">开始本轮（传手机看词）</string>
+    <string name="btn_draw_guessed">猜中了！✓</string>
+    <string name="btn_draw_missed">认输受罚</string>
+    <string name="draw_guessed_toast">心有灵犀！默契 +1</string>
+    <string name="draw_penalty_badge">画猜小惩罚</string>
+
+    <!-- Paywall -->
+    <string name="paywall_title">丝绒 VIP 通行证</string>
+    <string name="paywall_subtitle">零广告 · 100% 纯离线 · 解锁全部暧昧升温题库与氛围夜色</string>
+    <string name="paywall_benefits">• 解锁「暧昧拉扯」与「午夜失控」全套高阶题库\n• 解锁「烛光琥珀」与「绯夜霓虹」情趣主题\n• 全 5 大玩法无限开启离线灵感加戏卡\n• 断网永久畅玩，无广告与隐私追踪</string>
+    <string name="paywall_plan_lifetime">♛ 永久买断 · 一次解锁</string>
+    <string name="paywall_plan_lifetime_desc">永久拥有全部题库与后续新主题</string>
+    <string name="paywall_plan_annual">年度畅玩 · 省 92%</string>
+    <string name="paywall_plan_annual_desc">全年无限解锁，随时可取消</string>
+    <string name="paywall_plan_weekly">约会夜周卡</string>
+    <string name="paywall_plan_weekly_desc">周末与纪念日随买随用</string>
+    <string name="paywall_cta_unlock">立即解锁丝绒 VIP</string>
+    <string name="paywall_restore">恢复购买</string>
+    <string name="paywall_not_now">暂不解锁</string>
+    <string name="paywall_unlocked_toast">欢迎成为丝绒 VIP —— 全部档位与主题已开启！</string>
+    <string name="paywall_restoring">正在向 Google Play 核验已购记录...</string>
+    <string name="paywall_play_unavailable">请连接网络并登录 Google Play 后再试。</string>
+
+    <!-- Settings & Stats -->
+    <string name="settings_title">情侣档案与隐私</string>
+    <string name="settings_couple_summary">%1$s &amp; %2$s  ·  安全词：%3$s</string>
+    <string name="settings_edit_couple">修改昵称、代词与安全词</string>
+    <string name="settings_vip_active">♛ 丝绒 VIP 已激活 —— 全档位与主题已解锁</string>
+    <string name="settings_vip_free">免费版（含微醺/试探两档 · 3 套氛围主题）</string>
+    <string name="settings_section_privacy">隐私保护与本机数据</string>
+    <string name="settings_screen_shield">防截屏与防录屏隐私保护</string>
+    <string name="settings_privacy_title">100% 纯离线隐私承诺</string>
+    <string name="settings_privacy_body">丝绒约会夜不含任何广告与数据追踪，无需注册账号。你们的昵称、边界、自定义卡牌、盲选结果与战绩永远只保存在本机。</string>
+    <string name="settings_clear_matches">清空盲选记录</string>
+    <string name="settings_clear_history">清空历史战绩</string>
+    <string name="settings_matches_cleared">已清空双向盲选记录</string>
+    <string name="settings_history_cleared">已清空历史战绩</string>
+    <string name="settings_section_stats">约会夜记忆档案</string>
+    <string name="settings_stats_summary">共度夜晚：%1$d 场  ·  累计亲密互动：%2$d 次</string>
+    <string name="settings_stats_empty">完成任意一局桌游后，这里会自动记录你们的心动里程碑。</string>
+
+    <!-- v1.1.1 Localized Polish Strings -->
+    <string name="timer_seconds_fmt">%1$d秒</string>
+    <string name="board_default_reward_a">30 分钟烛光肩背放松按摩</string>
+    <string name="board_default_reward_b">明天清晨的专属床上早餐</string>
+    <string name="pronoun_he">他 (He / Him)</string>
+    <string name="pronoun_she">她 (She / Her)</string>
+    <string name="pronoun_they">TA (They / Them)</string>
+
+</resources>

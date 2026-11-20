@@ -1,0 +1,590 @@
+{
+  "decks": [
+    {
+      "id": "deck_spark",
+      "title": "微醺破冰夜",
+      "subtitle": "克制拉扯、眼神交汇与心跳初燃",
+      "tier": 1,
+      "premium": false,
+      "cards": [
+        {
+          "id": "spark_001",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "告诉我一个我平时不经意的小动作，直到现在看到还是会让你忍不住想把我拉近。"
+        },
+        {
+          "id": "spark_002",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "deep_talk",
+            "eye_contact",
+            "timed"
+          ],
+          "durationSec": 45,
+          "text": "安静地凝视彼此眼睛 45 秒不准移开视线，谁先躲开或笑场，就要凑近耳边说一句真心告白。"
+        },
+        {
+          "id": "spark_003",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "哪一个瞬间让你突然意识到，我们之间的吸引力是任何人都替代不了的？"
+        },
+        {
+          "id": "spark_004",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "放一首最有微醺氛围的慢歌，十指紧扣靠在一起轻轻晃动前 20 秒。"
+        },
+        {
+          "id": "spark_005",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "最普通的日常里，有哪一个和我待在一起的细碎画面总能瞬间抚平你的情绪？"
+        },
+        {
+          "id": "spark_006",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "我们一起度过的哪一个夜晚，到现在回想起来还是像电影里的心动特写？"
+        },
+        {
+          "id": "spark_007",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "用三个词形容我们之间的化学反应——如果伴侣认同，就奖励你一个温柔的吻。"
+        },
+        {
+          "id": "spark_008",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "疲惫了一整天回到家时，我哪种触碰或拥抱方式最能让你一秒卸下防备？"
+        },
+        {
+          "id": "playful_001",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "用 30 秒重新撩一次你的伴侣，假装回到我们第一次心动的那晚——过不过关由对方说了算。"
+        },
+        {
+          "id": "playful_002",
+          "tier": 2,
+          "type": "TRUTH",
+          "tags": [
+            "playful",
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "刚认识我时，你心里曾藏过哪一个当时不好意思说出口的小悸动？"
+        },
+        {
+          "id": "playful_003",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "physical_light",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "把伴侣拉进怀里无声慢舞 30 秒：手搭在腰间，额头几乎相抵，全程不准笑场。"
+        },
+        {
+          "id": "playful_004",
+          "tier": 2,
+          "type": "CONNECTION",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "给对方起一个略带暧昧的今晚专属称呼，接下来每次开口都要压低声音叫它。"
+        },
+        {
+          "id": "playful_005",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "压低嗓音用午夜电影旁白的质感，花 30 秒夸奖伴侣今晚最迷人的地方。"
+        },
+        {
+          "id": "playful_006",
+          "tier": 2,
+          "type": "TRUTH",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "如果今晚可以瞬间逃离城市去一处隐秘海景露台小酌，你希望窗外是什么风景？"
+        },
+        {
+          "id": "playful_007",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "把今晚接下来的灯光、歌单与饮品决定权全部交由伴侣掌控，温柔服从不准反驳。"
+        },
+        {
+          "id": "playful_008",
+          "tier": 2,
+          "type": "CONNECTION",
+          "tags": [
+            "deep_talk",
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "说出两件我们一直想试却还没安排上的浪漫约会，今晚立刻敲定其中一件的日子。"
+        }
+      ]
+    },
+    {
+      "id": "deck_long_distance",
+      "title": "跨越距离的想念",
+      "subtitle": "深夜耳语、思念拉扯与重逢悸动",
+      "tier": 2,
+      "premium": false,
+      "cards": [
+        {
+          "id": "ld_001",
+          "tier": 1,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "闭上眼睛想象我们下次重逢的画面，最先跳出来的第一秒是什么动作？"
+        },
+        {
+          "id": "ld_002",
+          "tier": 1,
+          "type": "CONNECTION",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "翻出一条你悄悄收藏过的聊天记录，用温柔的语气念给对方听。"
+        },
+        {
+          "id": "ld_003",
+          "tier": 2,
+          "type": "DARE",
+          "tags": [
+            "playful",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "用低沉缓慢的午夜声线给伴侣录一段 30 秒语音，假装你在微雨酒店窗边想念对方。"
+        },
+        {
+          "id": "ld_004",
+          "tier": 2,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "分开的时候，我身上哪一个感官细节（声音、气味或笑声）最常在深夜突然袭击你？"
+        },
+        {
+          "id": "ld_005",
+          "tier": 2,
+          "type": "CONNECTION",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "用慵懒清晨、偷闲午后、午夜私语三幕戏，编排我们下次重逢的 24 小时。"
+        },
+        {
+          "id": "ld_006",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "最近有没有哪一句让你脸红心跳的话，打在输入框里又删掉没敢发出去？"
+        },
+        {
+          "id": "ld_007",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "roleplay",
+            "timed"
+          ],
+          "durationSec": 45,
+          "text": "放慢语速用耳语声，花 45 秒一帧一帧描绘一场只属于我们的周末酒店私奔。"
+        },
+        {
+          "id": "ld_008",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "下次见面房门轻轻合上的那一秒，你最想被我怎样对待？"
+        }
+      ]
+    },
+    {
+      "id": "deck_after_dark",
+      "title": "午夜丝绒升温",
+      "subtitle": "呼吸停顿、指尖试探与高阶暧昧（VIP）",
+      "tier": 3,
+      "premium": true,
+      "cards": [
+        {
+          "id": "flirty_001",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "贴近到呼吸轻轻拂过对方耳廓却不触碰，用只有你们听得见的气音说出今晚稍后最想做的一件事。"
+        },
+        {
+          "id": "flirty_002",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk",
+            "physical_light"
+          ],
+          "durationSec": 0,
+          "text": "我哪一种神态、穿搭或小动作，最容易让你一秒移不开目光、忍不住想靠近？"
+        },
+        {
+          "id": "flirty_003",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "用缓慢温热的双手为伴侣轻柔按压肩颈 45 秒，每按慢一拍就低声说一个你最迷恋对方的地方。"
+        },
+        {
+          "id": "flirty_004",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "eye_contact",
+            "physical_light",
+            "timed"
+          ],
+          "durationSec": 30,
+          "text": "贴近到能听清彼此呼吸的距离，十指紧扣停留 30 秒——眼神不准躲开，嘴唇差一厘米却偏不吻下去。"
+        },
+        {
+          "id": "flirty_005",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "我哪一个看似不经意的暗示，最能瞬间把普通的夜晚点燃成暧昧气氛？"
+        },
+        {
+          "id": "flirty_006",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 30,
+          "text": "全程保持沉默与对视，用一根指尖沿着伴侣手腕内侧与掌心缓慢游走 30 秒。"
+        },
+        {
+          "id": "flirty_007",
+          "tier": 3,
+          "type": "DARE",
+          "tags": [
+            "alcohol",
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "眼神锁定彼此轻轻碰杯，慢饮一口后坦白一个今晚藏在心底的大胆念头。"
+        },
+        {
+          "id": "flirty_008",
+          "tier": 3,
+          "type": "TRUTH",
+          "tags": [
+            "physical_light",
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "你更容易沦陷于一点点拉扯的缓慢铺垫，还是毫无防备时突然落下的一个吻？"
+        },
+        {
+          "id": "bold_001",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "blindfold",
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "让伴侣闭上眼睛交出主导权 60 秒：用指尖顺着颈侧、锁骨或手腕缓慢游走，每停顿一次，让对方轻声说出此刻的心跳感受。"
+        },
+        {
+          "id": "bold_002",
+          "tier": 4,
+          "type": "TRUTH",
+          "tags": [
+            "roleplay",
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "如果今晚我们用化名入住一间灯光暧昧的精品酒店，你最想开启哪一段角色扮演剧本？"
+        },
+        {
+          "id": "bold_003",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "45 秒内伴侣不准动弹，你用最慢的节奏亲吻对方除嘴唇以外的任意部位——每次都在对方最期待的位置前轻轻停住。"
+        },
+        {
+          "id": "bold_004",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "roleplay",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "假装我们是在午夜鸡尾酒吧遥遥对视的陌生人，给你 60 秒走过去撩动对方并成功带走今晚的约会。"
+        },
+        {
+          "id": "bold_005",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "eye_contact",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "缓缓靠近伴侣直到唇尖只剩一指距离，定格五次心跳，然后把这一吻的主导权交给对方。"
+        },
+        {
+          "id": "bold_006",
+          "tier": 4,
+          "type": "TRUTH",
+          "tags": [
+            "deep_talk",
+            "physical_light"
+          ],
+          "durationSec": 0,
+          "text": "描绘一个最能让你彻底沦陷的深夜场景——灯光色温、背景音乐、节奏，以及你最想被拥入怀的方式。"
+        },
+        {
+          "id": "bold_007",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "blindfold",
+            "timed",
+            "indoor"
+          ],
+          "durationSec": 45,
+          "text": "伴侣闭眼 45 秒：牵着对方的手环住自己，随着你贴在耳边轻哼的旋律紧贴慢舞。"
+        },
+        {
+          "id": "bold_008",
+          "tier": 4,
+          "type": "DARE",
+          "tags": [
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "获得一张「丝绒特权券」：凑近伴侣耳边低声许下一个今晚的浪漫心愿，由对方用一个慢吻盖章应允。"
+        }
+      ]
+    },
+    {
+      "id": "deck_desire_match",
+      "title": "秘密默契配对",
+      "subtitle": "双方各自盲滑，仅揭晓彼此都心动的私密心愿",
+      "tier": 2,
+      "premium": false,
+      "cards": [
+        {
+          "id": "dm_001",
+          "tier": 1,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "deep_talk",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "把手机锁进抽屉，只留香薰烛光与爵士慢歌，在家吃一顿只属于两人的深夜晚餐。"
+        },
+        {
+          "id": "dm_002",
+          "tier": 1,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "playful"
+          ],
+          "durationSec": 0,
+          "text": "策划一次“盲盒约会夜”：由一人全权保密行程，另一人只需安心交付信任。"
+        },
+        {
+          "id": "dm_003",
+          "tier": 2,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "不看时间、不玩手机，用温热精油为彼此做 10 分钟全身心投入的肩背舒缓按摩。"
+        },
+        {
+          "id": "dm_004",
+          "tier": 2,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "playful",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "关掉客厅主灯只留一盏氛围夜灯，穿着居家服赤脚相拥慢舞一曲。"
+        },
+        {
+          "id": "dm_005",
+          "tier": 2,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "deep_talk"
+          ],
+          "durationSec": 0,
+          "text": "各自写一张平时藏在心底的心动小纸条，在床头柔光下低声念给对方听。"
+        },
+        {
+          "id": "dm_006",
+          "tier": 3,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "physical_light",
+            "eye_contact",
+            "timed"
+          ],
+          "durationSec": 60,
+          "text": "60 秒慢动作拉扯吻：每 10 秒轻轻拉开一厘米凝视彼此呼吸，再重新靠近。"
+        },
+        {
+          "id": "dm_007",
+          "tier": 3,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "roleplay",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "各自盛装分头前往微醺清吧，假装互不相识的陌生人重新搭讪沦陷。"
+        },
+        {
+          "id": "dm_008",
+          "tier": 3,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "alcohol",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "亲手为彼此调一杯深夜专属鸡尾酒，每微醺一口就交换一个更大胆的秘密。"
+        },
+        {
+          "id": "dm_009",
+          "tier": 4,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "blindfold",
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 60,
+          "text": "丝绒眼罩感官试探：蒙上眼睛，凭呼吸与触觉猜出伴侣准备的三次轻柔触碰或甜味。"
+        },
+        {
+          "id": "dm_010",
+          "tier": 4,
+          "type": "DESIRE_MATCH",
+          "tags": [
+            "physical_light",
+            "indoor"
+          ],
+          "durationSec": 0,
+          "text": "15 分钟「今夜导演」特权：一方在耳边轻声下达浪漫试探指令，另一方温柔配合。"
+        }
+      ]
+    }
+  ]
+}

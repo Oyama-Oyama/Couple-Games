@@ -1,0 +1,139 @@
+{
+  "templates": [
+    {
+      "id": "gen_spark_01",
+      "tier": 1,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "{timeframe}の静かな記憶を1つ思い出し、なぜ今でも{feeling}と感じるのかささやいてください。"
+    },
+    {
+      "id": "gen_spark_02",
+      "tier": 1,
+      "type": "CONNECTION",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "パートナーの手を握り、{timeframe}でさらに惹かれた理由を2つ静かに伝えてください。"
+    },
+    {
+      "id": "gen_playful_01",
+      "tier": 2,
+      "type": "DARE",
+      "tags": [
+        "playful",
+        "timed"
+      ],
+      "durationSec": 30,
+      "pattern": "無言で{duration}秒間、理想の{date_setting}を表現して——伝わったら頬へゆっくりキス！"
+    },
+    {
+      "id": "gen_playful_02",
+      "tier": 2,
+      "type": "TRUTH",
+      "tags": [
+        "playful"
+      ],
+      "durationSec": 0,
+      "pattern": "今夜2人で{date_setting}へ抜け出せるなら、照明を落とした瞬間にかけたい曲は？"
+    },
+    {
+      "id": "gen_flirty_01",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "{constraint}ながら、パートナーの{safe_zone}を{duration}秒間ゆっくり{action_gentle}してください。"
+    },
+    {
+      "id": "gen_flirty_02",
+      "tier": 3,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "physical_light"
+      ],
+      "durationSec": 0,
+      "pattern": "{date_setting}で最初の視線から{feeling}ムードを作るなら、どんな演出をしますか？"
+    },
+    {
+      "id": "gen_bold_01",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "timed"
+      ],
+      "durationSec": 60,
+      "pattern": "パートナーに目を閉じて身を委ねてもらい、焦らず{safe_zone}を{duration}秒間{action_gentle}してください。"
+    },
+    {
+      "id": "gen_bold_02",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "roleplay",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "{date_setting}で目が合った初対面の2人を演じ、{constraint}ながら{duration}秒間相手を惹きつけて。"
+    }
+  ],
+  "slots": {
+    "timeframe": [
+      "この1ヶ月",
+      "付き合いたての夏",
+      "深夜のドライブ",
+      "静かな休日の朝",
+      "雨の日の夜"
+    ],
+    "feeling": [
+      "ドキドキする",
+      "忘れられない",
+      "甘く酔うような",
+      "艶やかで特別な",
+      "離れがたい"
+    ],
+    "date_setting": [
+      "キャンドルの灯るルーフトップバー",
+      "真夜中の海辺バルコニー",
+      "暖炉の揺れる隠れ家ロッジ",
+      "間接照明のホテルラウンジ",
+      "秘密のジャズバー"
+    ],
+    "action_gentle": [
+      "指先でなぞる",
+      "そっとキスを落とす",
+      "温かくマッサージ",
+      "羽のように触れる"
+    ],
+    "safe_zone": [
+      "手首の内側",
+      "首筋",
+      "肩",
+      "鎖骨",
+      "頬"
+    ],
+    "duration": [
+      "30",
+      "45",
+      "60"
+    ],
+    "constraint": [
+      "瞳を見つめ続け",
+      "一言も話さず",
+      "耳元で褒め言葉をささやき",
+      "指を深く絡め"
+    ]
+  }
+}

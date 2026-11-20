@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ベルベット・デートナイト</string>
+    <string name="nav_home">ホーム</string>
+    <string name="nav_consent">境界設定</string>
+    <string name="nav_deck">デッキ</string>
+    <string name="nav_settings">その他</string>
+    <string name="cd_back">戻る</string>
+
+    <!-- Header, Onboarding & Safe Pause -->
+    <string name="home_subtitle">2人だけの艶やかな夜 · 完全オフライン</string>
+    <string name="home_couple_pill">%1$s &amp; %2$s ✎</string>
+    <string name="home_vip_banner">♛ アフターダーク＆VIPムードテーマを解放</string>
+    <string name="btn_safe_pause">⏸ ひと休み</string>
+    <string name="safe_pause_title">少しだけ深呼吸</string>
+    <string name="safe_pause_message">無理をする必要はありません。2人のセーフワードは「%1$s」。いつでもスキップ、境界調整、中断ができます。</string>
+    <string name="safe_pause_resume">今夜を続ける</string>
+    <string name="safe_pause_boundaries">境界を見直す</string>
+    <string name="safe_pause_exit">モードを出る</string>
+
+    <string name="onboarding_title">今夜のムードを整える</string>
+    <string name="onboarding_step1_desc">2人の名前を登録して、今夜を特別な時間へ。入力内容は端末内のみに保存されます。</string>
+    <string name="onboarding_partner_1">パートナー 1</string>
+    <string name="onboarding_partner_2">パートナー 2</string>
+    <string name="onboarding_step2_promise">• 完全オフライン — アカウント不要・外部送信ゼロ\n• 広告ゼロ — 2人の空気を一切邪魔しません\n• 合意優先 — NG設定は全ゲームで静かに除外されます</string>
+    <string name="onboarding_safeword_label">優しいセーフワード（任意）</string>
+    <string name="onboarding_back">戻る</string>
+    <string name="onboarding_continue">次へ</string>
+    <string name="onboarding_begin">今夜をはじめる</string>
+
+    <!-- Heat Tiers & Localized Metadata -->
+    <string name="label_intensity">今夜のムードレベル</string>
+    <string name="tier_short_1">ほろ酔い</string>
+    <string name="tier_short_2">じらし</string>
+    <string name="tier_short_3">濃密</string>
+    <string name="tier_short_4">真夜中</string>
+    <string name="tier_name_1">ほろ酔い</string>
+    <string name="tier_name_2">甘いじらし</string>
+    <string name="tier_name_3">濃密スロー</string>
+    <string name="tier_name_4">真夜中の余韻</string>
+
+    <string name="task_type_truth">ささやきトーク</string>
+    <string name="task_type_dare">ときめきチャレンジ</string>
+    <string name="task_type_connection">親密タイム</string>
+    <string name="task_type_desire">秘密の願い</string>
+    <string name="badge_velvet_spark">スパーク生成</string>
+    <string name="badge_custom_card">カスタム</string>
+    <string name="badge_favorite_card">お気に入り</string>
+    <string name="badge_mutual_desire">両想いマッチ</string>
+
+    <!-- Localized Consent Tags -->
+    <string name="tag_deep_talk">深い会話</string>
+    <string name="tag_playful">無邪気な駆け引き</string>
+    <string name="tag_eye_contact">見つめ合い</string>
+    <string name="tag_physical_light">優しいスキンシップ</string>
+    <string name="tag_blindfold">目を閉じる・目隠し</string>
+    <string name="tag_roleplay">ロールプレイ</string>
+    <string name="tag_public_space">外出先・人前</string>
+    <string name="tag_alcohol">お酒・カクテル</string>
+    <string name="tag_indoor">おうち時間</string>
+    <string name="tag_timed">タイマー付き</string>
+    <string name="tag_custom">カスタム</string>
+
+    <!-- Themes -->
+    <string name="label_theme">夜の雰囲気テーマ</string>
+    <string name="theme_badge_active">使用中</string>
+    <string name="theme_badge_vip">VIP</string>
+    <string name="theme_velvet_noir">ベルベット・ノワール</string>
+    <string name="theme_velvet_noir_desc">深紅＆シャンパンゴールド</string>
+    <string name="theme_blush_champagne">ロゼ・シャンパン</string>
+    <string name="theme_blush_champagne_desc">甘いローズの余韻</string>
+    <string name="theme_midnight_plum">ミッドナイト・プラム</string>
+    <string name="theme_midnight_plum_desc">艶やかな紫と間接照明</string>
+    <string name="theme_candlelight_amber">キャンドル・アンバー</string>
+    <string name="theme_candlelight_amber_desc">揺らめく暖色の灯り</string>
+    <string name="theme_neon_silk">クリムゾン・ネオン</string>
+    <string name="theme_neon_silk_desc">夜更けのマゼンタネオン</string>
+
+    <!-- Game Mode Cards -->
+    <string name="label_game_modes">今夜のゲームを選ぶ</string>
+    <string name="mode_chess_tag">看板ボード · 全36マス</string>
+    <string name="mode_chess">♛ カップルすごろく</string>
+    <string name="mode_chess_desc">サイコロを振って少しずつ距離を縮め、ゴールのご褒美を手に入れましょう。</string>
+    <string name="mode_blind_match">♥ ブラインドマッチ</string>
+    <string name="mode_blind_match_desc">非公開でスワイプ。2人とも惹かれたアイデアだけが開かれます。</string>
+    <string name="mode_wheel">◎ ラッキールーレット</string>
+    <string name="mode_wheel_desc">物理回転ルーレットに今夜の展開を委ねて。</string>
+    <string name="mode_minesweeper">♥ 2人ハートマイン</string>
+    <string name="mode_minesweeper_desc">安全マスを開き合い、♥ を踏むたび甘いお題が発動。</string>
+    <string name="mode_draw_guess">✎ お絵かきクイズ</string>
+    <string name="mode_draw_guess_desc">60秒スケッチ勝負。外れたらドキドキのお題タイム。</string>
+
+    <!-- Quick Tonight Spark Card -->
+    <string name="home_quick_draw_label">今夜のクイックカード</string>
+    <string name="label_procedural_mix">オフライン自動スパークお題を混ぜる</string>
+    <string name="card_placeholder_hint">照明を少し落としてグラスを傾け、今夜の1枚目をめくりましょう。</string>
+    <string name="btn_draw_card">次のカードをめくる</string>
+    <string name="btn_skip_card">スキップ（残り %1$d 回）</string>
+    <string name="btn_start_timer">%1$d 秒タイマー開始</string>
+    <string name="btn_favorite">お気に入り保存</string>
+    <string name="btn_favorited">保存済み ♥</string>
+    <string name="label_language">アプリ＆お題の言語</string>
+
+    <!-- Consent & Boundaries -->
+    <string name="consent_title">合意と心地よい境界線</string>
+    <string name="consent_mode_together">一緒に設定</string>
+    <string name="consent_mode_private">🔒 非公開で順番に</string>
+    <string name="consent_desc">タップして OK / 慎重 / NG を切替。どちらかが NG にしたテーマは全ゲームから静かに除外されます。</string>
+    <string name="consent_private_prompt">%1$s さんの番です。相手には見えない状態で本音の境界を選んでください。</string>
+    <string name="consent_pass_to_partner">完了 — %1$s さんへ渡す</string>
+    <string name="consent_finish_private">非公開のまま境界をロック</string>
+    <string name="consent_private_done_hint">境界が静かに適用されました。全5モードで自動的に守られます。</string>
+    <string name="consent_private_shield_title">今夜のプライバシー保護完了</string>
+    <string name="consent_private_summary_text">NG保護：%1$d 件のテーマを静かに除外\n慎重モード：%2$d 件のテーマを配慮設定\n\n誰がどれをNGにしたかは非公開です。</string>
+    <string name="consent_review_together">一覧に戻る</string>
+    <string name="status_yes">OK</string>
+    <string name="status_soft">慎重</string>
+    <string name="status_hard_no">NG</string>
+
+    <!-- Decks & Favorites -->
+    <string name="deck_title">オリジナル＆お気に入り</string>
+    <string name="deck_tab_custom">カスタム</string>
+    <string name="deck_tab_favorites">お気に入り</string>
+    <string name="deck_favorites_empty">ときめいたカードを保存しておくと、いつでもここから呼び出せます。</string>
+    <string name="hint_custom_prompt">2人だけの秘密の質問やチャレンジを忍ばせて...</string>
+    <string name="btn_add_custom_card">今夜のデッキに追加</string>
+    <string name="msg_card_added">端末内に非公開保存しました</string>
+    <string name="msg_no_skips">このセッションのスキップ回数を使い切りました</string>
+    <string name="msg_no_eligible_cards">現在のレベルと境界設定に合うカードがありません</string>
+    <string name="timer_done">時間切れ — 胸の高鳴りはどうでしたか？</string>
+
+    <!-- Pass Phone Shield -->
+    <string name="pass_phone_title">スマホを渡してください</string>
+    <string name="pass_phone_message">画面を開く前に %1$s さんへ端末を渡してください。</string>
+    <string name="btn_ready">%1$s です — 表示する</string>
+
+    <!-- Blind Match -->
+    <string name="blind_match_title">ブラインドマッチ</string>
+    <string name="blind_match_subtitle">お互い非公開でスワイプ。2人ともYESを選んだカードだけが公開されます。</string>
+    <string name="blind_match_turn_banner">%1$s の番 · %2$d / %3$d 枚目</string>
+    <string name="blind_match_swipe_hint">← 左でパス   ·   右でYES →</string>
+    <string name="blind_match_stamp_yes">YES ♥</string>
+    <string name="blind_match_stamp_pass">PASS</string>
+    <string name="btn_swipe_pass">✕ パス</string>
+    <string name="btn_swipe_yes">♥ 惹かれる</string>
+    <string name="blind_match_reveal_count">%1$d 件の両想いマッチが成立！</string>
+    <string name="blind_match_no_matches">今回は一致がありませんでした。境界を見直すか、もう一度スワイプしましょう。</string>
+    <string name="btn_play_board_with_matches">マッチ結果ですごろくを遊ぶ</string>
+    <string name="btn_restart_blind_match">もう一度ブラインドマッチ</string>
+
+    <!-- Couple Board -->
+    <string name="board_turn_indicator">%1$s のターン</string>
+    <string name="board_player_pos">%1$s · %2$d/%3$d マス</string>
+    <string name="btn_rewards_short">♛ ご褒美</string>
+    <string name="board_ready_hint">サイコロを振って少しずつ距離を縮めよう。♥ マスは両想いマッチから優先出題！</string>
+    <string name="btn_roll_dice">サイコロを振る</string>
+    <string name="board_rolling_status">%1$s がサイコロを振っています...</string>
+    <string name="board_rolled_status">%1$s の出目は %2$d です！</string>
+    <string name="board_event_boost">ときめき加速！さらに2マス前進。</string>
+    <string name="board_event_back">焦らしの展開！2マス戻ります。</string>
+    <string name="board_event_swap">ポジション交換！2人の位置が入れ替わります。</string>
+    <string name="board_event_extra_roll">ラッキーマス！お題の後にもう一度振れます。</string>
+    <string name="board_event_desire_wildcard">♥ 両想いマス！お互いにYESを選んだ特別な願いを引きます。</string>
+    <string name="btn_partner_approved">パートナー承認 ✓</string>
+    <string name="btn_partner_redo">1マス戻る</string>
+    <string name="board_rewards_title">ゴールご褒美の設定</string>
+    <string name="board_reward_named_label">%1$s が勝った時のご褒美</string>
+    <string name="board_rewards_saved">ご褒美を保存しました</string>
+    <string name="board_victory_title">♛ %1$s がゴールしました！</string>
+    <string name="board_victory_message">今夜のご褒美：\n\n%1$s</string>
+    <string name="btn_play_again">もう一戦遊ぶ</string>
+
+    <!-- Lucky Wheel -->
+    <string name="wheel_title">ラッキールーレット</string>
+    <string name="wheel_mode_classic">ミックス</string>
+    <string name="wheel_mode_desire">マッチ ♥</string>
+    <string name="wheel_mode_custom">カスタム</string>
+    <string name="wheel_slice_truth">トーク</string>
+    <string name="wheel_slice_playful">じらし</string>
+    <string name="wheel_slice_flirty">濃密</string>
+    <string name="wheel_slice_bold">真夜中</string>
+    <string name="wheel_slice_desire">♥ マッチ</string>
+    <string name="wheel_slice_ai">✦ スパーク</string>
+    <string name="wheel_custom_hint">オリジナル項目を追加...</string>
+    <string name="wheel_custom_seed_1">10分マッサージ</string>
+    <string name="wheel_custom_seed_2">今夜のBGMを選ぶ</string>
+    <string name="wheel_custom_seed_3">ゆっくりキス</string>
+    <string name="wheel_custom_seed_4">ドリンクを作る</string>
+    <string name="wheel_custom_max_hint">ルーレットは最大10項目まで追加できます</string>
+    <string name="wheel_custom_count">カスタム %1$d 件準備完了 — スピン！</string>
+    <string name="wheel_desire_loaded">両想いマッチ %1$d 件をルーレットに装填しました！</string>
+    <string name="wheel_no_desire_fallback">先にブラインドマッチを遊ぶと専用ホイールが使えます。</string>
+    <string name="wheel_ready_hint">盤面またはボタンをタップして、今夜の運命を回しましょう。</string>
+    <string name="wheel_spinning">ルーレット回転中...</string>
+    <string name="wheel_landed_status">運命の選択：%1$s</string>
+    <string name="btn_spin_wheel">ルーレットを回す</string>
+    <string name="btn_wheel_pass_turn">次のターンへ</string>
+
+    <!-- Couple Mines -->
+    <string name="mines_title">2人ハートマイン</string>
+    <string name="mines_player_score">%1$s · 安全 %2$d · ♥ %3$d</string>
+    <string name="mines_ready_hint">タップで開く、長押しで旗 ⚑。隠れた ♥ を踏むとドキドキのお題が発動！</string>
+    <string name="mines_safe_status">セーフ！%1$d マス開きました。</string>
+    <string name="mines_hit_status">♥ %1$s がハート地雷を踏みました！お題タイム！</string>
+    <string name="mines_badge_label">♥ ハート地雷</string>
+    <string name="mines_cleared_title">♛ クリア！%1$s のリード</string>
+    <string name="mines_cleared_summary">%1$s：安全 %2$d（♥ %3$d回）\n%4$s：安全 %5$d（♥ %6$d回）</string>
+    <string name="btn_mines_reset">新しい盤面</string>
+
+    <!-- Draw & Guess -->
+    <string name="draw_role_banner">描き手：%1$s</string>
+    <string name="draw_score_banner">相性スコア：%1$d  ·  ラウンド：%2$d</string>
+    <string name="draw_ready_banner">「ラウンド開始」でお題を非公開確認します</string>
+    <string name="draw_hide_word">隠す</string>
+    <string name="draw_peek_word">見る</string>
+    <string name="draw_brush_fine">細</string>
+    <string name="draw_brush_bold">太</string>
+    <string name="draw_undo">戻す</string>
+    <string name="draw_clear">消去</string>
+    <string name="btn_draw_start_round">ラウンド開始（スマホを渡す）</string>
+    <string name="btn_draw_guessed">正解！ ✓</string>
+    <string name="btn_draw_missed">お題を受ける</string>
+    <string name="draw_guessed_toast">息ぴったり！相性 +1 ポイント</string>
+    <string name="draw_penalty_badge">お絵かきチャレンジ</string>
+
+    <!-- Paywall -->
+    <string name="paywall_title">ベルベット VIP パス</string>
+    <string name="paywall_subtitle">広告ゼロ・完全オフライン。すべての艶やかなデッキと夜のテーマを解放。</string>
+    <string name="paywall_benefits">• 「濃密スロー」＆「真夜中の余韻」デッキを全解放\n• 「キャンドル・アンバー」「クリムゾン・ネオン」テーマ解放\n• 全5ゲームでスパーク自動お題を無制限利用\n• 広告・追跡ゼロでオフラインのまま永久動作</string>
+    <string name="paywall_plan_lifetime">♛ 買い切り版 · 一度きり</string>
+    <string name="paywall_plan_lifetime_desc">全デッキと今後のテーマを永久所有</string>
+    <string name="paywall_plan_annual">年間パス · 92% OFF</string>
+    <string name="paywall_plan_annual_desc">1年間フルアクセス・いつでも解約可能</string>
+    <string name="paywall_plan_weekly">ウィークリー・デートパス</string>
+    <string name="paywall_plan_weekly_desc">週末や特別な夜に気軽に利用</string>
+    <string name="paywall_cta_unlock">ベルベット VIP を解放</string>
+    <string name="paywall_restore">購入を復元</string>
+    <string name="paywall_not_now">あとで</string>
+    <string name="paywall_unlocked_toast">ベルベット VIP 有効！全ムードレベル＆テーマ解放済み</string>
+    <string name="paywall_restoring">Google Play の購入履歴を確認中...</string>
+    <string name="paywall_play_unavailable">インターネットに接続し、Google Play にサインインしてからお試しください。</string>
+
+    <!-- Settings & Stats -->
+    <string name="settings_title">カップル設定とプライバシー</string>
+    <string name="settings_couple_summary">%1$s &amp; %2$s  ·  セーフワード：%3$s</string>
+    <string name="settings_edit_couple">名前・代名詞・セーフワードを編集</string>
+    <string name="settings_vip_active">♛ ベルベット VIP 有効 — 全デッキ＆テーマ解放済み</string>
+    <string name="settings_vip_free">無料版（ほろ酔い・じらし・3テーマ利用可能）</string>
+    <string name="settings_section_privacy">プライバシーと端末管理</string>
+    <string name="settings_screen_shield">スクリーンショット・録画防止シールド</string>
+    <string name="settings_privacy_title">100% オフライン・プライバシー宣言</string>
+    <string name="settings_privacy_body">広告・解析トラッキング・クラウド送信は一切ありません。2人の名前、境界設定、カスタムカード、マッチ履歴は端末内のみに保管されます。</string>
+    <string name="settings_clear_matches">マッチ履歴消去</string>
+    <string name="settings_clear_history">戦績を消去</string>
+    <string name="settings_matches_cleared">ブラインドマッチ履歴を消去しました</string>
+    <string name="settings_history_cleared">プレイ履歴を消去しました</string>
+    <string name="settings_section_stats">2人の夜の記録</string>
+    <string name="settings_stats_summary">過ごした夜：%1$d 回  ·  達成チャレンジ：%2$d 回</string>
+    <string name="settings_stats_empty">すごろく・ルーレット・マイン・お絵かきを遊ぶと、2人の思い出がここに残ります。</string>
+
+    <!-- v1.1.1 Localized Polish Strings -->
+    <string name="timer_seconds_fmt">%1$d秒</string>
+    <string name="board_default_reward_a">30分間のキャンドル肩マッサージ</string>
+    <string name="board_default_reward_b">明日の朝、ベッドでの特製ブレックファスト</string>
+    <string name="pronoun_he">彼 (He / Him)</string>
+    <string name="pronoun_she">彼女 (She / Her)</string>
+    <string name="pronoun_they">パートナー (They / Them)</string>
+
+</resources>

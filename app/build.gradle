@@ -1,0 +1,81 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.velvet.couplesgame'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.velvet.couplesgame"
+        minSdk 26
+        targetSdk 35
+        versionCode 3
+        versionName "1.1.1"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        // Only bundle English, Simplified Chinese, and Japanese resources
+        resourceConfigurations += ["en", "zh-rCN", "ja"]
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments += [
+                    "room.schemaLocation": "$projectDir/schemas".toString(),
+                    "room.incremental": "true"
+                ]
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+        }
+    }
+
+    buildFeatures {
+        viewBinding true
+        buildConfig true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.7.0'
+    implementation 'androidx.activity:activity:1.9.3'
+    implementation 'com.google.android.material:material:1.12.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.2.0'
+    implementation 'androidx.recyclerview:recyclerview:1.3.2'
+
+    // MVVM & Navigation
+    implementation 'androidx.lifecycle:lifecycle-viewmodel:2.8.7'
+    implementation 'androidx.lifecycle:lifecycle-livedata:2.8.7'
+    implementation 'androidx.navigation:navigation-fragment:2.8.5'
+    implementation 'androidx.navigation:navigation-ui:2.8.5'
+
+    // Native spring & fling physics animations (replaces RN Reanimated)
+    implementation 'androidx.dynamicanimation:dynamicanimation:1.0.0'
+
+    // Room offline persistence (Java annotation processor)
+    implementation 'androidx.room:room-runtime:2.6.1'
+    annotationProcessor 'androidx.room:room-compiler:2.6.1'
+
+    // Offline JSON assets & template parsing
+    implementation 'com.google.code.gson:gson:2.11.0'
+
+    // Google Play Billing (no AdMob, offline-first)
+    implementation 'com.android.billingclient:billing:7.1.1'
+
+    // Unit testing
+    testImplementation 'junit:junit:4.13.2'
+}
