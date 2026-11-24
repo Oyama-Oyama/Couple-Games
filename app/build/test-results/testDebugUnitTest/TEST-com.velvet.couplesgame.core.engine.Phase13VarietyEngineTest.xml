@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.velvet.couplesgame.core.engine.Phase13VarietyEngineTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-11-24T02:26:43.183Z" hostname="DESKTOP-T2VIOG1" time="0.003">
-  <properties/>
-  <testcase name="proceduralGeneratorAvoidsDuplicateTextsAndConsecutiveTemplates" classname="com.velvet.couplesgame.core.engine.Phase13VarietyEngineTest" time="0.002"/>
-  <testcase name="taskEngineShieldsRecentCardsAcrossDeckRecycle" classname="com.velvet.couplesgame.core.engine.Phase13VarietyEngineTest" time="0.001"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>

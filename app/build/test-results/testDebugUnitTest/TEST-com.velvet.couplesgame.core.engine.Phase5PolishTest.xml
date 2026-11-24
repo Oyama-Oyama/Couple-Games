@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.velvet.couplesgame.core.engine.Phase5PolishTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2026-11-24T02:26:43.240Z" hostname="DESKTOP-T2VIOG1" time="0.012">
-  <properties/>
-  <testcase name="privateBoundarySummaryCountsShieldsAnonymously" classname="com.velvet.couplesgame.core.engine.Phase5PolishTest" time="0.011"/>
-  <testcase name="coupleProfileSanitizesNamesAndComputesTokenInitials" classname="com.velvet.couplesgame.core.engine.Phase5PolishTest" time="0.0"/>
-  <testcase name="pricingLadderMaintainsRationalAnchorHierarchy" classname="com.velvet.couplesgame.core.engine.Phase5PolishTest" time="0.0"/>
-  <system-out><![CDATA[]]></system-out>
-  <system-err><![CDATA[]]></system-err>
-</testsuite>
