@@ -1,0 +1,3168 @@
+{
+  "questions": [
+    {
+      "id": "qz_01",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quelle ambiance du vendredi soir allume le plus vite {p1} ?",
+      "options": [
+        "Bougies et jazz doux",
+        "Cocktails et séduction",
+        "Sans téléphones au lit",
+        "Escapade imprévue de nuit"
+      ]
+    },
+    {
+      "id": "qz_02",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Quel compliment fait rougir {p1} sur-le-champ ?",
+      "options": [
+        "Dire à quel point il/elle est irrésistible",
+        "Dire combien on se sent bien ensemble",
+        "Une phrase audacieuse à l'oreille",
+        "Aimer sa voix et son parfum"
+      ]
+    },
+    {
+      "id": "qz_03",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "En tête-à-tête, quel baiser fait fondre {p1} ?",
+      "options": [
+        "Un baiser lent et progressif",
+        "Un baiser surprise dans le cou",
+        "Un baiser au front puis profond",
+        "Un petit mordillement de la lèvre"
+      ]
+    },
+    {
+      "id": "qz_04",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Où un frôlement donne-t-il aussitôt des frissons à {p1} ?",
+      "options": [
+        "Cou et derrière l'oreille",
+        "Taille et creux des reins",
+        "Poignets et doigts",
+        "Intérieur des cuisses"
+      ]
+    },
+    {
+      "id": "qz_05",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si {p1} choisissait le rythme ce soir, quel serait-il ?",
+      "options": [
+        "Montée très lente et taquine",
+        "Passion immédiate et intense",
+        "Rires et jeu qui chauffent",
+        "Silence, regards et peau contre peau"
+      ]
+    },
+    {
+      "id": "qz_06",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel éclairage met {p1} le plus vite dans le bain ?",
+      "options": [
+        "Lueur chaude de bougies",
+        "Noir complet, pur toucher",
+        "Lampe tamisée violette/ambrée",
+        "Douce lumière du matin"
+      ]
+    },
+    {
+      "id": "qz_07",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quel geste nocturne fait totalement craquer {p1} ?",
+      "options": [
+        "L'attirer brusquement par la taille",
+        "Chuchoter des envies osées à l'oreille",
+        "Mordiller son cou et sa clavicule",
+        "Tenir ses poignets au-dessus de sa tête"
+      ]
+    },
+    {
+      "id": "qz_08",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "prompt": "Quel jeu de rôle intrigue secrètement le plus {p1} ?",
+      "options": [
+        "Inconnus dans un bar d'hôtel",
+        "Spa VIP privé après fermeture",
+        "Directeur et assistant tard le soir",
+        "Dégustation sensorielle yeux bandés"
+      ]
+    },
+    {
+      "id": "qz_09",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Qui {p1} préfère-t-il voir mener la danse ce soir ?",
+      "options": [
+        "Tout contrôler soi-même",
+        "Se laisser guider pleinement",
+        "Alterner qui mène",
+        "Laisser le dé décider"
+      ]
+    },
+    {
+      "id": "qz_10",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "prompt": "Quel gage brûlant donne presque envie à {p1} de perdre ?",
+      "options": [
+        "Retirer un vêtement très lentement",
+        "Recevoir quelques petit défi ludiques",
+        "45s de taquineries poignets tenus",
+        "60s d'obéissance totale"
+      ]
+    },
+    {
+      "id": "qz_11",
+      "tier": 4,
+      "tags": [
+        "blindfold"
+      ],
+      "prompt": "Que pense {p1} du bandeau, des glaçons ou des plumes ?",
+      "options": [
+        "J'adore, on essaie ce soir !",
+        "Curieux(se), commençons doucement",
+        "Je préfère voir ton visage",
+        "Uniquement si je dirige"
+      ]
+    },
+    {
+      "id": "qz_12",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "prompt": "Dans les préliminaires, qu'apprécie le plus {p1} ?",
+      "options": [
+        "Murmures et mots brûlants",
+        "Baisers et mordillements partout",
+        "Long massage chaud",
+        "Se desserrer lentement"
+      ]
+    },
+    {
+      "id": "qz_13",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel moment banal donne envie à {p1} de t'entraîner au lit aussitôt ?",
+      "options": [
+        "Cuisiner ou s'habiller ensemble",
+        "En sortant tout juste de la douche",
+        "Rire tout près sur le canapé",
+        "Rentrer bien apprêtés d'une sortie"
+      ]
+    },
+    {
+      "id": "qz_14",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quelle zone peu touchée fait frissonner {p1} le plus vite ?",
+      "options": [
+        "Derrière l'oreille et la nuque",
+        "Les côtes et le creux de la taille",
+        "Le bas-ventre et la hanche",
+        "Le haut intérieur des cuisses"
+      ]
+    },
+    {
+      "id": "qz_15",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "prompt": "Quelle caresse buccale rend {p1} fou/folle le plus rapidement ?",
+      "options": [
+        "Cercles lents et humides de la la chaleur du souffle",
+        "Succion douce presque marquante",
+        "Mordillements suivis d'un long baiser",
+        "Souffle brûlant à 1 cm sans toucher"
+      ]
+    },
+    {
+      "id": "qz_16",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "prompt": "Quel détail vestimentaire enflamme instantanément {p1} ?",
+      "options": [
+        "Juste une chemise ample",
+        "Dentelle ou tenue soyeuse",
+        "Une bretelle qui glisse de l'épaule",
+        "Rien sous une veste"
+      ]
+    },
+    {
+      "id": "qz_17",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "prompt": "Quel endroit un peu risqué {p1} aimerait secrètement essayer ?",
+      "options": [
+        "Devant un grand miroir",
+        "Une douche pleine de vapeur à deux",
+        "Un balcon d'hôtel à minuit",
+        "Embuscade sur le comptoir de cuisine"
+      ]
+    },
+    {
+      "id": "qz_18",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans le feu de l'action, qu'est-ce que {p1} adore entendre ?",
+      "options": [
+        "Soupirs et gémissements doux",
+        "Son prénom murmuré lentement",
+        "Compliments osés et directs",
+        "Ordres assurés à son oreille"
+      ]
+    },
+    {
+      "id": "qz_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "prompt": "Si vous testez la domination douce, qu'est-ce qui excite le plus {p1} ?",
+      "options": [
+        "Poignets tenus au-dessus de la tête",
+        "petit défi ludiques puis caresses",
+        "Foulard en soie / bandeau",
+        "Interdire de rendre les baisers"
+      ]
+    },
+    {
+      "id": "qz_20",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "prompt": "Comment {p1} préfère-t-il démarrer les préliminaires ?",
+      "options": [
+        "baiser lent et tendre contre le mur",
+        "Se desserrer lentement yeux dans les yeux",
+        "Mains chaudes sous les vêtements",
+        "laisser la chaleur effleur et mordiller du cou vers le bas"
+      ]
+    },
+    {
+      "id": "qz_v2_01",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#1)",
+      "options": [
+        "Un murmure grave à l'oreille",
+        "L'attirer soudain par la taille",
+        "S'arrêter à 1 cm de ses lèvres",
+        "Caresser sa joue avec tendresse"
+      ]
+    },
+    {
+      "id": "qz_v2_02",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#2)",
+      "options": [
+        "Étreinte de dos et cou",
+        "Croiser nos regards au miroir",
+        "desserrer d'une seule main",
+        "Doigts entrelacés et long baiser"
+      ]
+    },
+    {
+      "id": "qz_v2_03",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#3)",
+      "options": [
+        "Soirée grisée pleine de câlins",
+        "Pluie dehors sous la couette",
+        "Tout juste sorti(e) de la douche",
+        "Porte refermée après un dîner"
+      ]
+    },
+    {
+      "id": "qz_v2_04",
+      "tier": 1,
+      "tags": [
+        "alcohol"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#4)",
+      "options": [
+        "Yeux bandés pur frisson",
+        "Poignets tenus avec douceur",
+        "Souffle brûlant et mordillement",
+        "Préliminaires lents sans montre"
+      ]
+    },
+    {
+      "id": "qz_v2_05",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#5)",
+      "options": [
+        "Un murmure grave à l'oreille",
+        "L'attirer soudain par la taille",
+        "S'arrêter à 1 cm de ses lèvres",
+        "Caresser sa joue avec tendresse"
+      ]
+    },
+    {
+      "id": "qz_v2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#6)",
+      "options": [
+        "Étreinte de dos et cou",
+        "Croiser nos regards au miroir",
+        "desserrer d'une seule main",
+        "Doigts entrelacés et long baiser"
+      ]
+    },
+    {
+      "id": "qz_v2_07",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#7)",
+      "options": [
+        "Soirée grisée pleine de câlins",
+        "Pluie dehors sous la couette",
+        "Tout juste sorti(e) de la douche",
+        "Porte refermée après un dîner"
+      ]
+    },
+    {
+      "id": "qz_v2_08",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#8)",
+      "options": [
+        "Yeux bandés pur frisson",
+        "Poignets tenus avec douceur",
+        "Souffle brûlant et mordillement",
+        "Préliminaires lents sans montre"
+      ]
+    },
+    {
+      "id": "qz_v2_09",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#9)",
+      "options": [
+        "Un murmure grave à l'oreille",
+        "L'attirer soudain par la taille",
+        "S'arrêter à 1 cm de ses lèvres",
+        "Caresser sa joue avec tendresse"
+      ]
+    },
+    {
+      "id": "qz_v2_10",
+      "tier": 2,
+      "tags": [
+        "blindfold"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#10)",
+      "options": [
+        "Étreinte de dos et cou",
+        "Croiser nos regards au miroir",
+        "desserrer d'une seule main",
+        "Doigts entrelacés et long baiser"
+      ]
+    },
+    {
+      "id": "qz_v2_11",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#11)",
+      "options": [
+        "Soirée grisée pleine de câlins",
+        "Pluie dehors sous la couette",
+        "Tout juste sorti(e) de la douche",
+        "Porte refermée après un dîner"
+      ]
+    },
+    {
+      "id": "qz_v2_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#12)",
+      "options": [
+        "Yeux bandés pur frisson",
+        "Poignets tenus avec douceur",
+        "Souffle brûlant et mordillement",
+        "Préliminaires lents sans montre"
+      ]
+    },
+    {
+      "id": "qz_v2_13",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#13)",
+      "options": [
+        "Un murmure grave à l'oreille",
+        "L'attirer soudain par la taille",
+        "S'arrêter à 1 cm de ses lèvres",
+        "Caresser sa joue avec tendresse"
+      ]
+    },
+    {
+      "id": "qz_v2_14",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#14)",
+      "options": [
+        "Étreinte de dos et cou",
+        "Croiser nos regards au miroir",
+        "desserrer d'une seule main",
+        "Doigts entrelacés et long baiser"
+      ]
+    },
+    {
+      "id": "qz_v2_15",
+      "tier": 3,
+      "tags": [
+        "public_space"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#15)",
+      "options": [
+        "Soirée grisée pleine de câlins",
+        "Pluie dehors sous la couette",
+        "Tout juste sorti(e) de la douche",
+        "Porte refermée après un dîner"
+      ]
+    },
+    {
+      "id": "qz_v2_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#16)",
+      "options": [
+        "Yeux bandés pur frisson",
+        "Poignets tenus avec douceur",
+        "Souffle brûlant et mordillement",
+        "Préliminaires lents sans montre"
+      ]
+    },
+    {
+      "id": "qz_v2_17",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#17)",
+      "options": [
+        "Un murmure grave à l'oreille",
+        "L'attirer soudain par la taille",
+        "S'arrêter à 1 cm de ses lèvres",
+        "Caresser sa joue avec tendresse"
+      ]
+    },
+    {
+      "id": "qz_v2_18",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#18)",
+      "options": [
+        "Étreinte de dos et cou",
+        "Croiser nos regards au miroir",
+        "desserrer d'une seule main",
+        "Doigts entrelacés et long baiser"
+      ]
+    },
+    {
+      "id": "qz_v2_19",
+      "tier": 4,
+      "tags": [
+        "blindfold"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#19)",
+      "options": [
+        "Soirée grisée pleine de câlins",
+        "Pluie dehors sous la couette",
+        "Tout juste sorti(e) de la douche",
+        "Porte refermée après un dîner"
+      ]
+    },
+    {
+      "id": "qz_v2_20",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "prompt": "Quel moment fait rougir et battre le plus vite le cœur de {p1} ? (#20)",
+      "options": [
+        "Yeux bandés pur frisson",
+        "Poignets tenus avec douceur",
+        "Souffle brûlant et mordillement",
+        "Préliminaires lents sans montre"
+      ]
+    },
+    {
+      "id": "qz_v21_001",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour un samedi matin paresseux, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Café au lit et longs câlins",
+        "Ouvrir les rideaux sur du jazz",
+        "Film et petit-déj sous la couette",
+        "Sortir directement bruncher"
+      ]
+    },
+    {
+      "id": "qz_v21_002",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour un samedi matin paresseux, quel est son premier choix ?",
+      "options": [
+        "Café au lit et longs câlins",
+        "Ouvrir les rideaux sur du jazz",
+        "Film et petit-déj sous la couette",
+        "Sortir directement bruncher"
+      ]
+    },
+    {
+      "id": "qz_v21_003",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant un samedi matin paresseux ?",
+      "options": [
+        "Café au lit et longs câlins",
+        "Ouvrir les rideaux sur du jazz",
+        "Film et petit-déj sous la couette",
+        "Sortir directement bruncher"
+      ]
+    },
+    {
+      "id": "qz_v21_004",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant un samedi matin paresseux ?",
+      "options": [
+        "Café au lit et longs câlins",
+        "Ouvrir les rideaux sur du jazz",
+        "Film et petit-déj sous la couette",
+        "Sortir directement bruncher"
+      ]
+    },
+    {
+      "id": "qz_v21_005",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers un samedi matin paresseux, que choisirait {p1} ?",
+      "options": [
+        "Café au lit et longs câlins",
+        "Ouvrir les rideaux sur du jazz",
+        "Film et petit-déj sous la couette",
+        "Sortir directement bruncher"
+      ]
+    },
+    {
+      "id": "qz_v21_006",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant un samedi matin paresseux, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Café au lit et longs câlins",
+        "Ouvrir les rideaux sur du jazz",
+        "Film et petit-déj sous la couette",
+        "Sortir directement bruncher"
+      ]
+    },
+    {
+      "id": "qz_v21_007",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour un samedi matin paresseux, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Café au lit et longs câlins",
+        "Ouvrir les rideaux sur du jazz",
+        "Film et petit-déj sous la couette",
+        "Sortir directement bruncher"
+      ]
+    },
+    {
+      "id": "qz_v21_008",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de un samedi matin paresseux, quel moment fait rougir {p1} ?",
+      "options": [
+        "Café au lit et longs câlins",
+        "Ouvrir les rideaux sur du jazz",
+        "Film et petit-déj sous la couette",
+        "Sortir directement bruncher"
+      ]
+    },
+    {
+      "id": "qz_v21_009",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour un samedi matin paresseux, que souhaite secrètement {p1} ?",
+      "options": [
+        "Café au lit et longs câlins",
+        "Ouvrir les rideaux sur du jazz",
+        "Film et petit-déj sous la couette",
+        "Sortir directement bruncher"
+      ]
+    },
+    {
+      "id": "qz_v21_010",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour un samedi matin paresseux, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Café au lit et longs câlins",
+        "Ouvrir les rideaux sur du jazz",
+        "Film et petit-déj sous la couette",
+        "Sortir directement bruncher"
+      ]
+    },
+    {
+      "id": "qz_v21_011",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour un week-end pluvieux, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Bougies parfumées et vieux films",
+        "Vin chaud près de la fenêtre",
+        "Cuisiner un plat réconfortant",
+        "Marcher sous le même parapluie"
+      ]
+    },
+    {
+      "id": "qz_v21_012",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour un week-end pluvieux, quel est son premier choix ?",
+      "options": [
+        "Bougies parfumées et vieux films",
+        "Vin chaud près de la fenêtre",
+        "Cuisiner un plat réconfortant",
+        "Marcher sous le même parapluie"
+      ]
+    },
+    {
+      "id": "qz_v21_013",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant un week-end pluvieux ?",
+      "options": [
+        "Bougies parfumées et vieux films",
+        "Vin chaud près de la fenêtre",
+        "Cuisiner un plat réconfortant",
+        "Marcher sous le même parapluie"
+      ]
+    },
+    {
+      "id": "qz_v21_014",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant un week-end pluvieux ?",
+      "options": [
+        "Bougies parfumées et vieux films",
+        "Vin chaud près de la fenêtre",
+        "Cuisiner un plat réconfortant",
+        "Marcher sous le même parapluie"
+      ]
+    },
+    {
+      "id": "qz_v21_015",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers un week-end pluvieux, que choisirait {p1} ?",
+      "options": [
+        "Bougies parfumées et vieux films",
+        "Vin chaud près de la fenêtre",
+        "Cuisiner un plat réconfortant",
+        "Marcher sous le même parapluie"
+      ]
+    },
+    {
+      "id": "qz_v21_016",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant un week-end pluvieux, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Bougies parfumées et vieux films",
+        "Vin chaud près de la fenêtre",
+        "Cuisiner un plat réconfortant",
+        "Marcher sous le même parapluie"
+      ]
+    },
+    {
+      "id": "qz_v21_017",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour un week-end pluvieux, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Bougies parfumées et vieux films",
+        "Vin chaud près de la fenêtre",
+        "Cuisiner un plat réconfortant",
+        "Marcher sous le même parapluie"
+      ]
+    },
+    {
+      "id": "qz_v21_018",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de un week-end pluvieux, quel moment fait rougir {p1} ?",
+      "options": [
+        "Bougies parfumées et vieux films",
+        "Vin chaud près de la fenêtre",
+        "Cuisiner un plat réconfortant",
+        "Marcher sous le même parapluie"
+      ]
+    },
+    {
+      "id": "qz_v21_019",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour un week-end pluvieux, que souhaite secrètement {p1} ?",
+      "options": [
+        "Bougies parfumées et vieux films",
+        "Vin chaud près de la fenêtre",
+        "Cuisiner un plat réconfortant",
+        "Marcher sous le même parapluie"
+      ]
+    },
+    {
+      "id": "qz_v21_020",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour un week-end pluvieux, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Bougies parfumées et vieux films",
+        "Vin chaud près de la fenêtre",
+        "Cuisiner un plat réconfortant",
+        "Marcher sous le même parapluie"
+      ]
+    },
+    {
+      "id": "qz_v21_021",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour un dîner d'anniversaire, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Toit-terrasse aux bougies",
+        "Dîner maison fait à deux",
+        "Salon panoramique sur la ville",
+        "Brise marine et champagne"
+      ]
+    },
+    {
+      "id": "qz_v21_022",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour un dîner d'anniversaire, quel est son premier choix ?",
+      "options": [
+        "Toit-terrasse aux bougies",
+        "Dîner maison fait à deux",
+        "Salon panoramique sur la ville",
+        "Brise marine et champagne"
+      ]
+    },
+    {
+      "id": "qz_v21_023",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant un dîner d'anniversaire ?",
+      "options": [
+        "Toit-terrasse aux bougies",
+        "Dîner maison fait à deux",
+        "Salon panoramique sur la ville",
+        "Brise marine et champagne"
+      ]
+    },
+    {
+      "id": "qz_v21_024",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant un dîner d'anniversaire ?",
+      "options": [
+        "Toit-terrasse aux bougies",
+        "Dîner maison fait à deux",
+        "Salon panoramique sur la ville",
+        "Brise marine et champagne"
+      ]
+    },
+    {
+      "id": "qz_v21_025",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers un dîner d'anniversaire, que choisirait {p1} ?",
+      "options": [
+        "Toit-terrasse aux bougies",
+        "Dîner maison fait à deux",
+        "Salon panoramique sur la ville",
+        "Brise marine et champagne"
+      ]
+    },
+    {
+      "id": "qz_v21_026",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant un dîner d'anniversaire, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Toit-terrasse aux bougies",
+        "Dîner maison fait à deux",
+        "Salon panoramique sur la ville",
+        "Brise marine et champagne"
+      ]
+    },
+    {
+      "id": "qz_v21_027",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour un dîner d'anniversaire, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Toit-terrasse aux bougies",
+        "Dîner maison fait à deux",
+        "Salon panoramique sur la ville",
+        "Brise marine et champagne"
+      ]
+    },
+    {
+      "id": "qz_v21_028",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de un dîner d'anniversaire, quel moment fait rougir {p1} ?",
+      "options": [
+        "Toit-terrasse aux bougies",
+        "Dîner maison fait à deux",
+        "Salon panoramique sur la ville",
+        "Brise marine et champagne"
+      ]
+    },
+    {
+      "id": "qz_v21_029",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour un dîner d'anniversaire, que souhaite secrètement {p1} ?",
+      "options": [
+        "Toit-terrasse aux bougies",
+        "Dîner maison fait à deux",
+        "Salon panoramique sur la ville",
+        "Brise marine et champagne"
+      ]
+    },
+    {
+      "id": "qz_v21_030",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour un dîner d'anniversaire, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Toit-terrasse aux bougies",
+        "Dîner maison fait à deux",
+        "Salon panoramique sur la ville",
+        "Brise marine et champagne"
+      ]
+    },
+    {
+      "id": "qz_v21_031",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour un long vol ensemble, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Dormir sur l'épaule de l'autre",
+        "Partager les mêmes écouteurs",
+        "Murmurer le programme du voyage",
+        "Mains liées au-dessus des nuages"
+      ]
+    },
+    {
+      "id": "qz_v21_032",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour un long vol ensemble, quel est son premier choix ?",
+      "options": [
+        "Dormir sur l'épaule de l'autre",
+        "Partager les mêmes écouteurs",
+        "Murmurer le programme du voyage",
+        "Mains liées au-dessus des nuages"
+      ]
+    },
+    {
+      "id": "qz_v21_033",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant un long vol ensemble ?",
+      "options": [
+        "Dormir sur l'épaule de l'autre",
+        "Partager les mêmes écouteurs",
+        "Murmurer le programme du voyage",
+        "Mains liées au-dessus des nuages"
+      ]
+    },
+    {
+      "id": "qz_v21_034",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant un long vol ensemble ?",
+      "options": [
+        "Dormir sur l'épaule de l'autre",
+        "Partager les mêmes écouteurs",
+        "Murmurer le programme du voyage",
+        "Mains liées au-dessus des nuages"
+      ]
+    },
+    {
+      "id": "qz_v21_035",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers un long vol ensemble, que choisirait {p1} ?",
+      "options": [
+        "Dormir sur l'épaule de l'autre",
+        "Partager les mêmes écouteurs",
+        "Murmurer le programme du voyage",
+        "Mains liées au-dessus des nuages"
+      ]
+    },
+    {
+      "id": "qz_v21_036",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant un long vol ensemble, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Dormir sur l'épaule de l'autre",
+        "Partager les mêmes écouteurs",
+        "Murmurer le programme du voyage",
+        "Mains liées au-dessus des nuages"
+      ]
+    },
+    {
+      "id": "qz_v21_037",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour un long vol ensemble, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Dormir sur l'épaule de l'autre",
+        "Partager les mêmes écouteurs",
+        "Murmurer le programme du voyage",
+        "Mains liées au-dessus des nuages"
+      ]
+    },
+    {
+      "id": "qz_v21_038",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de un long vol ensemble, quel moment fait rougir {p1} ?",
+      "options": [
+        "Dormir sur l'épaule de l'autre",
+        "Partager les mêmes écouteurs",
+        "Murmurer le programme du voyage",
+        "Mains liées au-dessus des nuages"
+      ]
+    },
+    {
+      "id": "qz_v21_039",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour un long vol ensemble, que souhaite secrètement {p1} ?",
+      "options": [
+        "Dormir sur l'épaule de l'autre",
+        "Partager les mêmes écouteurs",
+        "Murmurer le programme du voyage",
+        "Mains liées au-dessus des nuages"
+      ]
+    },
+    {
+      "id": "qz_v21_040",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour un long vol ensemble, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Dormir sur l'épaule de l'autre",
+        "Partager les mêmes écouteurs",
+        "Murmurer le programme du voyage",
+        "Mains liées au-dessus des nuages"
+      ]
+    },
+    {
+      "id": "qz_v21_041",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour rentrer épuisé le soir, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Une longue étreinte silencieuse",
+        "Massage doux nuque et épaules",
+        "Thé chaud et tenue confortable",
+        "Écouter calmement ma journée"
+      ]
+    },
+    {
+      "id": "qz_v21_042",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour rentrer épuisé le soir, quel est son premier choix ?",
+      "options": [
+        "Une longue étreinte silencieuse",
+        "Massage doux nuque et épaules",
+        "Thé chaud et tenue confortable",
+        "Écouter calmement ma journée"
+      ]
+    },
+    {
+      "id": "qz_v21_043",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant rentrer épuisé le soir ?",
+      "options": [
+        "Une longue étreinte silencieuse",
+        "Massage doux nuque et épaules",
+        "Thé chaud et tenue confortable",
+        "Écouter calmement ma journée"
+      ]
+    },
+    {
+      "id": "qz_v21_044",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant rentrer épuisé le soir ?",
+      "options": [
+        "Une longue étreinte silencieuse",
+        "Massage doux nuque et épaules",
+        "Thé chaud et tenue confortable",
+        "Écouter calmement ma journée"
+      ]
+    },
+    {
+      "id": "qz_v21_045",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers rentrer épuisé le soir, que choisirait {p1} ?",
+      "options": [
+        "Une longue étreinte silencieuse",
+        "Massage doux nuque et épaules",
+        "Thé chaud et tenue confortable",
+        "Écouter calmement ma journée"
+      ]
+    },
+    {
+      "id": "qz_v21_046",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant rentrer épuisé le soir, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Une longue étreinte silencieuse",
+        "Massage doux nuque et épaules",
+        "Thé chaud et tenue confortable",
+        "Écouter calmement ma journée"
+      ]
+    },
+    {
+      "id": "qz_v21_047",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour rentrer épuisé le soir, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Une longue étreinte silencieuse",
+        "Massage doux nuque et épaules",
+        "Thé chaud et tenue confortable",
+        "Écouter calmement ma journée"
+      ]
+    },
+    {
+      "id": "qz_v21_048",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de rentrer épuisé le soir, quel moment fait rougir {p1} ?",
+      "options": [
+        "Une longue étreinte silencieuse",
+        "Massage doux nuque et épaules",
+        "Thé chaud et tenue confortable",
+        "Écouter calmement ma journée"
+      ]
+    },
+    {
+      "id": "qz_v21_049",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour rentrer épuisé le soir, que souhaite secrètement {p1} ?",
+      "options": [
+        "Une longue étreinte silencieuse",
+        "Massage doux nuque et épaules",
+        "Thé chaud et tenue confortable",
+        "Écouter calmement ma journée"
+      ]
+    },
+    {
+      "id": "qz_v21_050",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour rentrer épuisé le soir, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Une longue étreinte silencieuse",
+        "Massage doux nuque et épaules",
+        "Thé chaud et tenue confortable",
+        "Écouter calmement ma journée"
+      ]
+    },
+    {
+      "id": "qz_v21_051",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour un dernier verre à minuit, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Lampe tamisée et confidences",
+        "Slow improvisé dans le salon",
+        "Canapé, grignotage et taquineries",
+        "Air frais du balcon sous les étoiles"
+      ]
+    },
+    {
+      "id": "qz_v21_052",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour un dernier verre à minuit, quel est son premier choix ?",
+      "options": [
+        "Lampe tamisée et confidences",
+        "Slow improvisé dans le salon",
+        "Canapé, grignotage et taquineries",
+        "Air frais du balcon sous les étoiles"
+      ]
+    },
+    {
+      "id": "qz_v21_053",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant un dernier verre à minuit ?",
+      "options": [
+        "Lampe tamisée et confidences",
+        "Slow improvisé dans le salon",
+        "Canapé, grignotage et taquineries",
+        "Air frais du balcon sous les étoiles"
+      ]
+    },
+    {
+      "id": "qz_v21_054",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant un dernier verre à minuit ?",
+      "options": [
+        "Lampe tamisée et confidences",
+        "Slow improvisé dans le salon",
+        "Canapé, grignotage et taquineries",
+        "Air frais du balcon sous les étoiles"
+      ]
+    },
+    {
+      "id": "qz_v21_055",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers un dernier verre à minuit, que choisirait {p1} ?",
+      "options": [
+        "Lampe tamisée et confidences",
+        "Slow improvisé dans le salon",
+        "Canapé, grignotage et taquineries",
+        "Air frais du balcon sous les étoiles"
+      ]
+    },
+    {
+      "id": "qz_v21_056",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant un dernier verre à minuit, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Lampe tamisée et confidences",
+        "Slow improvisé dans le salon",
+        "Canapé, grignotage et taquineries",
+        "Air frais du balcon sous les étoiles"
+      ]
+    },
+    {
+      "id": "qz_v21_057",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour un dernier verre à minuit, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Lampe tamisée et confidences",
+        "Slow improvisé dans le salon",
+        "Canapé, grignotage et taquineries",
+        "Air frais du balcon sous les étoiles"
+      ]
+    },
+    {
+      "id": "qz_v21_058",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de un dernier verre à minuit, quel moment fait rougir {p1} ?",
+      "options": [
+        "Lampe tamisée et confidences",
+        "Slow improvisé dans le salon",
+        "Canapé, grignotage et taquineries",
+        "Air frais du balcon sous les étoiles"
+      ]
+    },
+    {
+      "id": "qz_v21_059",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour un dernier verre à minuit, que souhaite secrètement {p1} ?",
+      "options": [
+        "Lampe tamisée et confidences",
+        "Slow improvisé dans le salon",
+        "Canapé, grignotage et taquineries",
+        "Air frais du balcon sous les étoiles"
+      ]
+    },
+    {
+      "id": "qz_v21_060",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour un dernier verre à minuit, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Lampe tamisée et confidences",
+        "Slow improvisé dans le salon",
+        "Canapé, grignotage et taquineries",
+        "Air frais du balcon sous les étoiles"
+      ]
+    },
+    {
+      "id": "qz_v21_061",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour flâner en librairie, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Choisir un livre secret pour l'autre",
+        "Partager une phrase tout bas",
+        "Lire côte à côte au café",
+        "Feuilleter des guides de voyage"
+      ]
+    },
+    {
+      "id": "qz_v21_062",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour flâner en librairie, quel est son premier choix ?",
+      "options": [
+        "Choisir un livre secret pour l'autre",
+        "Partager une phrase tout bas",
+        "Lire côte à côte au café",
+        "Feuilleter des guides de voyage"
+      ]
+    },
+    {
+      "id": "qz_v21_063",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant flâner en librairie ?",
+      "options": [
+        "Choisir un livre secret pour l'autre",
+        "Partager une phrase tout bas",
+        "Lire côte à côte au café",
+        "Feuilleter des guides de voyage"
+      ]
+    },
+    {
+      "id": "qz_v21_064",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant flâner en librairie ?",
+      "options": [
+        "Choisir un livre secret pour l'autre",
+        "Partager une phrase tout bas",
+        "Lire côte à côte au café",
+        "Feuilleter des guides de voyage"
+      ]
+    },
+    {
+      "id": "qz_v21_065",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers flâner en librairie, que choisirait {p1} ?",
+      "options": [
+        "Choisir un livre secret pour l'autre",
+        "Partager une phrase tout bas",
+        "Lire côte à côte au café",
+        "Feuilleter des guides de voyage"
+      ]
+    },
+    {
+      "id": "qz_v21_066",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant flâner en librairie, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Choisir un livre secret pour l'autre",
+        "Partager une phrase tout bas",
+        "Lire côte à côte au café",
+        "Feuilleter des guides de voyage"
+      ]
+    },
+    {
+      "id": "qz_v21_067",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour flâner en librairie, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Choisir un livre secret pour l'autre",
+        "Partager une phrase tout bas",
+        "Lire côte à côte au café",
+        "Feuilleter des guides de voyage"
+      ]
+    },
+    {
+      "id": "qz_v21_068",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de flâner en librairie, quel moment fait rougir {p1} ?",
+      "options": [
+        "Choisir un livre secret pour l'autre",
+        "Partager une phrase tout bas",
+        "Lire côte à côte au café",
+        "Feuilleter des guides de voyage"
+      ]
+    },
+    {
+      "id": "qz_v21_069",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour flâner en librairie, que souhaite secrètement {p1} ?",
+      "options": [
+        "Choisir un livre secret pour l'autre",
+        "Partager une phrase tout bas",
+        "Lire côte à côte au café",
+        "Feuilleter des guides de voyage"
+      ]
+    },
+    {
+      "id": "qz_v21_070",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour flâner en librairie, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Choisir un livre secret pour l'autre",
+        "Partager une phrase tout bas",
+        "Lire côte à côte au café",
+        "Feuilleter des guides de voyage"
+      ]
+    },
+    {
+      "id": "qz_v21_071",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour balade au coucher du soleil, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Pieds nus main dans la main",
+        "Regarder le crépuscule collés",
+        "Voler un baiser sur la joue",
+        "Photos de silhouettes dorées"
+      ]
+    },
+    {
+      "id": "qz_v21_072",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour balade au coucher du soleil, quel est son premier choix ?",
+      "options": [
+        "Pieds nus main dans la main",
+        "Regarder le crépuscule collés",
+        "Voler un baiser sur la joue",
+        "Photos de silhouettes dorées"
+      ]
+    },
+    {
+      "id": "qz_v21_073",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant balade au coucher du soleil ?",
+      "options": [
+        "Pieds nus main dans la main",
+        "Regarder le crépuscule collés",
+        "Voler un baiser sur la joue",
+        "Photos de silhouettes dorées"
+      ]
+    },
+    {
+      "id": "qz_v21_074",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant balade au coucher du soleil ?",
+      "options": [
+        "Pieds nus main dans la main",
+        "Regarder le crépuscule collés",
+        "Voler un baiser sur la joue",
+        "Photos de silhouettes dorées"
+      ]
+    },
+    {
+      "id": "qz_v21_075",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers balade au coucher du soleil, que choisirait {p1} ?",
+      "options": [
+        "Pieds nus main dans la main",
+        "Regarder le crépuscule collés",
+        "Voler un baiser sur la joue",
+        "Photos de silhouettes dorées"
+      ]
+    },
+    {
+      "id": "qz_v21_076",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant balade au coucher du soleil, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Pieds nus main dans la main",
+        "Regarder le crépuscule collés",
+        "Voler un baiser sur la joue",
+        "Photos de silhouettes dorées"
+      ]
+    },
+    {
+      "id": "qz_v21_077",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour balade au coucher du soleil, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Pieds nus main dans la main",
+        "Regarder le crépuscule collés",
+        "Voler un baiser sur la joue",
+        "Photos de silhouettes dorées"
+      ]
+    },
+    {
+      "id": "qz_v21_078",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de balade au coucher du soleil, quel moment fait rougir {p1} ?",
+      "options": [
+        "Pieds nus main dans la main",
+        "Regarder le crépuscule collés",
+        "Voler un baiser sur la joue",
+        "Photos de silhouettes dorées"
+      ]
+    },
+    {
+      "id": "qz_v21_079",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour balade au coucher du soleil, que souhaite secrètement {p1} ?",
+      "options": [
+        "Pieds nus main dans la main",
+        "Regarder le crépuscule collés",
+        "Voler un baiser sur la joue",
+        "Photos de silhouettes dorées"
+      ]
+    },
+    {
+      "id": "qz_v21_080",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour balade au coucher du soleil, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Pieds nus main dans la main",
+        "Regarder le crépuscule collés",
+        "Voler un baiser sur la joue",
+        "Photos de silhouettes dorées"
+      ]
+    },
+    {
+      "id": "qz_v21_081",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour chalet au coin du feu, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Blottis sous le même plaid",
+        "Chocolat chaud et jeux",
+        "Écouter crépiter les bûches",
+        "Lettres secrètes pour l'an prochain"
+      ]
+    },
+    {
+      "id": "qz_v21_082",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour chalet au coin du feu, quel est son premier choix ?",
+      "options": [
+        "Blottis sous le même plaid",
+        "Chocolat chaud et jeux",
+        "Écouter crépiter les bûches",
+        "Lettres secrètes pour l'an prochain"
+      ]
+    },
+    {
+      "id": "qz_v21_083",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant chalet au coin du feu ?",
+      "options": [
+        "Blottis sous le même plaid",
+        "Chocolat chaud et jeux",
+        "Écouter crépiter les bûches",
+        "Lettres secrètes pour l'an prochain"
+      ]
+    },
+    {
+      "id": "qz_v21_084",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant chalet au coin du feu ?",
+      "options": [
+        "Blottis sous le même plaid",
+        "Chocolat chaud et jeux",
+        "Écouter crépiter les bûches",
+        "Lettres secrètes pour l'an prochain"
+      ]
+    },
+    {
+      "id": "qz_v21_085",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers chalet au coin du feu, que choisirait {p1} ?",
+      "options": [
+        "Blottis sous le même plaid",
+        "Chocolat chaud et jeux",
+        "Écouter crépiter les bûches",
+        "Lettres secrètes pour l'an prochain"
+      ]
+    },
+    {
+      "id": "qz_v21_086",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant chalet au coin du feu, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Blottis sous le même plaid",
+        "Chocolat chaud et jeux",
+        "Écouter crépiter les bûches",
+        "Lettres secrètes pour l'an prochain"
+      ]
+    },
+    {
+      "id": "qz_v21_087",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour chalet au coin du feu, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Blottis sous le même plaid",
+        "Chocolat chaud et jeux",
+        "Écouter crépiter les bûches",
+        "Lettres secrètes pour l'an prochain"
+      ]
+    },
+    {
+      "id": "qz_v21_088",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de chalet au coin du feu, quel moment fait rougir {p1} ?",
+      "options": [
+        "Blottis sous le même plaid",
+        "Chocolat chaud et jeux",
+        "Écouter crépiter les bûches",
+        "Lettres secrètes pour l'an prochain"
+      ]
+    },
+    {
+      "id": "qz_v21_089",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour chalet au coin du feu, que souhaite secrètement {p1} ?",
+      "options": [
+        "Blottis sous le même plaid",
+        "Chocolat chaud et jeux",
+        "Écouter crépiter les bûches",
+        "Lettres secrètes pour l'an prochain"
+      ]
+    },
+    {
+      "id": "qz_v21_090",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour chalet au coin du feu, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Blottis sous le même plaid",
+        "Chocolat chaud et jeux",
+        "Écouter crépiter les bûches",
+        "Lettres secrètes pour l'an prochain"
+      ]
+    },
+    {
+      "id": "qz_v21_091",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour soirée aux chandelles, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Action ou vérité à la bougie",
+        "Musique acoustique douce",
+        "Ombres chinoises sur le mur",
+        "Écouter nos cœurs enlacés"
+      ]
+    },
+    {
+      "id": "qz_v21_092",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour soirée aux chandelles, quel est son premier choix ?",
+      "options": [
+        "Action ou vérité à la bougie",
+        "Musique acoustique douce",
+        "Ombres chinoises sur le mur",
+        "Écouter nos cœurs enlacés"
+      ]
+    },
+    {
+      "id": "qz_v21_093",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant soirée aux chandelles ?",
+      "options": [
+        "Action ou vérité à la bougie",
+        "Musique acoustique douce",
+        "Ombres chinoises sur le mur",
+        "Écouter nos cœurs enlacés"
+      ]
+    },
+    {
+      "id": "qz_v21_094",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant soirée aux chandelles ?",
+      "options": [
+        "Action ou vérité à la bougie",
+        "Musique acoustique douce",
+        "Ombres chinoises sur le mur",
+        "Écouter nos cœurs enlacés"
+      ]
+    },
+    {
+      "id": "qz_v21_095",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers soirée aux chandelles, que choisirait {p1} ?",
+      "options": [
+        "Action ou vérité à la bougie",
+        "Musique acoustique douce",
+        "Ombres chinoises sur le mur",
+        "Écouter nos cœurs enlacés"
+      ]
+    },
+    {
+      "id": "qz_v21_096",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant soirée aux chandelles, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Action ou vérité à la bougie",
+        "Musique acoustique douce",
+        "Ombres chinoises sur le mur",
+        "Écouter nos cœurs enlacés"
+      ]
+    },
+    {
+      "id": "qz_v21_097",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour soirée aux chandelles, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Action ou vérité à la bougie",
+        "Musique acoustique douce",
+        "Ombres chinoises sur le mur",
+        "Écouter nos cœurs enlacés"
+      ]
+    },
+    {
+      "id": "qz_v21_098",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de soirée aux chandelles, quel moment fait rougir {p1} ?",
+      "options": [
+        "Action ou vérité à la bougie",
+        "Musique acoustique douce",
+        "Ombres chinoises sur le mur",
+        "Écouter nos cœurs enlacés"
+      ]
+    },
+    {
+      "id": "qz_v21_099",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour soirée aux chandelles, que souhaite secrètement {p1} ?",
+      "options": [
+        "Action ou vérité à la bougie",
+        "Musique acoustique douce",
+        "Ombres chinoises sur le mur",
+        "Écouter nos cœurs enlacés"
+      ]
+    },
+    {
+      "id": "qz_v21_100",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour soirée aux chandelles, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Action ou vérité à la bougie",
+        "Musique acoustique douce",
+        "Ombres chinoises sur le mur",
+        "Écouter nos cœurs enlacés"
+      ]
+    },
+    {
+      "id": "qz_v21_101",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour marché du week-end matin, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Choisir des fleurs fraîches",
+        "Partager une gourmandise chaude",
+        "Acheter de quoi cuisiner",
+        "Café au soleil en terrasse"
+      ]
+    },
+    {
+      "id": "qz_v21_102",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour marché du week-end matin, quel est son premier choix ?",
+      "options": [
+        "Choisir des fleurs fraîches",
+        "Partager une gourmandise chaude",
+        "Acheter de quoi cuisiner",
+        "Café au soleil en terrasse"
+      ]
+    },
+    {
+      "id": "qz_v21_103",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant marché du week-end matin ?",
+      "options": [
+        "Choisir des fleurs fraîches",
+        "Partager une gourmandise chaude",
+        "Acheter de quoi cuisiner",
+        "Café au soleil en terrasse"
+      ]
+    },
+    {
+      "id": "qz_v21_104",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant marché du week-end matin ?",
+      "options": [
+        "Choisir des fleurs fraîches",
+        "Partager une gourmandise chaude",
+        "Acheter de quoi cuisiner",
+        "Café au soleil en terrasse"
+      ]
+    },
+    {
+      "id": "qz_v21_105",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers marché du week-end matin, que choisirait {p1} ?",
+      "options": [
+        "Choisir des fleurs fraîches",
+        "Partager une gourmandise chaude",
+        "Acheter de quoi cuisiner",
+        "Café au soleil en terrasse"
+      ]
+    },
+    {
+      "id": "qz_v21_106",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant marché du week-end matin, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Choisir des fleurs fraîches",
+        "Partager une gourmandise chaude",
+        "Acheter de quoi cuisiner",
+        "Café au soleil en terrasse"
+      ]
+    },
+    {
+      "id": "qz_v21_107",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour marché du week-end matin, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Choisir des fleurs fraîches",
+        "Partager une gourmandise chaude",
+        "Acheter de quoi cuisiner",
+        "Café au soleil en terrasse"
+      ]
+    },
+    {
+      "id": "qz_v21_108",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de marché du week-end matin, quel moment fait rougir {p1} ?",
+      "options": [
+        "Choisir des fleurs fraîches",
+        "Partager une gourmandise chaude",
+        "Acheter de quoi cuisiner",
+        "Café au soleil en terrasse"
+      ]
+    },
+    {
+      "id": "qz_v21_109",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour marché du week-end matin, que souhaite secrètement {p1} ?",
+      "options": [
+        "Choisir des fleurs fraîches",
+        "Partager une gourmandise chaude",
+        "Acheter de quoi cuisiner",
+        "Café au soleil en terrasse"
+      ]
+    },
+    {
+      "id": "qz_v21_110",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour marché du week-end matin, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Choisir des fleurs fraîches",
+        "Partager une gourmandise chaude",
+        "Acheter de quoi cuisiner",
+        "Café au soleil en terrasse"
+      ]
+    },
+    {
+      "id": "qz_v21_111",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour cinéma privé à minuit, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Blotti contre son épaule",
+        "Effleurer ses doigts en secret",
+        "Chuchoter sur le scénario",
+        "Baisers lents avant le générique"
+      ]
+    },
+    {
+      "id": "qz_v21_112",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour cinéma privé à minuit, quel est son premier choix ?",
+      "options": [
+        "Blotti contre son épaule",
+        "Effleurer ses doigts en secret",
+        "Chuchoter sur le scénario",
+        "Baisers lents avant le générique"
+      ]
+    },
+    {
+      "id": "qz_v21_113",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant cinéma privé à minuit ?",
+      "options": [
+        "Blotti contre son épaule",
+        "Effleurer ses doigts en secret",
+        "Chuchoter sur le scénario",
+        "Baisers lents avant le générique"
+      ]
+    },
+    {
+      "id": "qz_v21_114",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant cinéma privé à minuit ?",
+      "options": [
+        "Blotti contre son épaule",
+        "Effleurer ses doigts en secret",
+        "Chuchoter sur le scénario",
+        "Baisers lents avant le générique"
+      ]
+    },
+    {
+      "id": "qz_v21_115",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers cinéma privé à minuit, que choisirait {p1} ?",
+      "options": [
+        "Blotti contre son épaule",
+        "Effleurer ses doigts en secret",
+        "Chuchoter sur le scénario",
+        "Baisers lents avant le générique"
+      ]
+    },
+    {
+      "id": "qz_v21_116",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant cinéma privé à minuit, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Blotti contre son épaule",
+        "Effleurer ses doigts en secret",
+        "Chuchoter sur le scénario",
+        "Baisers lents avant le générique"
+      ]
+    },
+    {
+      "id": "qz_v21_117",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour cinéma privé à minuit, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Blotti contre son épaule",
+        "Effleurer ses doigts en secret",
+        "Chuchoter sur le scénario",
+        "Baisers lents avant le générique"
+      ]
+    },
+    {
+      "id": "qz_v21_118",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de cinéma privé à minuit, quel moment fait rougir {p1} ?",
+      "options": [
+        "Blotti contre son épaule",
+        "Effleurer ses doigts en secret",
+        "Chuchoter sur le scénario",
+        "Baisers lents avant le générique"
+      ]
+    },
+    {
+      "id": "qz_v21_119",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour cinéma privé à minuit, que souhaite secrètement {p1} ?",
+      "options": [
+        "Blotti contre son épaule",
+        "Effleurer ses doigts en secret",
+        "Chuchoter sur le scénario",
+        "Baisers lents avant le générique"
+      ]
+    },
+    {
+      "id": "qz_v21_120",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour cinéma privé à minuit, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Blotti contre son épaule",
+        "Effleurer ses doigts en secret",
+        "Chuchoter sur le scénario",
+        "Baisers lents avant le générique"
+      ]
+    },
+    {
+      "id": "qz_v21_121",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour préparer une surprise, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Réserver un hôtel intimiste",
+        "Écrire une lettre sincère",
+        "Recréer notre premier rendez-vous",
+        "Offrir une petite envie notée"
+      ]
+    },
+    {
+      "id": "qz_v21_122",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour préparer une surprise, quel est son premier choix ?",
+      "options": [
+        "Réserver un hôtel intimiste",
+        "Écrire une lettre sincère",
+        "Recréer notre premier rendez-vous",
+        "Offrir une petite envie notée"
+      ]
+    },
+    {
+      "id": "qz_v21_123",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant préparer une surprise ?",
+      "options": [
+        "Réserver un hôtel intimiste",
+        "Écrire une lettre sincère",
+        "Recréer notre premier rendez-vous",
+        "Offrir une petite envie notée"
+      ]
+    },
+    {
+      "id": "qz_v21_124",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant préparer une surprise ?",
+      "options": [
+        "Réserver un hôtel intimiste",
+        "Écrire une lettre sincère",
+        "Recréer notre premier rendez-vous",
+        "Offrir une petite envie notée"
+      ]
+    },
+    {
+      "id": "qz_v21_125",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers préparer une surprise, que choisirait {p1} ?",
+      "options": [
+        "Réserver un hôtel intimiste",
+        "Écrire une lettre sincère",
+        "Recréer notre premier rendez-vous",
+        "Offrir une petite envie notée"
+      ]
+    },
+    {
+      "id": "qz_v21_126",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant préparer une surprise, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Réserver un hôtel intimiste",
+        "Écrire une lettre sincère",
+        "Recréer notre premier rendez-vous",
+        "Offrir une petite envie notée"
+      ]
+    },
+    {
+      "id": "qz_v21_127",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour préparer une surprise, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Réserver un hôtel intimiste",
+        "Écrire une lettre sincère",
+        "Recréer notre premier rendez-vous",
+        "Offrir une petite envie notée"
+      ]
+    },
+    {
+      "id": "qz_v21_128",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de préparer une surprise, quel moment fait rougir {p1} ?",
+      "options": [
+        "Réserver un hôtel intimiste",
+        "Écrire une lettre sincère",
+        "Recréer notre premier rendez-vous",
+        "Offrir une petite envie notée"
+      ]
+    },
+    {
+      "id": "qz_v21_129",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour préparer une surprise, que souhaite secrètement {p1} ?",
+      "options": [
+        "Réserver un hôtel intimiste",
+        "Écrire une lettre sincère",
+        "Recréer notre premier rendez-vous",
+        "Offrir une petite envie notée"
+      ]
+    },
+    {
+      "id": "qz_v21_130",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour préparer une surprise, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Réserver un hôtel intimiste",
+        "Écrire une lettre sincère",
+        "Recréer notre premier rendez-vous",
+        "Offrir une petite envie notée"
+      ]
+    },
+    {
+      "id": "qz_v21_131",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour après-midi doux au balcon, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Sieste au soleil côte à côte",
+        "Crème mains parfumée à deux",
+        "Boissons glacées et rires",
+        "Photos volées au naturel"
+      ]
+    },
+    {
+      "id": "qz_v21_132",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour après-midi doux au balcon, quel est son premier choix ?",
+      "options": [
+        "Sieste au soleil côte à côte",
+        "Crème mains parfumée à deux",
+        "Boissons glacées et rires",
+        "Photos volées au naturel"
+      ]
+    },
+    {
+      "id": "qz_v21_133",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant après-midi doux au balcon ?",
+      "options": [
+        "Sieste au soleil côte à côte",
+        "Crème mains parfumée à deux",
+        "Boissons glacées et rires",
+        "Photos volées au naturel"
+      ]
+    },
+    {
+      "id": "qz_v21_134",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant après-midi doux au balcon ?",
+      "options": [
+        "Sieste au soleil côte à côte",
+        "Crème mains parfumée à deux",
+        "Boissons glacées et rires",
+        "Photos volées au naturel"
+      ]
+    },
+    {
+      "id": "qz_v21_135",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers après-midi doux au balcon, que choisirait {p1} ?",
+      "options": [
+        "Sieste au soleil côte à côte",
+        "Crème mains parfumée à deux",
+        "Boissons glacées et rires",
+        "Photos volées au naturel"
+      ]
+    },
+    {
+      "id": "qz_v21_136",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant après-midi doux au balcon, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Sieste au soleil côte à côte",
+        "Crème mains parfumée à deux",
+        "Boissons glacées et rires",
+        "Photos volées au naturel"
+      ]
+    },
+    {
+      "id": "qz_v21_137",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour après-midi doux au balcon, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Sieste au soleil côte à côte",
+        "Crème mains parfumée à deux",
+        "Boissons glacées et rires",
+        "Photos volées au naturel"
+      ]
+    },
+    {
+      "id": "qz_v21_138",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de après-midi doux au balcon, quel moment fait rougir {p1} ?",
+      "options": [
+        "Sieste au soleil côte à côte",
+        "Crème mains parfumée à deux",
+        "Boissons glacées et rires",
+        "Photos volées au naturel"
+      ]
+    },
+    {
+      "id": "qz_v21_139",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour après-midi doux au balcon, que souhaite secrètement {p1} ?",
+      "options": [
+        "Sieste au soleil côte à côte",
+        "Crème mains parfumée à deux",
+        "Boissons glacées et rires",
+        "Photos volées au naturel"
+      ]
+    },
+    {
+      "id": "qz_v21_140",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour après-midi doux au balcon, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Sieste au soleil côte à côte",
+        "Crème mains parfumée à deux",
+        "Boissons glacées et rires",
+        "Photos volées au naturel"
+      ]
+    },
+    {
+      "id": "qz_v21_141",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour échange de cadeaux, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Chasse aux indices dans la pièce",
+        "Deviner au toucher yeux bandés",
+        "Glisser un bon à souhait",
+        "Déballer et essayer aussitôt"
+      ]
+    },
+    {
+      "id": "qz_v21_142",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour échange de cadeaux, quel est son premier choix ?",
+      "options": [
+        "Chasse aux indices dans la pièce",
+        "Deviner au toucher yeux bandés",
+        "Glisser un bon à souhait",
+        "Déballer et essayer aussitôt"
+      ]
+    },
+    {
+      "id": "qz_v21_143",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant échange de cadeaux ?",
+      "options": [
+        "Chasse aux indices dans la pièce",
+        "Deviner au toucher yeux bandés",
+        "Glisser un bon à souhait",
+        "Déballer et essayer aussitôt"
+      ]
+    },
+    {
+      "id": "qz_v21_144",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant échange de cadeaux ?",
+      "options": [
+        "Chasse aux indices dans la pièce",
+        "Deviner au toucher yeux bandés",
+        "Glisser un bon à souhait",
+        "Déballer et essayer aussitôt"
+      ]
+    },
+    {
+      "id": "qz_v21_145",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers échange de cadeaux, que choisirait {p1} ?",
+      "options": [
+        "Chasse aux indices dans la pièce",
+        "Deviner au toucher yeux bandés",
+        "Glisser un bon à souhait",
+        "Déballer et essayer aussitôt"
+      ]
+    },
+    {
+      "id": "qz_v21_146",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant échange de cadeaux, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Chasse aux indices dans la pièce",
+        "Deviner au toucher yeux bandés",
+        "Glisser un bon à souhait",
+        "Déballer et essayer aussitôt"
+      ]
+    },
+    {
+      "id": "qz_v21_147",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour échange de cadeaux, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Chasse aux indices dans la pièce",
+        "Deviner au toucher yeux bandés",
+        "Glisser un bon à souhait",
+        "Déballer et essayer aussitôt"
+      ]
+    },
+    {
+      "id": "qz_v21_148",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de échange de cadeaux, quel moment fait rougir {p1} ?",
+      "options": [
+        "Chasse aux indices dans la pièce",
+        "Deviner au toucher yeux bandés",
+        "Glisser un bon à souhait",
+        "Déballer et essayer aussitôt"
+      ]
+    },
+    {
+      "id": "qz_v21_149",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour échange de cadeaux, que souhaite secrètement {p1} ?",
+      "options": [
+        "Chasse aux indices dans la pièce",
+        "Deviner au toucher yeux bandés",
+        "Glisser un bon à souhait",
+        "Déballer et essayer aussitôt"
+      ]
+    },
+    {
+      "id": "qz_v21_150",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour échange de cadeaux, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Chasse aux indices dans la pièce",
+        "Deviner au toucher yeux bandés",
+        "Glisser un bon à souhait",
+        "Déballer et essayer aussitôt"
+      ]
+    },
+    {
+      "id": "qz_v21_151",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour première seconde de retrouvailles, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Courir dans ses bras serrés",
+        "Regard intense et baiser au front",
+        "Doigts entrelacés sans lâcher",
+        "Passer la main dans ses cheveux"
+      ]
+    },
+    {
+      "id": "qz_v21_152",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour première seconde de retrouvailles, quel est son premier choix ?",
+      "options": [
+        "Courir dans ses bras serrés",
+        "Regard intense et baiser au front",
+        "Doigts entrelacés sans lâcher",
+        "Passer la main dans ses cheveux"
+      ]
+    },
+    {
+      "id": "qz_v21_153",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant première seconde de retrouvailles ?",
+      "options": [
+        "Courir dans ses bras serrés",
+        "Regard intense et baiser au front",
+        "Doigts entrelacés sans lâcher",
+        "Passer la main dans ses cheveux"
+      ]
+    },
+    {
+      "id": "qz_v21_154",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant première seconde de retrouvailles ?",
+      "options": [
+        "Courir dans ses bras serrés",
+        "Regard intense et baiser au front",
+        "Doigts entrelacés sans lâcher",
+        "Passer la main dans ses cheveux"
+      ]
+    },
+    {
+      "id": "qz_v21_155",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers première seconde de retrouvailles, que choisirait {p1} ?",
+      "options": [
+        "Courir dans ses bras serrés",
+        "Regard intense et baiser au front",
+        "Doigts entrelacés sans lâcher",
+        "Passer la main dans ses cheveux"
+      ]
+    },
+    {
+      "id": "qz_v21_156",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant première seconde de retrouvailles, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Courir dans ses bras serrés",
+        "Regard intense et baiser au front",
+        "Doigts entrelacés sans lâcher",
+        "Passer la main dans ses cheveux"
+      ]
+    },
+    {
+      "id": "qz_v21_157",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour première seconde de retrouvailles, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Courir dans ses bras serrés",
+        "Regard intense et baiser au front",
+        "Doigts entrelacés sans lâcher",
+        "Passer la main dans ses cheveux"
+      ]
+    },
+    {
+      "id": "qz_v21_158",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de première seconde de retrouvailles, quel moment fait rougir {p1} ?",
+      "options": [
+        "Courir dans ses bras serrés",
+        "Regard intense et baiser au front",
+        "Doigts entrelacés sans lâcher",
+        "Passer la main dans ses cheveux"
+      ]
+    },
+    {
+      "id": "qz_v21_159",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour première seconde de retrouvailles, que souhaite secrètement {p1} ?",
+      "options": [
+        "Courir dans ses bras serrés",
+        "Regard intense et baiser au front",
+        "Doigts entrelacés sans lâcher",
+        "Passer la main dans ses cheveux"
+      ]
+    },
+    {
+      "id": "qz_v21_160",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour première seconde de retrouvailles, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Courir dans ses bras serrés",
+        "Regard intense et baiser au front",
+        "Doigts entrelacés sans lâcher",
+        "Passer la main dans ses cheveux"
+      ]
+    },
+    {
+      "id": "qz_v21_161",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour rituel 30 min avant de dormir, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Sans téléphone, souvenirs du jour",
+        "Massage doux et soin hydratant",
+        "Un compliment murmuré à l'oreille",
+        "Front contre front jusqu'au sommeil"
+      ]
+    },
+    {
+      "id": "qz_v21_162",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour rituel 30 min avant de dormir, quel est son premier choix ?",
+      "options": [
+        "Sans téléphone, souvenirs du jour",
+        "Massage doux et soin hydratant",
+        "Un compliment murmuré à l'oreille",
+        "Front contre front jusqu'au sommeil"
+      ]
+    },
+    {
+      "id": "qz_v21_163",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant rituel 30 min avant de dormir ?",
+      "options": [
+        "Sans téléphone, souvenirs du jour",
+        "Massage doux et soin hydratant",
+        "Un compliment murmuré à l'oreille",
+        "Front contre front jusqu'au sommeil"
+      ]
+    },
+    {
+      "id": "qz_v21_164",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant rituel 30 min avant de dormir ?",
+      "options": [
+        "Sans téléphone, souvenirs du jour",
+        "Massage doux et soin hydratant",
+        "Un compliment murmuré à l'oreille",
+        "Front contre front jusqu'au sommeil"
+      ]
+    },
+    {
+      "id": "qz_v21_165",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers rituel 30 min avant de dormir, que choisirait {p1} ?",
+      "options": [
+        "Sans téléphone, souvenirs du jour",
+        "Massage doux et soin hydratant",
+        "Un compliment murmuré à l'oreille",
+        "Front contre front jusqu'au sommeil"
+      ]
+    },
+    {
+      "id": "qz_v21_166",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant rituel 30 min avant de dormir, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Sans téléphone, souvenirs du jour",
+        "Massage doux et soin hydratant",
+        "Un compliment murmuré à l'oreille",
+        "Front contre front jusqu'au sommeil"
+      ]
+    },
+    {
+      "id": "qz_v21_167",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour rituel 30 min avant de dormir, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Sans téléphone, souvenirs du jour",
+        "Massage doux et soin hydratant",
+        "Un compliment murmuré à l'oreille",
+        "Front contre front jusqu'au sommeil"
+      ]
+    },
+    {
+      "id": "qz_v21_168",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de rituel 30 min avant de dormir, quel moment fait rougir {p1} ?",
+      "options": [
+        "Sans téléphone, souvenirs du jour",
+        "Massage doux et soin hydratant",
+        "Un compliment murmuré à l'oreille",
+        "Front contre front jusqu'au sommeil"
+      ]
+    },
+    {
+      "id": "qz_v21_169",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour rituel 30 min avant de dormir, que souhaite secrètement {p1} ?",
+      "options": [
+        "Sans téléphone, souvenirs du jour",
+        "Massage doux et soin hydratant",
+        "Un compliment murmuré à l'oreille",
+        "Front contre front jusqu'au sommeil"
+      ]
+    },
+    {
+      "id": "qz_v21_170",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour rituel 30 min avant de dormir, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Sans téléphone, souvenirs du jour",
+        "Massage doux et soin hydratant",
+        "Un compliment murmuré à l'oreille",
+        "Front contre front jusqu'au sommeil"
+      ]
+    },
+    {
+      "id": "qz_v21_171",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour vacances lentes rêvées, qu'est-ce qui fait craquer {p1} aussitôt ?",
+      "options": [
+        "Une semaine face à l'océan",
+        "Flâner dans de petits villages",
+        "Sources chaudes et gastronomie",
+        "Road trip sans horaire"
+      ]
+    },
+    {
+      "id": "qz_v21_172",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Si {p1} décide du rythme pour vacances lentes rêvées, quel est son premier choix ?",
+      "options": [
+        "Une semaine face à l'océan",
+        "Flâner dans de petits villages",
+        "Sources chaudes et gastronomie",
+        "Road trip sans horaire"
+      ]
+    },
+    {
+      "id": "qz_v21_173",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "En secret, qu'attend {p1} le plus pendant vacances lentes rêvées ?",
+      "options": [
+        "Une semaine face à l'océan",
+        "Flâner dans de petits villages",
+        "Sources chaudes et gastronomie",
+        "Road trip sans horaire"
+      ]
+    },
+    {
+      "id": "qz_v21_174",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Quel geste fait sourire {p1} à coup sûr pendant vacances lentes rêvées ?",
+      "options": [
+        "Une semaine face à l'océan",
+        "Flâner dans de petits villages",
+        "Sources chaudes et gastronomie",
+        "Road trip sans horaire"
+      ]
+    },
+    {
+      "id": "qz_v21_175",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Si nous filions tout de suite vers vacances lentes rêvées, que choisirait {p1} ?",
+      "options": [
+        "Une semaine face à l'océan",
+        "Flâner dans de petits villages",
+        "Sources chaudes et gastronomie",
+        "Road trip sans horaire"
+      ]
+    },
+    {
+      "id": "qz_v21_176",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "prompt": "Pendant vacances lentes rêvées, quelle surprise fait battre le cœur de {p1} ?",
+      "options": [
+        "Une semaine face à l'océan",
+        "Flâner dans de petits villages",
+        "Sources chaudes et gastronomie",
+        "Road trip sans horaire"
+      ]
+    },
+    {
+      "id": "qz_v21_177",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Pour vacances lentes rêvées, quelle attention romantique charme le plus {p1} ?",
+      "options": [
+        "Une semaine face à l'océan",
+        "Flâner dans de petits villages",
+        "Sources chaudes et gastronomie",
+        "Road trip sans horaire"
+      ]
+    },
+    {
+      "id": "qz_v21_178",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Dans la douceur de vacances lentes rêvées, quel moment fait rougir {p1} ?",
+      "options": [
+        "Une semaine face à l'océan",
+        "Flâner dans de petits villages",
+        "Sources chaudes et gastronomie",
+        "Road trip sans horaire"
+      ]
+    },
+    {
+      "id": "qz_v21_179",
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Rien qu'à deux pour vacances lentes rêvées, que souhaite secrètement {p1} ?",
+      "options": [
+        "Une semaine face à l'océan",
+        "Flâner dans de petits villages",
+        "Sources chaudes et gastronomie",
+        "Road trip sans horaire"
+      ]
+    },
+    {
+      "id": "qz_v21_180",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ],
+      "prompt": "Quand la soirée s'adoucit pour vacances lentes rêvées, qu'est-ce qui plaît le plus à {p1} ?",
+      "options": [
+        "Une semaine face à l'océan",
+        "Flâner dans de petits villages",
+        "Sources chaudes et gastronomie",
+        "Road trip sans horaire"
+      ]
+    },
+    {
+      "id": "qz_v21_t1x_1",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "En cas de petite faim à minuit, que préfère {p1} ?",
+      "options": [
+        "Cuisiner des nouilles chaudes",
+        "Sortir chercher une gourmandise",
+        "Partager un dessert sur le canapé",
+        "Faire des crêpes nocturnes"
+      ]
+    },
+    {
+      "id": "qz_v21_t1x_2",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Pour votre album photo, quel style plaît le plus à {p1} ?",
+      "options": [
+        "Ambiance argentique chaleureuse",
+        "Fous rires pris sur le vif",
+        "Souvenirs de chaque voyage",
+        "Carnet secret rien qu'à deux"
+      ]
+    },
+    {
+      "id": "qz_v21_t1x_3",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "En pause balade, quel endroit attire aussitôt {p1} ?",
+      "options": [
+        "Café rétro à la cannelle",
+        "Librairie calme avec fauteuils",
+        "Glacier en terrasse",
+        "Banc face au coucher du soleil"
+      ]
+    },
+    {
+      "id": "qz_v21_t1x_4",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Après un petit malentendu, qu'est-ce qui attendrit vite {p1} ?",
+      "options": [
+        "Une longue étreinte douce",
+        "Sa boisson préférée apportée",
+        "Un mot tendre écrit à la main",
+        "Une blague qui fait sourire"
+      ]
+    },
+    {
+      "id": "qz_v21_t1x_5",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Après le rangement du week-end, comment fête {p1} ?",
+      "options": [
+        "Bon dîner livré et bulles",
+        "Bain moussant parfumé",
+        "Soirée séries sous plaid",
+        "Massage mutuel relaxant"
+      ]
+    },
+    {
+      "id": "qz_v21_t1x_6",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "prompt": "Parmi une attention imprévue, laquelle touche le plus {p1} ?",
+      "options": [
+        "Une fleur achetée en chemin",
+        "Une bougie remarquée un jour",
+        "Un petit objet gravé d'une date",
+        "Ses douceurs préférées"
+      ]
+    }
+  ]
+}

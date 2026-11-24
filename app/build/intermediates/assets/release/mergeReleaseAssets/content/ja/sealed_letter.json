@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "seals": [
+    {
+      "id": "seal_crimson",
+      "symbol": "❤",
+      "label": "深紅の封蝋"
+    },
+    {
+      "id": "seal_rose",
+      "symbol": "❀",
+      "label": "バラ色の封蝋"
+    },
+    {
+      "id": "seal_gold",
+      "symbol": "✦",
+      "label": "金の封蝋"
+    },
+    {
+      "id": "seal_midnight",
+      "symbol": "☾",
+      "label": "真夜中の封蝋"
+    },
+    {
+      "id": "seal_lavender",
+      "symbol": "❁",
+      "label": "ラベンダーの封蝋"
+    },
+    {
+      "id": "seal_ember",
+      "symbol": "✧",
+      "label": "熾火の封蝋"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "prompt_today",
+      "text": "今日あなたに見つけて、言えなかったこと。"
+    },
+    {
+      "id": "prompt_thankyou",
+      "text": "誰も見ていないと思っていた、小さな優しさをありがとう。"
+    },
+    {
+      "id": "prompt_first",
+      "text": "初めてあなたを見たときの気持ち。飾らず、本音だけ。"
+    },
+    {
+      "id": "prompt_future",
+      "text": "いつかあなたと過ごしたい一日についての約束。"
+    },
+    {
+      "id": "prompt_quarrel",
+      "text": "最後に言い争った後、言いたかったこと。"
+    },
+    {
+      "id": "prompt_fear",
+      "text": "口に出せなかったことを、代わりに書きます。"
+    },
+    {
+      "id": "prompt_favourite",
+      "text": "他の誰にも見せない、あなたの姿。"
+    },
+    {
+      "id": "prompt_ridiculous",
+      "text": "私たちの間でいちばん場違いで、それでも好きなこと。"
+    },
+    {
+      "id": "prompt_letter_you",
+      "text": "まだ出会っていない自分からの、あなたへの手紙。"
+    },
+    {
+      "id": "prompt_forgiven",
+      "text": "許してほしいことを、書きます。"
+    }
+  ],
+  "delays": [
+    {
+      "id": "delay_1d",
+      "days": 1,
+      "label": "明日"
+    },
+    {
+      "id": "delay_3d",
+      "days": 3,
+      "label": "3 日後"
+    },
+    {
+      "id": "delay_7d",
+      "days": 7,
+      "label": "1 週間後"
+    },
+    {
+      "id": "delay_14d",
+      "days": 14,
+      "label": "2 週間後"
+    },
+    {
+      "id": "delay_30d",
+      "days": 30,
+      "label": "1 か月後"
+    },
+    {
+      "id": "delay_100d",
+      "days": 100,
+      "label": "100 日後"
+    }
+  ]
+}

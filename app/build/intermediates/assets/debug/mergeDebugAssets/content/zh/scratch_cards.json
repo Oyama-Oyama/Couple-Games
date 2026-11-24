@@ -1,0 +1,3206 @@
+{
+  "cards": [
+    {
+      "id": "sc_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "title": "呼吸凝视",
+      "text": "膝盖相抵坐近彼此，保持对视 30 秒愿意的话就多对视一会儿视线，同时听对方低声说出三件最迷恋你的事。"
+    },
+    {
+      "id": "sc_02",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微醺肩颈按压",
+      "text": "搓热双手为你做 45 秒缓慢的肩颈放松按摩，结束时顺势在耳后落下一个轻吻。"
+    },
+    {
+      "id": "sc_03",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "playful",
+        "physical_light"
+      ],
+      "title": "背手听凭摆布",
+      "text": "把双手轻轻交握放在身前 30 秒不准抬起，任由对方沿着你的下颌线和颈侧缓慢落吻。"
+    },
+    {
+      "id": "sc_04",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 30,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "耳垂到锁骨",
+      "text": "轻吻你的耳垂，再用呼吸沿着和温热呼吸沿着颈侧一路慢温柔的吻滑向锁骨，持续 30 秒。"
+    },
+    {
+      "id": "sc_05",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "丝绒掌控",
+      "text": "单手将对方双手轻轻按过头顶 45 秒：对方不准动弹，你亲吻除嘴唇外的任意敏感处制造拉扯。"
+    },
+    {
+      "id": "sc_06",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "慢动作拆礼",
+      "text": "选定对方身上的一件外衣或配饰，保持眼神对视，只用单手以最慢的速度替对方脱下。"
+    },
+    {
+      "id": "sc_07",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "厨房吧台心动",
+      "text": "立刻移步到厨房：让你靠在台面边缘，献上一个像电影镜头般的深情拥吻。"
+    },
+    {
+      "id": "sc_08",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 60,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "客厅地毯微醺夜",
+      "text": "关掉顶灯只留氛围光，端上饮品并肩坐在地毯上，接下来 15 分钟彻底远离手机。"
+    },
+    {
+      "id": "sc_09",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "墙角壁咚时刻",
+      "text": "把你轻轻抵在最近的门框或墙边，贴近呼吸来一场 30 秒充满暧昧张力的拥抱。"
+    },
+    {
+      "id": "sc_10",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "镜前从背后拥抱",
+      "text": "一起站到镜子前 45 秒：从背后环住你的腰，看着镜子里彼此的眼神亲吻对方脖颈。"
+    },
+    {
+      "id": "sc_11",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "雾气浴室之约",
+      "text": "刮开约定：下一次一起淋浴时调暗灯光、放慢节奏，为彼此全身涂抹香氛泡沫。"
+    },
+    {
+      "id": "sc_12",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "电梯偷吻挑战",
+      "text": "下次外出约会时，在无人的走廊、地库或电梯关门的瞬间，大胆偷走一个 5 秒热吻。"
+    },
+    {
+      "id": "sc_13",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk"
+      ],
+      "title": "午夜悄悄话",
+      "text": "坦白一个你在电影或梦里见过、一直想和你复刻的浪漫亲密画面。"
+    },
+    {
+      "id": "sc_14",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "酒廊陌生人",
+      "text": "接下来 5 分钟假装你们是在午夜清吧偶遇的陌生人，全靠魅力撩走对方的房卡。"
+    },
+    {
+      "id": "sc_15",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "冰火蒙眼试探",
+      "text": "让你蒙眼 60 秒：交替用温热的吻、冰凉的杯壁/冰块与轻拂的指尖撩拨对方感官。"
+    },
+    {
+      "id": "sc_16",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "alcohol",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "微醺锁骨印记",
+      "text": "在你颈窝或锁骨轻轻滴上一滴酒液或蜂蜜，凑上去缓慢而彻底地气息轻轻拂过干净。"
+    },
+    {
+      "id": "sc_17",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "60 秒绝对主导",
+      "text": "整整一分钟内，由一方担任「今夜导演」在耳边低声发号施令，另一方乖乖配合。"
+    },
+    {
+      "id": "sc_18",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "丝绒特权刮刮券",
+      "text": "刮中金色特权卡：今晚随时可兑换一次大胆幻想，或一次俏皮轻抚加缠绵绵长的吻。"
+    },
+    {
+      "id": "sc_19",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "1 厘米呼吸拉扯",
+      "text": "嘴唇悬在你唇瓣 1 厘米外停留 35 秒，只让炙热呼吸交缠，最后一秒才吻下去。"
+    },
+    {
+      "id": "sc_20",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "耳垂到喉颈湿吻",
+      "text": "先轻吻你耳垂，再用温柔的吻吸与湿吻沿着颈侧一路滑向喉窝（35 秒）。"
+    },
+    {
+      "id": "sc_21",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "衣摆下温热游走",
+      "text": "把双手搓热探进你上衣里，沿着脊柱、侧肋与腰窝极慢探索（40 秒）。"
+    },
+    {
+      "id": "sc_22",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "锁骨下私密印记",
+      "text": "扣住你的腰，在锁骨下方一处隐秘位置温柔温柔的吻吸与亲吻 40 秒。"
+    },
+    {
+      "id": "sc_23",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "单手解扣挑逗",
+      "text": "全程保持对视，只用一只手极慢地解开两颗扣子或拨开肩带，立刻吻上露出的肌肤（45 秒）。"
+    },
+    {
+      "id": "sc_24",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "背后控腕攻陷",
+      "text": "单手把你双手轻扣在背后，另一侧肆意气息轻轻拂过、轻吻并亲吻喉颈与胸口（45 秒）。"
+    },
+    {
+      "id": "sc_25",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "大腿内侧沦陷",
+      "text": "单膝跪在你双腿之间，沿着左右大腿内侧交替落满热气、轻吻与湿吻（50 秒）。"
+    },
+    {
+      "id": "sc_26",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "零手唇齿松开",
+      "text": "自己双手轻轻交握放在身前完全不准用手！只靠嘴唇和牙齿褪下一侧肩带或撩开一层衣物（45 秒）。"
+    },
+    {
+      "id": "sc_27",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "沙发面对面靠近坐着缠绵",
+      "text": "拉到沙发上面对面靠近坐着到你腿上，身体贴紧缓缓晃动并吻遍下颌与颈侧（40 秒）。"
+    },
+    {
+      "id": "sc_28",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "门框突袭绵长的吻",
+      "text": "把你轻轻抵在最近的门框上，扣住后颈献上一场令人窒息的 35 秒突袭绵长的吻。"
+    },
+    {
+      "id": "sc_29",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "床沿贴肤热吻",
+      "text": "让你半仰在床边，你站在双膝之间掀开衣摆，在小腹与胯骨落满湿吻（40 秒）。"
+    },
+    {
+      "id": "sc_30",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "暗角耳语支配",
+      "text": "拉着你退进房间最昏暗的角落，紧紧扣住腰臀，在耳边低声说出你最想做的事（45 秒）。"
+    },
+    {
+      "id": "sc_31",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "床头板壁咚",
+      "text": "让对方双手贴平在床头板上不许放下，你从耳后一路湿吻并气息轻轻拂过至侧肋（45 秒）。"
+    },
+    {
+      "id": "sc_32",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "镜前慢速松开",
+      "text": "在全身镜前从背后贴紧你，眼睛锁死镜中的彼此，极慢地替对方松开 1 件衣物（50 秒）。"
+    },
+    {
+      "id": "sc_33",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "座椅女王/君王",
+      "text": "让对方坐在稳固的椅子上，你面对面面对面靠近坐着上去，45 秒内由你掌控每一次亲吻的深浅。"
+    },
+    {
+      "id": "sc_34",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "外出偷吻特权券",
+      "text": "兑现券：下次外出约会时，趁四周无人把你拉进隐秘角落偷走一个 10 秒大胆湿吻！"
+    },
+    {
+      "id": "sc_35",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk"
+      ],
+      "title": "未曾开口的渴望",
+      "text": "坦白一件最近反复在你脑海里浮现、却一直不好意思开口邀请你尝试的亲密玩法。"
+    },
+    {
+      "id": "sc_36",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "午夜客房服务",
+      "text": "即兴演 45 秒「深夜私人客房服务」剧本——送酒进门后顺理成章一步步越界。"
+    },
+    {
+      "id": "sc_37",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "蒙眼牵手引路",
+      "text": "对方闭眼 45 秒：你握着对方的手，亲自按在你今晚最渴望被吻遍的 3 处身体敏感点。"
+    },
+    {
+      "id": "sc_38",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "roleplay",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "打烊后 VIP 按摩",
+      "text": "扮演私人芳疗师 50 秒：先捏肩放松，手掌渐渐探进衣摆滑向腰臀，再俯身吻遍脊柱。"
+    },
+    {
+      "id": "sc_39",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "闭眼舌尖盲测",
+      "text": "你闭眼 45 秒：在灼热吐息、湿润舌尖打圈与温柔轻吻之间随机切换，突袭 4 处敏感带。"
+    },
+    {
+      "id": "sc_40",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "60 秒举手投降",
+      "text": "双手举过头顶 60 秒完全不准反击，任由对方在全身敏感带肆意游走挑逗。"
+    },
+    {
+      "id": "sc_41",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "甜蜜气息轻轻拂过清理",
+      "text": "在你小腹或锁骨滴上一小滴蜂蜜、冰水或微醺酒液，用唇舌彻底气息轻轻拂过干净（50 秒）。"
+    },
+    {
+      "id": "sc_42",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "丝绒蒙眼臣服",
+      "text": "终极王牌卡：蒙眼完全交出主导权 60 秒——由对方摆好姿势、褪去一层衣物并尽情探索。"
+    },
+    {
+      "id": "sc_v2_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "鼻尖贴贴 30 秒",
+      "text": "「别躲呀…」鼻尖轻碰着鼻尖呼吸 30 秒，谁先羞红脸谁就亲对方嘴角。"
+    },
+    {
+      "id": "sc_v2_02",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "掌心暖吻",
+      "text": "「把手伸出来～」十指扣紧，慢慢亲吻你的指尖、掌心和手腕内侧 35 秒。"
+    },
+    {
+      "id": "sc_v2_03",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "耳边三句情话",
+      "text": "「凑近一点才听得清…」贴着耳廓用气音说出三句平时不好意思讲的喜欢。"
+    },
+    {
+      "id": "sc_v2_04",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "下颌线慢吻",
+      "text": "「仰起头，乖…」从耳后顺着下颌线一路吻到喉结或颈窝（35 秒），偏偏绕开嘴唇。"
+    },
+    {
+      "id": "sc_v2_05",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "偷咬下唇",
+      "text": "「借我咬一下下嘛…」轻轻轻含着我的下唇微微拉扯，再用温柔绵长的吻把脸红的我哄好（35 秒）。"
+    },
+    {
+      "id": "sc_v2_06",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "alcohol",
+        "physical_light"
+      ],
+      "title": "微醺渡吻",
+      "text": "「尝尝甜不甜？」轻抿一口酒或饮品，低头覆上我的唇，把微醺的味道分享愿意的话就。"
+    },
+    {
+      "id": "sc_v2_07",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "锁骨留香",
+      "text": "「这里最怕痒对不对？」轻轻含着耳垂轻温柔的吻两下，再一路温柔的吻吻滑到锁骨窝停留 40 秒。"
+    },
+    {
+      "id": "sc_v2_08",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ],
+      "title": "衣摆下的热手",
+      "text": "「手好暖，别拿走…」把温热掌心探进上衣下摆，贴着腰窝与肋骨慢慢揉抚 40 秒。"
+    },
+    {
+      "id": "sc_v2_09",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "eye_contact"
+      ],
+      "title": "壁咚寸止 45 秒",
+      "text": "「手背到后面先别动哦…」轻抵在墙边，唇瓣若即若离贴着撩拨 45 秒，直到彻底失控。"
+    },
+    {
+      "id": "sc_v2_10",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "title": "蒙眼猜部位",
+      "text": "「闭上眼不许偷看～」用嘴唇和舌尖随机亲吻 4 个敏感处，猜错一次就多吻 10 秒。"
+    },
+    {
+      "id": "sc_v2_11",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick"
+      ],
+      "title": "按腕绵长的吻 45 秒",
+      "text": "「今晚乖乖听话好不好？」单手把双手轻按在头顶，另一只手游走腰胯，肆意亲咬颈侧与胸口。"
+    },
+    {
+      "id": "sc_v2_12",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "bite_lick"
+      ],
+      "title": "只用嘴唇解衣",
+      "text": "「手不许帮忙哦…」只靠唇齿慢慢拨开肩带或衣领，亲吻每一寸露出的皮肤 50 秒。"
+    },
+    {
+      "id": "sc_v2_13",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "physical_light"
+      ],
+      "title": "大腿内侧试探",
+      "text": "「别躲，放松交愿意的话就…」顺着大腿内侧由下往上交替吹热气、轻吻与湿吻 50 秒，快失控就停 3 秒。"
+    },
+    {
+      "id": "sc_v2_14",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "俏皮轻抚+绵长的吻",
+      "text": "「转过去撑好哦…」先给两下力度刚好的俏皮轻拍，立刻把人翻回来用滚烫绵长的吻安抚 45 秒。"
+    },
+    {
+      "id": "sc_v2_15",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "玄关偷吻",
+      "text": "「假装刚约会回家～」走到玄关门边，靠着门背相拥慢吻 35 秒再牵手回来。"
+    },
+    {
+      "id": "sc_v2_16",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "窗边夜景私语",
+      "text": "「关掉灯，来看窗外…」从背后环抱站在窗边 40 秒，贴耳小声说出最藏不住的爱意。"
+    },
+    {
+      "id": "sc_v2_17",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "客厅地毯拥抱",
+      "text": "「坐到地毯上来嘛～」在柔和夜灯下窝在地毯抱在一起，轮流亲吻对方的耳垂和下巴 40 秒。"
+    },
+    {
+      "id": "sc_v2_18",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "餐桌/吧台贴贴",
+      "text": "「坐上去，让我靠近点…」把你抱上吧台或餐桌边缘，站在双膝之间低头绵长的吻 35 秒。"
+    },
+    {
+      "id": "sc_v2_19",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "eye_contact"
+      ],
+      "title": "浴室雾气镜前",
+      "text": "「看看镜子里害羞的你…」站在浴室镜子前贴紧彼此，看着倒影把双唇慢慢贴上去（40 秒）。"
+    },
+    {
+      "id": "sc_v2_20",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "alcohol"
+      ],
+      "title": "阳台微醺夜",
+      "text": "「端两杯酒去阳台吹风吧～」倚在栏杆旁碰杯，趁着晚风偷一个缠绵的酒香吻。"
+    },
+    {
+      "id": "sc_v2_21",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "被窝密室 45 秒",
+      "text": "「钻进被子里，别露出头…」一起躲进被窝里，在只听得见呼吸的小空间里亲吻锁骨与耳垂 45 秒。"
+    },
+    {
+      "id": "sc_v2_22",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "走廊暗角突袭",
+      "text": "「嘘，来这边一下…」把你轻轻拉进昏暗的走廊拐角，扣紧后腰送上让人喘不过气的吻（45 秒）。"
+    },
+    {
+      "id": "sc_v2_23",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "衣帽间私语",
+      "text": "「帮我挑件睡衣嘛…」走进衣帽间或衣柜旁，顺手褪下一层外衣并吻遍肩颈 45 秒。"
+    },
+    {
+      "id": "sc_v2_24",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "书桌靠椅挑逗",
+      "text": "「坐好别动哦…」坐到书桌前的转椅上，面对面靠近坐着到你腿上俯身贴近慢吻 40 秒。"
+    },
+    {
+      "id": "sc_v2_25",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "床头板禁区",
+      "text": "「两只手贴紧床头板，乖…」双手轻轻握住床头不许放下，让我从耳后一路亲咬到小腹（50 秒）。"
+    },
+    {
+      "id": "sc_v2_26",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "沙发扶手失控",
+      "text": "「半躺到沙发扶手上…」顺势褪开衣领，交替用温热手指与湿吻探索胸口与腰侧 50 秒。"
+    },
+    {
+      "id": "sc_v2_27",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "车后座秘密约",
+      "text": "「胆小鬼敢不敢答应？」下次开车兜风停在安静夜景处，一起坐到后座亲够 60 秒再回家。"
+    },
+    {
+      "id": "sc_v2_28",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "床沿双膝间",
+      "text": "「坐到床沿微微仰头…」我跪在你双膝之间，从膝窝一路慢吻到胯骨与腰腹 55 秒。"
+    },
+    {
+      "id": "sc_v2_29",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "羞涩初吻重演",
+      "text": "「还记得第一次亲我多紧张吗？」假装回到初吻那一晚，重新小心翼翼试探着吻上去。"
+    },
+    {
+      "id": "sc_v2_30",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "雨夜避雨心动",
+      "text": "「外面下大雨了，先别走好不好…」演 35 秒微醺留宿小剧场，借着帮对方擦头发悄悄贴近。"
+    },
+    {
+      "id": "sc_v2_31",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "深夜调酒师",
+      "text": "「今晚只为你特调一杯…」演 40 秒私密酒吧调酒师与微醺客人，借递杯子指尖暧昧相碰。"
+    },
+    {
+      "id": "sc_v2_32",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ],
+      "title": "丝巾寻味",
+      "text": "「闭上眼，闻得出我在哪吗？」蒙住双眼 45 秒，只能靠体温和呼吸找到我的嘴唇亲下去。"
+    },
+    {
+      "id": "sc_v2_33",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "roleplay",
+        "eye_contact"
+      ],
+      "title": "偷看被抓包",
+      "text": "「你刚才是不是一直在偷看我？」假装刚发现对方暗恋自己，笑着把人拉到墙边逼问 40 秒。"
+    },
+    {
+      "id": "sc_v2_34",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "alcohol",
+        "deep_talk"
+      ],
+      "title": "微醺愿望瓶",
+      "text": "「趁酒意说一个平时不敢提的小愿望～」双方各说一件今晚想试的亲密互动，马上选一个兑现。"
+    },
+    {
+      "id": "sc_v2_35",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "私人精油理疗",
+      "text": "「哪里最酸？我帮你慢慢揉开…」演 50 秒越界按摩师，手从肩背越滑越低，最后贴耳轻吻。"
+    },
+    {
+      "id": "sc_v2_36",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "title": "冷热交错盲盒",
+      "text": "「准备好了吗，可能冰也可能烫哦～」闭眼 45 秒，交替用凉指尖、温热吐息与湿吻挑逗敏感带。"
+    },
+    {
+      "id": "sc_v2_37",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "roleplay"
+      ],
+      "title": "明星私密造型",
+      "text": "「让我帮你把这件脱下来试试…」演 45 秒私人造型师，借整理领口慢慢解开衣扣并偷吻锁骨。"
+    },
+    {
+      "id": "sc_v2_38",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "roleplay"
+      ],
+      "title": "假名酒店私奔",
+      "text": "「今晚我们叫新名字好不好？」约定下次住酒店时假装互不相识，在酒吧搭讪再一起回房间。"
+    },
+    {
+      "id": "sc_v2_39",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "blindfold"
+      ],
+      "title": "丝带轻缚 60 秒",
+      "text": "「别紧张，一切听我的节奏…」用柔软丝巾轻蒙双眼或轻绕手腕，在黑暗里享受 60 秒极致宠爱。"
+    },
+    {
+      "id": "sc_v2_40",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "eye_contact"
+      ],
+      "title": "暖灯私人秀",
+      "text": "「只准你一个人看哦…」调暗灯光，随着慢歌眼神勾着我慢慢褪去一件外衣，最后扑进怀里绵长的吻。"
+    },
+    {
+      "id": "sc_v2_41",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "restraint_light",
+        "bite_lick"
+      ],
+      "title": "禁声 50 秒小挑战",
+      "text": "「轻轻碰触下唇，出声就归我罚哦！」持续轻轻停住，留下一个吻最敏感的部位 50 秒，每漏出一声轻哼就多加一个吻。"
+    },
+    {
+      "id": "sc_v2_42",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "title": "午夜女王/国王令",
+      "text": "「这一分钟你是我的专属…」发出 3 个层层升温的温柔指令，乖乖愿意的话就完就奖励绵长绵长的吻。"
+    },
+    {
+      "id": "sc_v21_d1_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 眉心与眼角",
+      "text": "在沙发角落保持唇角始终藏着一点坏笑，用「先稳稳牵住手，再换成羽毛般轻的触碰」轻抚对方的眉心与眼角（30 秒），最后低语「天亮前最想一起解锁的一场私密幻想」。"
+    },
+    {
+      "id": "sc_v21_d1_02",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 鼻尖与唇角",
+      "text": "在厨房吧台边保持保持彻底安静只听呼吸，用「先轻蹭鼻尖再突然落下一记慢吻」轻抚对方的鼻尖与唇角（30 秒），最后低语「此刻看着我的眼睛心里冒出的第一句话」。"
+    },
+    {
+      "id": "sc_v21_d1_03",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 上背肩胛",
+      "text": "在昏暗的门框旁保持每次停顿都把唇悬在 1 厘米外，用「先在呼吸可及处停住，再温柔地靠近」轻抚对方的上背肩胛（30 秒），最后低语「第一次见我就让你脸红的小细节」。"
+    },
+    {
+      "id": "sc_v21_d1_04",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 后颈发际",
+      "text": "在点着夜灯的地毯上保持只用气音在耳边唤对方名字，用「指尖轻轻划过，再落下一个软软的吻」轻抚对方的后颈发际（30 秒），最后低语「伴侣发出的哪种声音最让你瞬间失控」。"
+    },
+    {
+      "id": "sc_v21_d1_05",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 脸颊与下颌线",
+      "text": "在只留一盏暖灯的床头保持唇角始终藏着一点坏笑，用「先轻吹一口暖气再极慢吻上去」轻抚对方的脸颊与下颌线（30 秒），最后低语「如果现在关掉所有灯你最想先做什么」。"
+    },
+    {
+      "id": "sc_v21_d1_06",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 锁骨外侧",
+      "text": "在暖灯下的飘窗边保持保持彻底安静只听呼吸，用「先俏皮轻吻一口再立刻用呼吸沿着温柔安抚」轻抚对方的锁骨外侧（30 秒），最后低语「我哪一种撒娇最让你毫无招架之力」。"
+    },
+    {
+      "id": "sc_v21_d1_07",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 肩头",
+      "text": "在沙发扶手旁保持每次停顿都把唇悬在 1 厘米外，用「指腹轻轻划过手心，再慢慢握紧十指」轻抚对方的肩头（30 秒），最后低语「最想把伴侣拉去偷吻的危险角落」。"
+    },
+    {
+      "id": "sc_v21_d1_08",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 耳廓边缘",
+      "text": "在软软的床尾保持只用气音在耳边唤对方名字，用「先轻吹微凉气息再立刻覆上滚烫湿吻」轻抚对方的耳廓边缘（30 秒），最后低语「哪一次拥抱让你久久不愿松手」。"
+    },
+    {
+      "id": "sc_v21_d1_09",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 手腕内侧",
+      "text": "在柔和灯光下的玄关保持唇角始终藏着一点坏笑，用「先轻轻握住手，再慢慢落下一个温柔的吻」轻抚对方的手腕内侧（30 秒），最后低语「今晚睡前你最想被我怎么哄」。"
+    },
+    {
+      "id": "sc_v21_d1_10",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 掌心与指尖",
+      "text": "在微暗的衣帽间门旁保持保持彻底安静只听呼吸，用「先轻抚发丝再扣住后脑勺拉近」轻抚对方的掌心与指尖（30 秒），最后低语「今晚最想看对方穿上——或松开——的衣服」。"
+    },
+    {
+      "id": "sc_v21_d1_11",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 前臂内侧",
+      "text": "在铺满抱枕的榻榻米保持每次停顿都把唇悬在 1 厘米外，用「先温热掌心慢滑再突然拉进怀里绵长的吻」轻抚对方的前臂内侧（30 秒），最后低语「今天在心里偷偷想过的一个坏念头」。"
+    },
+    {
+      "id": "sc_v21_d1_12",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 耳后敏感处",
+      "text": "在落地窗帘后保持只用气音在耳边唤对方名字，用「隔着衣料先暖暖地贴一会儿，再轻轻牵住手」轻抚对方的耳后敏感处（30 秒），最后低语「平时牵手时你悄悄藏在心底的小念头」。"
+    },
+    {
+      "id": "sc_v21_d1_13",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 下巴尖",
+      "text": "在暖光梳妆台前保持唇角始终藏着一点坏笑，用「先稳稳牵住手，再换成羽毛般轻的触碰」轻抚对方的下巴尖（30 秒），最后低语「关灯之后你最渴望被触碰的方式」。"
+    },
+    {
+      "id": "sc_v21_d1_14",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 锁骨窝",
+      "text": "在卧室墙边保持保持彻底安静只听呼吸，用「先轻蹭鼻尖再突然落下一记慢吻」轻抚对方的锁骨窝（30 秒），最后低语「接下来最想吻遍的那个身体角落」。"
+    },
+    {
+      "id": "sc_v21_d1_15",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 指节与虎口",
+      "text": "在床沿边上保持每次停顿都把唇悬在 1 厘米外，用「先在呼吸可及处停住，再温柔地靠近」轻抚对方的指节与虎口（30 秒），最后低语「你最迷恋我吻你时的哪一个小习惯」。"
+    },
+    {
+      "id": "sc_v21_d1_16",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "温柔挑逗 · 颈侧线条",
+      "text": "在全身镜前保持只用气音在耳边唤对方名字，用「指尖轻轻划过，再落下一个软软的吻」轻抚对方的颈侧线条（30 秒），最后低语「今晚究竟是哪一秒让你彻底没法冷静」。"
+    },
+    {
+      "id": "sc_v21_d2_01",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 后颈发际",
+      "text": "贴近到点着夜灯的地毯上，遵守「在羽毛般轻抚与用力抓握之间切换」，从锁骨凹陷处一路像羽毛一样轻划过到后颈发际（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_02",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 脸颊与下颌线",
+      "text": "贴近到只留一盏暖灯的床头，遵守「每换一个部位前先低声唤对方名字」，从手腕脉搏处一路用唇瓣极轻地厮磨到脸颊与下颌线（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_03",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 锁骨外侧",
+      "text": "贴近到暖灯下的飘窗边，遵守「在羽毛般轻抚与用力抓握之间切换」，从肩胛骨一路用唇瓣反复摩挲到锁骨外侧（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_04",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 肩头",
+      "text": "贴近到沙发扶手旁，遵守「每换一个部位前先低声唤对方名字」，从后颈发际线一路指尖轻柔抚过到肩头（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_05",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 耳廓边缘",
+      "text": "贴近到软软的床尾，遵守「在羽毛般轻抚与用力抓握之间切换」，从耳后敏感处一路用温热嘴唇细碎点吻到耳廓边缘（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_06",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 手腕内侧",
+      "text": "贴近到柔和灯光下的玄关，遵守「每换一个部位前先低声唤对方名字」，从侧腰肋骨一路用温热掌心慢慢揉捏到手腕内侧（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_07",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 掌心与指尖",
+      "text": "贴近到微暗的衣帽间门旁，遵守「在羽毛般轻抚与用力抓握之间切换」，从喉结下方一路贴近皮肤缓缓吹拂暖气于到掌心与指尖（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_08",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 前臂内侧",
+      "text": "贴近到铺满抱枕的榻榻米，遵守「每换一个部位前先低声唤对方名字」，从腰窝下方一路凑近吹拂灼热气音于到前臂内侧（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_09",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 耳后敏感处",
+      "text": "贴近到落地窗帘后，遵守「在羽毛般轻抚与用力抓握之间切换」，从锁骨凹陷处一路十指轻柔梳过并贴近吻到耳后敏感处（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_10",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 下巴尖",
+      "text": "贴近到暖光梳妆台前，遵守「每换一个部位前先低声唤对方名字」，从手腕脉搏处一路用鼻尖轻轻蹭过到下巴尖（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_11",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 锁骨窝",
+      "text": "贴近到卧室墙边，遵守「在羽毛般轻抚与用力抓握之间切换」，从肩胛骨一路落下绵长湿润的慢吻于到锁骨窝（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_12",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 指节与虎口",
+      "text": "贴近到床沿边上，遵守「每换一个部位前先低声唤对方名字」，从后颈发际线一路用指腹打着圈轻抚到指节与虎口（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_13",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 颈侧线条",
+      "text": "贴近到全身镜前，遵守「在羽毛般轻抚与用力抓握之间切换」，从耳后敏感处一路像羽毛一样轻划过到颈侧线条（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d2_14",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "心跳加码 · 眉心与眼角",
+      "text": "贴近到沙发角落，遵守「每换一个部位前先低声唤对方名字」，从侧腰肋骨一路用唇瓣极轻地厮磨到眉心与眼角（35 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_01",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 后背脊柱",
+      "text": "移步沙发扶手旁，交替吹热气并用用湿润舌尖一路描摹流连在对方的后背脊柱，节奏遵守：每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_02",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 后颈发际线",
+      "text": "移步软软的床尾，交替吹热气并用温柔轻吻流连在对方的后颈发际线，节奏遵守：在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_03",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 颈侧",
+      "text": "移步柔和灯光下的玄关，交替吹热气并用用唇舌与指尖交替挑逗流连在对方的颈侧，节奏遵守：每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_04",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 大腿内侧",
+      "text": "移步微暗的衣帽间门旁，交替吹热气并用俏皮轻吻后再温柔吻平流连在对方的大腿内侧，节奏遵守：在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_05",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 胯骨边缘",
+      "text": "移步铺满抱枕的榻榻米，交替吹热气并用用呼吸沿着极慢地气息轻轻拂过流连在对方的胯骨边缘，节奏遵守：每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_06",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 耳垂",
+      "text": "移步落地窗帘后，交替吹热气并用轻温柔的吻后再绵长绵长的吻流连在对方的耳垂，节奏遵守：在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_07",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 腰窝",
+      "text": "移步暖光梳妆台前，交替吹热气并用张唇贴肤落满灼热湿吻于流连在对方的腰窝，节奏遵守：每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_08",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 小腹线条",
+      "text": "移步卧室墙边，交替吹热气并用落下让人喘不过气的绵长的吻于流连在对方的小腹线条，节奏遵守：在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_09",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 胸口与侧肋",
+      "text": "移步床沿边上，交替吹热气并用用湿润舌尖一路描摹流连在对方的胸口与侧肋，节奏遵守：每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_10",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 锁骨",
+      "text": "移步全身镜前，交替吹热气并用温柔轻吻流连在对方的锁骨，节奏遵守：在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_11",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 后背脊柱",
+      "text": "移步沙发角落，交替吹热气并用用唇舌与指尖交替挑逗流连在对方的后背脊柱，节奏遵守：每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_12",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 后颈发际线",
+      "text": "移步厨房吧台边，交替吹热气并用俏皮轻吻后再温柔吻平流连在对方的后颈发际线，节奏遵守：在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_13",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 颈侧",
+      "text": "移步昏暗的门框旁，交替吹热气并用用呼吸沿着极慢地气息轻轻拂过流连在对方的颈侧，节奏遵守：每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d3_14",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "炽热探索 · 大腿内侧",
+      "text": "移步点着夜灯的地毯上，交替吹热气并用轻温柔的吻后再绵长绵长的吻流连在对方的大腿内侧，节奏遵守：在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_01",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 脊柱最深处",
+      "text": "在微暗的衣帽间门旁进入单手把伴侣双手轻按在头顶，借用极慢的指尖移开一件配饰加一层外衣并集中俏皮轻吻后再温柔吻平脊柱最深处（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_02",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 腰侧凹陷处",
+      "text": "在铺满抱枕的榻榻米进入轻捏下巴抬起让对方只能看着你，借用先用手背轻擦再换滚烫嘴唇移开拉链或腰线边缘并集中用呼吸沿着极慢地气息轻轻拂过腰侧凹陷处（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_03",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 小腹敏感线",
+      "text": "在落地窗帘后进入让伴侣十指交叉扣在脑后敞开身体，借用握着伴侣自己的手去引导移开上衣的衣摆并集中轻温柔的吻后再绵长绵长的吻小腹敏感线（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_04",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 胯部弧线",
+      "text": "在暖光梳妆台前进入让伴侣双手贴住床头板不许放下，借用只靠灼热吐息与唇瓣移开你亲自挑选的一件衣物并集中张唇贴肤落满灼热湿吻于胯部弧线（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_05",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 大腿内侧",
+      "text": "在卧室墙边进入把伴侣轻轻抵在墙面扶住腰胯，借用单手且保持眼神对视移开衬衫的两颗扣子并集中落下让人喘不过气的绵长的吻于大腿内侧（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_06",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 锁骨下方",
+      "text": "在床沿边上进入把伴侣双手反扣在背后不准反抗，借用不许用手只靠嘴唇与牙齿移开一侧肩带或外衣并集中用湿润舌尖一路描摹锁骨下方（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_07",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 胸口与肋骨线条",
+      "text": "在全身镜前进入单手把伴侣双手轻按在头顶，借用极慢的指尖移开一件配饰加一层外衣并集中温柔轻吻胸口与肋骨线条（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_08",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 臀线与胯骨",
+      "text": "在沙发角落进入轻捏下巴抬起让对方只能看着你，借用先用手背轻擦再换滚烫嘴唇移开拉链或腰线边缘并集中用唇舌与指尖交替挑逗臀线与胯骨（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_09",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 脊柱最深处",
+      "text": "在厨房吧台边进入让伴侣十指交叉扣在脑后敞开身体，借用握着伴侣自己的手去引导移开上衣的衣摆并集中俏皮轻吻后再温柔吻平脊柱最深处（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_10",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 腰侧凹陷处",
+      "text": "在昏暗的门框旁进入让伴侣双手贴住床头板不许放下，借用只靠灼热吐息与唇瓣移开你亲自挑选的一件衣物并集中用呼吸沿着极慢地气息轻轻拂过腰侧凹陷处（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_11",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 小腹敏感线",
+      "text": "在点着夜灯的地毯上进入把伴侣轻轻抵在墙面扶住腰胯，借用单手且保持眼神对视移开衬衫的两颗扣子并集中轻温柔的吻后再绵长绵长的吻小腹敏感线（55 秒）。"
+    },
+    {
+      "id": "sc_v21_d4_12",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "午夜臣服 · 胯部弧线",
+      "text": "在只留一盏暖灯的床头进入把伴侣双手反扣在背后不准反抗，借用不许用手只靠嘴唇与牙齿移开一侧肩带或外衣并集中张唇贴肤落满灼热湿吻于胯部弧线（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_01",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 微暗的衣帽间门旁",
+      "text": "把约会搬到微暗的衣帽间门旁：想象身处灯光昏暗的精品酒店酒吧，一边保持彻底安静只听呼吸一边温柔落下绵长湿润的慢吻于彼此的掌心与指尖（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_02",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 铺满抱枕的榻榻米",
+      "text": "把约会搬到铺满抱枕的榻榻米：想象身处私密温泉露台，一边每次停顿都把唇悬在 1 厘米外一边温柔用指腹打着圈轻抚彼此的前臂内侧（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_03",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 落地窗帘后",
+      "text": "把约会搬到落地窗帘后：想象身处飘着香薰的温水浴缸旁，一边只用气音在耳边唤对方名字一边温柔像羽毛一样轻划过彼此的耳后敏感处（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_04",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 暖光梳妆台前",
+      "text": "把约会搬到暖光梳妆台前：想象身处只有雨声的阁楼小床，一边唇角始终藏着一点坏笑一边温柔用唇瓣极轻地厮磨彼此的下巴尖（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_05",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 卧室墙边",
+      "text": "把约会搬到卧室墙边：想象身处午夜听海的阳台，一边保持彻底安静只听呼吸一边温柔用唇瓣反复摩挲彼此的锁骨窝（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_06",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 床沿边上",
+      "text": "把约会搬到床沿边上：想象身处隐秘的深夜爵士吧，一边每次停顿都把唇悬在 1 厘米外一边温柔指尖轻柔抚过彼此的指节与虎口（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_07",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 全身镜前",
+      "text": "把约会搬到全身镜前：想象身处挂满星星的私密小院，一边只用气音在耳边唤对方名字一边温柔用温热嘴唇细碎点吻彼此的颈侧线条（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_08",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 沙发角落",
+      "text": "把约会搬到沙发角落：想象身处暖黄灯光的独立影音房，一边唇角始终藏着一点坏笑一边温柔用温热掌心慢慢揉捏彼此的眉心与眼角（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_09",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 厨房吧台边",
+      "text": "把约会搬到厨房吧台边：想象身处洒满月光的窗台飘窗，一边保持彻底安静只听呼吸一边温柔贴近皮肤缓缓吹拂暖气于彼此的鼻尖与唇角（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_10",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 昏暗的门框旁",
+      "text": "把约会搬到昏暗的门框旁：想象身处燃着壁炉的山间木屋，一边每次停顿都把唇悬在 1 厘米外一边温柔凑近吹拂灼热气音于彼此的上背肩胛（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_11",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 点着夜灯的地毯上",
+      "text": "把约会搬到点着夜灯的地毯上：想象身处雨夜高空景观套房，一边只用气音在耳边唤对方名字一边温柔十指轻柔梳过并贴近吻彼此的后颈发际（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_12",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 只留一盏暖灯的床头",
+      "text": "把约会搬到只留一盏暖灯的床头：想象身处拉上纱帘的午后落地窗，一边唇角始终藏着一点坏笑一边温柔用鼻尖轻轻蹭过彼此的脸颊与下颌线（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_13",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 暖灯下的飘窗边",
+      "text": "把约会搬到暖灯下的飘窗边：想象身处微风吹过的海边露营车，一边保持彻底安静只听呼吸一边温柔落下绵长湿润的慢吻于彼此的锁骨外侧（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_14",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 沙发扶手旁",
+      "text": "把约会搬到沙发扶手旁：想象身处烛光摇曳的露台，一边每次停顿都把唇悬在 1 厘米外一边温柔用指腹打着圈轻抚彼此的肩头（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_15",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 软软的床尾",
+      "text": "把约会搬到软软的床尾：想象身处灯光昏暗的精品酒店酒吧，一边只用气音在耳边唤对方名字一边温柔像羽毛一样轻划过彼此的耳廓边缘（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l1_16",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "浪漫角落 · 柔和灯光下的玄关",
+      "text": "把约会搬到柔和灯光下的玄关：想象身处私密温泉露台，一边唇角始终藏着一点坏笑一边温柔用唇瓣极轻地厮磨彼此的手腕内侧（30 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_01",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 暖光梳妆台前",
+      "text": "在暖光梳妆台前开启专属二人空间：用「先稳稳牵住手，再换成羽毛般轻的触碰」从手腕脉搏处滑向下巴尖（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_02",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 卧室墙边",
+      "text": "在卧室墙边开启专属二人空间：用「先轻蹭鼻尖再突然落下一记慢吻」从肩胛骨滑向锁骨窝（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_03",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 床沿边上",
+      "text": "在床沿边上开启专属二人空间：用「先在呼吸可及处停住，再温柔地靠近」从后颈发际线滑向指节与虎口（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_04",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 全身镜前",
+      "text": "在全身镜前开启专属二人空间：用「指尖轻轻划过，再落下一个软软的吻」从耳后敏感处滑向颈侧线条（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_05",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 沙发角落",
+      "text": "在沙发角落开启专属二人空间：用「先轻吹一口暖气再极慢吻上去」从侧腰肋骨滑向眉心与眼角（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_06",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 厨房吧台边",
+      "text": "在厨房吧台边开启专属二人空间：用「先俏皮轻吻一口再立刻用呼吸沿着温柔安抚」从喉结下方滑向鼻尖与唇角（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_07",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 昏暗的门框旁",
+      "text": "在昏暗的门框旁开启专属二人空间：用「指腹轻轻划过手心，再慢慢握紧十指」从腰窝下方滑向上背肩胛（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_08",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 点着夜灯的地毯上",
+      "text": "在点着夜灯的地毯上开启专属二人空间：用「先轻吹微凉气息再立刻覆上滚烫湿吻」从锁骨凹陷处滑向后颈发际（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_09",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 只留一盏暖灯的床头",
+      "text": "在只留一盏暖灯的床头开启专属二人空间：用「先轻轻握住手，再慢慢落下一个温柔的吻」从手腕脉搏处滑向脸颊与下颌线（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_10",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 暖灯下的飘窗边",
+      "text": "在暖灯下的飘窗边开启专属二人空间：用「先轻抚发丝再扣住后脑勺拉近」从肩胛骨滑向锁骨外侧（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_11",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 沙发扶手旁",
+      "text": "在沙发扶手旁开启专属二人空间：用「先温热掌心慢滑再突然拉进怀里绵长的吻」从后颈发际线滑向肩头（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_12",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 软软的床尾",
+      "text": "在软软的床尾开启专属二人空间：用「隔着衣料先暖暖地贴一会儿，再轻轻牵住手」从耳后敏感处滑向耳廓边缘（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_13",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 柔和灯光下的玄关",
+      "text": "在柔和灯光下的玄关开启专属二人空间：用「先稳稳牵住手，再换成羽毛般轻的触碰」从侧腰肋骨滑向手腕内侧（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l2_14",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "场景升温 · 微暗的衣帽间门旁",
+      "text": "在微暗的衣帽间门旁开启专属二人空间：用「先轻蹭鼻尖再突然落下一记慢吻」从喉结下方滑向掌心与指尖（35 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_01",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 全身镜前",
+      "text": "锁定全身镜前：保持「在羽毛般轻抚与用力抓握之间切换」，把伴侣拉近并专注温柔轻吻对方的后颈发际线（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_02",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 沙发角落",
+      "text": "锁定沙发角落：保持「每换一个部位前先低声唤对方名字」，把伴侣拉近并专注用唇舌与指尖交替挑逗对方的颈侧（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_03",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 厨房吧台边",
+      "text": "锁定厨房吧台边：保持「在羽毛般轻抚与用力抓握之间切换」，把伴侣拉近并专注俏皮轻吻后再温柔吻平对方的大腿内侧（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_04",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 昏暗的门框旁",
+      "text": "锁定昏暗的门框旁：保持「每换一个部位前先低声唤对方名字」，把伴侣拉近并专注用呼吸沿着极慢地气息轻轻拂过对方的胯骨边缘（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_05",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 点着夜灯的地毯上",
+      "text": "锁定点着夜灯的地毯上：保持「在羽毛般轻抚与用力抓握之间切换」，把伴侣拉近并专注轻温柔的吻后再绵长绵长的吻对方的耳垂（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_06",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 只留一盏暖灯的床头",
+      "text": "锁定只留一盏暖灯的床头：保持「每换一个部位前先低声唤对方名字」，把伴侣拉近并专注张唇贴肤落满灼热湿吻于对方的腰窝（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_07",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 暖灯下的飘窗边",
+      "text": "锁定暖灯下的飘窗边：保持「在羽毛般轻抚与用力抓握之间切换」，把伴侣拉近并专注落下让人喘不过气的绵长的吻于对方的小腹线条（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_08",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 沙发扶手旁",
+      "text": "锁定沙发扶手旁：保持「每换一个部位前先低声唤对方名字」，把伴侣拉近并专注用湿润舌尖一路描摹对方的胸口与侧肋（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_09",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 软软的床尾",
+      "text": "锁定软软的床尾：保持「在羽毛般轻抚与用力抓握之间切换」，把伴侣拉近并专注温柔轻吻对方的锁骨（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_10",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 柔和灯光下的玄关",
+      "text": "锁定柔和灯光下的玄关：保持「每换一个部位前先低声唤对方名字」，把伴侣拉近并专注用唇舌与指尖交替挑逗对方的后背脊柱（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_11",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 微暗的衣帽间门旁",
+      "text": "锁定微暗的衣帽间门旁：保持「在羽毛般轻抚与用力抓握之间切换」，把伴侣拉近并专注俏皮轻吻后再温柔吻平对方的后颈发际线（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_12",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 铺满抱枕的榻榻米",
+      "text": "锁定铺满抱枕的榻榻米：保持「每换一个部位前先低声唤对方名字」，把伴侣拉近并专注用呼吸沿着极慢地气息轻轻拂过对方的颈侧（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l3_13",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "私密阵地 · 落地窗帘后",
+      "text": "锁定落地窗帘后：保持「在羽毛般轻抚与用力抓握之间切换」，把伴侣拉近并专注轻温柔的吻后再绵长绵长的吻对方的大腿内侧（45 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_01",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 昏暗的门框旁",
+      "text": "就在昏暗的门框旁摆出「在卧室墙边轻轻相依的姿态」，配合把伴侣双手反扣在背后不准反抗探索腰侧凹陷处，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_02",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 点着夜灯的地毯上",
+      "text": "就在点着夜灯的地毯上摆出「面对面靠近坐着面对面贴紧的姿势」，配合单手把伴侣双手轻按在头顶探索小腹敏感线，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_03",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 只留一盏暖灯的床头",
+      "text": "就在只留一盏暖灯的床头摆出「垫着枕头微微弓背的姿势」，配合轻捏下巴抬起让对方只能看着你探索胯部弧线，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_04",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 暖灯下的飘窗边",
+      "text": "就在暖灯下的飘窗边摆出「闭眼平躺交出掌控权的姿势」，配合让伴侣十指交叉扣在脑后敞开身体探索大腿内侧，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_05",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 沙发扶手旁",
+      "text": "就在沙发扶手旁摆出「半仰在床边的姿势」，配合让伴侣双手贴住床头板不许放下探索锁骨下方，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_06",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 软软的床尾",
+      "text": "就在软软的床尾摆出「站在镜子前背后相拥的姿势」，配合把伴侣轻轻抵在墙面扶住腰胯探索胸口与肋骨线条，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_07",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 柔和灯光下的玄关",
+      "text": "就在柔和灯光下的玄关摆出「在床上膝盖相抵面对面跪坐」，配合把伴侣双手反扣在背后不准反抗探索臀线与胯骨，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_08",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 微暗的衣帽间门旁",
+      "text": "就在微暗的衣帽间门旁摆出「在卧室墙边轻轻相依的姿态」，配合单手把伴侣双手轻按在头顶探索脊柱最深处，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_09",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 铺满抱枕的榻榻米",
+      "text": "就在铺满抱枕的榻榻米摆出「面对面靠近坐着面对面贴紧的姿势」，配合轻捏下巴抬起让对方只能看着你探索腰侧凹陷处，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_10",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 落地窗帘后",
+      "text": "就在落地窗帘后摆出「垫着枕头微微弓背的姿势」，配合让伴侣十指交叉扣在脑后敞开身体探索小腹敏感线，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_11",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 暖光梳妆台前",
+      "text": "就在暖光梳妆台前摆出「闭眼平躺交出掌控权的姿势」，配合让伴侣双手贴住床头板不许放下探索胯部弧线，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_12",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 卧室墙边",
+      "text": "就在卧室墙边摆出「半仰在床边的姿势」，配合把伴侣轻轻抵在墙面扶住腰胯探索大腿内侧，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_l4_13",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "高能舞台 · 床沿边上",
+      "text": "就在床沿边上摆出「站在镜子前背后相拥的姿势」，配合把伴侣双手反扣在背后不准反抗探索锁骨下方，全程不准退缩（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_01",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 烛光摇曳的露台",
+      "text": "幻想重回烛光摇曳的露台：在昏暗的门框旁贴耳倾诉「第一次见我就让你脸红的小细节」，并温柔指尖轻柔抚过对方上背肩胛（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_02",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 灯光昏暗的精品酒店酒吧",
+      "text": "幻想重回灯光昏暗的精品酒店酒吧：在点着夜灯的地毯上贴耳倾诉「伴侣发出的哪种声音最让你瞬间失控」，并温柔用温热嘴唇细碎点吻对方后颈发际（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_03",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 私密温泉露台",
+      "text": "幻想重回私密温泉露台：在只留一盏暖灯的床头贴耳倾诉「如果现在关掉所有灯你最想先做什么」，并温柔用温热掌心慢慢揉捏对方脸颊与下颌线（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_04",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 飘着香薰的温水浴缸旁",
+      "text": "幻想重回飘着香薰的温水浴缸旁：在暖灯下的飘窗边贴耳倾诉「我哪一种撒娇最让你毫无招架之力」，并温柔贴近皮肤缓缓吹拂暖气于对方锁骨外侧（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_05",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 只有雨声的阁楼小床",
+      "text": "幻想重回只有雨声的阁楼小床：在沙发扶手旁贴耳倾诉「最想把伴侣拉去偷吻的危险角落」，并温柔凑近吹拂灼热气音于对方肩头（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_06",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 午夜听海的阳台",
+      "text": "幻想重回午夜听海的阳台：在软软的床尾贴耳倾诉「哪一次拥抱让你久久不愿松手」，并温柔十指轻柔梳过并贴近吻对方耳廓边缘（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_07",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 隐秘的深夜爵士吧",
+      "text": "幻想重回隐秘的深夜爵士吧：在柔和灯光下的玄关贴耳倾诉「今晚睡前你最想被我怎么哄」，并温柔用鼻尖轻轻蹭过对方手腕内侧（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_08",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 挂满星星的私密小院",
+      "text": "幻想重回挂满星星的私密小院：在微暗的衣帽间门旁贴耳倾诉「今晚最想看对方穿上——或松开——的衣服」，并温柔落下绵长湿润的慢吻于对方掌心与指尖（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_09",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 暖黄灯光的独立影音房",
+      "text": "幻想重回暖黄灯光的独立影音房：在铺满抱枕的榻榻米贴耳倾诉「今天在心里偷偷想过的一个坏念头」，并温柔用指腹打着圈轻抚对方前臂内侧（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_10",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 洒满月光的窗台飘窗",
+      "text": "幻想重回洒满月光的窗台飘窗：在落地窗帘后贴耳倾诉「平时牵手时你悄悄藏在心底的小念头」，并温柔像羽毛一样轻划过对方耳后敏感处（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_11",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 燃着壁炉的山间木屋",
+      "text": "幻想重回燃着壁炉的山间木屋：在暖光梳妆台前贴耳倾诉「关灯之后你最渴望被触碰的方式」，并温柔用唇瓣极轻地厮磨对方下巴尖（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_12",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 雨夜高空景观套房",
+      "text": "幻想重回雨夜高空景观套房：在卧室墙边贴耳倾诉「接下来最想吻遍的那个身体角落」，并温柔用唇瓣反复摩挲对方锁骨窝（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_13",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 拉上纱帘的午后落地窗",
+      "text": "幻想重回拉上纱帘的午后落地窗：在床沿边上贴耳倾诉「你最迷恋我吻你时的哪一个小习惯」，并温柔指尖轻柔抚过对方指节与虎口（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_14",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 微风吹过的海边露营车",
+      "text": "幻想重回微风吹过的海边露营车：在全身镜前贴耳倾诉「今晚究竟是哪一秒让你彻底没法冷静」，并温柔用温热嘴唇细碎点吻对方颈侧线条（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_15",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 烛光摇曳的露台",
+      "text": "幻想重回烛光摇曳的露台：在沙发角落贴耳倾诉「天亮前最想一起解锁的一场私密幻想」，并温柔用温热掌心慢慢揉捏对方眉心与眼角（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_16",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 灯光昏暗的精品酒店酒吧",
+      "text": "幻想重回灯光昏暗的精品酒店酒吧：在厨房吧台边贴耳倾诉「此刻看着我的眼睛心里冒出的第一句话」，并温柔贴近皮肤缓缓吹拂暖气于对方鼻尖与唇角（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f1_17",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "微光剧场 · 私密温泉露台",
+      "text": "幻想重回私密温泉露台：在昏暗的门框旁贴耳倾诉「第一次见我就让你脸红的小细节」，并温柔凑近吹拂灼热气音于对方上背肩胛（30 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_01",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 午夜听海的阳台",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在暖灯下的飘窗边用「先俏皮轻吻一口再立刻用呼吸沿着温柔安抚」试探锁骨外侧，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_02",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 隐秘的深夜爵士吧",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在沙发扶手旁用「指腹轻轻划过手心，再慢慢握紧十指」试探肩头，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_03",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 挂满星星的私密小院",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在软软的床尾用「先轻吹微凉气息再立刻覆上滚烫湿吻」试探耳廓边缘，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_04",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 暖黄灯光的独立影音房",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在柔和灯光下的玄关用「先轻轻握住手，再慢慢落下一个温柔的吻」试探手腕内侧，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_05",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 洒满月光的窗台飘窗",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在微暗的衣帽间门旁用「先轻抚发丝再扣住后脑勺拉近」试探掌心与指尖，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_06",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 燃着壁炉的山间木屋",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在铺满抱枕的榻榻米用「先温热掌心慢滑再突然拉进怀里绵长的吻」试探前臂内侧，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_07",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 雨夜高空景观套房",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在落地窗帘后用「隔着衣料先暖暖地贴一会儿，再轻轻牵住手」试探耳后敏感处，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_08",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 拉上纱帘的午后落地窗",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在暖光梳妆台前用「先稳稳牵住手，再换成羽毛般轻的触碰」试探下巴尖，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_09",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 微风吹过的海边露营车",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在卧室墙边用「先轻蹭鼻尖再突然落下一记慢吻」试探锁骨窝，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_10",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 烛光摇曳的露台",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在床沿边上用「先在呼吸可及处停住，再温柔地靠近」试探指节与虎口，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_11",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 灯光昏暗的精品酒店酒吧",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在全身镜前用「指尖轻轻划过，再落下一个软软的吻」试探颈侧线条，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_12",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 私密温泉露台",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在沙发角落用「先轻吹一口暖气再极慢吻上去」试探眉心与眼角，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_13",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 飘着香薰的温水浴缸旁",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在厨房吧台边用「先俏皮轻吻一口再立刻用呼吸沿着温柔安抚」试探鼻尖与唇角，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f2_14",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "暧昧剧本 · 只有雨声的阁楼小床",
+      "text": "开启小剧场「用假名溜进顶层套房的秘密私奔」：在昏暗的门框旁用「指腹轻轻划过手心，再慢慢握紧十指」试探上背肩胛，看看谁先脸红（35 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_01",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 颈侧",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在柔和灯光下的玄关由主导方全程用唇舌与指尖交替挑逗对方颈侧，遵守每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_02",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 大腿内侧",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在微暗的衣帽间门旁由主导方全程俏皮轻吻后再温柔吻平对方大腿内侧，遵守在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_03",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 胯骨边缘",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在铺满抱枕的榻榻米由主导方全程用呼吸沿着极慢地气息轻轻拂过对方胯骨边缘，遵守每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_04",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 耳垂",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在落地窗帘后由主导方全程轻温柔的吻后再绵长绵长的吻对方耳垂，遵守在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_05",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 腰窝",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在暖光梳妆台前由主导方全程张唇贴肤落满灼热湿吻于对方腰窝，遵守每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_06",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 小腹线条",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在卧室墙边由主导方全程落下让人喘不过气的绵长的吻于对方小腹线条，遵守在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_07",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 胸口与侧肋",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在床沿边上由主导方全程用湿润舌尖一路描摹对方胸口与侧肋，遵守每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_08",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 锁骨",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在全身镜前由主导方全程温柔轻吻对方锁骨，遵守在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_09",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 后背脊柱",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在沙发角落由主导方全程用唇舌与指尖交替挑逗对方后背脊柱，遵守每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_10",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 后颈发际线",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在厨房吧台边由主导方全程俏皮轻吻后再温柔吻平对方后颈发际线，遵守在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_11",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 颈侧",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在昏暗的门框旁由主导方全程用呼吸沿着极慢地气息轻轻拂过对方颈侧，遵守每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_12",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 大腿内侧",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在点着夜灯的地毯上由主导方全程轻温柔的吻后再绵长绵长的吻对方大腿内侧，遵守在羽毛般轻抚与用力抓握之间切换（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f3_13",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "禁断幻想 · 胯骨边缘",
+      "text": "沉浸式演绎「用假名溜进顶层套房的秘密私奔」：在只留一盏暖灯的床头由主导方全程张唇贴肤落满灼热湿吻于对方胯骨边缘，遵守每换一个部位前先低声唤对方名字（45 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_01",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 小腹敏感线",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在落地窗帘后把伴侣轻轻抵在墙面扶住腰胯，用单手且保持眼神对视拨开衬衫的两颗扣子探索小腹敏感线（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_02",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 胯部弧线",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在暖光梳妆台前把伴侣双手反扣在背后不准反抗，用不许用手只靠嘴唇与牙齿拨开一侧肩带或外衣探索胯部弧线（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_03",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 大腿内侧",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在卧室墙边单手把伴侣双手轻按在头顶，用极慢的指尖拨开一件配饰加一层外衣探索大腿内侧（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_04",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 锁骨下方",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在床沿边上轻捏下巴抬起让对方只能看着你，用先用手背轻擦再换滚烫嘴唇拨开拉链或腰线边缘探索锁骨下方（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_05",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 胸口与肋骨线条",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在全身镜前让伴侣十指交叉扣在脑后敞开身体，用握着伴侣自己的手去引导拨开上衣的衣摆探索胸口与肋骨线条（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_06",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 臀线与胯骨",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在沙发角落让伴侣双手贴住床头板不许放下，用只靠灼热吐息与唇瓣拨开你亲自挑选的一件衣物探索臀线与胯骨（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_07",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 脊柱最深处",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在厨房吧台边把伴侣轻轻抵在墙面扶住腰胯，用单手且保持眼神对视拨开衬衫的两颗扣子探索脊柱最深处（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_08",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 腰侧凹陷处",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在昏暗的门框旁把伴侣双手反扣在背后不准反抗，用不许用手只靠嘴唇与牙齿拨开一侧肩带或外衣探索腰侧凹陷处（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_09",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 小腹敏感线",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在点着夜灯的地毯上单手把伴侣双手轻按在头顶，用极慢的指尖拨开一件配饰加一层外衣探索小腹敏感线（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_10",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 胯部弧线",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在只留一盏暖灯的床头轻捏下巴抬起让对方只能看着你，用先用手背轻擦再换滚烫嘴唇拨开拉链或腰线边缘探索胯部弧线（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_11",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 大腿内侧",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在暖灯下的飘窗边让伴侣十指交叉扣在脑后敞开身体，用握着伴侣自己的手去引导拨开上衣的衣摆探索大腿内侧（55 秒）。"
+    },
+    {
+      "id": "sc_v21_f4_12",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "巅峰幻想 · 锁骨下方",
+      "text": "解锁终极戏码「用假名溜进顶层套房的秘密私奔」：在沙发扶手旁让伴侣双手贴住床头板不许放下，用只靠灼热吐息与唇瓣拨开你亲自挑选的一件衣物探索锁骨下方（55 秒）。"
+    }
+  ]
+}

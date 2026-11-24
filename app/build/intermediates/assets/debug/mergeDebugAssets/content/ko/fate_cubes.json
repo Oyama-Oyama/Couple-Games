@@ -1,0 +1,3980 @@
+{
+  "actions": [
+    {
+      "id": "act_caress",
+      "label": "부드럽게 쓰다듬기",
+      "icon": "✋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_kiss",
+      "label": "달콤한 소프트 키스",
+      "icon": "💋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_whisper",
+      "label": "귓가에 속삭이기",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "act_massage",
+      "label": "따뜻하게 주무르기",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_breath",
+      "label": "뜨거운 숨결 불기",
+      "icon": "🌬",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_trace",
+      "label": "손끝으로 그리기",
+      "icon": "〰",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_lick",
+      "label": "숨결을 따라 숨을 살짝 스치게 해기",
+      "icon": "👅",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_nibble",
+      "label": "살짝 부드러운 입맞춤기",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_lingering_kiss",
+      "label": "깊고 진한 키스",
+      "icon": "❤",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_lick_bite",
+      "label": "숨을 살짝 스치게 해고 살짝 부드러운 입맞춤기",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_spank",
+      "label": "장난스러운 스팽킹",
+      "icon": "💥",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_suck_tease",
+      "label": "입술로 빨며 애태우기",
+      "icon": "🍷",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_ice_trace",
+      "label": "얼음으로 천천히 문지르기",
+      "icon": "🧊",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_undress_slow",
+      "label": "천천히 옷 벗기기",
+      "icon": "🎀",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "act_pin_kiss",
+      "label": "손목 잡고 강렬한 천천히 스며드는 입맞춤",
+      "icon": "⛓",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_slow_lick",
+      "label": "숨결을 따라 진하게 숨을 살짝 스치게 해기",
+      "icon": "👅",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_gentle_suck",
+      "label": "입술로 부드럽게 빨기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_soft_bite",
+      "label": "장난스럽게 살짝 부드러운 입맞춤기",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_wet_kiss",
+      "label": "촉촉하고 뜨거운 습식 키스",
+      "icon": "💦",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_deep_suck_mark",
+      "label": "부드럽게 가까이 흔적 남기기",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_lip_nibble_pull",
+      "label": "살짝 물어 당기며 애태우기",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_pinch_tease",
+      "label": "손끝으로 살짝 꼬집고 어루만지기",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_warm_oil_glide",
+      "label": "따뜻한 오일/손바닥 밀착 슬라이드",
+      "icon": "💧",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_tongue_circle",
+      "label": "숨결을 따라 천천히 원 그리기",
+      "icon": "🌀",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_bite_then_soothe",
+      "label": "깨문 직후 숨결을 따라 달래주기",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_breath_stop_kiss",
+      "label": "뜨거운 숨결 후 기습 천천히 스며드는 입맞춤",
+      "icon": "🌬",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_01",
+      "label": "깃털처럼 살며시 어루만지기",
+      "icon": "🪶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_02",
+      "label": "수줍게 세 번 쪽쪽 입맞춤",
+      "icon": "💋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_03",
+      "label": "가까이서 따뜻한 숨 불어넣기",
+      "icon": "🌬",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_04",
+      "label": "손끝으로 천천히 원 그리기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_05",
+      "label": "눈 맞추며 살며시 부비기",
+      "icon": "💕",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_06",
+      "label": "취기 오른 듯 느린 키스",
+      "icon": "🥂",
+      "tier": 1,
+      "tags": [
+        "alcohol",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_07",
+      "label": "따뜻한 손바닥으로 감싸 안기",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_08",
+      "label": "피부에 닿을 듯 칭찬 속삭이기",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "deep_talk",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_09",
+      "label": "코끝으로 살며시 간지럽히기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_10",
+      "label": "옷 위로 부드럽게 주무르기",
+      "icon": "🤍",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_11",
+      "label": "입술 1cm 앞에서 애태우기",
+      "icon": "🌹",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_01",
+      "label": "입술로 반복해 스치며 애태우기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_02",
+      "label": "수줍게 살짝 부드러운 입맞춤기",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t2_03",
+      "label": "손톱 끝으로 살며시 전율 주기",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_04",
+      "label": "잘게 이어지는 뜨거운 키스",
+      "icon": "💓",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_05",
+      "label": "술 한 방울 묻혀 입술로 훔치기",
+      "icon": "🍷",
+      "tier": 2,
+      "tags": [
+        "alcohol",
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t2_06",
+      "label": "눈 감은 사이 기습 키스",
+      "icon": "🙈",
+      "tier": 2,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_07",
+      "label": "확 끌어당겨 달콤하게 키스",
+      "icon": "🎭",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_01",
+      "label": "숨결을 따라 아주 천천히 훑기",
+      "icon": "👅",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_02",
+      "label": "살며시 빨며 숨소리 듣기",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_03",
+      "label": "옷 안으로 손 넣어 맨살 애무",
+      "icon": "✋",
+      "tier": 3,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_04",
+      "label": "시원한 숨결 직후 뜨거운 습식 키스",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_05",
+      "label": "단단히 감싸 쥐며 주무르기",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "restraint_light",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_06",
+      "label": "입술을 살짝 벌려 촉촉히 머물기",
+      "icon": "💧",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_07",
+      "label": "옷깃 젖히고 드러난 맨살 키스",
+      "icon": "🎀",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "act_v2_t4_01",
+      "label": "못 움직이게 누르고 빨며 부드러운 입맞춤기",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "bite_lick",
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t4_02",
+      "label": "입술과 치아로만 옷 젖히고 키스",
+      "icon": "💋",
+      "tier": 4,
+      "tags": [
+        "clothing_dare",
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t4_03",
+      "label": "장난스레 두 번 스팽킹 후 키스",
+      "icon": "💥",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t4_04",
+      "label": "숨결을 따라 빙글빙글 애원할 때까지",
+      "icon": "🌀",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t4_05",
+      "label": "눈 가리고 떨릴 때까지 한계 애태우기",
+      "icon": "⛓",
+      "tier": 4,
+      "tags": [
+        "blindfold",
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v21_001",
+      "label": "아주 천천히 키스하기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_002",
+      "label": "아주 천천히 어루만지기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_003",
+      "label": "아주 천천히 선 그리기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_004",
+      "label": "아주 천천히 코끝 비비기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_005",
+      "label": "아주 천천히 마사지하기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_006",
+      "label": "아주 천천히 스치기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_007",
+      "label": "아주 천천히 미끄러지기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_008",
+      "label": "아주 천천히 감싸 안기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_009",
+      "label": "아주 천천히 톡톡 두드리기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_010",
+      "label": "아주 천천히 입술 대보기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_011",
+      "label": "아주 천천히 쓸어내리기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_012",
+      "label": "아주 천천히 풀어주기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_013",
+      "label": "아주 천천히 스치듯 닿기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_014",
+      "label": "깃털처럼 키스하기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_015",
+      "label": "깃털처럼 어루만지기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_016",
+      "label": "깃털처럼 선 그리기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_017",
+      "label": "깃털처럼 코끝 비비기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_018",
+      "label": "깃털처럼 마사지하기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_019",
+      "label": "깃털처럼 스치기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_020",
+      "label": "깃털처럼 미끄러지기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_021",
+      "label": "깃털처럼 감싸 안기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_022",
+      "label": "깃털처럼 톡톡 두드리기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_023",
+      "label": "깃털처럼 입술 대보기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_024",
+      "label": "깃털처럼 쓸어내리기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_025",
+      "label": "깃털처럼 풀어주기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_026",
+      "label": "깃털처럼 스치듯 닿기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_027",
+      "label": "눈 감고 키스하기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_028",
+      "label": "눈 감고 어루만지기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_029",
+      "label": "눈 감고 선 그리기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_030",
+      "label": "눈 감고 코끝 비비기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_031",
+      "label": "눈 감고 마사지하기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_032",
+      "label": "눈 감고 스치기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_033",
+      "label": "눈 감고 미끄러지기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_034",
+      "label": "눈 감고 감싸 안기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_035",
+      "label": "눈 감고 톡톡 두드리기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_036",
+      "label": "눈 감고 입술 대보기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_037",
+      "label": "눈 감고 쓸어내리기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_038",
+      "label": "눈 감고 풀어주기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_039",
+      "label": "눈 감고 스치듯 닿기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_040",
+      "label": "따뜻한 숨으로 키스하기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_041",
+      "label": "따뜻한 숨으로 어루만지기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_042",
+      "label": "따뜻한 숨으로 선 그리기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_043",
+      "label": "따뜻한 숨으로 코끝 비비기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_044",
+      "label": "따뜻한 숨으로 마사지하기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_045",
+      "label": "따뜻한 숨으로 스치기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_046",
+      "label": "따뜻한 숨으로 미끄러지기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_047",
+      "label": "따뜻한 숨으로 감싸 안기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_048",
+      "label": "따뜻한 숨으로 톡톡 두드리기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_049",
+      "label": "따뜻한 숨으로 입술 대보기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_050",
+      "label": "따뜻한 숨으로 쓸어내리기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_051",
+      "label": "따뜻한 숨으로 풀어주기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_052",
+      "label": "따뜻한 숨으로 스치듯 닿기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_053",
+      "label": "미소 지으며 키스하기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_054",
+      "label": "미소 지으며 어루만지기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_055",
+      "label": "미소 지으며 선 그리기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_056",
+      "label": "미소 지으며 코끝 비비기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_057",
+      "label": "미소 지으며 마사지하기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_058",
+      "label": "미소 지으며 스치기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_059",
+      "label": "미소 지으며 미끄러지기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_060",
+      "label": "미소 지으며 감싸 안기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_061",
+      "label": "미소 지으며 톡톡 두드리기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_062",
+      "label": "미소 지으며 입술 대보기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_063",
+      "label": "미소 지으며 쓸어내리기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_064",
+      "label": "미소 지으며 풀어주기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_065",
+      "label": "미소 지으며 스치듯 닿기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_066",
+      "label": "속삭이며 키스하기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_067",
+      "label": "속삭이며 어루만지기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_068",
+      "label": "속삭이며 선 그리기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_069",
+      "label": "속삭이며 코끝 비비기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_070",
+      "label": "속삭이며 마사지하기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_071",
+      "label": "속삭이며 스치기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_072",
+      "label": "속삭이며 미끄러지기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_073",
+      "label": "속삭이며 감싸 안기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_074",
+      "label": "속삭이며 톡톡 두드리기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_075",
+      "label": "속삭이며 입술 대보기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_076",
+      "label": "속삭이며 쓸어내리기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_077",
+      "label": "속삭이며 풀어주기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_078",
+      "label": "속삭이며 스치듯 닿기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_079",
+      "label": "원을 그리며 키스하기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_080",
+      "label": "원을 그리며 어루만지기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_081",
+      "label": "원을 그리며 선 그리기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_082",
+      "label": "원을 그리며 코끝 비비기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_083",
+      "label": "원을 그리며 마사지하기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_084",
+      "label": "원을 그리며 스치기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_085",
+      "label": "원을 그리며 미끄러지기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_086",
+      "label": "원을 그리며 감싸 안기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_087",
+      "label": "원을 그리며 톡톡 두드리기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_088",
+      "label": "원을 그리며 입술 대보기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_089",
+      "label": "원을 그리며 쓸어내리기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_090",
+      "label": "원을 그리며 풀어주기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_091",
+      "label": "원을 그리며 스치듯 닿기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_092",
+      "label": "여운 있게 키스하기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_093",
+      "label": "여운 있게 어루만지기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_094",
+      "label": "여운 있게 선 그리기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_095",
+      "label": "여운 있게 코끝 비비기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_096",
+      "label": "여운 있게 마사지하기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_097",
+      "label": "여운 있게 스치기",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_098",
+      "label": "여운 있게 미끄러지기",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_099",
+      "label": "여운 있게 감싸 안기",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_100",
+      "label": "여운 있게 톡톡 두드리기",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_101",
+      "label": "여운 있게 입술 대보기",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_102",
+      "label": "여운 있게 쓸어내리기",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_103",
+      "label": "여운 있게 풀어주기",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_104",
+      "label": "여운 있게 스치듯 닿기",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ],
+  "spots": [
+    {
+      "id": "spot_hand",
+      "label": "손등과 손가락",
+      "icon": "🤲",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_cheek",
+      "label": "볼과 턱선",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_shoulder",
+      "label": "어깨",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lips",
+      "label": "입술",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_earlobe",
+      "label": "귓불",
+      "icon": "🎧",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_neck",
+      "label": "목덜미",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_collarbone",
+      "label": "쇄골",
+      "icon": "💎",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_wrist",
+      "label": "손목 안쪽",
+      "icon": "🕊",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_waist",
+      "label": "허리라인",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_spine",
+      "label": "등줄기",
+      "icon": "🌊",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_hip",
+      "label": "힙라인",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_thigh",
+      "label": "허벅지 안쪽",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lower_belly",
+      "label": "아랫배 라인",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_chest",
+      "label": "가슴과 옆구리",
+      "icon": "❤",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_nape",
+      "label": "뒷목 헤어라인",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_behind_ear",
+      "label": "귀 뒤 민감 스팟",
+      "icon": "🎧",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_throat",
+      "label": "목젖과 목 앞선",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_under_collar",
+      "label": "쇄골 아래 맨살",
+      "icon": "💎",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_side_ribs",
+      "label": "옆구리 갈비뼈 라인",
+      "icon": "〰",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lower_back",
+      "label": "허리 보조개와 꼬리뼈",
+      "icon": "🌙",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_navel_line",
+      "label": "배꼽과 아랫배 라인",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_hip_bone",
+      "label": "골반뼈 가장자리",
+      "icon": "🌹",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_glutes_curve",
+      "label": "힙 곡선과 아래 라인",
+      "icon": "🍑",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_upper_inner_thigh",
+      "label": "허벅지 안쪽 최상단",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_chest_hollow",
+      "label": "가슴골과 옷깃 안쪽",
+      "icon": "❤️‍🔥",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_behind_knee",
+      "label": "무릎 뒤 오금",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_01",
+      "label": "손가락 사이와 끝",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_02",
+      "label": "이마와 미간",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_03",
+      "label": "귓바퀴 테두리",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_04",
+      "label": "턱선 모서리",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_05",
+      "label": "쇄골 움푹한 곳",
+      "icon": "🤍",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_06",
+      "label": "입꼬리 바로 옆",
+      "icon": "🌹",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_07",
+      "label": "손바닥 한가운데",
+      "icon": "🤲",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_08",
+      "label": "어깨뼈 곡선",
+      "icon": "🦋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_09",
+      "label": "팔꿈치 안쪽",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_10",
+      "label": "관자놀이와 구레나룻",
+      "icon": "💕",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_11",
+      "label": "발목과 발등",
+      "icon": "🕊",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_01",
+      "label": "아랫입술 중앙",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_02",
+      "label": "목덜미 맥박 뛰는 곳",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_03",
+      "label": "팔뚝 안쪽 여린 살",
+      "icon": "🌊",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_04",
+      "label": "허리 뒤 보조개",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_05",
+      "label": "목과 어깨 경계선",
+      "icon": "💎",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_06",
+      "label": "옷깃 아래 등 윗부분",
+      "icon": "🌙",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_01",
+      "label": "배꼽 주변 한 바퀴",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_02",
+      "label": "가장 간지러운 옆구리",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_03",
+      "label": "허벅지 바깥 라인",
+      "icon": "🌹",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_04",
+      "label": "척추선 따라 아래로",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_05",
+      "label": "상의 밑단 아래 맨살 배",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_01",
+      "label": "허벅지 안쪽 맨 위",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_02",
+      "label": "가슴 가장 민감한 곳",
+      "icon": "❤️‍🔥",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_03",
+      "label": "힙 아래쪽 곡선",
+      "icon": "🍑",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_04",
+      "label": "속옷 라인 가장자리",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_05",
+      "label": "아랫배 치골 라인",
+      "icon": "🍷",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_06",
+      "label": "골반 뼈 움푹한 곳",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_07",
+      "label": "겉옷 벗은 맨살 등 전체",
+      "icon": "💫",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_08",
+      "label": "귓불에서 가슴까지 한 번에",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_001",
+      "label": "왼쪽 관자놀이",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_002",
+      "label": "왼쪽 광대",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_003",
+      "label": "왼쪽 귓바퀴",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_004",
+      "label": "왼쪽 귀 뒤",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_005",
+      "label": "왼쪽 턱선",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_006",
+      "label": "왼쪽 입꼬리",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_007",
+      "label": "왼쪽 턱끝",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_008",
+      "label": "왼쪽 뒷목",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_009",
+      "label": "왼쪽 쇄골",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_010",
+      "label": "왼쪽 어깨선",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_011",
+      "label": "왼쪽 팔뚝",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_012",
+      "label": "왼쪽 전완",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_013",
+      "label": "왼쪽 손목",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_014",
+      "label": "왼쪽 손바닥",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_015",
+      "label": "왼쪽 손마디",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_016",
+      "label": "왼쪽 어깨뼈",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_017",
+      "label": "왼쪽 등 라인",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_018",
+      "label": "왼쪽 허리 옆선",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_019",
+      "label": "왼쪽 발목",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_020",
+      "label": "왼쪽 발등",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_021",
+      "label": "오른쪽 관자놀이",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_022",
+      "label": "오른쪽 광대",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_023",
+      "label": "오른쪽 귓바퀴",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_024",
+      "label": "오른쪽 귀 뒤",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_025",
+      "label": "오른쪽 턱선",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_026",
+      "label": "오른쪽 입꼬리",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_027",
+      "label": "오른쪽 턱끝",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_028",
+      "label": "오른쪽 뒷목",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_029",
+      "label": "오른쪽 쇄골",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_030",
+      "label": "오른쪽 어깨선",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_031",
+      "label": "오른쪽 팔뚝",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_032",
+      "label": "오른쪽 전완",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_033",
+      "label": "오른쪽 손목",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_034",
+      "label": "오른쪽 손바닥",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_035",
+      "label": "오른쪽 손마디",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_036",
+      "label": "오른쪽 어깨뼈",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_037",
+      "label": "오른쪽 등 라인",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_038",
+      "label": "오른쪽 허리 옆선",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_039",
+      "label": "오른쪽 발목",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_040",
+      "label": "오른쪽 발등",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_041",
+      "label": "바깥쪽 관자놀이",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_042",
+      "label": "바깥쪽 광대",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_043",
+      "label": "바깥쪽 귓바퀴",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_044",
+      "label": "바깥쪽 귀 뒤",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_045",
+      "label": "바깥쪽 턱선",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_046",
+      "label": "바깥쪽 입꼬리",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_047",
+      "label": "바깥쪽 턱끝",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_048",
+      "label": "바깥쪽 뒷목",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_049",
+      "label": "바깥쪽 쇄골",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_050",
+      "label": "바깥쪽 어깨선",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_051",
+      "label": "바깥쪽 팔뚝",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_052",
+      "label": "바깥쪽 전완",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_053",
+      "label": "바깥쪽 손목",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_054",
+      "label": "바깥쪽 손바닥",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_055",
+      "label": "바깥쪽 손마디",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_056",
+      "label": "바깥쪽 어깨뼈",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_057",
+      "label": "바깥쪽 등 라인",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_058",
+      "label": "바깥쪽 허리 옆선",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_059",
+      "label": "바깥쪽 발목",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_060",
+      "label": "바깥쪽 발등",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_061",
+      "label": "안쪽 관자놀이",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_062",
+      "label": "안쪽 광대",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_063",
+      "label": "안쪽 귓바퀴",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_064",
+      "label": "안쪽 귀 뒤",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_065",
+      "label": "안쪽 턱선",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_066",
+      "label": "안쪽 입꼬리",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_067",
+      "label": "안쪽 턱끝",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_068",
+      "label": "안쪽 뒷목",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_069",
+      "label": "안쪽 쇄골",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_070",
+      "label": "안쪽 어깨선",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_071",
+      "label": "안쪽 팔뚝",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_072",
+      "label": "안쪽 전완",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_073",
+      "label": "안쪽 손목",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_074",
+      "label": "안쪽 손바닥",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_075",
+      "label": "안쪽 손마디",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_076",
+      "label": "안쪽 어깨뼈",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_077",
+      "label": "안쪽 등 라인",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_078",
+      "label": "안쪽 허리 옆선",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_079",
+      "label": "안쪽 발목",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_080",
+      "label": "안쪽 발등",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_081",
+      "label": "위쪽 관자놀이",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_082",
+      "label": "위쪽 광대",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_083",
+      "label": "위쪽 귓바퀴",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_084",
+      "label": "위쪽 귀 뒤",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_085",
+      "label": "위쪽 턱선",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_086",
+      "label": "위쪽 입꼬리",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_087",
+      "label": "위쪽 턱끝",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_088",
+      "label": "위쪽 뒷목",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_089",
+      "label": "위쪽 쇄골",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_090",
+      "label": "위쪽 어깨선",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_091",
+      "label": "위쪽 팔뚝",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_092",
+      "label": "위쪽 전완",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_093",
+      "label": "위쪽 손목",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_094",
+      "label": "위쪽 손바닥",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_095",
+      "label": "위쪽 손마디",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_096",
+      "label": "위쪽 어깨뼈",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_097",
+      "label": "위쪽 등 라인",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_098",
+      "label": "위쪽 허리 옆선",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_099",
+      "label": "위쪽 발목",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_100",
+      "label": "위쪽 발등",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_101",
+      "label": "아래쪽 관자놀이",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_102",
+      "label": "아래쪽 광대",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_103",
+      "label": "아래쪽 귓바퀴",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_104",
+      "label": "아래쪽 귀 뒤",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ],
+  "modifiers": [
+    {
+      "id": "mod_eye",
+      "label": "끝까지 눈을 피하지 않고 바라보기",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_slow",
+      "label": "최대한 느린 슬로우 모션으로",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_no_hands",
+      "label": "손 사용 금지 — 입술과 숨결만",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_whisper_name",
+      "label": "시작 전과 후에 이름 속삭이기",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_blindfold",
+      "label": "받는 사람은 눈 감고 침묵 유지",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ]
+    },
+    {
+      "id": "mod_pin_hands",
+      "label": "상대 양손을 머리 위로 살짝 누르기",
+      "durationSec": 25,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_clothing",
+      "label": "옷 한 겹을 살짝 젖히고 실행",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_freeze_gasp",
+      "label": "숨을 들이쉴 때마다 3초간 완전히 정지",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_hands_behind",
+      "label": "받는 사람은 양손을 등 뒤에 고정",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_mirror_watch",
+      "label": "거울 앞에서 서로 바라보며 실행",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_dirty_praise",
+      "label": "내내 귓가에 직설적이고 야한 칭찬 속삭이기",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_hot_cold",
+      "label": "시원한 숨결 직후 뜨거운 입술과 숨결을 따라 공략",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_under_shirt",
+      "label": "원한다면 옷 안쪽으로 손이나 입술을 넣어 실행",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_no_sound",
+      "label": "받는 사람은 소리 금지 — 숨소리 새면 +15초",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_01",
+      "label": "바짝 다가서서 누가 먼저 얼굴 붉히나 보기",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_02",
+      "label": "중간에 작게 '이거 좋아?'라고 묻기",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_03",
+      "label": "부서질 듯 아주 천천히 조심스럽게",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_04",
+      "label": "끝까지 손깍지 꼭 낀 채로",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_05",
+      "label": "술 한 모금 머금고 다가가기",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "alcohol"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_01",
+      "label": "5초 동안 닿을 듯 말 듯 애태우다 실행",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_02",
+      "label": "귓가에 숨결로 애칭 속삭이기",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_03",
+      "label": "무릎 위에 마주 앉아 초밀착 실행",
+      "durationSec": 30,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_01",
+      "label": "눈 감고 부위 못 맞히면 시간 2배",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_02",
+      "label": "뜨거운 숨결 먼저 불고 떨림 느끼기",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_03",
+      "label": "들킬까 봐 조마조마하게 속삭이며",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_04",
+      "label": "받는 쪽이 손목을 잡고 강약 조절",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t4_01",
+      "label": "벽이나 침대 헤드에 살짝 밀어 붙인 채",
+      "durationSec": 35,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t4_02",
+      "label": "옷을 살짝 젖히고 키스한 뒤 다시 덮어 애태우기",
+      "durationSec": 35,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_v21_001",
+      "label": "눈 맞추며 — 15초 유지",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_002",
+      "label": "눈 맞추며 — 20초 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_003",
+      "label": "눈 맞추며 — 25초 유지",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_004",
+      "label": "눈 맞추며 — 30초 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_005",
+      "label": "눈 맞추며 — 천천히 3번",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_006",
+      "label": "눈 맞추며 — 끝에 꼭 안아주기",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_007",
+      "label": "눈 맞추며 — 이마 키스로 마무리",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_008",
+      "label": "눈 맞추며 — 따뜻한 미소 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_009",
+      "label": "눈 맞추며 — 느린 리듬으로",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_010",
+      "label": "눈 맞추며 — 설렐 때까지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_011",
+      "label": "눈 감은 채 — 15초 유지",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_012",
+      "label": "눈 감은 채 — 20초 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_013",
+      "label": "눈 감은 채 — 25초 유지",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_014",
+      "label": "눈 감은 채 — 30초 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_015",
+      "label": "눈 감은 채 — 천천히 3번",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_016",
+      "label": "눈 감은 채 — 끝에 꼭 안아주기",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_017",
+      "label": "눈 감은 채 — 이마 키스로 마무리",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_018",
+      "label": "눈 감은 채 — 따뜻한 미소 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_019",
+      "label": "눈 감은 채 — 느린 리듬으로",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_020",
+      "label": "눈 감은 채 — 설렐 때까지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_021",
+      "label": "손깍지 끼고 — 15초 유지",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_022",
+      "label": "손깍지 끼고 — 20초 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_023",
+      "label": "손깍지 끼고 — 25초 유지",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_024",
+      "label": "손깍지 끼고 — 30초 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_025",
+      "label": "손깍지 끼고 — 천천히 3번",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_026",
+      "label": "손깍지 끼고 — 끝에 꼭 안아주기",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_027",
+      "label": "손깍지 끼고 — 이마 키스로 마무리",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_028",
+      "label": "손깍지 끼고 — 따뜻한 미소 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_029",
+      "label": "손깍지 끼고 — 느린 리듬으로",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_030",
+      "label": "손깍지 끼고 — 설렐 때까지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_031",
+      "label": "호흡 맞추며 — 15초 유지",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_032",
+      "label": "호흡 맞추며 — 20초 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_033",
+      "label": "호흡 맞추며 — 25초 유지",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_034",
+      "label": "호흡 맞추며 — 30초 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_035",
+      "label": "호흡 맞추며 — 천천히 3번",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_036",
+      "label": "호흡 맞추며 — 끝에 꼭 안아주기",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_037",
+      "label": "호흡 맞추며 — 이마 키스로 마무리",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_038",
+      "label": "호흡 맞추며 — 따뜻한 미소 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_039",
+      "label": "호흡 맞추며 — 느린 리듬으로",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_040",
+      "label": "호흡 맞추며 — 설렐 때까지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_041",
+      "label": "칭찬 속삭이며 — 15초 유지",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_042",
+      "label": "칭찬 속삭이며 — 20초 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_043",
+      "label": "칭찬 속삭이며 — 25초 유지",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_044",
+      "label": "칭찬 속삭이며 — 30초 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_045",
+      "label": "칭찬 속삭이며 — 천천히 3번",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_046",
+      "label": "칭찬 속삭이며 — 끝에 꼭 안아주기",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_047",
+      "label": "칭찬 속삭이며 — 이마 키스로 마무리",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_048",
+      "label": "칭찬 속삭이며 — 따뜻한 미소 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_049",
+      "label": "칭찬 속삭이며 — 느린 리듬으로",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_050",
+      "label": "칭찬 속삭이며 — 설렐 때까지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_051",
+      "label": "이마 맞대고 — 15초 유지",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_052",
+      "label": "이마 맞대고 — 20초 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_053",
+      "label": "이마 맞대고 — 25초 유지",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_054",
+      "label": "이마 맞대고 — 30초 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_055",
+      "label": "이마 맞대고 — 천천히 3번",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_056",
+      "label": "이마 맞대고 — 끝에 꼭 안아주기",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_057",
+      "label": "이마 맞대고 — 이마 키스로 마무리",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_058",
+      "label": "이마 맞대고 — 따뜻한 미소 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_059",
+      "label": "이마 맞대고 — 느린 리듬으로",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_060",
+      "label": "이마 맞대고 — 설렐 때까지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_061",
+      "label": "웃음 참으며 — 15초 유지",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_062",
+      "label": "웃음 참으며 — 20초 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_063",
+      "label": "웃음 참으며 — 25초 유지",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_064",
+      "label": "웃음 참으며 — 30초 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_065",
+      "label": "웃음 참으며 — 천천히 3번",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_066",
+      "label": "웃음 참으며 — 끝에 꼭 안아주기",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_067",
+      "label": "웃음 참으며 — 이마 키스로 마무리",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_068",
+      "label": "웃음 참으며 — 따뜻한 미소 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_069",
+      "label": "웃음 참으며 — 느린 리듬으로",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_070",
+      "label": "웃음 참으며 — 설렐 때까지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_071",
+      "label": "반대 손으로 — 15초 유지",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_072",
+      "label": "반대 손으로 — 20초 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_073",
+      "label": "반대 손으로 — 25초 유지",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_074",
+      "label": "반대 손으로 — 30초 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_075",
+      "label": "반대 손으로 — 천천히 3번",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_076",
+      "label": "반대 손으로 — 끝에 꼭 안아주기",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_077",
+      "label": "반대 손으로 — 이마 키스로 마무리",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_078",
+      "label": "반대 손으로 — 따뜻한 미소 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_079",
+      "label": "반대 손으로 — 느린 리듬으로",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_080",
+      "label": "반대 손으로 — 설렐 때까지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_081",
+      "label": "중간에 3초 멈추고 — 15초 유지",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_082",
+      "label": "중간에 3초 멈추고 — 20초 유지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_083",
+      "label": "중간에 3초 멈추고 — 25초 유지",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_084",
+      "label": "중간에 3초 멈추고 — 30초 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_085",
+      "label": "중간에 3초 멈추고 — 천천히 3번",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_086",
+      "label": "중간에 3초 멈추고 — 끝에 꼭 안아주기",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_087",
+      "label": "중간에 3초 멈추고 — 이마 키스로 마무리",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_088",
+      "label": "중간에 3초 멈추고 — 따뜻한 미소 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_089",
+      "label": "중간에 3초 멈추고 — 느린 리듬으로",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_090",
+      "label": "중간에 3초 멈추고 — 설렐 때까지",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_091",
+      "label": "애칭 부르며 — 15초 유지",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_092",
+      "label": "애칭 부르며 — 20초 유지",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ]
+}

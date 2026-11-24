@@ -1,0 +1,4796 @@
+{
+  "heartbeatPrompts": [
+    {
+      "id": "hb_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "text": "Ne lâchez pas l'écran ! Collez vos fronts et soutenez votre regard tandis que le rythme s'accélère."
+    },
+    {
+      "id": "hb_02",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Doigts verrouillés ! Penchez-vous au-dessus du téléphone pour trois baisers lents sur la mâchoire."
+    },
+    {
+      "id": "hb_03",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Tenez bon ! Approchez votre souffle de son oreille et murmurez votre pensée la plus osée."
+    },
+    {
+      "id": "hb_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Sans lâcher ! Mordillez tendrement son lobe ou sa lèvre inférieure en gardant le doigt posé."
+    },
+    {
+      "id": "hb_05",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Mains collées à l'écran — partagez un baiser lent et tendre de 10 secondes sans décoller les doigts."
+    },
+    {
+      "id": "hb_06",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Gardez le rythme ! Léchez et mordillez son cou — le premier qui frissonne et lâche prend un gage."
+    },
+    {
+      "id": "hb_07",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Défi à une main : utilisez votre main libre pour baisser un col ou une bretelle et embrasse son épaule."
+    },
+    {
+      "id": "hb_08",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "De votre main libre, tenez son menton et frôlez ses lèvres à 1 cm sans embrasser jusqu'au bout."
+    },
+    {
+      "id": "hb_09",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Sans lever les doigts : murmure trois endroits du corps de ton partenaire que tu adores jusqu'au bout !"
+    },
+    {
+      "id": "hb_10",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Ne lâche pas ! Penche-toi et lèche lentement sa mâchoire et son lobe d'oreille."
+    },
+    {
+      "id": "hb_11",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Doigts collés à l'écran, genoux et hanches pressés — accordez vos respirations !"
+    },
+    {
+      "id": "hb_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Tiens bon ! Suce doucement son cou ou sa clavicule — le premier qui lâche perd !"
+    },
+    {
+      "id": "hb_13",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Main libre : glisse ton autre main sous son haut sur côtes et colonne sans relâcher !"
+    },
+    {
+      "id": "hb_14",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Une main libre : défais un bouton ou glisse une bretelle avant la fin sans lever ton doigt !"
+    },
+    {
+      "id": "hb_15",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "baiser tendre & baiser : mordille sa lèvre inférieure puis embrasse profondément jusqu'à zéro !"
+    },
+    {
+      "id": "hb_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Prise ferme : relève son menton de ta main libre et frôle ses lèvres à 1 cm jusqu'au bout !"
+    },
+    {
+      "id": "hb_v2_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#1)"
+    },
+    {
+      "id": "hb_v2_02",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#2)"
+    },
+    {
+      "id": "hb_v2_03",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#3)"
+    },
+    {
+      "id": "hb_v2_04",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#4)"
+    },
+    {
+      "id": "hb_v2_05",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#5)"
+    },
+    {
+      "id": "hb_v2_06",
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#6)"
+    },
+    {
+      "id": "hb_v2_07",
+      "tier": 2,
+      "tags": [
+        "alcohol"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#7)"
+    },
+    {
+      "id": "hb_v2_08",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#8)"
+    },
+    {
+      "id": "hb_v2_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#9)"
+    },
+    {
+      "id": "hb_v2_10",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#10)"
+    },
+    {
+      "id": "hb_v2_11",
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#11)"
+    },
+    {
+      "id": "hb_v2_12",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#12)"
+    },
+    {
+      "id": "hb_v2_13",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#13)"
+    },
+    {
+      "id": "hb_v2_14",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#14)"
+    },
+    {
+      "id": "hb_v2_15",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#15)"
+    },
+    {
+      "id": "hb_v2_16",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "« Ne lâche pas… viens encore plus près… » Garde le contact en semant murmures et baisers lents. (#16)"
+    },
+    {
+      "id": "hb_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le mur de la chambre avec restant dans un silence absolu, offre fais courir un souffle tiède sur sur la clavicule en chuchotant sur l'endroit précis que tu brûles d'embrasser maintenant."
+    },
+    {
+      "id": "hb_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le bord du lit avec laissant tes lèvres à 1 cm entre chaque geste, offre fais courir un souffle chaud sur sur les phalanges et le pouce en chuchotant sur ton détail préféré quand je t'embrasse."
+    },
+    {
+      "id": "hb_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à devant le miroir avec murmurant son surnom tout bas, offre glisse tes paumes chaudes sur sur le cou en chuchotant sur la seconde précise où tu as perdu tout calme ce soir."
+    },
+    {
+      "id": "hb_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le coin du canapé avec gardant un sourire complice, offre effleure du bout du nez sur la tempe et le front en chuchotant sur un fantasme secret à réaliser avant l'aube."
+    },
+    {
+      "id": "hb_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le comptoir de la cuisine avec restant dans un silence absolu, offre dépose des baisers lents sur sur le coin des lèvres en chuchotant sur le premier compliment en me regardant maintenant."
+    },
+    {
+      "id": "hb_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à l'encadrement d'une porte sombre avec laissant tes lèvres à 1 cm entre chaque geste, offre trace de lents cercles chauds sur sur les omoplates en chuchotant sur un petit détail chez moi qui te fait encore rougir."
+    },
+    {
+      "id": "hb_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le tapis à la lueur d'une bougie avec murmurant son surnom tout bas, offre effleure du bout des doigts sur la naissance de la nuque en chuchotant sur quel son chez lui te fait totalement craquer."
+    },
+    {
+      "id": "hb_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le chevet sous lampe tamisée avec gardant un sourire complice, offre frôle timidement des lèvres sur la joue et mâchoire en chuchotant sur ce que tu désires dès qu'on éteint la lumière."
+    },
+    {
+      "id": "hb_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à la banquette sous lampe douce avec restant dans un silence absolu, offre frôle longuement des lèvres sur l'extérieur de la clavicule en chuchotant sur quel geste tendre chez moi te fait fondre."
+    },
+    {
+      "id": "hb_v21_t1_10",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à l'accoudoir du canapé avec laissant tes lèvres à 1 cm entre chaque geste, offre caresse doucement sur l'épaule en chuchotant sur le lieu le plus risqué où tu rêves de l'entraîner."
+    },
+    {
+      "id": "hb_v21_t1_11",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le pied du lit avec murmurant son surnom tout bas, offre sème des baisers plumes sur sur le contour de l'oreille en chuchotant sur l'étreinte que tu n'as jamais voulu lâcher."
+    },
+    {
+      "id": "hb_v21_t1_12",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à l'entrée dans la pénombre avec gardant un sourire complice, offre masse chaudement sur le poignet intérieur en chuchotant sur comment tu rêves d'être serré(e) avant de dormir."
+    },
+    {
+      "id": "hb_v21_t1_13",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à devant le miroir du dressing avec restant dans un silence absolu, offre fais courir un souffle tiède sur sur la paume et les doigts en chuchotant sur ce que tu veux qu'il porte — ou retire — ce soir."
+    },
+    {
+      "id": "hb_v21_t1_14",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à un tas de coussins moelleux avec laissant tes lèvres à 1 cm entre chaque geste, offre fais courir un souffle chaud sur sur l'intérieur de l'avant-bras en chuchotant sur une pensée très coquine que tu as eue aujourd'hui."
+    },
+    {
+      "id": "hb_v21_t1_15",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à derrière les rideaux légers avec murmurant son surnom tout bas, offre glisse tes paumes chaudes sur sur derrière l'oreille en chuchotant sur une pensée timide quand nos mains se frôlent."
+    },
+    {
+      "id": "hb_v21_t1_16",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à devant la coiffeuse tamisée avec gardant un sourire complice, offre effleure du bout du nez sur le bout du menton en chuchotant sur comment tu veux être touché(e) lumière éteinte."
+    },
+    {
+      "id": "hb_v21_t1_17",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le mur de la chambre avec restant dans un silence absolu, offre dépose des baisers lents sur sur la clavicule en chuchotant sur l'endroit précis que tu brûles d'embrasser maintenant."
+    },
+    {
+      "id": "hb_v21_t1_18",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le bord du lit avec laissant tes lèvres à 1 cm entre chaque geste, offre trace de lents cercles chauds sur sur les phalanges et le pouce en chuchotant sur ton détail préféré quand je t'embrasse."
+    },
+    {
+      "id": "hb_v21_t1_19",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à devant le miroir avec murmurant son surnom tout bas, offre effleure du bout des doigts sur le cou en chuchotant sur la seconde précise où tu as perdu tout calme ce soir."
+    },
+    {
+      "id": "hb_v21_t1_20",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le coin du canapé avec gardant un sourire complice, offre frôle timidement des lèvres sur la tempe et le front en chuchotant sur un fantasme secret à réaliser avant l'aube."
+    },
+    {
+      "id": "hb_v21_t1_21",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le comptoir de la cuisine avec restant dans un silence absolu, offre frôle longuement des lèvres sur le coin des lèvres en chuchotant sur le premier compliment en me regardant maintenant."
+    },
+    {
+      "id": "hb_v21_t1_22",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à l'encadrement d'une porte sombre avec laissant tes lèvres à 1 cm entre chaque geste, offre caresse doucement sur les omoplates en chuchotant sur un petit détail chez moi qui te fait encore rougir."
+    },
+    {
+      "id": "hb_v21_t1_23",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le tapis à la lueur d'une bougie avec murmurant son surnom tout bas, offre sème des baisers plumes sur sur la naissance de la nuque en chuchotant sur quel son chez lui te fait totalement craquer."
+    },
+    {
+      "id": "hb_v21_t1_24",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Doigts posés sur l'écran : à le chevet sous lampe tamisée avec gardant un sourire complice, offre masse chaudement sur la joue et mâchoire en chuchotant sur ce que tu désires dès qu'on éteint la lumière."
+    },
+    {
+      "id": "hb_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à un tas de coussins moelleux, trace chatouilles dans la paume puis doigts entrelacés de le bas du dos à l'intérieur de l'avant-bras, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à derrière les rideaux légers, trace un souffle frais suivi aussitôt de baisers humides et brûlants de la clavicule à derrière l'oreille, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à devant la coiffeuse tamisée, trace deux petit défi légères suivies de baisers longs et profonds de le pouls du poignet à le bout du menton, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à le mur de la chambre, trace doigts dans les cheveux t'attirant tout près de les omoplates à la clavicule, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à le bord du lit, trace des paumes chaudes glissant vers une étreinte soudaine de la nuque à les phalanges et le pouce, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à devant le miroir, trace paumes chaudes sur le tissu glissant vers la peau de derrière l'oreille à le cou, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à le coin du canapé, trace une prise ferme sur les hanches suivie de doigts plumes de les côtes à la tempe et le front, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à le comptoir de la cuisine, trace un frôlement de nez suivi d'un baiser fondant de le creux de la gorge à le coin des lèvres, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à l'encadrement d'une porte sombre, trace pause à cinq millimètres avant d'embrasser de le bas du dos à les omoplates, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_10",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à le tapis à la lueur d'une bougie, trace de légères griffures suivies de lèvres douces de la clavicule à la naissance de la nuque, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t2_11",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à le chevet sous lampe tamisée, trace souffle tiède aussitôt suivi de lèvres douces de le pouls du poignet à la joue et mâchoire, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_12",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à la banquette sous lampe douce, trace un mordillement taquin aussitôt apaisé par une la chaleur du souffle lente de les omoplates à l'extérieur de la clavicule, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t2_13",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à l'accoudoir du canapé, trace chatouilles dans la paume puis doigts entrelacés de la nuque à l'épaule, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_14",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à le pied du lit, trace un souffle frais suivi aussitôt de baisers humides et brûlants de derrière l'oreille à le contour de l'oreille, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t2_15",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à l'entrée dans la pénombre, trace deux petit défi légères suivies de baisers longs et profonds de les côtes à le poignet intérieur, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_16",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à devant le miroir du dressing, trace doigts dans les cheveux t'attirant tout près de le creux de la gorge à la paume et les doigts, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t2_17",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à un tas de coussins moelleux, trace des paumes chaudes glissant vers une étreinte soudaine de le bas du dos à l'intérieur de l'avant-bras, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_18",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à derrière les rideaux légers, trace paumes chaudes sur le tissu glissant vers la peau de la clavicule à derrière l'oreille, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t2_19",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à devant la coiffeuse tamisée, trace une prise ferme sur les hanches suivie de doigts plumes de le pouls du poignet à le bout du menton, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_20",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à le mur de la chambre, trace un frôlement de nez suivi d'un baiser fondant de les omoplates à la clavicule, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t2_21",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à le bord du lit, trace pause à cinq millimètres avant d'embrasser de la nuque à les phalanges et le pouce, en suivant « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "hb_v21_t2_22",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pouls accordés : à devant le miroir, trace de légères griffures suivies de lèvres douces de derrière l'oreille à le cou, en suivant « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "hb_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose mordille doucement sur l'intérieur de la cuisse tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose taquine des lèvres et des doigts sur la hanche tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose mordille puis apaise d'un long baiser sur le lobe d'oreille tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose lèche très lentement sur la taille tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose suce doucement puis embrasse sur le bas-ventre tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose dépose des baisers ouverts et brûlants sur sur la poitrine et les côtes tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose couvre de baisers fiévreux sur la clavicule tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose trace des sillons humides de ta la chaleur du souffle sur la colonne vertébrale tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose mordille doucement sur la nuque tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_10",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose taquine des lèvres et des doigts sur le cou tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose mordille puis apaise d'un long baiser sur l'intérieur de la cuisse tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose lèche très lentement sur la hanche tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_13",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose suce doucement puis embrasse sur le lobe d'oreille tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_14",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose dépose des baisers ouverts et brûlants sur sur la taille tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_15",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose couvre de baisers fiévreux sur le bas-ventre tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_16",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose trace des sillons humides de ta la chaleur du souffle sur la poitrine et les côtes tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_17",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose mordille doucement sur la clavicule tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_18",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose taquine des lèvres et des doigts sur la colonne vertébrale tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_19",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose mordille puis apaise d'un long baiser sur la nuque tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_20",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose lèche très lentement sur le cou tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_21",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose suce doucement puis embrasse sur l'intérieur de la cuisse tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t3_22",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Cœur battant : de la main libre, ose dépose des baisers ouverts et brûlants sur sur la hanche tout en murmurant réserver une suite penthouse sous de faux noms."
+    },
+    {
+      "id": "hb_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Relève doucement son menton pour capter tout son regard, taquine la courbe de la hanche entre souffle chaud et dépose des baisers ouverts et brûlants sur."
+    },
+    {
+      "id": "hb_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Entrelace ses doigts derrière sa nuque sans défense, taquine l'intérieur des cuisses entre souffle chaud et couvre de baisers fiévreux."
+    },
+    {
+      "id": "hb_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Garde ses mains plaquées contre la tête de lit, taquine sous la clavicule entre souffle chaud et trace des sillons humides de ta la chaleur du souffle."
+    },
+    {
+      "id": "hb_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Plaque-le doucement contre le mur par les hanches, taquine la poitrine et les côtes entre souffle chaud et mordille doucement."
+    },
+    {
+      "id": "hb_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Bloque doucement ses mains dans son dos, taquine la ligne des hanches entre souffle chaud et taquine des lèvres et des doigts."
+    },
+    {
+      "id": "hb_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Maintiens ses deux poignets au-dessus de sa tête d'une main, taquine le bas de la colonne entre souffle chaud et mordille puis apaise d'un long baiser."
+    },
+    {
+      "id": "hb_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Relève doucement son menton pour capter tout son regard, taquine le creux des reins entre souffle chaud et lèche très lentement."
+    },
+    {
+      "id": "hb_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Entrelace ses doigts derrière sa nuque sans défense, taquine le bas-ventre entre souffle chaud et suce doucement puis embrasse."
+    },
+    {
+      "id": "hb_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Garde ses mains plaquées contre la tête de lit, taquine la courbe de la hanche entre souffle chaud et dépose des baisers ouverts et brûlants sur."
+    },
+    {
+      "id": "hb_v21_t4_10",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Plaque-le doucement contre le mur par les hanches, taquine l'intérieur des cuisses entre souffle chaud et couvre de baisers fiévreux."
+    },
+    {
+      "id": "hb_v21_t4_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Bloque doucement ses mains dans son dos, taquine sous la clavicule entre souffle chaud et trace des sillons humides de ta la chaleur du souffle."
+    },
+    {
+      "id": "hb_v21_t4_12",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Maintiens ses deux poignets au-dessus de sa tête d'une main, taquine la poitrine et les côtes entre souffle chaud et mordille doucement."
+    },
+    {
+      "id": "hb_v21_t4_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Relève doucement son menton pour capter tout son regard, taquine la ligne des hanches entre souffle chaud et taquine des lèvres et des doigts."
+    },
+    {
+      "id": "hb_v21_t4_14",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Entrelace ses doigts derrière sa nuque sans défense, taquine le bas de la colonne entre souffle chaud et mordille puis apaise d'un long baiser."
+    },
+    {
+      "id": "hb_v21_t4_15",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Garde ses mains plaquées contre la tête de lit, taquine le creux des reins entre souffle chaud et lèche très lentement."
+    },
+    {
+      "id": "hb_v21_t4_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Plaque-le doucement contre le mur par les hanches, taquine le bas-ventre entre souffle chaud et suce doucement puis embrasse."
+    },
+    {
+      "id": "hb_v21_t4_17",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Bloque doucement ses mains dans son dos, taquine la courbe de la hanche entre souffle chaud et dépose des baisers ouverts et brûlants sur."
+    },
+    {
+      "id": "hb_v21_t4_18",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Maintiens ses deux poignets au-dessus de sa tête d'une main, taquine l'intérieur des cuisses entre souffle chaud et couvre de baisers fiévreux."
+    },
+    {
+      "id": "hb_v21_t4_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Relève doucement son menton pour capter tout son regard, taquine sous la clavicule entre souffle chaud et trace des sillons humides de ta la chaleur du souffle."
+    },
+    {
+      "id": "hb_v21_t4_20",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Frisson de minuit : doigts liés sous Entrelace ses doigts derrière sa nuque sans défense, taquine la poitrine et les côtes entre souffle chaud et mordille doucement."
+    }
+  ],
+  "bombRelays": [
+    {
+      "id": "bm_01",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Embrasse un nouvel endroit du visage ou des mains de ton partenaire et passe vite !"
+    },
+    {
+      "id": "bm_02",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Relais express : cite une partie du corps de ton partenaire qui te rend fou et passe la bombe !"
+    },
+    {
+      "id": "bm_03",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Souffle un air chaud sur une zone sensible (nuque, oreille, poignet) et passe vite !"
+    },
+    {
+      "id": "bm_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Taquinerie rapide : mordille ou lèche cou, clavicule ou oreille et clique passer sans attendre !"
+    },
+    {
+      "id": "bm_05",
+      "tier": 3,
+      "tags": [
+        "playful"
+      ],
+      "text": "Cite un lieu risqué où tu rêves de l'embrasser (sans répéter) et passe !"
+    },
+    {
+      "id": "bm_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Attire-le par la taille pour un baiser de 2s (ou petite taquinerie) et passe avant l'explosion !"
+    },
+    {
+      "id": "bm_07",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Relais intense : défais un bouton/accessoire ou vole un baiser lent et tendre de 3s et passe !"
+    },
+    {
+      "id": "bm_08",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Murmure ton envie du soir en 5 mots, embrasse son cou et passe avant le BOOM !"
+    },
+    {
+      "id": "bm_09",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Dépose deux baisers rapides sur sa joue ou mâchoire et passe vite !"
+    },
+    {
+      "id": "bm_10",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Dis une raison secrète pour laquelle tu désires ton partenaire ce soir et passe !"
+    },
+    {
+      "id": "bm_11",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Serre sa taille contre toi 2 secondes et passe la bombe !"
+    },
+    {
+      "id": "bm_12",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Mordille doucement son lobe ou sa lèvre inférieure 2s et passe vite !"
+    },
+    {
+      "id": "bm_13",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "text": "Murmure un surnom ou mot osé à son oreille et passe avant le BOOM !"
+    },
+    {
+      "id": "bm_14",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Dépose un baiser chaud et ouvert sur sa gorge ou clavicule et passe !"
+    },
+    {
+      "id": "bm_15",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Passe un coup de la chaleur du souffle rapide sur son cou ou poignet et passe aussitôt !"
+    },
+    {
+      "id": "bm_16",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Glisse une main sous son haut sur sa taille ou ses côtes 2s et passe !"
+    },
+    {
+      "id": "bm_17",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Défais un bouton, une bretelle ou un accessoire et passe en vitesse !"
+    },
+    {
+      "id": "bm_18",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Suce doucement son cou ou sa clavicule 3s et passe avant l'explosion !"
+    },
+    {
+      "id": "bm_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Bloque ses poignets 2s en volant un baiser affamé — puis passe !"
+    },
+    {
+      "id": "bm_20",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Une petite taquinerie ludique + baiser sur les lèvres et passe vite !"
+    },
+    {
+      "id": "bm_v2_01",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#1)"
+    },
+    {
+      "id": "bm_v2_02",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#2)"
+    },
+    {
+      "id": "bm_v2_03",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#3)"
+    },
+    {
+      "id": "bm_v2_04",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#4)"
+    },
+    {
+      "id": "bm_v2_05",
+      "tier": 1,
+      "tags": [
+        "alcohol"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#5)"
+    },
+    {
+      "id": "bm_v2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#6)"
+    },
+    {
+      "id": "bm_v2_07",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#7)"
+    },
+    {
+      "id": "bm_v2_08",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#8)"
+    },
+    {
+      "id": "bm_v2_09",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#9)"
+    },
+    {
+      "id": "bm_v2_10",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#10)"
+    },
+    {
+      "id": "bm_v2_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#11)"
+    },
+    {
+      "id": "bm_v2_12",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#12)"
+    },
+    {
+      "id": "bm_v2_13",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#13)"
+    },
+    {
+      "id": "bm_v2_14",
+      "tier": 3,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#14)"
+    },
+    {
+      "id": "bm_v2_15",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#15)"
+    },
+    {
+      "id": "bm_v2_16",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#16)"
+    },
+    {
+      "id": "bm_v2_17",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#17)"
+    },
+    {
+      "id": "bm_v2_18",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#18)"
+    },
+    {
+      "id": "bm_v2_19",
+      "tier": 4,
+      "tags": [
+        "blindfold"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#19)"
+    },
+    {
+      "id": "bm_v2_20",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "« Vite ! » Dépose un baiser brûlant sur sa joue ou son cou et passe aussitôt. (#20)"
+    },
+    {
+      "id": "bm_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide fais courir un souffle tiède sur sur la clavicule, glisse un mot sur l'endroit précis que tu brûles d'embrasser maintenant et passe !"
+    },
+    {
+      "id": "bm_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide fais courir un souffle chaud sur sur les phalanges et le pouce, glisse un mot sur ton détail préféré quand je t'embrasse et passe !"
+    },
+    {
+      "id": "bm_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide glisse tes paumes chaudes sur sur le cou, glisse un mot sur la seconde précise où tu as perdu tout calme ce soir et passe !"
+    },
+    {
+      "id": "bm_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide effleure du bout du nez sur la tempe et le front, glisse un mot sur un fantasme secret à réaliser avant l'aube et passe !"
+    },
+    {
+      "id": "bm_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide dépose des baisers lents sur sur le coin des lèvres, glisse un mot sur le premier compliment en me regardant maintenant et passe !"
+    },
+    {
+      "id": "bm_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide trace de lents cercles chauds sur sur les omoplates, glisse un mot sur un petit détail chez moi qui te fait encore rougir et passe !"
+    },
+    {
+      "id": "bm_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide effleure du bout des doigts sur la naissance de la nuque, glisse un mot sur quel son chez lui te fait totalement craquer et passe !"
+    },
+    {
+      "id": "bm_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide frôle timidement des lèvres sur la joue et mâchoire, glisse un mot sur ce que tu désires dès qu'on éteint la lumière et passe !"
+    },
+    {
+      "id": "bm_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide frôle longuement des lèvres sur l'extérieur de la clavicule, glisse un mot sur quel geste tendre chez moi te fait fondre et passe !"
+    },
+    {
+      "id": "bm_v21_t1_10",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide caresse doucement sur l'épaule, glisse un mot sur le lieu le plus risqué où tu rêves de l'entraîner et passe !"
+    },
+    {
+      "id": "bm_v21_t1_11",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide sème des baisers plumes sur sur le contour de l'oreille, glisse un mot sur l'étreinte que tu n'as jamais voulu lâcher et passe !"
+    },
+    {
+      "id": "bm_v21_t1_12",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide masse chaudement sur le poignet intérieur, glisse un mot sur comment tu rêves d'être serré(e) avant de dormir et passe !"
+    },
+    {
+      "id": "bm_v21_t1_13",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide fais courir un souffle tiède sur sur la paume et les doigts, glisse un mot sur ce que tu veux qu'il porte — ou retire — ce soir et passe !"
+    },
+    {
+      "id": "bm_v21_t1_14",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide fais courir un souffle chaud sur sur l'intérieur de l'avant-bras, glisse un mot sur une pensée très coquine que tu as eue aujourd'hui et passe !"
+    },
+    {
+      "id": "bm_v21_t1_15",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide glisse tes paumes chaudes sur sur derrière l'oreille, glisse un mot sur une pensée timide quand nos mains se frôlent et passe !"
+    },
+    {
+      "id": "bm_v21_t1_16",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide effleure du bout du nez sur le bout du menton, glisse un mot sur comment tu veux être touché(e) lumière éteinte et passe !"
+    },
+    {
+      "id": "bm_v21_t1_17",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide dépose des baisers lents sur sur la clavicule, glisse un mot sur l'endroit précis que tu brûles d'embrasser maintenant et passe !"
+    },
+    {
+      "id": "bm_v21_t1_18",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide trace de lents cercles chauds sur sur les phalanges et le pouce, glisse un mot sur ton détail préféré quand je t'embrasse et passe !"
+    },
+    {
+      "id": "bm_v21_t1_19",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide effleure du bout des doigts sur le cou, glisse un mot sur la seconde précise où tu as perdu tout calme ce soir et passe !"
+    },
+    {
+      "id": "bm_v21_t1_20",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide frôle timidement des lèvres sur la tempe et le front, glisse un mot sur un fantasme secret à réaliser avant l'aube et passe !"
+    },
+    {
+      "id": "bm_v21_t1_21",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide frôle longuement des lèvres sur le coin des lèvres, glisse un mot sur le premier compliment en me regardant maintenant et passe !"
+    },
+    {
+      "id": "bm_v21_t1_22",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide caresse doucement sur les omoplates, glisse un mot sur un petit détail chez moi qui te fait encore rougir et passe !"
+    },
+    {
+      "id": "bm_v21_t1_23",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide sème des baisers plumes sur sur la naissance de la nuque, glisse un mot sur quel son chez lui te fait totalement craquer et passe !"
+    },
+    {
+      "id": "bm_v21_t1_24",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide masse chaudement sur la joue et mâchoire, glisse un mot sur ce que tu désires dès qu'on éteint la lumière et passe !"
+    },
+    {
+      "id": "bm_v21_t1_25",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide fais courir un souffle tiède sur sur l'extérieur de la clavicule, glisse un mot sur quel geste tendre chez moi te fait fondre et passe !"
+    },
+    {
+      "id": "bm_v21_t1_26",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide fais courir un souffle chaud sur sur l'épaule, glisse un mot sur le lieu le plus risqué où tu rêves de l'entraîner et passe !"
+    },
+    {
+      "id": "bm_v21_t1_27",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Tic-tac ! Offre un rapide glisse tes paumes chaudes sur sur le contour de l'oreille, glisse un mot sur l'étreinte que tu n'as jamais voulu lâcher et passe !"
+    },
+    {
+      "id": "bm_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure l'intérieur de l'avant-bras avec chatouilles dans la paume puis doigts entrelacés en gardant laissant tes lèvres à 1 cm entre chaque geste, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure derrière l'oreille avec un souffle frais suivi aussitôt de baisers humides et brûlants en gardant murmurant son surnom tout bas, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure le bout du menton avec deux petit défi légères suivies de baisers longs et profonds en gardant gardant un sourire complice, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure la clavicule avec doigts dans les cheveux t'attirant tout près en gardant restant dans un silence absolu, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure les phalanges et le pouce avec des paumes chaudes glissant vers une étreinte soudaine en gardant laissant tes lèvres à 1 cm entre chaque geste, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure le cou avec paumes chaudes sur le tissu glissant vers la peau en gardant murmurant son surnom tout bas, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure la tempe et le front avec une prise ferme sur les hanches suivie de doigts plumes en gardant gardant un sourire complice, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure le coin des lèvres avec un frôlement de nez suivi d'un baiser fondant en gardant restant dans un silence absolu, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure les omoplates avec pause à cinq millimètres avant d'embrasser en gardant laissant tes lèvres à 1 cm entre chaque geste, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_10",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure la naissance de la nuque avec de légères griffures suivies de lèvres douces en gardant murmurant son surnom tout bas, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_11",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure la joue et mâchoire avec souffle tiède aussitôt suivi de lèvres douces en gardant gardant un sourire complice, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_12",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure l'extérieur de la clavicule avec un mordillement taquin aussitôt apaisé par une la chaleur du souffle lente en gardant restant dans un silence absolu, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_13",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure l'épaule avec chatouilles dans la paume puis doigts entrelacés en gardant laissant tes lèvres à 1 cm entre chaque geste, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_14",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure le contour de l'oreille avec un souffle frais suivi aussitôt de baisers humides et brûlants en gardant murmurant son surnom tout bas, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_15",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure le poignet intérieur avec deux petit défi légères suivies de baisers longs et profonds en gardant gardant un sourire complice, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_16",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure la paume et les doigts avec doigts dans les cheveux t'attirant tout près en gardant restant dans un silence absolu, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_17",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure l'intérieur de l'avant-bras avec des paumes chaudes glissant vers une étreinte soudaine en gardant laissant tes lèvres à 1 cm entre chaque geste, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_18",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure derrière l'oreille avec paumes chaudes sur le tissu glissant vers la peau en gardant murmurant son surnom tout bas, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_19",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure le bout du menton avec une prise ferme sur les hanches suivie de doigts plumes en gardant gardant un sourire complice, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_20",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure la clavicule avec un frôlement de nez suivi d'un baiser fondant en gardant restant dans un silence absolu, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_21",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure les phalanges et le pouce avec pause à cinq millimètres avant d'embrasser en gardant laissant tes lèvres à 1 cm entre chaque geste, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_22",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure le cou avec de légères griffures suivies de lèvres douces en gardant murmurant son surnom tout bas, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_23",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure la tempe et le front avec souffle tiède aussitôt suivi de lèvres douces en gardant gardant un sourire complice, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t2_24",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Vite, passe ! Effleure le coin des lèvres avec un mordillement taquin aussitôt apaisé par une la chaleur du souffle lente en gardant restant dans un silence absolu, puis touche passer !"
+    },
+    {
+      "id": "bm_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite mordille doucement sur l'intérieur de la cuisse et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite taquine des lèvres et des doigts sur la hanche et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite mordille puis apaise d'un long baiser sur le lobe d'oreille et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite lèche très lentement sur la taille et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite suce doucement puis embrasse sur le bas-ventre et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite dépose des baisers ouverts et brûlants sur sur la poitrine et les côtes et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite couvre de baisers fiévreux sur la clavicule et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite trace des sillons humides de ta la chaleur du souffle sur la colonne vertébrale et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite mordille doucement sur la nuque et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_10",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite taquine des lèvres et des doigts sur le cou et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite mordille puis apaise d'un long baiser sur l'intérieur de la cuisse et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite lèche très lentement sur la hanche et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_13",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite suce doucement puis embrasse sur le lobe d'oreille et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_14",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite dépose des baisers ouverts et brûlants sur sur la taille et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_15",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite couvre de baisers fiévreux sur le bas-ventre et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_16",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite trace des sillons humides de ta la chaleur du souffle sur la poitrine et les côtes et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_17",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite mordille doucement sur la clavicule et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_18",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite taquine des lèvres et des doigts sur la colonne vertébrale et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_19",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite mordille puis apaise d'un long baiser sur la nuque et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_20",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite lèche très lentement sur le cou et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_21",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite suce doucement puis embrasse sur l'intérieur de la cuisse et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_22",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite dépose des baisers ouverts et brûlants sur sur la hanche et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_23",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite couvre de baisers fiévreux sur le lobe d'oreille et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_24",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite trace des sillons humides de ta la chaleur du souffle sur la taille et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t3_25",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Zone brûlante ! Ose vite mordille doucement sur le bas-ventre et chuchote réserver une suite penthouse sous de faux noms avant de passer !"
+    },
+    {
+      "id": "bm_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe le dos des doigts puis ta bouche brûlante sur la courbe de la hanche selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe la propre main de ton partenaire guidée par toi sur l'intérieur des cuisses selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe uniquement souffle chaud et lèvres sur sous la clavicule selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe une seule main les yeux dans les yeux sur la poitrine et les côtes selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe uniquement tes lèvres et dents sur la ligne des hanches selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe le bout de tes doigts au ralenti extrême sur le bas de la colonne selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe le dos des doigts puis ta bouche brûlante sur le creux des reins selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe la propre main de ton partenaire guidée par toi sur le bas-ventre selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe uniquement souffle chaud et lèvres sur la courbe de la hanche selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_10",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe une seule main les yeux dans les yeux sur l'intérieur des cuisses selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe uniquement tes lèvres et dents sur sous la clavicule selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_12",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe le bout de tes doigts au ralenti extrême sur la poitrine et les côtes selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe le dos des doigts puis ta bouche brûlante sur la ligne des hanches selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_14",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe la propre main de ton partenaire guidée par toi sur le bas de la colonne selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_15",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe uniquement souffle chaud et lèvres sur le creux des reins selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe une seule main les yeux dans les yeux sur le bas-ventre selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_17",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe uniquement tes lèvres et dents sur la courbe de la hanche selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_18",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe le bout de tes doigts au ralenti extrême sur l'intérieur des cuisses selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe le dos des doigts puis ta bouche brûlante sur sous la clavicule selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_20",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe la propre main de ton partenaire guidée par toi sur la poitrine et les côtes selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_21",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe uniquement souffle chaud et lèvres sur la ligne des hanches selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_22",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe une seule main les yeux dans les yeux sur le bas de la colonne selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_23",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe uniquement tes lèvres et dents sur le creux des reins selon « murmure son prénom avant chaque nouvelle zone », puis passe aussitôt !"
+    },
+    {
+      "id": "bm_v21_t4_24",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Désamorçage ! Passe le bout de tes doigts au ralenti extrême sur le bas-ventre selon « alterne caresses de plume et pression ferme », puis passe aussitôt !"
+    }
+  ],
+  "blackjackStakes": [
+    {
+      "id": "bj_01",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "15s de baisers lents sur le cou et les épaules"
+    },
+    {
+      "id": "bj_02",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "20s sur les genoux mains dans le dos"
+    },
+    {
+      "id": "bj_03",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "25s mordillement d'oreille + clavicule"
+    },
+    {
+      "id": "bj_04",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "label": "Retirer lentement un vêtement ou accessoire"
+    },
+    {
+      "id": "bj_05",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "label": "Poignets tenus en haut · 30s de taquineries"
+    },
+    {
+      "id": "bj_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "2 petit défi ludiques + baiser lent et tendre 20s"
+    },
+    {
+      "id": "bj_07",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "20s de souffle chaud et baisers derrière l'oreille"
+    },
+    {
+      "id": "bj_08",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "25s de succion douce et baisers dans le cou"
+    },
+    {
+      "id": "bj_09",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "30s d'exploration taille et dos sous les vêtements"
+    },
+    {
+      "id": "bj_10",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "30s de la chaleur du souffle lente sur clavicule et côtes"
+    },
+    {
+      "id": "bj_11",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "label": "Défaire ou retirer 1 couche très lentement"
+    },
+    {
+      "id": "bj_12",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "35s de baiser tendres et baisers sur l'intérieur des cuisses"
+    },
+    {
+      "id": "bj_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "label": "40s poignets derrière le dos + jeu de lèvres"
+    },
+    {
+      "id": "bj_14",
+      "tier": 4,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "label": "Glisser 1 bretelle avec les lèvres seules + 25s baiser lent et tendre"
+    },
+    {
+      "id": "bj_v2_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#1)"
+    },
+    {
+      "id": "bj_v2_02",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#2)"
+    },
+    {
+      "id": "bj_v2_03",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#3)"
+    },
+    {
+      "id": "bj_v2_04",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#4)"
+    },
+    {
+      "id": "bj_v2_05",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#5)"
+    },
+    {
+      "id": "bj_v2_06",
+      "tier": 2,
+      "tags": [
+        "alcohol"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#6)"
+    },
+    {
+      "id": "bj_v2_07",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#7)"
+    },
+    {
+      "id": "bj_v2_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#8)"
+    },
+    {
+      "id": "bj_v2_09",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#9)"
+    },
+    {
+      "id": "bj_v2_10",
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#10)"
+    },
+    {
+      "id": "bj_v2_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#11)"
+    },
+    {
+      "id": "bj_v2_12",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#12)"
+    },
+    {
+      "id": "bj_v2_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#13)"
+    },
+    {
+      "id": "bj_v2_14",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "25s de baisers lents dans le cou et murmures au gagnant (#14)"
+    },
+    {
+      "id": "bj_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de fais courir un souffle tiède sur sur la clavicule à le mur de la chambre"
+    },
+    {
+      "id": "bj_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de fais courir un souffle chaud sur sur les phalanges et le pouce à le bord du lit"
+    },
+    {
+      "id": "bj_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de glisse tes paumes chaudes sur sur le cou à devant le miroir"
+    },
+    {
+      "id": "bj_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de effleure du bout du nez sur la tempe et le front à le coin du canapé"
+    },
+    {
+      "id": "bj_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de dépose des baisers lents sur sur le coin des lèvres à le comptoir de la cuisine"
+    },
+    {
+      "id": "bj_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de trace de lents cercles chauds sur sur les omoplates à l'encadrement d'une porte sombre"
+    },
+    {
+      "id": "bj_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de effleure du bout des doigts sur la naissance de la nuque à le tapis à la lueur d'une bougie"
+    },
+    {
+      "id": "bj_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de frôle timidement des lèvres sur la joue et mâchoire à le chevet sous lampe tamisée"
+    },
+    {
+      "id": "bj_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de frôle longuement des lèvres sur l'extérieur de la clavicule à la banquette sous lampe douce"
+    },
+    {
+      "id": "bj_v21_t1_10",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de caresse doucement sur l'épaule à l'accoudoir du canapé"
+    },
+    {
+      "id": "bj_v21_t1_11",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de sème des baisers plumes sur sur le contour de l'oreille à le pied du lit"
+    },
+    {
+      "id": "bj_v21_t1_12",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de masse chaudement sur le poignet intérieur à l'entrée dans la pénombre"
+    },
+    {
+      "id": "bj_v21_t1_13",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de fais courir un souffle tiède sur sur la paume et les doigts à devant le miroir du dressing"
+    },
+    {
+      "id": "bj_v21_t1_14",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de fais courir un souffle chaud sur sur l'intérieur de l'avant-bras à un tas de coussins moelleux"
+    },
+    {
+      "id": "bj_v21_t1_15",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de glisse tes paumes chaudes sur sur derrière l'oreille à derrière les rideaux légers"
+    },
+    {
+      "id": "bj_v21_t1_16",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de effleure du bout du nez sur le bout du menton à devant la coiffeuse tamisée"
+    },
+    {
+      "id": "bj_v21_t1_17",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de dépose des baisers lents sur sur la clavicule à le mur de la chambre"
+    },
+    {
+      "id": "bj_v21_t1_18",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de trace de lents cercles chauds sur sur les phalanges et le pouce à le bord du lit"
+    },
+    {
+      "id": "bj_v21_t1_19",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de effleure du bout des doigts sur le cou à devant le miroir"
+    },
+    {
+      "id": "bj_v21_t1_20",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de frôle timidement des lèvres sur la tempe et le front à le coin du canapé"
+    },
+    {
+      "id": "bj_v21_t1_21",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de frôle longuement des lèvres sur le coin des lèvres à le comptoir de la cuisine"
+    },
+    {
+      "id": "bj_v21_t1_22",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de caresse doucement sur les omoplates à l'encadrement d'une porte sombre"
+    },
+    {
+      "id": "bj_v21_t1_23",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s de sème des baisers plumes sur sur la naissance de la nuque à le tapis à la lueur d'une bougie"
+    },
+    {
+      "id": "bj_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de chatouilles dans la paume puis doigts entrelacés de le bas du dos à l'intérieur de l'avant-bras"
+    },
+    {
+      "id": "bj_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de un souffle frais suivi aussitôt de baisers humides et brûlants de la clavicule à derrière l'oreille"
+    },
+    {
+      "id": "bj_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de deux petit défi légères suivies de baisers longs et profonds de le pouls du poignet à le bout du menton"
+    },
+    {
+      "id": "bj_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de doigts dans les cheveux t'attirant tout près de les omoplates à la clavicule"
+    },
+    {
+      "id": "bj_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de des paumes chaudes glissant vers une étreinte soudaine de la nuque à les phalanges et le pouce"
+    },
+    {
+      "id": "bj_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de paumes chaudes sur le tissu glissant vers la peau de derrière l'oreille à le cou"
+    },
+    {
+      "id": "bj_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de une prise ferme sur les hanches suivie de doigts plumes de les côtes à la tempe et le front"
+    },
+    {
+      "id": "bj_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de un frôlement de nez suivi d'un baiser fondant de le creux de la gorge à le coin des lèvres"
+    },
+    {
+      "id": "bj_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de pause à cinq millimètres avant d'embrasser de le bas du dos à les omoplates"
+    },
+    {
+      "id": "bj_v21_t2_10",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de de légères griffures suivies de lèvres douces de la clavicule à la naissance de la nuque"
+    },
+    {
+      "id": "bj_v21_t2_11",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de souffle tiède aussitôt suivi de lèvres douces de le pouls du poignet à la joue et mâchoire"
+    },
+    {
+      "id": "bj_v21_t2_12",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de un mordillement taquin aussitôt apaisé par une la chaleur du souffle lente de les omoplates à l'extérieur de la clavicule"
+    },
+    {
+      "id": "bj_v21_t2_13",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de chatouilles dans la paume puis doigts entrelacés de la nuque à l'épaule"
+    },
+    {
+      "id": "bj_v21_t2_14",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de un souffle frais suivi aussitôt de baisers humides et brûlants de derrière l'oreille à le contour de l'oreille"
+    },
+    {
+      "id": "bj_v21_t2_15",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de deux petit défi légères suivies de baisers longs et profonds de les côtes à le poignet intérieur"
+    },
+    {
+      "id": "bj_v21_t2_16",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de doigts dans les cheveux t'attirant tout près de le creux de la gorge à la paume et les doigts"
+    },
+    {
+      "id": "bj_v21_t2_17",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de des paumes chaudes glissant vers une étreinte soudaine de le bas du dos à l'intérieur de l'avant-bras"
+    },
+    {
+      "id": "bj_v21_t2_18",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de paumes chaudes sur le tissu glissant vers la peau de la clavicule à derrière l'oreille"
+    },
+    {
+      "id": "bj_v21_t2_19",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de une prise ferme sur les hanches suivie de doigts plumes de le pouls du poignet à le bout du menton"
+    },
+    {
+      "id": "bj_v21_t2_20",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de un frôlement de nez suivi d'un baiser fondant de les omoplates à la clavicule"
+    },
+    {
+      "id": "bj_v21_t2_21",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s de pause à cinq millimètres avant d'embrasser de la nuque à les phalanges et le pouce"
+    },
+    {
+      "id": "bj_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de mordille doucement sur l'intérieur de la cuisse à le pied du lit"
+    },
+    {
+      "id": "bj_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de taquine des lèvres et des doigts sur la hanche à l'entrée dans la pénombre"
+    },
+    {
+      "id": "bj_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de mordille puis apaise d'un long baiser sur le lobe d'oreille à devant le miroir du dressing"
+    },
+    {
+      "id": "bj_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de lèche très lentement sur la taille à un tas de coussins moelleux"
+    },
+    {
+      "id": "bj_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de suce doucement puis embrasse sur le bas-ventre à derrière les rideaux légers"
+    },
+    {
+      "id": "bj_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de dépose des baisers ouverts et brûlants sur sur la poitrine et les côtes à devant la coiffeuse tamisée"
+    },
+    {
+      "id": "bj_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de couvre de baisers fiévreux sur la clavicule à le mur de la chambre"
+    },
+    {
+      "id": "bj_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de trace des sillons humides de ta la chaleur du souffle sur la colonne vertébrale à le bord du lit"
+    },
+    {
+      "id": "bj_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de mordille doucement sur la nuque à devant le miroir"
+    },
+    {
+      "id": "bj_v21_t3_10",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de taquine des lèvres et des doigts sur le cou à le coin du canapé"
+    },
+    {
+      "id": "bj_v21_t3_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de mordille puis apaise d'un long baiser sur l'intérieur de la cuisse à le comptoir de la cuisine"
+    },
+    {
+      "id": "bj_v21_t3_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de lèche très lentement sur la hanche à l'encadrement d'une porte sombre"
+    },
+    {
+      "id": "bj_v21_t3_13",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de suce doucement puis embrasse sur le lobe d'oreille à le tapis à la lueur d'une bougie"
+    },
+    {
+      "id": "bj_v21_t3_14",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de dépose des baisers ouverts et brûlants sur sur la taille à le chevet sous lampe tamisée"
+    },
+    {
+      "id": "bj_v21_t3_15",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de couvre de baisers fiévreux sur le bas-ventre à la banquette sous lampe douce"
+    },
+    {
+      "id": "bj_v21_t3_16",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de trace des sillons humides de ta la chaleur du souffle sur la poitrine et les côtes à l'accoudoir du canapé"
+    },
+    {
+      "id": "bj_v21_t3_17",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de mordille doucement sur la clavicule à le pied du lit"
+    },
+    {
+      "id": "bj_v21_t3_18",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de taquine des lèvres et des doigts sur la colonne vertébrale à l'entrée dans la pénombre"
+    },
+    {
+      "id": "bj_v21_t3_19",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de mordille puis apaise d'un long baiser sur la nuque à devant le miroir du dressing"
+    },
+    {
+      "id": "bj_v21_t3_20",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de lèche très lentement sur le cou à un tas de coussins moelleux"
+    },
+    {
+      "id": "bj_v21_t3_21",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s de suce doucement puis embrasse sur l'intérieur de la cuisse à derrière les rideaux légers"
+    },
+    {
+      "id": "bj_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de dépose des baisers ouverts et brûlants sur sur la courbe de la hanche sous Relève doucement son menton pour capter tout son regard"
+    },
+    {
+      "id": "bj_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de couvre de baisers fiévreux sur l'intérieur des cuisses sous Entrelace ses doigts derrière sa nuque sans défense"
+    },
+    {
+      "id": "bj_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de trace des sillons humides de ta la chaleur du souffle sur sous la clavicule sous Garde ses mains plaquées contre la tête de lit"
+    },
+    {
+      "id": "bj_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de mordille doucement sur la poitrine et les côtes sous Plaque-le doucement contre le mur par les hanches"
+    },
+    {
+      "id": "bj_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de taquine des lèvres et des doigts sur la ligne des hanches sous Bloque doucement ses mains dans son dos"
+    },
+    {
+      "id": "bj_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de mordille puis apaise d'un long baiser sur le bas de la colonne sous Maintiens ses deux poignets au-dessus de sa tête d'une main"
+    },
+    {
+      "id": "bj_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de lèche très lentement sur le creux des reins sous Relève doucement son menton pour capter tout son regard"
+    },
+    {
+      "id": "bj_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de suce doucement puis embrasse sur le bas-ventre sous Entrelace ses doigts derrière sa nuque sans défense"
+    },
+    {
+      "id": "bj_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de dépose des baisers ouverts et brûlants sur sur la courbe de la hanche sous Garde ses mains plaquées contre la tête de lit"
+    },
+    {
+      "id": "bj_v21_t4_10",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de couvre de baisers fiévreux sur l'intérieur des cuisses sous Plaque-le doucement contre le mur par les hanches"
+    },
+    {
+      "id": "bj_v21_t4_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de trace des sillons humides de ta la chaleur du souffle sur sous la clavicule sous Bloque doucement ses mains dans son dos"
+    },
+    {
+      "id": "bj_v21_t4_12",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de mordille doucement sur la poitrine et les côtes sous Maintiens ses deux poignets au-dessus de sa tête d'une main"
+    },
+    {
+      "id": "bj_v21_t4_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de taquine des lèvres et des doigts sur la ligne des hanches sous Relève doucement son menton pour capter tout son regard"
+    },
+    {
+      "id": "bj_v21_t4_14",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de mordille puis apaise d'un long baiser sur le bas de la colonne sous Entrelace ses doigts derrière sa nuque sans défense"
+    },
+    {
+      "id": "bj_v21_t4_15",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de lèche très lentement sur le creux des reins sous Garde ses mains plaquées contre la tête de lit"
+    },
+    {
+      "id": "bj_v21_t4_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de suce doucement puis embrasse sur le bas-ventre sous Plaque-le doucement contre le mur par les hanches"
+    },
+    {
+      "id": "bj_v21_t4_17",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de dépose des baisers ouverts et brûlants sur sur la courbe de la hanche sous Bloque doucement ses mains dans son dos"
+    },
+    {
+      "id": "bj_v21_t4_18",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de couvre de baisers fiévreux sur l'intérieur des cuisses sous Maintiens ses deux poignets au-dessus de sa tête d'une main"
+    },
+    {
+      "id": "bj_v21_t4_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s de trace des sillons humides de ta la chaleur du souffle sur sous la clavicule sous Relève doucement son menton pour capter tout son regard"
+    }
+  ],
+  "bodyMapZones": [
+    {
+      "id": "z_lips",
+      "label": "Lèvres",
+      "nx": 0.5,
+      "ny": 0.14,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Un baiser très lent qui s'arrête à mi-chemin pour sentir vos souffles (20s).",
+      "hotAction": "ZONE BRÛLANTE ! Attire ton partenaire pour 30s de baiser lent et tendre avec doux mordillements.",
+      "durationSec": 25
+    },
+    {
+      "id": "z_ear",
+      "label": "Oreille",
+      "nx": 0.34,
+      "ny": 0.14,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Souffle chaud près de l'oreille en murmurant ce que tu feras ensuite (20s).",
+      "hotAction": "POINT SECRET ! Main sur la taille, lèche et mordille son lobe 30 secondes.",
+      "durationSec": 30
+    },
+    {
+      "id": "z_neck",
+      "label": "Cou",
+      "nx": 0.5,
+      "ny": 0.25,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Descends derrière l'oreille le long du cou avec des baisers lents (25s).",
+      "hotAction": "IMPACT CHAUD ! Tiens ses mains et couvre son cou de baisers et mordillements (35s).",
+      "durationSec": 35
+    },
+    {
+      "id": "z_collar",
+      "label": "Clavicule",
+      "nx": 0.5,
+      "ny": 0.34,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Trace sa clavicule du bout des doigts puis suis la même ligne de baisers (25s).",
+      "hotAction": "TRÉSOR SECRET ! Écarte le col et lèche puis embrasse ses deux clavicules (35s).",
+      "durationSec": 35
+    },
+    {
+      "id": "z_shoulder",
+      "label": "Épaule",
+      "nx": 0.26,
+      "ny": 0.34,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Masse tendrement ses épaules par derrière puis dépose une pluie de baisers (30s).",
+      "hotAction": "SURPRISE ! Fais glisser une bretelle et remonte en mordillant de l'épaule au cou (35s).",
+      "durationSec": 35
+    },
+    {
+      "id": "z_wrist",
+      "label": "Poignet",
+      "nx": 0.78,
+      "ny": 0.5,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Plonge dans ses yeux et embrasse lentement le pouls de son poignet (20s).",
+      "hotAction": "FRISSON ! Lèche et embrasse du bout des doigts jusqu'à l'intérieur de l'avant-bras (30s).",
+      "durationSec": 30
+    },
+    {
+      "id": "z_waist",
+      "label": "Taille",
+      "nx": 0.32,
+      "ny": 0.55,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Enlace fermement sa taille et balancez-vous collés pendant 25s.",
+      "hotAction": "ZONE INTERDITE ! Soulève le bas de son haut et embrasse taille et bas-ventre (35s).",
+      "durationSec": 35
+    },
+    {
+      "id": "z_spine",
+      "label": "Dos",
+      "nx": 0.68,
+      "ny": 0.45,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Descends lentement la colonne du bout des doigts puis de baisers chauds (30s).",
+      "hotAction": "EXTASE ! Yeux fermés, alterne souffle brûlant et mordillements sur son dos (40s).",
+      "durationSec": 40
+    },
+    {
+      "id": "z_hip",
+      "label": "Hanche",
+      "nx": 0.34,
+      "ny": 0.7,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "normalAction": "Serre ses hanches contre toi pour un baiser intense et une taquinerie douce (25s).",
+      "hotAction": "ZONE MINUIT ! Deux petit défi ludiques suivies de 35s de baisers sur les reins et hanches.",
+      "durationSec": 35
+    },
+    {
+      "id": "z_thigh",
+      "label": "Cuisse Int.",
+      "nx": 0.58,
+      "ny": 0.84,
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "normalAction": "Remonte paumes et baisers le long de la cuisse en t'arrêtant dès qu'il retient son souffle (30s).",
+      "hotAction": "JACKPOT ! 40s de baisers et mordillements ultra lents sur l'intérieur de la cuisse.",
+      "durationSec": 40
+    }
+  ],
+  "auctionContracts": [
+    {
+      "id": "auc_01",
+      "tier": 1,
+      "durationSec": 45,
+      "tags": [
+        "physical_light"
+      ],
+      "title": "Spa Privé",
+      "text": "Le gagnant reçoit 45s de massage intense du cou, des épaules et du cuir chevelu."
+    },
+    {
+      "id": "auc_02",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Défense d'Embrasser",
+      "text": "Le gagnant taquine lèvres et mâchoire 30s ; l'autre a interdiction d'embrasser en retour."
+    },
+    {
+      "id": "auc_03",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "playful",
+        "physical_light"
+      ],
+      "title": "Trône sur les Genoux",
+      "text": "Le perdant s'assoit assis très près, face à face 30s mains dans le dos en écoutant des secrets osés."
+    },
+    {
+      "id": "auc_04",
+      "tier": 3,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "Monopole Oreille & Clavicule",
+      "text": "35s exclusives pour laisser la chaleur effleur, mordiller et embrasser oreilles, cou et clavicules."
+    },
+    {
+      "id": "auc_05",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold"
+      ],
+      "title": "Domination Yeux Bandés",
+      "text": "L'autre ferme les yeux 45s tandis que le gagnant choisit 3 zones surprises à caresser et embrasser."
+    },
+    {
+      "id": "auc_06",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare"
+      ],
+      "title": "Effeuillage au Ralenti",
+      "text": "Le gagnant désigne un vêtement que l'autre retire très lentement sans quitter ses yeux."
+    },
+    {
+      "id": "auc_07",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light"
+      ],
+      "title": "Poignets Maintenus 45s",
+      "text": "Le gagnant retient doucement ses deux poignets au-dessus de la tête pour 45s de taquineries."
+    },
+    {
+      "id": "auc_08",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "restraint_light"
+      ],
+      "title": "petit défi & baiser lent et tendre",
+      "text": "Le gagnant donne trois petit défi ludiques suivies d'un baiser passionné de 20 secondes."
+    },
+    {
+      "id": "auc_09",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "bite_lick"
+      ],
+      "title": "60 Secondes d'Obéissance",
+      "text": "Une minute entière à exécuter chaque geste murmuré à l'oreille dans vos limites."
+    },
+    {
+      "id": "auc_10",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ],
+      "title": "Ticket d'Or Metteur en Scène",
+      "text": "Contrat suprême : pendant 10 minutes le gagnant décide lumière, lieu, rythme et jeu !"
+    },
+    {
+      "id": "auc_11",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "Festin Cou & Clavicule",
+      "text": "Le gagnant obtient 35s non-stop pour laisser la chaleur effleur, poser des baisers doux près de et mordiller cou et clavicule."
+    },
+    {
+      "id": "auc_12",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light"
+      ],
+      "title": "Privilège Sous les Vêtements",
+      "text": "Le gagnant glisse ses paumes chaudes sous les vêtements du perdant pendant 40s."
+    },
+    {
+      "id": "auc_13",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare"
+      ],
+      "title": "Droit d'Effeuillage à Une Main",
+      "text": "Le gagnant choisit un vêtement et le défait d'une main sans quitter ses yeux."
+    },
+    {
+      "id": "auc_14",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "Exploration Cuisses Internes",
+      "text": "Le gagnant réclame 45s de souffle chaud, baiser tendres et baisers humides sur les cuisses."
+    },
+    {
+      "id": "auc_15",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "title": "Contrat Bandeau Glace & la chaleur du souffle",
+      "text": "Le perdant garde les yeux bandés 60s entre glaçon/verre froid et la chaleur du souffle brûlante."
+    },
+    {
+      "id": "auc_16",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Minute Souveraine Poignets Tenus",
+      "text": "Le gagnant tient ses poignets 60s, retire une couche et explore sans résistance."
+    },
+    {
+      "id": "auc_v2_01",
+      "tier": 1,
+      "durationSec": 40,
+      "tags": [
+        "physical_light"
+      ],
+      "title": "Pacte Secret du Soir #1",
+      "text": "Le gagnant mène la danse pendant 45s de caresses chaudes et baisers lents. (40s)"
+    },
+    {
+      "id": "auc_v2_02",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "eye_contact"
+      ],
+      "title": "Pacte Secret du Soir #2",
+      "text": "Le gagnant mène la danse pendant 45s de caresses chaudes et baisers lents. (35s)"
+    },
+    {
+      "id": "auc_v2_03",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk"
+      ],
+      "title": "Pacte Secret du Soir #3",
+      "text": "Le gagnant mène la danse pendant 45s de caresses chaudes et baisers lents. (45s)"
+    },
+    {
+      "id": "auc_v2_04",
+      "tier": 1,
+      "durationSec": 45,
+      "tags": [
+        "physical_light"
+      ],
+      "title": "Épaules fondantes nocturnes",
+      "text": "Le gagnant se détend avec 45s de massage tiède de la nuque, terminé par des baisers derrière l'oreille."
+    },
+    {
+      "id": "auc_v2_05",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "playful"
+      ],
+      "title": "Proximité sur les genoux",
+      "text": "Le gagnant s'octroie 40s de proximité face à face sur les genoux et de doux baisers taquins."
+    },
+    {
+      "id": "auc_v2_06",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "Mâchoire et lobe revendiqués",
+      "text": "Le gagnant prend 35s pour embrasser et mordiller doucement le lobe de l'oreille et la mâchoire."
+    },
+    {
+      "id": "auc_v2_07",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "alcohol"
+      ],
+      "title": "Baiser à la gorgée",
+      "text": "Valable à tout moment ce soir pour un baiser lent et tiède à partager en sirotant."
+    },
+    {
+      "id": "auc_v2_08",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "blindfold"
+      ],
+      "title": "Quiz de baisers yeux fermés",
+      "text": "Le perdant ferme les yeux pendant 40s pendant que le gagnant embrasse 4 endroits — chaque erreur vaut un baiser supplémentaire."
+    },
+    {
+      "id": "auc_v2_09",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "45s sur la clavicule",
+      "text": "Le gagnant s'attarde avec des baisers tièdes et une douce succion du cou vers la clavicule pendant 45s."
+    },
+    {
+      "id": "auc_v2_10",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare"
+      ],
+      "title": "Dévoilement à une main",
+      "text": "Le gagnant défait lentement deux boutons ou fait glisser une bretelle d'une seule main, en embrassant la peau dévoilée."
+    },
+    {
+      "id": "auc_v2_11",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "roleplay"
+      ],
+      "title": "Pacte Secret du Soir #11",
+      "text": "Le gagnant mène la danse pendant 45s de caresses chaudes et baisers lents. (50s)"
+    },
+    {
+      "id": "auc_v2_12",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light"
+      ],
+      "title": "Taquinerie contre le mur",
+      "text": "Le gagnant presse doucement le perdant contre le mur, le taquinant à 1 cm pendant 45s jusqu'à ce qu'il demande un baiser."
+    },
+    {
+      "id": "auc_v2_13",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light"
+      ],
+      "title": "Pacte Secret du Soir #13",
+      "text": "Le gagnant mène la danse pendant 45s de caresses chaudes et baisers lents. (55s)"
+    },
+    {
+      "id": "auc_v2_14",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare"
+      ],
+      "title": "Maîtrise par les lèvres",
+      "text": "Mains interdites — le gagnant utilise seulement ses lèvres et son souffle tiède pour déplacer un col et embrasser pendant 50s."
+    },
+    {
+      "id": "auc_v2_15",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "restraint_light"
+      ],
+      "title": "Pari du silence, 50s",
+      "text": "Le gagnant taquine tes points sensibles pendant 50s — chaque petit soupir prolonge le chrono de 10s."
+    },
+    {
+      "id": "auc_v2_16",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "Pacte Secret du Soir #16",
+      "text": "Le gagnant mène la danse pendant 45s de caresses chaudes et baisers lents. (60s)"
+    },
+    {
+      "id": "auc_v21_t1_01",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · le coin des lèvres",
+      "text": "Le gagnant reçoit 30s VIP à le comptoir de la cuisine : restant dans un silence absolu, doux dépose des baisers lents sur sur le coin des lèvres et le premier compliment en me regardant maintenant."
+    },
+    {
+      "id": "auc_v21_t1_02",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · les omoplates",
+      "text": "Le gagnant reçoit 30s VIP à l'encadrement d'une porte sombre : laissant tes lèvres à 1 cm entre chaque geste, doux trace de lents cercles chauds sur sur les omoplates et un petit détail chez moi qui te fait encore rougir."
+    },
+    {
+      "id": "auc_v21_t1_03",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · la naissance de la nuque",
+      "text": "Le gagnant reçoit 30s VIP à le tapis à la lueur d'une bougie : murmurant son surnom tout bas, doux effleure du bout des doigts sur la naissance de la nuque et quel son chez lui te fait totalement craquer."
+    },
+    {
+      "id": "auc_v21_t1_04",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · la joue et mâchoire",
+      "text": "Le gagnant reçoit 30s VIP à le chevet sous lampe tamisée : gardant un sourire complice, doux frôle timidement des lèvres sur la joue et mâchoire et ce que tu désires dès qu'on éteint la lumière."
+    },
+    {
+      "id": "auc_v21_t1_05",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · l'extérieur de la clavicule",
+      "text": "Le gagnant reçoit 30s VIP à la banquette sous lampe douce : restant dans un silence absolu, doux frôle longuement des lèvres sur l'extérieur de la clavicule et quel geste tendre chez moi te fait fondre."
+    },
+    {
+      "id": "auc_v21_t1_06",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · l'épaule",
+      "text": "Le gagnant reçoit 30s VIP à l'accoudoir du canapé : laissant tes lèvres à 1 cm entre chaque geste, doux caresse doucement sur l'épaule et le lieu le plus risqué où tu rêves de l'entraîner."
+    },
+    {
+      "id": "auc_v21_t1_07",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · le contour de l'oreille",
+      "text": "Le gagnant reçoit 30s VIP à le pied du lit : murmurant son surnom tout bas, doux sème des baisers plumes sur sur le contour de l'oreille et l'étreinte que tu n'as jamais voulu lâcher."
+    },
+    {
+      "id": "auc_v21_t1_08",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · le poignet intérieur",
+      "text": "Le gagnant reçoit 30s VIP à l'entrée dans la pénombre : gardant un sourire complice, doux masse chaudement sur le poignet intérieur et comment tu rêves d'être serré(e) avant de dormir."
+    },
+    {
+      "id": "auc_v21_t1_09",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · la paume et les doigts",
+      "text": "Le gagnant reçoit 30s VIP à devant le miroir du dressing : restant dans un silence absolu, doux fais courir un souffle tiède sur sur la paume et les doigts et ce que tu veux qu'il porte — ou retire — ce soir."
+    },
+    {
+      "id": "auc_v21_t1_10",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · l'intérieur de l'avant-bras",
+      "text": "Le gagnant reçoit 30s VIP à un tas de coussins moelleux : laissant tes lèvres à 1 cm entre chaque geste, doux fais courir un souffle chaud sur sur l'intérieur de l'avant-bras et une pensée très coquine que tu as eue aujourd'hui."
+    },
+    {
+      "id": "auc_v21_t1_11",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · derrière l'oreille",
+      "text": "Le gagnant reçoit 30s VIP à derrière les rideaux légers : murmurant son surnom tout bas, doux glisse tes paumes chaudes sur sur derrière l'oreille et une pensée timide quand nos mains se frôlent."
+    },
+    {
+      "id": "auc_v21_t1_12",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · le bout du menton",
+      "text": "Le gagnant reçoit 30s VIP à devant la coiffeuse tamisée : gardant un sourire complice, doux effleure du bout du nez sur le bout du menton et comment tu veux être touché(e) lumière éteinte."
+    },
+    {
+      "id": "auc_v21_t1_13",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · la clavicule",
+      "text": "Le gagnant reçoit 30s VIP à le mur de la chambre : restant dans un silence absolu, doux dépose des baisers lents sur sur la clavicule et l'endroit précis que tu brûles d'embrasser maintenant."
+    },
+    {
+      "id": "auc_v21_t1_14",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · les phalanges et le pouce",
+      "text": "Le gagnant reçoit 30s VIP à le bord du lit : laissant tes lèvres à 1 cm entre chaque geste, doux trace de lents cercles chauds sur sur les phalanges et le pouce et ton détail préféré quand je t'embrasse."
+    },
+    {
+      "id": "auc_v21_t1_15",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · le cou",
+      "text": "Le gagnant reçoit 30s VIP à devant le miroir : murmurant son surnom tout bas, doux effleure du bout des doigts sur le cou et la seconde précise où tu as perdu tout calme ce soir."
+    },
+    {
+      "id": "auc_v21_t1_16",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · la tempe et le front",
+      "text": "Le gagnant reçoit 30s VIP à le coin du canapé : gardant un sourire complice, doux frôle timidement des lèvres sur la tempe et le front et un fantasme secret à réaliser avant l'aube."
+    },
+    {
+      "id": "auc_v21_t1_17",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · le coin des lèvres",
+      "text": "Le gagnant reçoit 30s VIP à le comptoir de la cuisine : restant dans un silence absolu, doux frôle longuement des lèvres sur le coin des lèvres et le premier compliment en me regardant maintenant."
+    },
+    {
+      "id": "auc_v21_t1_18",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · les omoplates",
+      "text": "Le gagnant reçoit 30s VIP à l'encadrement d'une porte sombre : laissant tes lèvres à 1 cm entre chaque geste, doux caresse doucement sur les omoplates et un petit détail chez moi qui te fait encore rougir."
+    },
+    {
+      "id": "auc_v21_t1_19",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · la naissance de la nuque",
+      "text": "Le gagnant reçoit 30s VIP à le tapis à la lueur d'une bougie : murmurant son surnom tout bas, doux sème des baisers plumes sur sur la naissance de la nuque et quel son chez lui te fait totalement craquer."
+    },
+    {
+      "id": "auc_v21_t1_20",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · la joue et mâchoire",
+      "text": "Le gagnant reçoit 30s VIP à le chevet sous lampe tamisée : gardant un sourire complice, doux masse chaudement sur la joue et mâchoire et ce que tu désires dès qu'on éteint la lumière."
+    },
+    {
+      "id": "auc_v21_t1_21",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · l'extérieur de la clavicule",
+      "text": "Le gagnant reçoit 30s VIP à la banquette sous lampe douce : restant dans un silence absolu, doux fais courir un souffle tiède sur sur l'extérieur de la clavicule et quel geste tendre chez moi te fait fondre."
+    },
+    {
+      "id": "auc_v21_t1_22",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · l'épaule",
+      "text": "Le gagnant reçoit 30s VIP à l'accoudoir du canapé : laissant tes lèvres à 1 cm entre chaque geste, doux fais courir un souffle chaud sur sur l'épaule et le lieu le plus risqué où tu rêves de l'entraîner."
+    },
+    {
+      "id": "auc_v21_t1_23",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · le contour de l'oreille",
+      "text": "Le gagnant reçoit 30s VIP à le pied du lit : murmurant son surnom tout bas, doux glisse tes paumes chaudes sur sur le contour de l'oreille et l'étreinte que tu n'as jamais voulu lâcher."
+    },
+    {
+      "id": "auc_v21_t1_24",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · le poignet intérieur",
+      "text": "Le gagnant reçoit 30s VIP à l'entrée dans la pénombre : gardant un sourire complice, doux effleure du bout du nez sur le poignet intérieur et comment tu rêves d'être serré(e) avant de dormir."
+    },
+    {
+      "id": "auc_v21_t1_25",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · la paume et les doigts",
+      "text": "Le gagnant reçoit 30s VIP à devant le miroir du dressing : restant dans un silence absolu, doux dépose des baisers lents sur sur la paume et les doigts et ce que tu veux qu'il porte — ou retire — ce soir."
+    },
+    {
+      "id": "auc_v21_t2_01",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le bord du lit",
+      "text": "Le gagnant savoure 35s de des paumes chaudes glissant vers une étreinte soudaine à le bord du lit, glissant lentement de la nuque à les phalanges et le pouce."
+    },
+    {
+      "id": "auc_v21_t2_02",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · devant le miroir",
+      "text": "Le gagnant savoure 35s de paumes chaudes sur le tissu glissant vers la peau à devant le miroir, glissant lentement de derrière l'oreille à le cou."
+    },
+    {
+      "id": "auc_v21_t2_03",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le coin du canapé",
+      "text": "Le gagnant savoure 35s de une prise ferme sur les hanches suivie de doigts plumes à le coin du canapé, glissant lentement de les côtes à la tempe et le front."
+    },
+    {
+      "id": "auc_v21_t2_04",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le comptoir de la cuisine",
+      "text": "Le gagnant savoure 35s de un frôlement de nez suivi d'un baiser fondant à le comptoir de la cuisine, glissant lentement de le creux de la gorge à le coin des lèvres."
+    },
+    {
+      "id": "auc_v21_t2_05",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · l'encadrement d'une porte sombre",
+      "text": "Le gagnant savoure 35s de pause à cinq millimètres avant d'embrasser à l'encadrement d'une porte sombre, glissant lentement de le bas du dos à les omoplates."
+    },
+    {
+      "id": "auc_v21_t2_06",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le tapis à la lueur d'une bougie",
+      "text": "Le gagnant savoure 35s de de légères griffures suivies de lèvres douces à le tapis à la lueur d'une bougie, glissant lentement de la clavicule à la naissance de la nuque."
+    },
+    {
+      "id": "auc_v21_t2_07",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le chevet sous lampe tamisée",
+      "text": "Le gagnant savoure 35s de souffle tiède aussitôt suivi de lèvres douces à le chevet sous lampe tamisée, glissant lentement de le pouls du poignet à la joue et mâchoire."
+    },
+    {
+      "id": "auc_v21_t2_08",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · la banquette sous lampe douce",
+      "text": "Le gagnant savoure 35s de un mordillement taquin aussitôt apaisé par une la chaleur du souffle lente à la banquette sous lampe douce, glissant lentement de les omoplates à l'extérieur de la clavicule."
+    },
+    {
+      "id": "auc_v21_t2_09",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · l'accoudoir du canapé",
+      "text": "Le gagnant savoure 35s de chatouilles dans la paume puis doigts entrelacés à l'accoudoir du canapé, glissant lentement de la nuque à l'épaule."
+    },
+    {
+      "id": "auc_v21_t2_10",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le pied du lit",
+      "text": "Le gagnant savoure 35s de un souffle frais suivi aussitôt de baisers humides et brûlants à le pied du lit, glissant lentement de derrière l'oreille à le contour de l'oreille."
+    },
+    {
+      "id": "auc_v21_t2_11",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · l'entrée dans la pénombre",
+      "text": "Le gagnant savoure 35s de deux petit défi légères suivies de baisers longs et profonds à l'entrée dans la pénombre, glissant lentement de les côtes à le poignet intérieur."
+    },
+    {
+      "id": "auc_v21_t2_12",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · devant le miroir du dressing",
+      "text": "Le gagnant savoure 35s de doigts dans les cheveux t'attirant tout près à devant le miroir du dressing, glissant lentement de le creux de la gorge à la paume et les doigts."
+    },
+    {
+      "id": "auc_v21_t2_13",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · un tas de coussins moelleux",
+      "text": "Le gagnant savoure 35s de des paumes chaudes glissant vers une étreinte soudaine à un tas de coussins moelleux, glissant lentement de le bas du dos à l'intérieur de l'avant-bras."
+    },
+    {
+      "id": "auc_v21_t2_14",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · derrière les rideaux légers",
+      "text": "Le gagnant savoure 35s de paumes chaudes sur le tissu glissant vers la peau à derrière les rideaux légers, glissant lentement de la clavicule à derrière l'oreille."
+    },
+    {
+      "id": "auc_v21_t2_15",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · devant la coiffeuse tamisée",
+      "text": "Le gagnant savoure 35s de une prise ferme sur les hanches suivie de doigts plumes à devant la coiffeuse tamisée, glissant lentement de le pouls du poignet à le bout du menton."
+    },
+    {
+      "id": "auc_v21_t2_16",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le mur de la chambre",
+      "text": "Le gagnant savoure 35s de un frôlement de nez suivi d'un baiser fondant à le mur de la chambre, glissant lentement de les omoplates à la clavicule."
+    },
+    {
+      "id": "auc_v21_t2_17",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le bord du lit",
+      "text": "Le gagnant savoure 35s de pause à cinq millimètres avant d'embrasser à le bord du lit, glissant lentement de la nuque à les phalanges et le pouce."
+    },
+    {
+      "id": "auc_v21_t2_18",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · devant le miroir",
+      "text": "Le gagnant savoure 35s de de légères griffures suivies de lèvres douces à devant le miroir, glissant lentement de derrière l'oreille à le cou."
+    },
+    {
+      "id": "auc_v21_t2_19",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le coin du canapé",
+      "text": "Le gagnant savoure 35s de souffle tiède aussitôt suivi de lèvres douces à le coin du canapé, glissant lentement de les côtes à la tempe et le front."
+    },
+    {
+      "id": "auc_v21_t2_20",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le comptoir de la cuisine",
+      "text": "Le gagnant savoure 35s de un mordillement taquin aussitôt apaisé par une la chaleur du souffle lente à le comptoir de la cuisine, glissant lentement de le creux de la gorge à le coin des lèvres."
+    },
+    {
+      "id": "auc_v21_t2_21",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · l'encadrement d'une porte sombre",
+      "text": "Le gagnant savoure 35s de chatouilles dans la paume puis doigts entrelacés à l'encadrement d'une porte sombre, glissant lentement de le bas du dos à les omoplates."
+    },
+    {
+      "id": "auc_v21_t2_22",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le tapis à la lueur d'une bougie",
+      "text": "Le gagnant savoure 35s de un souffle frais suivi aussitôt de baisers humides et brûlants à le tapis à la lueur d'une bougie, glissant lentement de la clavicule à la naissance de la nuque."
+    },
+    {
+      "id": "auc_v21_t3_01",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · le bas-ventre",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de suce doucement puis embrasse sur le bas-ventre à derrière les rideaux légers selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_02",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la poitrine et les côtes",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de dépose des baisers ouverts et brûlants sur sur la poitrine et les côtes à devant la coiffeuse tamisée selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_03",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la clavicule",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de couvre de baisers fiévreux sur la clavicule à le mur de la chambre selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_04",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la colonne vertébrale",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de trace des sillons humides de ta la chaleur du souffle sur la colonne vertébrale à le bord du lit selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_05",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la nuque",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de mordille doucement sur la nuque à devant le miroir selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_06",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · le cou",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de taquine des lèvres et des doigts sur le cou à le coin du canapé selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_07",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · l'intérieur de la cuisse",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de mordille puis apaise d'un long baiser sur l'intérieur de la cuisse à le comptoir de la cuisine selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_08",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la hanche",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de lèche très lentement sur la hanche à l'encadrement d'une porte sombre selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_09",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · le lobe d'oreille",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de suce doucement puis embrasse sur le lobe d'oreille à le tapis à la lueur d'une bougie selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_10",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la taille",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de dépose des baisers ouverts et brûlants sur sur la taille à le chevet sous lampe tamisée selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_11",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · le bas-ventre",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de couvre de baisers fiévreux sur le bas-ventre à la banquette sous lampe douce selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_12",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la poitrine et les côtes",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de trace des sillons humides de ta la chaleur du souffle sur la poitrine et les côtes à l'accoudoir du canapé selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_13",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la clavicule",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de mordille doucement sur la clavicule à le pied du lit selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_14",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la colonne vertébrale",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de taquine des lèvres et des doigts sur la colonne vertébrale à l'entrée dans la pénombre selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_15",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la nuque",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de mordille puis apaise d'un long baiser sur la nuque à devant le miroir du dressing selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_16",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · le cou",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de lèche très lentement sur le cou à un tas de coussins moelleux selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_17",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · l'intérieur de la cuisse",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de suce doucement puis embrasse sur l'intérieur de la cuisse à derrière les rideaux légers selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_18",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la hanche",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de dépose des baisers ouverts et brûlants sur sur la hanche à devant la coiffeuse tamisée selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_19",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · le lobe d'oreille",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de couvre de baisers fiévreux sur le lobe d'oreille à le mur de la chambre selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_20",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la taille",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de trace des sillons humides de ta la chaleur du souffle sur la taille à le bord du lit selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_21",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · le bas-ventre",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de mordille doucement sur le bas-ventre à devant le miroir selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t4_01",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · la ligne des hanches",
+      "text": "Le gagnant règne 60s à l'entrée dans la pénombre : partenaire en Bloque doucement ses mains dans son dos, uniquement tes lèvres et dents sous une bretelle ou une couche extérieure vers la ligne des hanches."
+    },
+    {
+      "id": "auc_v21_t4_02",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · le bas de la colonne",
+      "text": "Le gagnant règne 60s à devant le miroir du dressing : partenaire en Maintiens ses deux poignets au-dessus de sa tête d'une main, le bout de tes doigts au ralenti extrême sous un accessoire plus une couche vers le bas de la colonne."
+    },
+    {
+      "id": "auc_v21_t4_03",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · le creux des reins",
+      "text": "Le gagnant règne 60s à un tas de coussins moelleux : partenaire en Relève doucement son menton pour capter tout son regard, le dos des doigts puis ta bouche brûlante sous une fermeture ou la taille vers le creux des reins."
+    },
+    {
+      "id": "auc_v21_t4_04",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · le bas-ventre",
+      "text": "Le gagnant règne 60s à derrière les rideaux légers : partenaire en Entrelace ses doigts derrière sa nuque sans défense, la propre main de ton partenaire guidée par toi sous l'ourlet de son haut vers le bas-ventre."
+    },
+    {
+      "id": "auc_v21_t4_05",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · la courbe de la hanche",
+      "text": "Le gagnant règne 60s à devant la coiffeuse tamisée : partenaire en Garde ses mains plaquées contre la tête de lit, uniquement souffle chaud et lèvres sous un vêtement de ton choix vers la courbe de la hanche."
+    },
+    {
+      "id": "auc_v21_t4_06",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · l'intérieur des cuisses",
+      "text": "Le gagnant règne 60s à le mur de la chambre : partenaire en Plaque-le doucement contre le mur par les hanches, une seule main les yeux dans les yeux sous deux boutons de sa chemise vers l'intérieur des cuisses."
+    },
+    {
+      "id": "auc_v21_t4_07",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · sous la clavicule",
+      "text": "Le gagnant règne 60s à le bord du lit : partenaire en Bloque doucement ses mains dans son dos, uniquement tes lèvres et dents sous une bretelle ou une couche extérieure vers sous la clavicule."
+    },
+    {
+      "id": "auc_v21_t4_08",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · la poitrine et les côtes",
+      "text": "Le gagnant règne 60s à devant le miroir : partenaire en Maintiens ses deux poignets au-dessus de sa tête d'une main, le bout de tes doigts au ralenti extrême sous un accessoire plus une couche vers la poitrine et les côtes."
+    },
+    {
+      "id": "auc_v21_t4_09",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · la ligne des hanches",
+      "text": "Le gagnant règne 60s à le coin du canapé : partenaire en Relève doucement son menton pour capter tout son regard, le dos des doigts puis ta bouche brûlante sous une fermeture ou la taille vers la ligne des hanches."
+    },
+    {
+      "id": "auc_v21_t4_10",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · le bas de la colonne",
+      "text": "Le gagnant règne 60s à le comptoir de la cuisine : partenaire en Entrelace ses doigts derrière sa nuque sans défense, la propre main de ton partenaire guidée par toi sous l'ourlet de son haut vers le bas de la colonne."
+    },
+    {
+      "id": "auc_v21_t4_11",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · le creux des reins",
+      "text": "Le gagnant règne 60s à l'encadrement d'une porte sombre : partenaire en Garde ses mains plaquées contre la tête de lit, uniquement souffle chaud et lèvres sous un vêtement de ton choix vers le creux des reins."
+    },
+    {
+      "id": "auc_v21_t4_12",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · le bas-ventre",
+      "text": "Le gagnant règne 60s à le tapis à la lueur d'une bougie : partenaire en Plaque-le doucement contre le mur par les hanches, une seule main les yeux dans les yeux sous deux boutons de sa chemise vers le bas-ventre."
+    },
+    {
+      "id": "auc_v21_t4_13",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · la courbe de la hanche",
+      "text": "Le gagnant règne 60s à le chevet sous lampe tamisée : partenaire en Bloque doucement ses mains dans son dos, uniquement tes lèvres et dents sous une bretelle ou une couche extérieure vers la courbe de la hanche."
+    },
+    {
+      "id": "auc_v21_t4_14",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · l'intérieur des cuisses",
+      "text": "Le gagnant règne 60s à la banquette sous lampe douce : partenaire en Maintiens ses deux poignets au-dessus de sa tête d'une main, le bout de tes doigts au ralenti extrême sous un accessoire plus une couche vers l'intérieur des cuisses."
+    },
+    {
+      "id": "auc_v21_t4_15",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · sous la clavicule",
+      "text": "Le gagnant règne 60s à l'accoudoir du canapé : partenaire en Relève doucement son menton pour capter tout son regard, le dos des doigts puis ta bouche brûlante sous une fermeture ou la taille vers sous la clavicule."
+    },
+    {
+      "id": "auc_v21_t4_16",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · la poitrine et les côtes",
+      "text": "Le gagnant règne 60s à le pied du lit : partenaire en Entrelace ses doigts derrière sa nuque sans défense, la propre main de ton partenaire guidée par toi sous l'ourlet de son haut vers la poitrine et les côtes."
+    },
+    {
+      "id": "auc_v21_t4_17",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · la ligne des hanches",
+      "text": "Le gagnant règne 60s à l'entrée dans la pénombre : partenaire en Garde ses mains plaquées contre la tête de lit, uniquement souffle chaud et lèvres sous un vêtement de ton choix vers la ligne des hanches."
+    },
+    {
+      "id": "auc_v21_t4_18",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · le bas de la colonne",
+      "text": "Le gagnant règne 60s à devant le miroir du dressing : partenaire en Plaque-le doucement contre le mur par les hanches, une seule main les yeux dans les yeux sous deux boutons de sa chemise vers le bas de la colonne."
+    },
+    {
+      "id": "auc_v21_t4_19",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · le creux des reins",
+      "text": "Le gagnant règne 60s à un tas de coussins moelleux : partenaire en Bloque doucement ses mains dans son dos, uniquement tes lèvres et dents sous une bretelle ou une couche extérieure vers le creux des reins."
+    },
+    {
+      "id": "auc_v21_t4_20",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · le bas-ventre",
+      "text": "Le gagnant règne 60s à derrière les rideaux légers : partenaire en Maintiens ses deux poignets au-dessus de sa tête d'une main, le bout de tes doigts au ralenti extrême sous un accessoire plus une couche vers le bas-ventre."
+    },
+    {
+      "id": "auc_v21_t1_26",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Pass Velours · l'intérieur de l'avant-bras",
+      "text": "Le gagnant reçoit 30s VIP à un tas de coussins moelleux : laissant tes lèvres à 1 cm entre chaque geste, doux trace de lents cercles chauds sur sur l'intérieur de l'avant-bras et une pensée très coquine que tu as eue aujourd'hui."
+    },
+    {
+      "id": "auc_v21_t2_23",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le chevet sous lampe tamisée",
+      "text": "Le gagnant savoure 35s de deux petit défi légères suivies de baisers longs et profonds à le chevet sous lampe tamisée, glissant lentement de le pouls du poignet à la joue et mâchoire."
+    },
+    {
+      "id": "auc_v21_t2_24",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · la banquette sous lampe douce",
+      "text": "Le gagnant savoure 35s de doigts dans les cheveux t'attirant tout près à la banquette sous lampe douce, glissant lentement de les omoplates à l'extérieur de la clavicule."
+    },
+    {
+      "id": "auc_v21_t2_25",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · l'accoudoir du canapé",
+      "text": "Le gagnant savoure 35s de des paumes chaudes glissant vers une étreinte soudaine à l'accoudoir du canapé, glissant lentement de la nuque à l'épaule."
+    },
+    {
+      "id": "auc_v21_t2_26",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Contrat Tiède · le pied du lit",
+      "text": "Le gagnant savoure 35s de paumes chaudes sur le tissu glissant vers la peau à le pied du lit, glissant lentement de derrière l'oreille à le contour de l'oreille."
+    },
+    {
+      "id": "auc_v21_t3_22",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la poitrine et les côtes",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de taquine des lèvres et des doigts sur la poitrine et les côtes à le coin du canapé selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t3_23",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la clavicule",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de mordille puis apaise d'un long baiser sur la clavicule à le comptoir de la cuisine selon « alterne caresses de plume et pression ferme »."
+    },
+    {
+      "id": "auc_v21_t3_24",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pouvoir Privé · la colonne vertébrale",
+      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de lèche très lentement sur la colonne vertébrale à l'encadrement d'une porte sombre selon « murmure son prénom avant chaque nouvelle zone »."
+    },
+    {
+      "id": "auc_v21_t4_21",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · la courbe de la hanche",
+      "text": "Le gagnant règne 60s à devant la coiffeuse tamisée : partenaire en Relève doucement son menton pour capter tout son regard, le dos des doigts puis ta bouche brûlante sous une fermeture ou la taille vers la courbe de la hanche."
+    },
+    {
+      "id": "auc_v21_t4_22",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Sceptre Minuit · l'intérieur des cuisses",
+      "text": "Le gagnant règne 60s à le mur de la chambre : partenaire en Entrelace ses doigts derrière sa nuque sans défense, la propre main de ton partenaire guidée par toi sous l'ourlet de son haut vers l'intérieur des cuisses."
+    }
+  ]
+}

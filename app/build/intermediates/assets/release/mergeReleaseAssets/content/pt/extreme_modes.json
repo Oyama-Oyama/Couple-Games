@@ -1,0 +1,4631 @@
+{
+  "positions": [
+    {
+      "id": "pos_01",
+      "name": "Lótus de Veludo",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Um senta de pernas cruzadas e o outro senta no colo frente a frente envolvendo a cintura com as pernas.",
+      "tip": "Olho no olho, respiração sincronizada e balanço lento entre beijos — máxima conexão pele na pele."
+    },
+    {
+      "id": "pos_02",
+      "name": "Conchinha da Meia-Noite",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light"
+      ],
+      "setup": "Deitados de lado para o mesmo lado, costas coladas no peito e perna de cima levemente erguida.",
+      "tip": "pode beijar devagar a nuca e o ombro enquanto uma mão explora cintura, barriga e coxas."
+    },
+    {
+      "id": "pos_03",
+      "name": "O Trono Soberano",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "physical_light"
+      ],
+      "setup": "Quem recebe senta na beira de uma cadeira firme ou cama enquanto o par domina o ritmo por cima.",
+      "tip": "Segure quadris ou pulsos — alterne pausas torturantes com aproximação súbita."
+    },
+    {
+      "id": "pos_04",
+      "name": "Na Beira da Cama",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 60,
+      "tags": [
+        "physical_light"
+      ],
+      "setup": "Um deita perto da borda com travesseiro sob os quadris enquanto o outro fica em pé ao lado.",
+      "tip": "Segure tornozelos ou cintura mantendo o olhar para controlar o ritmo sem esforço."
+    },
+    {
+      "id": "pos_05",
+      "name": "A Rainha Invertida",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "restraint_light"
+      ],
+      "setup": "Quem está embaixo deita enquanto o par senta por cima de costas apoiando as mãos nas coxas.",
+      "tip": "Passe as mãos por toda a coluna, cintura e quadris dando leves tapinhas para ditar o passo."
+    },
+    {
+      "id": "pos_06",
+      "name": "Contra a Parede",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "physical_light"
+      ],
+      "setup": "Encoste seu par na parede ou porta erguendo uma perna em volta do seu quadril com firme apoio.",
+      "tip": "Intenso e cinematográfico — pode beijar maxilar e pescoço sustentando bem o equilíbrio."
+    },
+    {
+      "id": "pos_07",
+      "name": "Silhueta no Espelho",
+      "difficulty": 2,
+      "heat": 5,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Em pé ou de joelhos diante de um espelho grande, abrace por trás para ambos assistirem a cada se quiser.",
+      "tip": "Olhem APENAS no espelho sem virar a cabeça enquanto as mãos exploram clavícula, cintura e coxas."
+    },
+    {
+      "id": "pos_08",
+      "name": "O Arco Profundo",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Um deita de bruços com travesseiro firme sob o quadril enquanto o outro cobre suas costas.",
+      "tip": "Deixa coluna, nuca e orelhas totalmente livres para sussurros quentes e mordidinhas."
+    },
+    {
+      "id": "pos_09",
+      "name": "Tentação na Bancada",
+      "difficulty": 2,
+      "heat": 5,
+      "durationSec": 45,
+      "tags": [
+        "playful",
+        "physical_light"
+      ],
+      "setup": "Suba seu par na borda da bancada ou cômoda ficando peito com peito na altura dos olhos.",
+      "tip": "Puxe pela cintura até a borda com mãos entrelaçadas no cabelo e lombar."
+    },
+    {
+      "id": "pos_10",
+      "name": "Abraço Tesoura",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 60,
+      "tags": [
+        "physical_light"
+      ],
+      "setup": "Deitados de lado frente a frente com as pernas entrelaçadas em tesoura e peitos colados para beijar.",
+      "tip": "Perfeito para madrugadas longas e sem pressa com total liberdade para as mãos."
+    },
+    {
+      "id": "pos_11",
+      "name": "Entrega Sensorial",
+      "difficulty": 2,
+      "heat": 5,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "restraint_light"
+      ],
+      "setup": "Seu par deita vendado com braços acima da cabeça enquanto você assume o controle total ao lado ou por cima.",
+      "tip": "Sem visão, cada pausa, ar quente e mudança de pressão fica duas vezes mais elétrico."
+    },
+    {
+      "id": "pos_12",
+      "name": "Voo Borboleta",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 60,
+      "tags": [
+        "physical_light"
+      ],
+      "setup": "Deitado na beira da cama com almofada sob o quadril, quem recebe apoia os tornozelos nos ombros do par em pé.",
+      "tip": "Ângulo profundo e proximidade intensa — desacelere o ritmo sempre que faltar o ar."
+    },
+    {
+      "id": "pos_v2_01",
+      "name": "Abraço Lento Colado #1",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Deitem-se frente a frente no mesmo travesseiro, com as testas encostadas e as pernas entrelaçadas.",
+      "tip": "Perfeito para conversas baixinhas, olho no olho e beijos lentos que derretem."
+    },
+    {
+      "id": "pos_v2_02",
+      "name": "Abraço Lento Colado #2",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Aconchegue-se bem colado atrás do seu par, abraçando a cintura e apoiando o queixo no ombro.",
+      "tip": "Proximidade sem esforço: espalhe beijos suaves pela nuca e atrás da orelha."
+    },
+    {
+      "id": "pos_v2_03",
+      "name": "Abraço Lento Colado #3",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 55,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Um se recosta com uma almofada macia sob a lombar enquanto o outro paira bem perto por cima.",
+      "tip": "Conforto elevado que mantém os rostos a centímetros para um olhar firme."
+    },
+    {
+      "id": "pos_v2_04",
+      "name": "Abraço Lento Colado #4",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "setup": "Recoste-se na diagonal no sofá enquanto seu par se aninha de lado no seu colo abraçando seu pescoço.",
+      "tip": "Aconchego leve e divertido, ideal para provocar devagar."
+    },
+    {
+      "id": "pos_v2_05",
+      "name": "Abraço Lento Colado #5",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Deitem-se em ângulo lado a lado com as pernas levemente cruzadas e os dedos entrelaçados.",
+      "tip": "Deixa uma mão livre para carícias de pluma pelo pescoço e pela cintura."
+    },
+    {
+      "id": "pos_v2_06",
+      "name": "Abraço Lento Colado #6",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 55,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Apoie as costas nas almofadas enquanto seu par se senta de lado no seu colo, rosto com rosto.",
+      "tip": "Postura fácil para sussurros íntimos e beijos demorados no maxilar."
+    },
+    {
+      "id": "pos_v2_07",
+      "name": "Abraço Lento Colado #7",
+      "difficulty": 2,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "De pé diante de um espelho em meia-luz, abrace por trás balançando devagar em sincronia.",
+      "tip": "Ver um ao outro corar no reflexo multiplica a química na hora."
+    },
+    {
+      "id": "pos_v2_08",
+      "name": "Abraço Lento Colado #8",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Um se senta na beira da cama inclinando um pouco para trás enquanto o outro se ajoelha perto entre os joelhos.",
+      "tip": "Ótimo ângulo para subir com beijos atentos da clavícula até os lábios."
+    },
+    {
+      "id": "pos_v2_09",
+      "name": "Abraço Lento Colado #9",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "setup": "Um se senta firme numa cadeira enquanto o outro se acomoda frente a frente abraçando seu pescoço.",
+      "tip": "Abraço íntimo na altura dos olhos em que os dois guiam o ritmo devagar."
+    },
+    {
+      "id": "pos_v2_10",
+      "name": "Abraço Lento Colado #10",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "restraint_light"
+      ],
+      "setup": "Um encosta as costas numa parede firme enquanto o outro se encaixa apoiando a cintura bem perto.",
+      "tip": "Pura tensão de cinema: mantenham o equilíbrio e foquem em beijos sem fôlego."
+    },
+    {
+      "id": "pos_v2_11",
+      "name": "Abraço Lento Colado #11",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 65,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Sente-se com segurança na borda de uma bancada envolvendo com as pernas a cintura de quem está de pé.",
+      "tip": "Proximidade natural na altura dos olhos, perfeita para beijos profundos."
+    },
+    {
+      "id": "pos_v2_12",
+      "name": "Abraço Lento Colado #12",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 65,
+      "tags": [
+        "physical_light",
+        "restraint_light"
+      ],
+      "setup": "Um repousa confortável nas almofadas enquanto o outro se ajoelha por cima, nariz com nariz.",
+      "tip": "Troca divertida de controle que deixa quem conduz ditar cada pausa e cada beijo."
+    },
+    {
+      "id": "pos_v21_d1_01",
+      "name": "Abraço Veludo · diante da penteadeira",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em diante da penteadeira, mantendo segurando um sorriso cúmplice, alternando massageie com carinho em a ponta do queixo.",
+      "tip": "Some pegada firme no quadril seguida de dedos como pena e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_02",
+      "name": "Abraço Veludo · a parede do quarto",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em a parede do quarto, mantendo fica em silêncio absoluto, alternando sopre ar morno bem devagar em em a clavícula.",
+      "tip": "Some roce de nariz seguido de um beijo demorado e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_03",
+      "name": "Abraço Veludo · a beira da cama",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em a beira da cama, mantendo deixa os lábios a 1 cm entre pausas, alternando sopre ar quente sobre em os dedos e polegar.",
+      "tip": "Some pausa a meio centímetro antes de beijar e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_04",
+      "name": "Abraço Veludo · a frente do espelho",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em a frente do espelho, mantendo sussurrando seu apelido baixinho, alternando deslize suas palmas mornas por em o pescoço.",
+      "tip": "Some um se quiser leve de dedos e um beijo terno e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_05",
+      "name": "Abraço Veludo · o canto do sofá",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em o canto do sofá, mantendo segurando um sorriso cúmplice, alternando roce suavemente o nariz em em a têmpora e testa.",
+      "tip": "Some ar morno seguido na hora de lábios macios e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_06",
+      "name": "Abraço Veludo · a bancada da cozinha",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em a bancada da cozinha, mantendo fica em silêncio absoluto, alternando deixe beijos lentos em em o canto dos lábios.",
+      "tip": "Some mordidinha provocante acalmada logo pela o calor do hálito lenta e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_07",
+      "name": "Abraço Veludo · o batente da porta na meia-luz",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em o batente da porta na meia-luz, mantendo deixa os lábios a 1 cm entre pausas, alternando faça círculos mornos com os dedos em em os ombros e costas.",
+      "tip": "Some cócegas na palma seguidas de dedos entrelaçados e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_08",
+      "name": "Abraço Veludo · o tapete à luz de velas",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em o tapete à luz de velas, mantendo sussurrando seu apelido baixinho, alternando passe a ponta dos dedos em em a linha da nuca.",
+      "tip": "Some ar fresco seguido na hora por beijos úmidos e quentes e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_09",
+      "name": "Abraço Veludo · ao lado da cama sob luz baixa",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em ao lado da cama sob luz baixa, mantendo segurando um sorriso cúmplice, alternando roce timidamente os lábios em em o rosto e maxilar.",
+      "tip": "Some dois tapas leves seguidos de beijos longos e profundos e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_10",
+      "name": "Abraço Veludo · o canto da janela com abajur",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em o canto da janela com abajur, mantendo fica em silêncio absoluto, alternando roce devagar os lábios em em a ponta da clavícula.",
+      "tip": "Some dedos no cabelo puxando para perto e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_11",
+      "name": "Abraço Veludo · o braço do sofá",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em o braço do sofá, mantendo deixa os lábios a 1 cm entre pausas, alternando acaricie devagar em o ombro.",
+      "tip": "Some palmas mornas deslizando até um puxão colado e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_12",
+      "name": "Abraço Veludo · a ponta da cama",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em a ponta da cama, mantendo sussurrando seu apelido baixinho, alternando deixe beijos de pluma em em a curva da orelha.",
+      "tip": "Some palmas mornas sobre a roupa deslizando para a pele e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_13",
+      "name": "Abraço Veludo · a entrada na meia-luz",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em a entrada na meia-luz, mantendo segurando um sorriso cúmplice, alternando massageie com carinho em o pulso interno.",
+      "tip": "Some pegada firme no quadril seguida de dedos como pena e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_14",
+      "name": "Abraço Veludo · diante do espelho do closet",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em diante do espelho do closet, mantendo fica em silêncio absoluto, alternando sopre ar morno bem devagar em em a palma e os dedos.",
+      "tip": "Some roce de nariz seguido de um beijo demorado e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_15",
+      "name": "Abraço Veludo · um monte de almofadas macias",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em um monte de almofadas macias, mantendo deixa os lábios a 1 cm entre pausas, alternando sopre ar quente sobre em o antebraço interno.",
+      "tip": "Some pausa a meio centímetro antes de beijar e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_16",
+      "name": "Abraço Veludo · atrás das cortinas leves",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em atrás das cortinas leves, mantendo sussurrando seu apelido baixinho, alternando deslize suas palmas mornas por em atrás da orelha.",
+      "tip": "Some um se quiser leve de dedos e um beijo terno e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_17",
+      "name": "Abraço Veludo · diante da penteadeira · Sussurro",
+      "difficulty": 1,
+      "heat": 2,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em diante da penteadeira, mantendo segurando um sorriso cúmplice, alternando roce suavemente o nariz em em a ponta do queixo.",
+      "tip": "Some ar morno seguido na hora de lábios macios e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d1_18",
+      "name": "Abraço Veludo · a parede do quarto · Ritmo Lento",
+      "difficulty": 1,
+      "heat": 3,
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "setup": "Aproximem-se frente a frente em a parede do quarto, mantendo fica em silêncio absoluto, alternando deixe beijos lentos em em a clavícula.",
+      "tip": "Some mordidinha provocante acalmada logo pela o calor do hálito lenta e sincronize a respiração para esquentar suave."
+    },
+    {
+      "id": "pos_v21_d2_01",
+      "name": "Encaixe Morno · atrás das cortinas leves",
+      "difficulty": 2,
+      "heat": 3,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'sentado(a) no seu colo de frente' em atrás das cortinas leves, segurando a cintura enquanto exploram a clavícula e atrás da orelha.",
+      "tip": "Siga 'alterne toques de pena com pegada firme' e sussurre sobre um pensamento tímido quando damos as mãos bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_02",
+      "name": "Encaixe Morno · diante da penteadeira",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'arqueado(a) de leve sobre um travesseiro' em diante da penteadeira, segurando a cintura enquanto exploram o pulso interno e a ponta do queixo.",
+      "tip": "Siga 'sussurre o nome dele antes de cada nova zona' e sussurre sobre como quer ser tocado(a) no escuro bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_03",
+      "name": "Encaixe Morno · a parede do quarto",
+      "difficulty": 2,
+      "heat": 3,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'deitado(a) vendado(a) em entrega total' em a parede do quarto, segurando a cintura enquanto exploram os ombros e a clavícula.",
+      "tip": "Siga 'alterne toques de pena com pegada firme' e sussurre sobre qual ponto exato quer beijar agora bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_04",
+      "name": "Encaixe Morno · a beira da cama",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'deitado(a) na beira da cama' em a beira da cama, segurando a cintura enquanto exploram a nuca e os dedos e polegar.",
+      "tip": "Siga 'sussurre o nome dele antes de cada nova zona' e sussurre sobre seu detalhe favorito do meu beijo bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_05",
+      "name": "Encaixe Morno · a frente do espelho",
+      "difficulty": 2,
+      "heat": 3,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'de pé colados diante do espelho' em a frente do espelho, segurando a cintura enquanto exploram atrás da orelha e o pescoço.",
+      "tip": "Siga 'alterne toques de pena com pegada firme' e sussurre sobre em que segundo exato você perdeu a calma hoje bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_06",
+      "name": "Encaixe Morno · o canto do sofá",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'de joelhos frente a frente na cama' em o canto do sofá, segurando a cintura enquanto exploram as costelas e a têmpora e testa.",
+      "tip": "Siga 'sussurre o nome dele antes de cada nova zona' e sussurre sobre uma fantasia secreta para antes do sol nascer bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_07",
+      "name": "Encaixe Morno · a bancada da cozinha",
+      "difficulty": 2,
+      "heat": 3,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'encostado(a) na parede do quarto' em a bancada da cozinha, segurando a cintura enquanto exploram a base da garganta e o canto dos lábios.",
+      "tip": "Siga 'alterne toques de pena com pegada firme' e sussurre sobre o primeiro elogio que pensa ao me olhar bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_08",
+      "name": "Encaixe Morno · o batente da porta na meia-luz",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'sentado(a) no seu colo de frente' em o batente da porta na meia-luz, segurando a cintura enquanto exploram a lombar e os ombros e costas.",
+      "tip": "Siga 'sussurre o nome dele antes de cada nova zona' e sussurre sobre um detalhe meu que ainda te faz corar bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_09",
+      "name": "Encaixe Morno · o tapete à luz de velas",
+      "difficulty": 2,
+      "heat": 3,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'arqueado(a) de leve sobre um travesseiro' em o tapete à luz de velas, segurando a cintura enquanto exploram a clavícula e a linha da nuca.",
+      "tip": "Siga 'alterne toques de pena com pegada firme' e sussurre sobre qual som dele te deixa fora de controle bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_10",
+      "name": "Encaixe Morno · ao lado da cama sob luz baixa",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'deitado(a) vendado(a) em entrega total' em ao lado da cama sob luz baixa, segurando a cintura enquanto exploram o pulso interno e o rosto e maxilar.",
+      "tip": "Siga 'sussurre o nome dele antes de cada nova zona' e sussurre sobre o que mais deseja ao apagar a luz bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_11",
+      "name": "Encaixe Morno · o canto da janela com abajur",
+      "difficulty": 2,
+      "heat": 3,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'deitado(a) na beira da cama' em o canto da janela com abajur, segurando a cintura enquanto exploram os ombros e a ponta da clavícula.",
+      "tip": "Siga 'alterne toques de pena com pegada firme' e sussurre sobre qual carinho meu te derrete na hora bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_12",
+      "name": "Encaixe Morno · o braço do sofá",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'de pé colados diante do espelho' em o braço do sofá, segurando a cintura enquanto exploram a nuca e o ombro.",
+      "tip": "Siga 'sussurre o nome dele antes de cada nova zona' e sussurre sobre o lugar mais arriscado onde quer roubar um beijo bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_13",
+      "name": "Encaixe Morno · a ponta da cama",
+      "difficulty": 2,
+      "heat": 3,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'de joelhos frente a frente na cama' em a ponta da cama, segurando a cintura enquanto exploram atrás da orelha e a curva da orelha.",
+      "tip": "Siga 'alterne toques de pena com pegada firme' e sussurre sobre o abraço que nunca quis soltar bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_14",
+      "name": "Encaixe Morno · a entrada na meia-luz",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'encostado(a) na parede do quarto' em a entrada na meia-luz, segurando a cintura enquanto exploram as costelas e o pulso interno.",
+      "tip": "Siga 'sussurre o nome dele antes de cada nova zona' e sussurre sobre como você ama ser abraçado(a) antes de dormir bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_15",
+      "name": "Encaixe Morno · diante do espelho do closet",
+      "difficulty": 2,
+      "heat": 3,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'sentado(a) no seu colo de frente' em diante do espelho do closet, segurando a cintura enquanto exploram a base da garganta e a palma e os dedos.",
+      "tip": "Siga 'alterne toques de pena com pegada firme' e sussurre sobre o que quer que ele vista — ou tire — hoje bem pertinho."
+    },
+    {
+      "id": "pos_v21_d2_16",
+      "name": "Encaixe Morno · um monte de almofadas macias",
+      "difficulty": 2,
+      "heat": 4,
+      "durationSec": 70,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "setup": "Entrem em 'arqueado(a) de leve sobre um travesseiro' em um monte de almofadas macias, segurando a cintura enquanto exploram a lombar e o antebraço interno.",
+      "tip": "Siga 'sussurre o nome dele antes de cada nova zona' e sussurre sobre um pensamento safado que teve sobre ele hoje bem pertinho."
+    },
+    {
+      "id": "pos_v21_d3_01",
+      "name": "Fundo Noturno · um monte de almofadas macias",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'deitado(a) na beira da cama' em um monte de almofadas macias, firmando o quadril enquanto aplica lamba bem devagar em a cintura e a curva da cintura.",
+      "tip": "Misture pausa a meio centímetro antes de beijar e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_02",
+      "name": "Fundo Noturno · atrás das cortinas leves",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'de pé colados diante do espelho' em atrás das cortinas leves, firmando o quadril enquanto aplica sugue de leve e pode beijar em o baixo ventre e o baixo ventre.",
+      "tip": "Misture um se quiser leve de dedos e um beijo terno e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_03",
+      "name": "Fundo Noturno · diante da penteadeira",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'de joelhos frente a frente na cama' em diante da penteadeira, firmando o quadril enquanto aplica deixe beijos abertos e ardentes em em o peito e costelas e o contorno do quadril.",
+      "tip": "Misture ar morno seguido na hora de lábios macios e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_04",
+      "name": "Fundo Noturno · a parede do quarto",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'encostado(a) na parede do quarto' em a parede do quarto, firmando o quadril enquanto aplica cubra de beijos quentes em a clavícula e a parte interna da coxa.",
+      "tip": "Misture mordidinha provocante acalmada logo pela o calor do hálito lenta e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_05",
+      "name": "Fundo Noturno · a beira da cama",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'sentado(a) no seu colo de frente' em a beira da cama, firmando o quadril enquanto aplica faça trilhas úmidas o calor do hálito em a coluna e logo abaixo da clavícula.",
+      "tip": "Misture cócegas na palma seguidas de dedos entrelaçados e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_06",
+      "name": "Fundo Noturno · a frente do espelho",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'arqueado(a) de leve sobre um travesseiro' em a frente do espelho, firmando o quadril enquanto aplica mordisque suavemente em a nuca e o peito e costelas.",
+      "tip": "Misture ar fresco seguido na hora por beijos úmidos e quentes e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_07",
+      "name": "Fundo Noturno · o canto do sofá",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'deitado(a) vendado(a) em entrega total' em o canto do sofá, firmando o quadril enquanto aplica provoque com lábios e dedos em o pescoço e a linha do quadril.",
+      "tip": "Misture dois tapas leves seguidos de beijos longos e profundos e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_08",
+      "name": "Fundo Noturno · a bancada da cozinha",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'deitado(a) na beira da cama' em a bancada da cozinha, firmando o quadril enquanto aplica morda suave e acalme com beijos em a parte interna da coxa e o fim da coluna.",
+      "tip": "Misture dedos no cabelo puxando para perto e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_09",
+      "name": "Fundo Noturno · o batente da porta na meia-luz",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'de pé colados diante do espelho' em o batente da porta na meia-luz, firmando o quadril enquanto aplica lamba bem devagar em a linha do quadril e a curva da cintura.",
+      "tip": "Misture palmas mornas deslizando até um puxão colado e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_10",
+      "name": "Fundo Noturno · o tapete à luz de velas",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'de joelhos frente a frente na cama' em o tapete à luz de velas, firmando o quadril enquanto aplica sugue de leve e pode beijar em o lóbulo da orelha e o baixo ventre.",
+      "tip": "Misture palmas mornas sobre a roupa deslizando para a pele e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_11",
+      "name": "Fundo Noturno · ao lado da cama sob luz baixa",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'encostado(a) na parede do quarto' em ao lado da cama sob luz baixa, firmando o quadril enquanto aplica deixe beijos abertos e ardentes em em a cintura e o contorno do quadril.",
+      "tip": "Misture pegada firme no quadril seguida de dedos como pena e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_12",
+      "name": "Fundo Noturno · o canto da janela com abajur",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'sentado(a) no seu colo de frente' em o canto da janela com abajur, firmando o quadril enquanto aplica cubra de beijos quentes em o baixo ventre e a parte interna da coxa.",
+      "tip": "Misture roce de nariz seguido de um beijo demorado e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_13",
+      "name": "Fundo Noturno · o braço do sofá",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'arqueado(a) de leve sobre um travesseiro' em o braço do sofá, firmando o quadril enquanto aplica faça trilhas úmidas o calor do hálito em o peito e costelas e logo abaixo da clavícula.",
+      "tip": "Misture pausa a meio centímetro antes de beijar e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_14",
+      "name": "Fundo Noturno · a ponta da cama",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'deitado(a) vendado(a) em entrega total' em a ponta da cama, firmando o quadril enquanto aplica mordisque suavemente em a clavícula e o peito e costelas.",
+      "tip": "Misture um se quiser leve de dedos e um beijo terno e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_15",
+      "name": "Fundo Noturno · a entrada na meia-luz",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'deitado(a) na beira da cama' em a entrada na meia-luz, firmando o quadril enquanto aplica provoque com lábios e dedos em a coluna e a linha do quadril.",
+      "tip": "Misture ar morno seguido na hora de lábios macios e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_16",
+      "name": "Fundo Noturno · diante do espelho do closet",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'de pé colados diante do espelho' em diante do espelho do closet, firmando o quadril enquanto aplica morda suave e acalme com beijos em a nuca e o fim da coluna.",
+      "tip": "Misture mordidinha provocante acalmada logo pela o calor do hálito lenta e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_17",
+      "name": "Fundo Noturno · um monte de almofadas macias · Profundo",
+      "difficulty": 3,
+      "heat": 4,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'de joelhos frente a frente na cama' em um monte de almofadas macias, firmando o quadril enquanto aplica lamba bem devagar em o pescoço e a curva da cintura.",
+      "tip": "Misture cócegas na palma seguidas de dedos entrelaçados e pause 3s a cada arrepio."
+    },
+    {
+      "id": "pos_v21_d3_18",
+      "name": "Fundo Noturno · atrás das cortinas leves · Sombras",
+      "difficulty": 3,
+      "heat": 5,
+      "durationSec": 80,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "setup": "Vão para 'encostado(a) na parede do quarto' em atrás das cortinas leves, firmando o quadril enquanto aplica sugue de leve e pode beijar em a parte interna da coxa e o baixo ventre.",
+      "tip": "Misture ar fresco seguido na hora por beijos úmidos e quentes e pause 3s a cada arrepio."
+    }
+  ],
+  "foreplayStages": [
+    {
+      "step": 1,
+      "stageTitle": "Fase I · afrouxar Devagar & Respiração",
+      "durationSec": 90,
+      "tags": [
+        "clothing_dare",
+        "eye_contact"
+      ],
+      "instruction": "Em pé peito com peito sob meia-luz. Sem falar, tirem em turnos uma camada ou desabotoem devagar mantendo o olhar e deixando o ar quente tocar pescoço e clavícula."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Fase II · Mãos Mornas & Óleo",
+      "durationSec": 120,
+      "tags": [
+        "physical_light"
+      ],
+      "instruction": "Leve seu par para a cama. Aqueça as palmas (ótimo com óleo) e deslize dos ombros pela coluna, cintura, quadris e coxas parando onde ele arrepiar."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Fase III · Lábios, o calor do hálito & Zonas Sensíveis",
+      "durationSec": 120,
+      "tags": [
+        "bite_lick"
+      ],
+      "instruction": "Foque só na boca e no sopro: percorra orelhas, pescoço, clavícula, baixo ventre e parte interna das coxas com beijos lentos, lambidas e mordidinhas sem pressa."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Fase IV · Controle Suave no Limite",
+      "durationSec": 90,
+      "tags": [
+        "restraint_light",
+        "blindfold"
+      ],
+      "instruction": "Quem recebe fecha os olhos com as mãos acima da cabeça. Quem lidera controla cada pausa — parando 3 segundos bem na beira de cada suspiro."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Fase V · Entrega da Meia-Noite",
+      "durationSec": 0,
+      "tags": [
+        "physical_light"
+      ],
+      "instruction": "Vire o celular para baixo agora. Sussurre exatamente o que mais deseja neste segundo — sem timer e sem segurar nada."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Etapa Íntima · 1 (2)",
+      "durationSec": 60,
+      "tags": [
+        "eye_contact",
+        "deep_talk"
+      ],
+      "instruction": "«Espere antes de beijar…» Sob uma luz morna, mantenha o olhar a 5 cm por 60 s trocando confissões tímidas."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Etapa Íntima · 2 (2)",
+      "durationSec": 60,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "instruction": "«Me dê suas mãos…» Deslize os polegares pelas palmas e suba com beijos lentos pelo pulso e antebraço (60 s)."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Etapa Íntima · 3 (2)",
+      "durationSec": 75,
+      "tags": [
+        "physical_light",
+        "bite_lick"
+      ],
+      "instruction": "«Aqui te dá arrepio…» Sopre ar morno atrás da orelha alternando beijos leves e mordidinhas tímidas pelo pescoço (75 s)."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Etapa Íntima · 4 (2)",
+      "durationSec": 75,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ],
+      "instruction": "«Deixa eu ajudar com isso…» Desabotoe ou afaste a gola devagar enquanto suas palmas deslizam pela clavícula e costas (75 s)."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Etapa Íntima · 5 (2)",
+      "durationSec": 90,
+      "tags": [
+        "bite_lick",
+        "eye_contact"
+      ],
+      "instruction": "«Sem se segurar agora…» Puxe bem colado e suba da clavícula até os lábios num beijo demorado e sem fôlego (90 s)."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Etapa Íntima · 1 (3)",
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "deep_talk"
+      ],
+      "instruction": "«Feche os olhos para mim…» Coloque uma venda macia e sussurre no ouvido uma promessa doce que passe segurança (60 s)."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Etapa Íntima · 2 (3)",
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ],
+      "instruction": "«Adivinhe onde estou…» Desenhe sobrancelha, nariz, canto da boca, clavícula e pulso com uma única ponta de dedo leve (60 s)."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Etapa Íntima · 3 (3)",
+      "durationSec": 75,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "instruction": "«Pronto? Não fuja…» Alterne uma brisa fria ou dedos frescos com beijos quentes e macios ao longo do pescoço (75 s)."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Etapa Íntima · 4 (3)",
+      "durationSec": 75,
+      "tags": [
+        "blindfold",
+        "restraint_light"
+      ],
+      "instruction": "«Deixe eu segurar seus pulsos…» Apoie suas mãos de lado com carinho e pare a 1 cm dos lábios três vezes antes de beijar (75 s)."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Etapa Íntima · 5 (3)",
+      "durationSec": 90,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ],
+      "instruction": "«Abra os olhos e olhe para mim…» Tire a venda, segure seu rosto corado e dê o beijo mais profundo da noite (90 s)."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Fase 1 · Chegar Perto (um monte de almofadas macias)",
+      "durationSec": 65,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em um monte de almofadas macias, desacelere com deixa os lábios a 1 cm entre pausas, faça acaricie devagar em o antebraço interno e sussurre sobre um pensamento safado que teve sobre ele hoje."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Fase 1 · Chegar Perto (atrás das cortinas leves)",
+      "durationSec": 65,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em atrás das cortinas leves, desacelere com sussurrando seu apelido baixinho, faça deixe beijos de pluma em em atrás da orelha e sussurre sobre um pensamento tímido quando damos as mãos."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Fase 1 · Chegar Perto (diante da penteadeira)",
+      "durationSec": 65,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em diante da penteadeira, desacelere com segurando um sorriso cúmplice, faça massageie com carinho em a ponta do queixo e sussurre sobre como quer ser tocado(a) no escuro."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Fase 1 · Chegar Perto (a parede do quarto)",
+      "durationSec": 65,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em a parede do quarto, desacelere com fica em silêncio absoluto, faça sopre ar morno bem devagar em em a clavícula e sussurre sobre qual ponto exato quer beijar agora."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Fase 1 · Chegar Perto (a beira da cama)",
+      "durationSec": 65,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em a beira da cama, desacelere com deixa os lábios a 1 cm entre pausas, faça sopre ar quente sobre em os dedos e polegar e sussurre sobre seu detalhe favorito do meu beijo."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Fase 1 · Chegar Perto (a frente do espelho)",
+      "durationSec": 65,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em a frente do espelho, desacelere com sussurrando seu apelido baixinho, faça deslize suas palmas mornas por em o pescoço e sussurre sobre em que segundo exato você perdeu a calma hoje."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Fase 1 · Chegar Perto (o canto do sofá)",
+      "durationSec": 65,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em o canto do sofá, desacelere com segurando um sorriso cúmplice, faça roce suavemente o nariz em em a têmpora e testa e sussurre sobre uma fantasia secreta para antes do sol nascer."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Fase 1 · Chegar Perto (a bancada da cozinha)",
+      "durationSec": 65,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em a bancada da cozinha, desacelere com fica em silêncio absoluto, faça deixe beijos lentos em em o canto dos lábios e sussurre sobre o primeiro elogio que pensa ao me olhar."
+    },
+    {
+      "step": 1,
+      "stageTitle": "Fase 1 · Chegar Perto (o batente da porta na meia-luz)",
+      "durationSec": 65,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em o batente da porta na meia-luz, desacelere com deixa os lábios a 1 cm entre pausas, faça faça círculos mornos com os dedos em em os ombros e costas e sussurre sobre um detalhe meu que ainda te faz corar."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Fase 2 · Calor Subindo (a curva da orelha)",
+      "durationSec": 75,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em a ponta da cama, use um se quiser leve de dedos e um beijo terno indo de atrás da orelha até a curva da orelha sob 'alterne toques de pena com pegada firme'."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Fase 2 · Calor Subindo (o pulso interno)",
+      "durationSec": 75,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em a entrada na meia-luz, use ar morno seguido na hora de lábios macios indo de as costelas até o pulso interno sob 'sussurre o nome dele antes de cada nova zona'."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Fase 2 · Calor Subindo (a palma e os dedos)",
+      "durationSec": 75,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em diante do espelho do closet, use mordidinha provocante acalmada logo pela o calor do hálito lenta indo de a base da garganta até a palma e os dedos sob 'alterne toques de pena com pegada firme'."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Fase 2 · Calor Subindo (o antebraço interno)",
+      "durationSec": 75,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em um monte de almofadas macias, use cócegas na palma seguidas de dedos entrelaçados indo de a lombar até o antebraço interno sob 'sussurre o nome dele antes de cada nova zona'."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Fase 2 · Calor Subindo (atrás da orelha)",
+      "durationSec": 75,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em atrás das cortinas leves, use ar fresco seguido na hora por beijos úmidos e quentes indo de a clavícula até atrás da orelha sob 'alterne toques de pena com pegada firme'."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Fase 2 · Calor Subindo (a ponta do queixo)",
+      "durationSec": 75,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em diante da penteadeira, use dois tapas leves seguidos de beijos longos e profundos indo de o pulso interno até a ponta do queixo sob 'sussurre o nome dele antes de cada nova zona'."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Fase 2 · Calor Subindo (a clavícula)",
+      "durationSec": 75,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em a parede do quarto, use dedos no cabelo puxando para perto indo de os ombros até a clavícula sob 'alterne toques de pena com pegada firme'."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Fase 2 · Calor Subindo (os dedos e polegar)",
+      "durationSec": 75,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em a beira da cama, use palmas mornas deslizando até um puxão colado indo de a nuca até os dedos e polegar sob 'sussurre o nome dele antes de cada nova zona'."
+    },
+    {
+      "step": 2,
+      "stageTitle": "Fase 2 · Calor Subindo (o pescoço)",
+      "durationSec": 75,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "instruction": "Em a frente do espelho, use palmas mornas sobre a roupa deslizando para a pele indo de atrás da orelha até o pescoço sob 'alterne toques de pena com pegada firme'."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Fase 3 · Provocação Funda (a coluna)",
+      "durationSec": 85,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "instruction": "Sussurre check-in numa suíte de luxo com nomes falsos em ao lado da cama sob luz baixa, alternando sopro quente e deixe beijos abertos e ardentes em em a coluna."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Fase 3 · Provocação Funda (a nuca)",
+      "durationSec": 85,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "instruction": "Sussurre check-in numa suíte de luxo com nomes falsos em o canto da janela com abajur, alternando sopro quente e cubra de beijos quentes em a nuca."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Fase 3 · Provocação Funda (o pescoço)",
+      "durationSec": 85,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "instruction": "Sussurre check-in numa suíte de luxo com nomes falsos em o braço do sofá, alternando sopro quente e faça trilhas úmidas o calor do hálito em o pescoço."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Fase 3 · Provocação Funda (a parte interna da coxa)",
+      "durationSec": 85,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "instruction": "Sussurre check-in numa suíte de luxo com nomes falsos em a ponta da cama, alternando sopro quente e mordisque suavemente em a parte interna da coxa."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Fase 3 · Provocação Funda (a linha do quadril)",
+      "durationSec": 85,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "instruction": "Sussurre check-in numa suíte de luxo com nomes falsos em a entrada na meia-luz, alternando sopro quente e provoque com lábios e dedos em a linha do quadril."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Fase 3 · Provocação Funda (o lóbulo da orelha)",
+      "durationSec": 85,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "instruction": "Sussurre check-in numa suíte de luxo com nomes falsos em diante do espelho do closet, alternando sopro quente e morda suave e acalme com beijos em o lóbulo da orelha."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Fase 3 · Provocação Funda (a cintura)",
+      "durationSec": 85,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "instruction": "Sussurre check-in numa suíte de luxo com nomes falsos em um monte de almofadas macias, alternando sopro quente e lamba bem devagar em a cintura."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Fase 3 · Provocação Funda (o baixo ventre)",
+      "durationSec": 85,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "instruction": "Sussurre check-in numa suíte de luxo com nomes falsos em atrás das cortinas leves, alternando sopro quente e sugue de leve e pode beijar em o baixo ventre."
+    },
+    {
+      "step": 3,
+      "stageTitle": "Fase 3 · Provocação Funda (o peito e costelas)",
+      "durationSec": 85,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "instruction": "Sussurre check-in numa suíte de luxo com nomes falsos em diante da penteadeira, alternando sopro quente e deixe beijos abertos e ardentes em em o peito e costelas."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Fase 4 · Domínio Suave (dois botões da camisa)",
+      "durationSec": 95,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Em a bancada da cozinha, use Encoste-o suavemente na parede pelos quadris, afaste dois botões da camisa com uma mão só sem desviar o olhar e pode beijar de a base da garganta até o fim da coluna."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Fase 4 · Domínio Suave (uma alça ou peça externa)",
+      "durationSec": 95,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Em o batente da porta na meia-luz, use Segure as mãos dele atrás das costas, afaste uma alça ou peça externa com apenas seus lábios e dentes e pode beijar de a lombar até a curva da cintura."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Fase 4 · Domínio Suave (um acessório mais uma camada)",
+      "durationSec": 95,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Em o tapete à luz de velas, use Prenda os dois pulsos acima da cabeça com uma mão, afaste um acessório mais uma camada com a ponta dos dedos em câmera ultra lenta e pode beijar de a clavícula até o baixo ventre."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Fase 4 · Domínio Suave (um zíper ou cós da cintura)",
+      "durationSec": 95,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Em ao lado da cama sob luz baixa, use Erga o queixo dele de leve para que só olhe para você, afaste um zíper ou cós da cintura com as costas dos dedos primeiro e depois a boca e pode beijar de o pulso interno até o contorno do quadril."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Fase 4 · Domínio Suave (a barra da blusa)",
+      "durationSec": 95,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Em o canto da janela com abajur, use Entrelace os dedos dele atrás da nuca sem defesa, afaste a barra da blusa com guiando a própria mão do seu par e pode beijar de os ombros até a parte interna da coxa."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Fase 4 · Domínio Suave (uma peça de roupa à sua escolha)",
+      "durationSec": 95,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Em o braço do sofá, use Mantenha as mãos dele coladas na cabeceira, afaste uma peça de roupa à sua escolha com apenas sopro quente e lábios e pode beijar de a nuca até logo abaixo da clavícula."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Fase 4 · Domínio Suave (dois botões da camisa) · Ato II",
+      "durationSec": 95,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Em a ponta da cama, use Encoste-o suavemente na parede pelos quadris, afaste dois botões da camisa com uma mão só sem desviar o olhar e pode beijar de atrás da orelha até o peito e costelas."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Fase 4 · Domínio Suave (uma alça ou peça externa) · Lento",
+      "durationSec": 95,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Em a entrada na meia-luz, use Segure as mãos dele atrás das costas, afaste uma alça ou peça externa com apenas seus lábios e dentes e pode beijar de as costelas até a linha do quadril."
+    },
+    {
+      "step": 4,
+      "stageTitle": "Fase 4 · Domínio Suave (um acessório mais uma camada) · Sem Pressa",
+      "durationSec": 95,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Em diante do espelho do closet, use Prenda os dois pulsos acima da cabeça com uma mão, afaste um acessório mais uma camada com a ponta dos dedos em câmera ultra lenta e pode beijar de a base da garganta até o fim da coluna."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Fase 5 · Ápice Noturno (logo abaixo da clavícula)",
+      "durationSec": 105,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Soltem-se de vez em a beira da cama com 'encostado(a) na parede do quarto', focando faça trilhas úmidas o calor do hálito em logo abaixo da clavícula enquanto confessa seu desejo."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Fase 5 · Ápice Noturno (o peito e costelas)",
+      "durationSec": 105,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Soltem-se de vez em a frente do espelho com 'sentado(a) no seu colo de frente', focando mordisque suavemente em o peito e costelas enquanto confessa seu desejo."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Fase 5 · Ápice Noturno (a linha do quadril)",
+      "durationSec": 105,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Soltem-se de vez em o canto do sofá com 'arqueado(a) de leve sobre um travesseiro', focando provoque com lábios e dedos em a linha do quadril enquanto confessa seu desejo."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Fase 5 · Ápice Noturno (o fim da coluna)",
+      "durationSec": 105,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Soltem-se de vez em a bancada da cozinha com 'deitado(a) vendado(a) em entrega total', focando morda suave e acalme com beijos em o fim da coluna enquanto confessa seu desejo."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Fase 5 · Ápice Noturno (a curva da cintura)",
+      "durationSec": 105,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Soltem-se de vez em o batente da porta na meia-luz com 'deitado(a) na beira da cama', focando lamba bem devagar em a curva da cintura enquanto confessa seu desejo."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Fase 5 · Ápice Noturno (o baixo ventre)",
+      "durationSec": 105,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Soltem-se de vez em o tapete à luz de velas com 'de pé colados diante do espelho', focando sugue de leve e pode beijar em o baixo ventre enquanto confessa seu desejo."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Fase 5 · Ápice Noturno (o contorno do quadril)",
+      "durationSec": 105,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Soltem-se de vez em ao lado da cama sob luz baixa com 'de joelhos frente a frente na cama', focando deixe beijos abertos e ardentes em em o contorno do quadril enquanto confessa seu desejo."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Fase 5 · Ápice Noturno (a parte interna da coxa)",
+      "durationSec": 105,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Soltem-se de vez em o canto da janela com abajur com 'encostado(a) na parede do quarto', focando cubra de beijos quentes em a parte interna da coxa enquanto confessa seu desejo."
+    },
+    {
+      "step": 5,
+      "stageTitle": "Fase 5 · Ápice Noturno (logo abaixo da clavícula) · Final II",
+      "durationSec": 105,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "instruction": "Soltem-se de vez em o braço do sofá com 'sentado(a) no seu colo de frente', focando faça trilhas úmidas o calor do hálito em logo abaixo da clavícula enquanto confessa seu desejo."
+    }
+  ],
+  "propChallenges": [
+    {
+      "id": "pr_ice_1",
+      "propKey": "ice",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Segure um cubo de gelo nos lábios ou dedos e deslize pelo pescoço e clavícula — aquecendo logo atrás com beijos ardentes."
+    },
+    {
+      "id": "pr_ice_2",
+      "propKey": "ice",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Contorne cintura e baixo ventre com gelo até arrancar um suspiro, depois aqueça cada gota com o calor do hálito e lábios."
+    },
+    {
+      "id": "pr_blind_1",
+      "propKey": "blindfold",
+      "tier": 3,
+      "durationSec": 60,
+      "tags": [
+        "blindfold"
+      ],
+      "text": "Vende os olhos do seu par por 60s. Sussurre de direções aleatórias antes de dar beijos surpresa no pescoço, lábios e cintura."
+    },
+    {
+      "id": "pr_blind_2",
+      "propKey": "blindfold",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "text": "Jogo vendado: pode beijar, lamba e mordisque 4 zonas diferentes — seu par deve sussurrar em qual quer que você continue."
+    },
+    {
+      "id": "pr_oil_1",
+      "propKey": "oil",
+      "tier": 2,
+      "durationSec": 60,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Aqueça óleo ou loção nas palmas e massageie lombar, quadris e coxas com movimentos profundos e lentos por 60s."
+    },
+    {
+      "id": "pr_oil_2",
+      "propKey": "oil",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ],
+      "text": "Deslize pele na pele: passe óleo morno no peito, barriga e coxas usando o contato do corpo, não apenas as mãos."
+    },
+    {
+      "id": "pr_tie_1",
+      "propKey": "tie",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Enrole frouxamente uma gravata ou fita nos pulsos acima da cabeça (fácil de soltar) e provoque lábios, pescoço e costelas por 60s."
+    },
+    {
+      "id": "pr_tie_2",
+      "propKey": "tie",
+      "tier": 4,
+      "durationSec": 20,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Envolva suavemente a cintura ou pescoço com uma gravata de seda, puxe para perto e tome um beijo lento e terno de 20s."
+    },
+    {
+      "id": "pr_honey_1",
+      "propKey": "honey",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "alcohol"
+      ],
+      "text": "Pingue mel, chocolate ou drink na clavícula e baixo ventre — lamba cada gota até limpar tudo."
+    },
+    {
+      "id": "pr_honey_2",
+      "propKey": "honey",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "alcohol"
+      ],
+      "text": "Tome um golinho da sua bebida, cole os lábios e passe o sabor em um beijo lento e intenso."
+    },
+    {
+      "id": "pr_mirror_1",
+      "propKey": "mirror",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "text": "Atrás do seu par diante do espelho: deslize as mãos por baixo da blusa e pode beijar o pescoço fazendo-o assistir no vidro."
+    },
+    {
+      "id": "pr_mirror_2",
+      "propKey": "mirror",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Tirar no espelho: retire bem devagar uma peça por trás mantendo os olhos presos no reflexo."
+    },
+    {
+      "id": "pr_feather_1",
+      "propKey": "feather",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Seu par fecha os olhos enquanto você passa uma pena ou pincel macio nos pulsos, nuca, cintura e coxas por 45s."
+    },
+    {
+      "id": "pr_feather_2",
+      "propKey": "feather",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ],
+      "text": "Alterne toques leves de pena com beijos quentes súbitos nos mesmos pontos para manter o suspense total."
+    },
+    {
+      "id": "pr_v2_ice_1",
+      "propKey": "ice",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [ice #1] (40s)"
+    },
+    {
+      "id": "pr_v2_ice_2",
+      "propKey": "ice",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [ice #2] (45s)"
+    },
+    {
+      "id": "pr_v2_bf_1",
+      "propKey": "blindfold",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "blindfold"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [blindfold #3] (45s)"
+    },
+    {
+      "id": "pr_v2_bf_2",
+      "propKey": "blindfold",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [blindfold #4] (50s)"
+    },
+    {
+      "id": "pr_v2_oil_1",
+      "propKey": "oil",
+      "tier": 2,
+      "durationSec": 50,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [oil #5] (50s)"
+    },
+    {
+      "id": "pr_v2_oil_2",
+      "propKey": "oil",
+      "tier": 3,
+      "durationSec": 55,
+      "tags": [
+        "physical_light",
+        "clothing_dare"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [oil #6] (55s)"
+    },
+    {
+      "id": "pr_v2_tie_1",
+      "propKey": "tie",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [tie #7] (45s)"
+    },
+    {
+      "id": "pr_v2_tie_2",
+      "propKey": "tie",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "restraint_light",
+        "eye_contact"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [tie #8] (50s)"
+    },
+    {
+      "id": "pr_v2_hon_1",
+      "propKey": "honey",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [honey #9] (40s)"
+    },
+    {
+      "id": "pr_v2_hon_2",
+      "propKey": "honey",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "alcohol"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [honey #10] (45s)"
+    },
+    {
+      "id": "pr_v2_mir_1",
+      "propKey": "mirror",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "eye_contact"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [mirror #11] (40s)"
+    },
+    {
+      "id": "pr_v2_mir_2",
+      "propKey": "mirror",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "eye_contact",
+        "clothing_dare"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [mirror #12] (50s)"
+    },
+    {
+      "id": "pr_v2_fea_1",
+      "propKey": "feather",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [feather #13] (45s)"
+    },
+    {
+      "id": "pr_v2_fea_2",
+      "propKey": "feather",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ],
+      "text": "«Pronto(a)?» Combine esse item com beijos ardentes e pausas provocantes. [feather #14] (50s)"
+    },
+    {
+      "id": "pr_v21_ice_t1_01",
+      "propKey": "ice",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Encoste gelo suave em o antebraço interno e aqueça a pele na hora com cócegas na palma seguidas de dedos entrelaçados (30s)."
+    },
+    {
+      "id": "pr_v21_ice_t1_02",
+      "propKey": "ice",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Encoste gelo suave em atrás da orelha e aqueça a pele na hora com ar fresco seguido na hora por beijos úmidos e quentes (30s)."
+    },
+    {
+      "id": "pr_v21_ice_t1_03",
+      "propKey": "ice",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Encoste gelo suave em a ponta do queixo e aqueça a pele na hora com dois tapas leves seguidos de beijos longos e profundos (30s)."
+    },
+    {
+      "id": "pr_v21_ice_t1_04",
+      "propKey": "ice",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Encoste gelo suave em a clavícula e aqueça a pele na hora com dedos no cabelo puxando para perto (30s)."
+    },
+    {
+      "id": "pr_v21_ice_t2_01",
+      "propKey": "ice",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Encoste gelo suave em a curva da orelha e aqueça a pele na hora com ar fresco seguido na hora por beijos úmidos e quentes (35s)."
+    },
+    {
+      "id": "pr_v21_ice_t2_02",
+      "propKey": "ice",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Encoste gelo suave em o pulso interno e aqueça a pele na hora com dois tapas leves seguidos de beijos longos e profundos (35s)."
+    },
+    {
+      "id": "pr_v21_ice_t2_03",
+      "propKey": "ice",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Encoste gelo suave em a palma e os dedos e aqueça a pele na hora com dedos no cabelo puxando para perto (35s)."
+    },
+    {
+      "id": "pr_v21_ice_t2_04",
+      "propKey": "ice",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Encoste gelo suave em o antebraço interno e aqueça a pele na hora com palmas mornas deslizando até um puxão colado (35s)."
+    },
+    {
+      "id": "pr_v21_ice_t3_01",
+      "propKey": "ice",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Deslize um gelo derretendo de o pulso interno até o contorno do quadril, seguindo cada rastro frio com deixe beijos abertos e ardentes em (45s)."
+    },
+    {
+      "id": "pr_v21_ice_t3_02",
+      "propKey": "ice",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Deslize um gelo derretendo de os ombros até a parte interna da coxa, seguindo cada rastro frio com cubra de beijos quentes (45s)."
+    },
+    {
+      "id": "pr_v21_ice_t4_01",
+      "propKey": "ice",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Deslize um gelo derretendo de a base da garganta até o fim da coluna, seguindo cada rastro frio com morda suave e acalme com beijos (50s)."
+    },
+    {
+      "id": "pr_v21_ice_t4_02",
+      "propKey": "ice",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Deslize um gelo derretendo de a lombar até a curva da cintura, seguindo cada rastro frio com lamba bem devagar (50s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t1_01",
+      "propKey": "blindfold",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "Vende seu par com calma em a frente do espelho, faça passe a ponta dos dedos em em o pescoço e sussurre sobre em que segundo exato você perdeu a calma hoje (30s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t1_02",
+      "propKey": "blindfold",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "Vende seu par com calma em o canto do sofá, faça roce timidamente os lábios em em a têmpora e testa e sussurre sobre uma fantasia secreta para antes do sol nascer (30s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t1_03",
+      "propKey": "blindfold",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "Vende seu par com calma em a bancada da cozinha, faça roce devagar os lábios em em o canto dos lábios e sussurre sobre o primeiro elogio que pensa ao me olhar (30s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t1_04",
+      "propKey": "blindfold",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "Vende seu par com calma em o batente da porta na meia-luz, faça acaricie devagar em os ombros e costas e sussurre sobre um detalhe meu que ainda te faz corar (30s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t2_01",
+      "propKey": "blindfold",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "Vende seu par com calma em diante da penteadeira, faça roce timidamente os lábios em em a ponta do queixo e sussurre sobre como quer ser tocado(a) no escuro (35s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t2_02",
+      "propKey": "blindfold",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "Vende seu par com calma em a parede do quarto, faça roce devagar os lábios em em a clavícula e sussurre sobre qual ponto exato quer beijar agora (35s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t2_03",
+      "propKey": "blindfold",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "Vende seu par com calma em a beira da cama, faça acaricie devagar em os dedos e polegar e sussurre sobre seu detalhe favorito do meu beijo (35s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t3_01",
+      "propKey": "blindfold",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "De olhos vendados em diante do espelho do closet, surpreenda a clavícula e o fim da coluna com dedos no cabelo puxando para perto, sob 'alterne toques de pena com pegada firme' (45s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t3_02",
+      "propKey": "blindfold",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "De olhos vendados em um monte de almofadas macias, surpreenda a coluna e a curva da cintura com palmas mornas deslizando até um puxão colado, sob 'sussurre o nome dele antes de cada nova zona' (45s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t4_01",
+      "propKey": "blindfold",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "De olhos vendados em o braço do sofá, surpreenda o pescoço e logo abaixo da clavícula com palmas mornas deslizando até um puxão colado, sob 'sussurre o nome dele antes de cada nova zona' (50s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t4_02",
+      "propKey": "blindfold",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "De olhos vendados em a ponta da cama, surpreenda a parte interna da coxa e o peito e costelas com palmas mornas sobre a roupa deslizando para a pele, sob 'alterne toques de pena com pegada firme' (50s)."
+    },
+    {
+      "id": "pr_v21_blindfold_t4_03",
+      "propKey": "blindfold",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "blindfold",
+        "indoor"
+      ],
+      "text": "De olhos vendados em a entrada na meia-luz, surpreenda a linha do quadril e a linha do quadril com pegada firme no quadril seguida de dedos como pena, sob 'sussurre o nome dele antes de cada nova zona' (50s)."
+    },
+    {
+      "id": "pr_v21_oil_t1_01",
+      "propKey": "oil",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Aqueça óleo nas palmas, mantenha segurando um sorriso cúmplice e faça roce timidamente os lábios em em o rosto e maxilar (30s)."
+    },
+    {
+      "id": "pr_v21_oil_t1_02",
+      "propKey": "oil",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Aqueça óleo nas palmas, mantenha fica em silêncio absoluto e faça roce devagar os lábios em em a ponta da clavícula (30s)."
+    },
+    {
+      "id": "pr_v21_oil_t1_03",
+      "propKey": "oil",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Aqueça óleo nas palmas, mantenha deixa os lábios a 1 cm entre pausas e faça acaricie devagar em o ombro (30s)."
+    },
+    {
+      "id": "pr_v21_oil_t1_04",
+      "propKey": "oil",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Aqueça óleo nas palmas, mantenha sussurrando seu apelido baixinho e faça deixe beijos de pluma em em a curva da orelha (30s)."
+    },
+    {
+      "id": "pr_v21_oil_t2_01",
+      "propKey": "oil",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Aqueça óleo nas palmas, mantenha fica em silêncio absoluto e faça roce devagar os lábios em em o canto dos lábios (35s)."
+    },
+    {
+      "id": "pr_v21_oil_t2_02",
+      "propKey": "oil",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Aqueça óleo nas palmas, mantenha deixa os lábios a 1 cm entre pausas e faça acaricie devagar em os ombros e costas (35s)."
+    },
+    {
+      "id": "pr_v21_oil_t3_01",
+      "propKey": "oil",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Com óleo morno, deslize de a nuca por a cintura até logo abaixo da clavícula, seguindo 'sussurre o nome dele antes de cada nova zona' (45s)."
+    },
+    {
+      "id": "pr_v21_oil_t3_02",
+      "propKey": "oil",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Com óleo morno, deslize de atrás da orelha por o baixo ventre até o peito e costelas, seguindo 'alterne toques de pena com pegada firme' (45s)."
+    },
+    {
+      "id": "pr_v21_oil_t3_03",
+      "propKey": "oil",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Com óleo morno, deslize de as costelas por o peito e costelas até a linha do quadril, seguindo 'sussurre o nome dele antes de cada nova zona' (45s)."
+    },
+    {
+      "id": "pr_v21_oil_t4_01",
+      "propKey": "oil",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Com óleo morno, deslize de a clavícula por a clavícula até o baixo ventre, seguindo 'alterne toques de pena com pegada firme' (50s)."
+    },
+    {
+      "id": "pr_v21_oil_t4_02",
+      "propKey": "oil",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Com óleo morno, deslize de o pulso interno por a coluna até o contorno do quadril, seguindo 'sussurre o nome dele antes de cada nova zona' (50s)."
+    },
+    {
+      "id": "pr_v21_oil_t4_03",
+      "propKey": "oil",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Com óleo morno, deslize de os ombros por a nuca até a parte interna da coxa, seguindo 'alterne toques de pena com pegada firme' (50s)."
+    },
+    {
+      "id": "pr_v21_tie_t1_01",
+      "propKey": "tie",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Enlace leve o pulso com lenço de seda rumo a diante do espelho do closet para beijos lentos em a palma e os dedos (30s)."
+    },
+    {
+      "id": "pr_v21_tie_t1_02",
+      "propKey": "tie",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Enlace leve o pulso com lenço de seda rumo a um monte de almofadas macias para beijos lentos em o antebraço interno (30s)."
+    },
+    {
+      "id": "pr_v21_tie_t1_03",
+      "propKey": "tie",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Enlace leve o pulso com lenço de seda rumo a atrás das cortinas leves para beijos lentos em atrás da orelha (30s)."
+    },
+    {
+      "id": "pr_v21_tie_t1_04",
+      "propKey": "tie",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Enlace leve o pulso com lenço de seda rumo a diante da penteadeira para beijos lentos em a ponta do queixo (30s)."
+    },
+    {
+      "id": "pr_v21_tie_t2_01",
+      "propKey": "tie",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Enlace leve o pulso com lenço de seda rumo a o braço do sofá para beijos lentos em o ombro (35s)."
+    },
+    {
+      "id": "pr_v21_tie_t2_02",
+      "propKey": "tie",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Enlace leve o pulso com lenço de seda rumo a a ponta da cama para beijos lentos em a curva da orelha (35s)."
+    },
+    {
+      "id": "pr_v21_tie_t2_03",
+      "propKey": "tie",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Enlace leve o pulso com lenço de seda rumo a a entrada na meia-luz para beijos lentos em o pulso interno (35s)."
+    },
+    {
+      "id": "pr_v21_tie_t2_04",
+      "propKey": "tie",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Enlace leve o pulso com lenço de seda rumo a diante do espelho do closet para beijos lentos em a palma e os dedos (35s)."
+    },
+    {
+      "id": "pr_v21_tie_t3_01",
+      "propKey": "tie",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "text": "Use gravata de seda com Entrelace os dedos dele atrás da nuca sem defesa e abuse de sugue de leve e pode beijar em a parte interna da coxa e o baixo ventre (45s)."
+    },
+    {
+      "id": "pr_v21_tie_t3_02",
+      "propKey": "tie",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "text": "Use gravata de seda com Mantenha as mãos dele coladas na cabeceira e abuse de deixe beijos abertos e ardentes em em a linha do quadril e o contorno do quadril (45s)."
+    },
+    {
+      "id": "pr_v21_tie_t3_03",
+      "propKey": "tie",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "text": "Use gravata de seda com Encoste-o suavemente na parede pelos quadris e abuse de cubra de beijos quentes em o lóbulo da orelha e a parte interna da coxa (45s)."
+    },
+    {
+      "id": "pr_v21_tie_t4_01",
+      "propKey": "tie",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "text": "Use gravata de seda com Mantenha as mãos dele coladas na cabeceira e abuse de provoque com lábios e dedos em a cintura e a linha do quadril (50s)."
+    },
+    {
+      "id": "pr_v21_honey_t1_01",
+      "propKey": "honey",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "text": "Pingue uma gotinha de mel no pulso ou os dedos e polegar, mantendo deixa os lábios a 1 cm entre pausas enquanto beija devagar (30s)."
+    },
+    {
+      "id": "pr_v21_honey_t1_02",
+      "propKey": "honey",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "text": "Pingue uma gotinha de mel no pulso ou o pescoço, mantendo sussurrando seu apelido baixinho enquanto beija devagar (30s)."
+    },
+    {
+      "id": "pr_v21_honey_t1_03",
+      "propKey": "honey",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "text": "Pingue uma gotinha de mel no pulso ou a têmpora e testa, mantendo segurando um sorriso cúmplice enquanto beija devagar (30s)."
+    },
+    {
+      "id": "pr_v21_honey_t1_04",
+      "propKey": "honey",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "text": "Pingue uma gotinha de mel no pulso ou o canto dos lábios, mantendo fica em silêncio absoluto enquanto beija devagar (30s)."
+    },
+    {
+      "id": "pr_v21_honey_t2_01",
+      "propKey": "honey",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "text": "Pingue uma gotinha de mel no pulso ou atrás da orelha, mantendo sussurrando seu apelido baixinho enquanto beija devagar (35s)."
+    },
+    {
+      "id": "pr_v21_honey_t2_02",
+      "propKey": "honey",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "text": "Pingue uma gotinha de mel no pulso ou a ponta do queixo, mantendo segurando um sorriso cúmplice enquanto beija devagar (35s)."
+    },
+    {
+      "id": "pr_v21_honey_t2_03",
+      "propKey": "honey",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "text": "Pingue uma gotinha de mel no pulso ou a clavícula, mantendo fica em silêncio absoluto enquanto beija devagar (35s)."
+    },
+    {
+      "id": "pr_v21_honey_t3_01",
+      "propKey": "honey",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Deixe uma gota doce em a coluna e a linha do quadril, saboreando tudo sem pressa com os lábios (45s)."
+    },
+    {
+      "id": "pr_v21_honey_t3_02",
+      "propKey": "honey",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Deixe uma gota doce em a nuca e o fim da coluna, saboreando tudo sem pressa com os lábios (45s)."
+    },
+    {
+      "id": "pr_v21_honey_t4_01",
+      "propKey": "honey",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Deixe uma gota doce em a parte interna da coxa e a parte interna da coxa, saboreando tudo sem pressa com os lábios (50s)."
+    },
+    {
+      "id": "pr_v21_honey_t4_02",
+      "propKey": "honey",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Deixe uma gota doce em a linha do quadril e logo abaixo da clavícula, saboreando tudo sem pressa com os lábios (50s)."
+    },
+    {
+      "id": "pr_v21_honey_t4_03",
+      "propKey": "honey",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Deixe uma gota doce em o lóbulo da orelha e o peito e costelas, saboreando tudo sem pressa com os lábios (50s)."
+    },
+    {
+      "id": "pr_v21_mirror_t1_01",
+      "propKey": "mirror",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Lado a lado no espelho, olhe o reflexo fazendo deixe beijos de pluma em em a linha da nuca e falando de qual som dele te deixa fora de controle (30s)."
+    },
+    {
+      "id": "pr_v21_mirror_t1_02",
+      "propKey": "mirror",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Lado a lado no espelho, olhe o reflexo fazendo massageie com carinho em o rosto e maxilar e falando de o que mais deseja ao apagar a luz (30s)."
+    },
+    {
+      "id": "pr_v21_mirror_t1_03",
+      "propKey": "mirror",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Lado a lado no espelho, olhe o reflexo fazendo sopre ar morno bem devagar em em a ponta da clavícula e falando de qual carinho meu te derrete na hora (30s)."
+    },
+    {
+      "id": "pr_v21_mirror_t1_04",
+      "propKey": "mirror",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Lado a lado no espelho, olhe o reflexo fazendo sopre ar quente sobre em o ombro e falando de o lugar mais arriscado onde quer roubar um beijo (30s)."
+    },
+    {
+      "id": "pr_v21_mirror_t2_01",
+      "propKey": "mirror",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Lado a lado no espelho, olhe o reflexo fazendo massageie com carinho em a têmpora e testa e falando de uma fantasia secreta para antes do sol nascer (35s)."
+    },
+    {
+      "id": "pr_v21_mirror_t2_02",
+      "propKey": "mirror",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Lado a lado no espelho, olhe o reflexo fazendo sopre ar morno bem devagar em em o canto dos lábios e falando de o primeiro elogio que pensa ao me olhar (35s)."
+    },
+    {
+      "id": "pr_v21_mirror_t2_03",
+      "propKey": "mirror",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Lado a lado no espelho, olhe o reflexo fazendo sopre ar quente sobre em os ombros e costas e falando de um detalhe meu que ainda te faz corar (35s)."
+    },
+    {
+      "id": "pr_v21_mirror_t3_01",
+      "propKey": "mirror",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Abrace por trás diante do espelho, olho no olho no vidro, levando cubra de beijos quentes de os ombros até a parte interna da coxa (45s)."
+    },
+    {
+      "id": "pr_v21_mirror_t3_02",
+      "propKey": "mirror",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Abrace por trás diante do espelho, olho no olho no vidro, levando faça trilhas úmidas o calor do hálito de a nuca até logo abaixo da clavícula (45s)."
+    },
+    {
+      "id": "pr_v21_mirror_t4_01",
+      "propKey": "mirror",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Abrace por trás diante do espelho, olho no olho no vidro, levando lamba bem devagar de a lombar até a curva da cintura (50s)."
+    },
+    {
+      "id": "pr_v21_mirror_t4_02",
+      "propKey": "mirror",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Abrace por trás diante do espelho, olho no olho no vidro, levando sugue de leve e pode beijar de a clavícula até o baixo ventre (50s)."
+    },
+    {
+      "id": "pr_v21_mirror_t4_03",
+      "propKey": "mirror",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "text": "Abrace por trás diante do espelho, olho no olho no vidro, levando deixe beijos abertos e ardentes em de o pulso interno até o contorno do quadril (50s)."
+    },
+    {
+      "id": "pr_v21_feather_t1_01",
+      "propKey": "feather",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Passe uma pena macia em o pulso interno e acalme logo em seguida com pegada firme no quadril seguida de dedos como pena (30s)."
+    },
+    {
+      "id": "pr_v21_feather_t1_02",
+      "propKey": "feather",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Passe uma pena macia em a palma e os dedos e acalme logo em seguida com roce de nariz seguido de um beijo demorado (30s)."
+    },
+    {
+      "id": "pr_v21_feather_t1_03",
+      "propKey": "feather",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Passe uma pena macia em o antebraço interno e acalme logo em seguida com pausa a meio centímetro antes de beijar (30s)."
+    },
+    {
+      "id": "pr_v21_feather_t1_04",
+      "propKey": "feather",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Passe uma pena macia em atrás da orelha e acalme logo em seguida com um se quiser leve de dedos e um beijo terno (30s)."
+    },
+    {
+      "id": "pr_v21_feather_t2_01",
+      "propKey": "feather",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Passe uma pena macia em a ponta da clavícula e acalme logo em seguida com roce de nariz seguido de um beijo demorado (35s)."
+    },
+    {
+      "id": "pr_v21_feather_t2_02",
+      "propKey": "feather",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Passe uma pena macia em o ombro e acalme logo em seguida com pausa a meio centímetro antes de beijar (35s)."
+    },
+    {
+      "id": "pr_v21_feather_t3_01",
+      "propKey": "feather",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Use a pena de a lombar até a curva da cintura e mude de repente para lamba bem devagar em a linha do quadril (45s)."
+    },
+    {
+      "id": "pr_v21_feather_t3_02",
+      "propKey": "feather",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Use a pena de a clavícula até o baixo ventre e mude de repente para sugue de leve e pode beijar em o lóbulo da orelha (45s)."
+    },
+    {
+      "id": "pr_v21_feather_t3_03",
+      "propKey": "feather",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Use a pena de o pulso interno até o contorno do quadril e mude de repente para deixe beijos abertos e ardentes em em a cintura (45s)."
+    },
+    {
+      "id": "pr_v21_feather_t4_01",
+      "propKey": "feather",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Use a pena de atrás da orelha até o peito e costelas e mude de repente para mordisque suavemente em o baixo ventre (50s)."
+    },
+    {
+      "id": "pr_v21_feather_t4_02",
+      "propKey": "feather",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Use a pena de as costelas até a linha do quadril e mude de repente para provoque com lábios e dedos em o peito e costelas (50s)."
+    },
+    {
+      "id": "pr_v21_feather_t4_03",
+      "propKey": "feather",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "text": "Use a pena de a base da garganta até o fim da coluna e mude de repente para morda suave e acalme com beijos em a clavícula (50s)."
+    }
+  ],
+  "connect4Actions": [
+    {
+      "id": "c4_01",
+      "shortLabel": "Beijo Pescoço",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "fullDare": "Deixe 15 segundos de beijos quentes e lentos pelo pescoço do seu par."
+    },
+    {
+      "id": "c4_02",
+      "shortLabel": "beijo suave Orelha",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "fullDare": "Mordisque de leve o lóbulo e sussurre um desejo picante."
+    },
+    {
+      "id": "c4_03",
+      "shortLabel": "Tirar 1",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "fullDare": "Tire devagar uma peça de roupa ou acessório agora mesmo."
+    },
+    {
+      "id": "c4_04",
+      "shortLabel": "No Colo",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "fullDare": "Sente no colo de frente por 20s com as mãos atrás das costas."
+    },
+    {
+      "id": "c4_05",
+      "shortLabel": "Clavícula",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "fullDare": "Lamba e pode beijar devagar toda a clavícula por 20 segundos."
+    },
+    {
+      "id": "c4_06",
+      "shortLabel": "Tapa ×2",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "fullDare": "Receba dois tapas divertidos na força que seu par escolher."
+    },
+    {
+      "id": "c4_07",
+      "shortLabel": "Pulsos Presos",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "fullDare": "Pulsos presos acima da cabeça para 25s de provocação intensa."
+    },
+    {
+      "id": "c4_08",
+      "shortLabel": "Coxa Int.",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "fullDare": "Receba 25s de beijos lentos e sopro quente na parte interna da coxa."
+    },
+    {
+      "id": "c4_09",
+      "shortLabel": "Frase Hot",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ],
+      "fullDare": "Sussurre no ouvido a coisa mais ousada que quer fazer hoje."
+    },
+    {
+      "id": "c4_10",
+      "shortLabel": "Beijo 20s",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "fullDare": "Compartilhem um beijo lento e terno de 20s sem soltar antes."
+    },
+    {
+      "id": "c4_11",
+      "shortLabel": "Cintura",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "fullDare": "Levante a barra da blusa e dê mordidinhas e beijos na cintura (20s)."
+    },
+    {
+      "id": "c4_12",
+      "shortLabel": "Cegas 20s",
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ],
+      "fullDare": "Feche os olhos por 20s enquanto seu par beija 3 pontos secretos."
+    },
+    {
+      "id": "c4_v2_01",
+      "shortLabel": "Desafio Doce 1",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#1)"
+    },
+    {
+      "id": "c4_v2_02",
+      "shortLabel": "Desafio Doce 2",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#2)"
+    },
+    {
+      "id": "c4_v2_03",
+      "shortLabel": "Desafio Doce 3",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#3)"
+    },
+    {
+      "id": "c4_v2_04",
+      "shortLabel": "Desafio Doce 4",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#4)"
+    },
+    {
+      "id": "c4_v2_05",
+      "shortLabel": "Desafio Doce 5",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#5)"
+    },
+    {
+      "id": "c4_v2_06",
+      "shortLabel": "Desafio Doce 6",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#6)"
+    },
+    {
+      "id": "c4_v2_07",
+      "shortLabel": "Desafio Doce 7",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#7)"
+    },
+    {
+      "id": "c4_v2_08",
+      "shortLabel": "Desafio Doce 8",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#8)"
+    },
+    {
+      "id": "c4_v2_09",
+      "shortLabel": "Desafio Doce 9",
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#9)"
+    },
+    {
+      "id": "c4_v2_10",
+      "shortLabel": "Desafio Doce 10",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#10)"
+    },
+    {
+      "id": "c4_v2_11",
+      "shortLabel": "Desafio Doce 11",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#11)"
+    },
+    {
+      "id": "c4_v2_12",
+      "shortLabel": "Desafio Doce 12",
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#12)"
+    },
+    {
+      "id": "c4_v2_13",
+      "shortLabel": "Desafio Doce 13",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#13)"
+    },
+    {
+      "id": "c4_v2_14",
+      "shortLabel": "Desafio Doce 14",
+      "tier": 3,
+      "tags": [
+        "restraint_light"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#14)"
+    },
+    {
+      "id": "c4_v2_15",
+      "shortLabel": "Desafio Doce 15",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#15)"
+    },
+    {
+      "id": "c4_v2_16",
+      "shortLabel": "Desafio Doce 16",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#16)"
+    },
+    {
+      "id": "c4_v2_17",
+      "shortLabel": "Desafio Doce 17",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#17)"
+    },
+    {
+      "id": "c4_v2_18",
+      "shortLabel": "Desafio Doce 18",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "fullDare": "Deixe 20s de beijos lentos entre pescoço e lábios sem pressa. (#18)"
+    },
+    {
+      "id": "c4_v21_t1_01",
+      "shortLabel": "Pulso interno",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em a entrada na meia-luz com segurando um sorriso cúmplice, faça massageie com carinho em o pulso interno (20s)."
+    },
+    {
+      "id": "c4_v21_t1_02",
+      "shortLabel": "Os dedos",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em diante do espelho do closet com fica em silêncio absoluto, faça sopre ar morno bem devagar em em a palma e os dedos (20s)."
+    },
+    {
+      "id": "c4_v21_t1_03",
+      "shortLabel": "Antebraço interno",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em um monte de almofadas macias com deixa os lábios a 1 cm entre pausas, faça sopre ar quente sobre em o antebraço interno (20s)."
+    },
+    {
+      "id": "c4_v21_t1_04",
+      "shortLabel": "Trás da orelha",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em atrás das cortinas leves com sussurrando seu apelido baixinho, faça deslize suas palmas mornas por em atrás da orelha (20s)."
+    },
+    {
+      "id": "c4_v21_t1_05",
+      "shortLabel": "Ponta do queixo",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em diante da penteadeira com segurando um sorriso cúmplice, faça roce suavemente o nariz em em a ponta do queixo (20s)."
+    },
+    {
+      "id": "c4_v21_t1_06",
+      "shortLabel": "Clavícula",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em a parede do quarto com fica em silêncio absoluto, faça deixe beijos lentos em em a clavícula (20s)."
+    },
+    {
+      "id": "c4_v21_t1_07",
+      "shortLabel": "Dedos e polegar",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em a beira da cama com deixa os lábios a 1 cm entre pausas, faça faça círculos mornos com os dedos em em os dedos e polegar (20s)."
+    },
+    {
+      "id": "c4_v21_t1_08",
+      "shortLabel": "Pescoço",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em a frente do espelho com sussurrando seu apelido baixinho, faça passe a ponta dos dedos em em o pescoço (20s)."
+    },
+    {
+      "id": "c4_v21_t1_09",
+      "shortLabel": "Têmpora e testa",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em o canto do sofá com segurando um sorriso cúmplice, faça roce timidamente os lábios em em a têmpora e testa (20s)."
+    },
+    {
+      "id": "c4_v21_t1_10",
+      "shortLabel": "Dos lábios",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em a bancada da cozinha com fica em silêncio absoluto, faça roce devagar os lábios em em o canto dos lábios (20s)."
+    },
+    {
+      "id": "c4_v21_t1_11",
+      "shortLabel": "Ombros e costas",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em o batente da porta na meia-luz com deixa os lábios a 1 cm entre pausas, faça acaricie devagar em os ombros e costas (20s)."
+    },
+    {
+      "id": "c4_v21_t1_12",
+      "shortLabel": "Linha da nuca",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em o tapete à luz de velas com sussurrando seu apelido baixinho, faça deixe beijos de pluma em em a linha da nuca (20s)."
+    },
+    {
+      "id": "c4_v21_t1_13",
+      "shortLabel": "Rosto e maxilar",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em ao lado da cama sob luz baixa com segurando um sorriso cúmplice, faça massageie com carinho em o rosto e maxilar (20s)."
+    },
+    {
+      "id": "c4_v21_t1_14",
+      "shortLabel": "Ponta da clavícula",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em o canto da janela com abajur com fica em silêncio absoluto, faça sopre ar morno bem devagar em em a ponta da clavícula (20s)."
+    },
+    {
+      "id": "c4_v21_t1_15",
+      "shortLabel": "Ombro",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em o braço do sofá com deixa os lábios a 1 cm entre pausas, faça sopre ar quente sobre em o ombro (20s)."
+    },
+    {
+      "id": "c4_v21_t1_16",
+      "shortLabel": "Curva da orelha",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em a ponta da cama com sussurrando seu apelido baixinho, faça deslize suas palmas mornas por em a curva da orelha (20s)."
+    },
+    {
+      "id": "c4_v21_t1_17",
+      "shortLabel": "Pulso interno 2",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em a entrada na meia-luz com segurando um sorriso cúmplice, faça roce suavemente o nariz em em o pulso interno (20s)."
+    },
+    {
+      "id": "c4_v21_t1_18",
+      "shortLabel": "Os dedos 2",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em diante do espelho do closet com fica em silêncio absoluto, faça deixe beijos lentos em em a palma e os dedos (20s)."
+    },
+    {
+      "id": "c4_v21_t1_19",
+      "shortLabel": "Antebraço interno 2",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em um monte de almofadas macias com deixa os lábios a 1 cm entre pausas, faça faça círculos mornos com os dedos em em o antebraço interno (20s)."
+    },
+    {
+      "id": "c4_v21_t1_20",
+      "shortLabel": "Trás da orelha 2",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em atrás das cortinas leves com sussurrando seu apelido baixinho, faça passe a ponta dos dedos em em atrás da orelha (20s)."
+    },
+    {
+      "id": "c4_v21_t1_21",
+      "shortLabel": "Ponta do queixo 2",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em diante da penteadeira com segurando um sorriso cúmplice, faça roce timidamente os lábios em em a ponta do queixo (20s)."
+    },
+    {
+      "id": "c4_v21_t1_22",
+      "shortLabel": "Clavícula 2",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em a parede do quarto com fica em silêncio absoluto, faça roce devagar os lábios em em a clavícula (20s)."
+    },
+    {
+      "id": "c4_v21_t1_23",
+      "shortLabel": "Dedos e polegar 2",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em a beira da cama com deixa os lábios a 1 cm entre pausas, faça acaricie devagar em os dedos e polegar (20s)."
+    },
+    {
+      "id": "c4_v21_t1_24",
+      "shortLabel": "Pescoço 2",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em a frente do espelho com sussurrando seu apelido baixinho, faça deixe beijos de pluma em em o pescoço (20s)."
+    },
+    {
+      "id": "c4_v21_t1_25",
+      "shortLabel": "Têmpora e testa 2",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "fullDare": "Em o canto do sofá com segurando um sorriso cúmplice, faça massageie com carinho em a têmpora e testa (20s)."
+    },
+    {
+      "id": "c4_v21_t2_01",
+      "shortLabel": "Da nuca",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use ar fresco seguido na hora por beijos úmidos e quentes de a clavícula até a linha da nuca (25s)."
+    },
+    {
+      "id": "c4_v21_t2_02",
+      "shortLabel": "Rosto maxilar",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use dois tapas leves seguidos de beijos longos e profundos de o pulso interno até o rosto e maxilar (25s)."
+    },
+    {
+      "id": "c4_v21_t2_03",
+      "shortLabel": "Da clavícula",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use dedos no cabelo puxando para perto de os ombros até a ponta da clavícula (25s)."
+    },
+    {
+      "id": "c4_v21_t2_04",
+      "shortLabel": "O ombro",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use palmas mornas deslizando até um puxão colado de a nuca até o ombro (25s)."
+    },
+    {
+      "id": "c4_v21_t2_05",
+      "shortLabel": "Da orelha",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use palmas mornas sobre a roupa deslizando para a pele de atrás da orelha até a curva da orelha (25s)."
+    },
+    {
+      "id": "c4_v21_t2_06",
+      "shortLabel": "Pulso interno 3",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use pegada firme no quadril seguida de dedos como pena de as costelas até o pulso interno (25s)."
+    },
+    {
+      "id": "c4_v21_t2_07",
+      "shortLabel": "Os dedos 3",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use roce de nariz seguido de um beijo demorado de a base da garganta até a palma e os dedos (25s)."
+    },
+    {
+      "id": "c4_v21_t2_08",
+      "shortLabel": "Antebraço interno 3",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use pausa a meio centímetro antes de beijar de a lombar até o antebraço interno (25s)."
+    },
+    {
+      "id": "c4_v21_t2_09",
+      "shortLabel": "Da orelha 2",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use um se quiser leve de dedos e um beijo terno de a clavícula até atrás da orelha (25s)."
+    },
+    {
+      "id": "c4_v21_t2_10",
+      "shortLabel": "Do queixo",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use ar morno seguido na hora de lábios macios de o pulso interno até a ponta do queixo (25s)."
+    },
+    {
+      "id": "c4_v21_t2_11",
+      "shortLabel": "A clavícula",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use mordidinha provocante acalmada logo pela o calor do hálito lenta de os ombros até a clavícula (25s)."
+    },
+    {
+      "id": "c4_v21_t2_12",
+      "shortLabel": "Dedos polegar",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use cócegas na palma seguidas de dedos entrelaçados de a nuca até os dedos e polegar (25s)."
+    },
+    {
+      "id": "c4_v21_t2_13",
+      "shortLabel": "O pescoço",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use ar fresco seguido na hora por beijos úmidos e quentes de atrás da orelha até o pescoço (25s)."
+    },
+    {
+      "id": "c4_v21_t2_14",
+      "shortLabel": "Têmpora testa",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use dois tapas leves seguidos de beijos longos e profundos de as costelas até a têmpora e testa (25s)."
+    },
+    {
+      "id": "c4_v21_t2_15",
+      "shortLabel": "Dos lábios 2",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use dedos no cabelo puxando para perto de a base da garganta até o canto dos lábios (25s)."
+    },
+    {
+      "id": "c4_v21_t2_16",
+      "shortLabel": "Ombros costas",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use palmas mornas deslizando até um puxão colado de a lombar até os ombros e costas (25s)."
+    },
+    {
+      "id": "c4_v21_t2_17",
+      "shortLabel": "Da nuca 2",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use palmas mornas sobre a roupa deslizando para a pele de a clavícula até a linha da nuca (25s)."
+    },
+    {
+      "id": "c4_v21_t2_18",
+      "shortLabel": "Rosto maxilar 2",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use pegada firme no quadril seguida de dedos como pena de o pulso interno até o rosto e maxilar (25s)."
+    },
+    {
+      "id": "c4_v21_t2_19",
+      "shortLabel": "Da clavícula 2",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use roce de nariz seguido de um beijo demorado de os ombros até a ponta da clavícula (25s)."
+    },
+    {
+      "id": "c4_v21_t2_20",
+      "shortLabel": "O ombro 2",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use pausa a meio centímetro antes de beijar de a nuca até o ombro (25s)."
+    },
+    {
+      "id": "c4_v21_t2_21",
+      "shortLabel": "Da orelha 3",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use um se quiser leve de dedos e um beijo terno de atrás da orelha até a curva da orelha (25s)."
+    },
+    {
+      "id": "c4_v21_t2_22",
+      "shortLabel": "Pulso interno 4",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use ar morno seguido na hora de lábios macios de as costelas até o pulso interno (25s)."
+    },
+    {
+      "id": "c4_v21_t2_23",
+      "shortLabel": "Os dedos 4",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "fullDare": "Use mordidinha provocante acalmada logo pela o calor do hálito lenta de a base da garganta até a palma e os dedos (25s)."
+    },
+    {
+      "id": "c4_v21_t3_01",
+      "shortLabel": "Pescoço 3",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'sussurre o nome dele antes de cada nova zona' caprichando em faça trilhas úmidas o calor do hálito em o pescoço (30s)."
+    },
+    {
+      "id": "c4_v21_t3_02",
+      "shortLabel": "Da coxa",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'alterne toques de pena com pegada firme' caprichando em mordisque suavemente em a parte interna da coxa (30s)."
+    },
+    {
+      "id": "c4_v21_t3_03",
+      "shortLabel": "Linha do quadril",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'sussurre o nome dele antes de cada nova zona' caprichando em provoque com lábios e dedos em a linha do quadril (30s)."
+    },
+    {
+      "id": "c4_v21_t3_04",
+      "shortLabel": "Lóbulo da orelha",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'alterne toques de pena com pegada firme' caprichando em morda suave e acalme com beijos em o lóbulo da orelha (30s)."
+    },
+    {
+      "id": "c4_v21_t3_05",
+      "shortLabel": "Cintura",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'sussurre o nome dele antes de cada nova zona' caprichando em lamba bem devagar em a cintura (30s)."
+    },
+    {
+      "id": "c4_v21_t3_06",
+      "shortLabel": "Baixo ventre",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'alterne toques de pena com pegada firme' caprichando em sugue de leve e pode beijar em o baixo ventre (30s)."
+    },
+    {
+      "id": "c4_v21_t3_07",
+      "shortLabel": "Peito e costelas",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'sussurre o nome dele antes de cada nova zona' caprichando em deixe beijos abertos e ardentes em em o peito e costelas (30s)."
+    },
+    {
+      "id": "c4_v21_t3_08",
+      "shortLabel": "Clavícula 3",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'alterne toques de pena com pegada firme' caprichando em cubra de beijos quentes em a clavícula (30s)."
+    },
+    {
+      "id": "c4_v21_t3_09",
+      "shortLabel": "Coluna",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'sussurre o nome dele antes de cada nova zona' caprichando em faça trilhas úmidas o calor do hálito em a coluna (30s)."
+    },
+    {
+      "id": "c4_v21_t3_10",
+      "shortLabel": "Nuca",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'alterne toques de pena com pegada firme' caprichando em mordisque suavemente em a nuca (30s)."
+    },
+    {
+      "id": "c4_v21_t3_11",
+      "shortLabel": "Pescoço 4",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'sussurre o nome dele antes de cada nova zona' caprichando em provoque com lábios e dedos em o pescoço (30s)."
+    },
+    {
+      "id": "c4_v21_t3_12",
+      "shortLabel": "Da coxa 2",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'alterne toques de pena com pegada firme' caprichando em morda suave e acalme com beijos em a parte interna da coxa (30s)."
+    },
+    {
+      "id": "c4_v21_t3_13",
+      "shortLabel": "Linha do quadril 2",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'sussurre o nome dele antes de cada nova zona' caprichando em lamba bem devagar em a linha do quadril (30s)."
+    },
+    {
+      "id": "c4_v21_t3_14",
+      "shortLabel": "Lóbulo da orelha 2",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'alterne toques de pena com pegada firme' caprichando em sugue de leve e pode beijar em o lóbulo da orelha (30s)."
+    },
+    {
+      "id": "c4_v21_t3_15",
+      "shortLabel": "Cintura 2",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'sussurre o nome dele antes de cada nova zona' caprichando em deixe beijos abertos e ardentes em em a cintura (30s)."
+    },
+    {
+      "id": "c4_v21_t3_16",
+      "shortLabel": "Baixo ventre 2",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'alterne toques de pena com pegada firme' caprichando em cubra de beijos quentes em o baixo ventre (30s)."
+    },
+    {
+      "id": "c4_v21_t3_17",
+      "shortLabel": "Peito e costelas 2",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'sussurre o nome dele antes de cada nova zona' caprichando em faça trilhas úmidas o calor do hálito em o peito e costelas (30s)."
+    },
+    {
+      "id": "c4_v21_t3_18",
+      "shortLabel": "Clavícula 4",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'alterne toques de pena com pegada firme' caprichando em mordisque suavemente em a clavícula (30s)."
+    },
+    {
+      "id": "c4_v21_t3_19",
+      "shortLabel": "Coluna 2",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'sussurre o nome dele antes de cada nova zona' caprichando em provoque com lábios e dedos em a coluna (30s)."
+    },
+    {
+      "id": "c4_v21_t3_20",
+      "shortLabel": "Nuca 2",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "fullDare": "Siga 'alterne toques de pena com pegada firme' caprichando em morda suave e acalme com beijos em a nuca (30s)."
+    },
+    {
+      "id": "c4_v21_t4_01",
+      "shortLabel": "Ultra lenta",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Prenda os dois pulsos acima da cabeça com uma mão, provoque o fim da coluna com a ponta dos dedos em câmera ultra lenta (35s)."
+    },
+    {
+      "id": "c4_v21_t4_02",
+      "shortLabel": "A boca",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Erga o queixo dele de leve para que só olhe para você, provoque a curva da cintura com as costas dos dedos primeiro e depois a boca (35s)."
+    },
+    {
+      "id": "c4_v21_t4_03",
+      "shortLabel": "Seu par",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Entrelace os dedos dele atrás da nuca sem defesa, provoque o baixo ventre com guiando a própria mão do seu par (35s)."
+    },
+    {
+      "id": "c4_v21_t4_04",
+      "shortLabel": "Quente lábios",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Mantenha as mãos dele coladas na cabeceira, provoque o contorno do quadril com apenas sopro quente e lábios (35s)."
+    },
+    {
+      "id": "c4_v21_t4_05",
+      "shortLabel": "O olhar",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Encoste-o suavemente na parede pelos quadris, provoque a parte interna da coxa com uma mão só sem desviar o olhar (35s)."
+    },
+    {
+      "id": "c4_v21_t4_06",
+      "shortLabel": "Lábios dentes",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Segure as mãos dele atrás das costas, provoque logo abaixo da clavícula com apenas seus lábios e dentes (35s)."
+    },
+    {
+      "id": "c4_v21_t4_07",
+      "shortLabel": "Ultra lenta 2",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Prenda os dois pulsos acima da cabeça com uma mão, provoque o peito e costelas com a ponta dos dedos em câmera ultra lenta (35s)."
+    },
+    {
+      "id": "c4_v21_t4_08",
+      "shortLabel": "A boca 2",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Erga o queixo dele de leve para que só olhe para você, provoque a linha do quadril com as costas dos dedos primeiro e depois a boca (35s)."
+    },
+    {
+      "id": "c4_v21_t4_09",
+      "shortLabel": "Seu par 2",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Entrelace os dedos dele atrás da nuca sem defesa, provoque o fim da coluna com guiando a própria mão do seu par (35s)."
+    },
+    {
+      "id": "c4_v21_t4_10",
+      "shortLabel": "Quente lábios 2",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Mantenha as mãos dele coladas na cabeceira, provoque a curva da cintura com apenas sopro quente e lábios (35s)."
+    },
+    {
+      "id": "c4_v21_t4_11",
+      "shortLabel": "O olhar 2",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Encoste-o suavemente na parede pelos quadris, provoque o baixo ventre com uma mão só sem desviar o olhar (35s)."
+    },
+    {
+      "id": "c4_v21_t4_12",
+      "shortLabel": "Lábios dentes 2",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Segure as mãos dele atrás das costas, provoque o contorno do quadril com apenas seus lábios e dentes (35s)."
+    },
+    {
+      "id": "c4_v21_t4_13",
+      "shortLabel": "Ultra lenta 3",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Prenda os dois pulsos acima da cabeça com uma mão, provoque a parte interna da coxa com a ponta dos dedos em câmera ultra lenta (35s)."
+    },
+    {
+      "id": "c4_v21_t4_14",
+      "shortLabel": "A boca 3",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Erga o queixo dele de leve para que só olhe para você, provoque logo abaixo da clavícula com as costas dos dedos primeiro e depois a boca (35s)."
+    },
+    {
+      "id": "c4_v21_t4_15",
+      "shortLabel": "Seu par 3",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Entrelace os dedos dele atrás da nuca sem defesa, provoque o peito e costelas com guiando a própria mão do seu par (35s)."
+    },
+    {
+      "id": "c4_v21_t4_16",
+      "shortLabel": "Quente lábios 3",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Mantenha as mãos dele coladas na cabeceira, provoque a linha do quadril com apenas sopro quente e lábios (35s)."
+    },
+    {
+      "id": "c4_v21_t4_17",
+      "shortLabel": "O olhar 3",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Encoste-o suavemente na parede pelos quadris, provoque o fim da coluna com uma mão só sem desviar o olhar (35s)."
+    },
+    {
+      "id": "c4_v21_t4_18",
+      "shortLabel": "Lábios dentes 3",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Segure as mãos dele atrás das costas, provoque a curva da cintura com apenas seus lábios e dentes (35s)."
+    },
+    {
+      "id": "c4_v21_t4_19",
+      "shortLabel": "Ultra lenta 4",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Prenda os dois pulsos acima da cabeça com uma mão, provoque o baixo ventre com a ponta dos dedos em câmera ultra lenta (35s)."
+    },
+    {
+      "id": "c4_v21_t4_20",
+      "shortLabel": "A boca 4",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Erga o queixo dele de leve para que só olhe para você, provoque o contorno do quadril com as costas dos dedos primeiro e depois a boca (35s)."
+    },
+    {
+      "id": "c4_v21_t4_21",
+      "shortLabel": "Seu par 4",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Entrelace os dedos dele atrás da nuca sem defesa, provoque a parte interna da coxa com guiando a própria mão do seu par (35s)."
+    },
+    {
+      "id": "c4_v21_t4_22",
+      "shortLabel": "Quente lábios 4",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "fullDare": "Sob Mantenha as mãos dele coladas na cabeceira, provoque logo abaixo da clavícula com apenas sopro quente e lábios (35s)."
+    }
+  ],
+  "ladderSteps": [
+    {
+      "step": 1,
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "foreplayAction": "Entrelace bem os dedos e acaricie sem parar o pulso interno do seu par.",
+      "truthQuestion": "Qual primeiro detalhe físico meu fez seu coração disparar quando nos conhecemos?"
+    },
+    {
+      "step": 2,
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light"
+      ],
+      "foreplayAction": "Massageie devagar a nuca e os ombros mantendo os peitos quase colados.",
+      "truthQuestion": "Qual parte do seu corpo você queria em segredo que eu tocasse e beijasse mais?"
+    },
+    {
+      "step": 3,
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light"
+      ],
+      "foreplayAction": "Deixe beijos contínuos pelo maxilar e atrás da orelha enquanto responde.",
+      "truthQuestion": "Confesse uma vez em que quis arrancar minha roupa mas o lugar não deixava."
+    },
+    {
+      "step": 4,
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light"
+      ],
+      "foreplayAction": "Coloque as duas mãos sob a blusa e faça círculos lentos na lombar e cintura.",
+      "truthQuestion": "Qual som, palavra ou sussurro meu te acende na hora?"
+    },
+    {
+      "step": 5,
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick"
+      ],
+      "foreplayAction": "Mordisque e sopre ar quente na orelha e pescoço SEM parar enquanto fala.",
+      "truthQuestion": "Fale sua posição favorita comigo e uma nova que está louco(a) para testar hoje."
+    },
+    {
+      "step": 6,
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "clothing_dare"
+      ],
+      "foreplayAction": "Desabotoe ou tire bem devagar uma camada de roupa sem desviar o olhar.",
+      "truthQuestion": "Qual fantasia íntima passou pela sua cabeça recentemente e você ficou com vergonha de contar?"
+    },
+    {
+      "step": 7,
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick"
+      ],
+      "foreplayAction": "pode beijar e lamba da clavícula em direção ao peito sem deixar que segure suas mãos.",
+      "truthQuestion": "Na cama, você curte mais ser dominado(a) com carinho ou mandar em tudo? Como?"
+    },
+    {
+      "step": 8,
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light"
+      ],
+      "foreplayAction": "Prenda os pulsos atrás das costas ou acima provocando os lábios a 1 cm.",
+      "truthQuestion": "Confesse o lugar mais arriscado onde já imaginou ficar comigo."
+    },
+    {
+      "step": 9,
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick"
+      ],
+      "foreplayAction": "Suba palmas e beijos lentos pelas coxas internas desafiando a não tremer a voz.",
+      "truthQuestion": "Fale sem rodeios o que quer que eu faça assim que este jogo acabar."
+    },
+    {
+      "step": 10,
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "foreplayAction": "TOPO ALCANÇADO: Chega de perguntas — 60 segundos de beijos intensos e mãos livres sob comando total de quem subiu!",
+      "truthQuestion": "Chega de falar. Me mostra tudo o que você acabou de confessar."
+    },
+    {
+      "step": 1,
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "foreplayAction": "Percorra orelha e pescoço com ar quente e beijos suaves. (Lv.1)",
+      "truthQuestion": "«Sem vergonha…» Qual desejo secreto quer realizar assim que largarmos o celular? (#1)"
+    },
+    {
+      "step": 2,
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "foreplayAction": "Percorra orelha e pescoço com ar quente e beijos suaves. (Lv.2)",
+      "truthQuestion": "«Sem vergonha…» Qual desejo secreto quer realizar assim que largarmos o celular? (#2)"
+    },
+    {
+      "step": 3,
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Percorra orelha e pescoço com ar quente e beijos suaves. (Lv.3)",
+      "truthQuestion": "«Sem vergonha…» Qual desejo secreto quer realizar assim que largarmos o celular? (#3)"
+    },
+    {
+      "step": 4,
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Percorra orelha e pescoço com ar quente e beijos suaves. (Lv.4)",
+      "truthQuestion": "«Sem vergonha…» Qual desejo secreto quer realizar assim que largarmos o celular? (#4)"
+    },
+    {
+      "step": 5,
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "foreplayAction": "Percorra orelha e pescoço com ar quente e beijos suaves. (Lv.5)",
+      "truthQuestion": "«Sem vergonha…» Qual desejo secreto quer realizar assim que largarmos o celular? (#5)"
+    },
+    {
+      "step": 6,
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Percorra orelha e pescoço com ar quente e beijos suaves. (Lv.6)",
+      "truthQuestion": "«Sem vergonha…» Qual desejo secreto quer realizar assim que largarmos o celular? (#6)"
+    },
+    {
+      "step": 7,
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ],
+      "foreplayAction": "Percorra orelha e pescoço com ar quente e beijos suaves. (Lv.7)",
+      "truthQuestion": "«Sem vergonha…» Qual desejo secreto quer realizar assim que largarmos o celular? (#7)"
+    },
+    {
+      "step": 8,
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "foreplayAction": "Percorra orelha e pescoço com ar quente e beijos suaves. (Lv.8)",
+      "truthQuestion": "«Sem vergonha…» Qual desejo secreto quer realizar assim que largarmos o celular? (#8)"
+    },
+    {
+      "step": 9,
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "restraint_light",
+        "eye_contact"
+      ],
+      "foreplayAction": "Percorra orelha e pescoço com ar quente e beijos suaves. (Lv.9)",
+      "truthQuestion": "«Sem vergonha…» Qual desejo secreto quer realizar assim que largarmos o celular? (#9)"
+    },
+    {
+      "step": 10,
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "clothing_dare",
+        "bite_lick"
+      ],
+      "foreplayAction": "Percorra orelha e pescoço com ar quente e beijos suaves. (Lv.10)",
+      "truthQuestion": "«Sem vergonha…» Qual desejo secreto quer realizar assim que largarmos o celular? (#10)"
+    },
+    {
+      "step": 1,
+      "tier": 1,
+      "durationSec": 28,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "foreplayAction": "Em a ponta da cama com sussurrando seu apelido baixinho, faça passe a ponta dos dedos em em a curva da orelha (28s).",
+      "truthQuestion": "Sobre o abraço que nunca quis soltar, qual sentimento sincero quer me contar agora?"
+    },
+    {
+      "step": 1,
+      "tier": 1,
+      "durationSec": 28,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "foreplayAction": "Em a entrada na meia-luz com segurando um sorriso cúmplice, faça roce timidamente os lábios em em o pulso interno (28s).",
+      "truthQuestion": "Sobre como você ama ser abraçado(a) antes de dormir, qual sentimento sincero quer me contar agora?"
+    },
+    {
+      "step": 1,
+      "tier": 1,
+      "durationSec": 28,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "foreplayAction": "Em diante do espelho do closet com fica em silêncio absoluto, faça roce devagar os lábios em em a palma e os dedos (28s).",
+      "truthQuestion": "Sobre o que quer que ele vista — ou tire — hoje, qual sentimento sincero quer me contar agora?"
+    },
+    {
+      "step": 1,
+      "tier": 1,
+      "durationSec": 28,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "foreplayAction": "Em um monte de almofadas macias com deixa os lábios a 1 cm entre pausas, faça acaricie devagar em o antebraço interno (28s).",
+      "truthQuestion": "Sobre um pensamento safado que teve sobre ele hoje, qual sentimento sincero quer me contar agora?"
+    },
+    {
+      "step": 2,
+      "tier": 1,
+      "durationSec": 31,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "foreplayAction": "Em um monte de almofadas macias com deixa os lábios a 1 cm entre pausas, faça sopre ar quente sobre em o antebraço interno (31s).",
+      "truthQuestion": "Qual pequeno gesto meu do dia a dia faz seu coração disparar em segredo?"
+    },
+    {
+      "step": 2,
+      "tier": 1,
+      "durationSec": 31,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "foreplayAction": "Em atrás das cortinas leves com sussurrando seu apelido baixinho, faça deslize suas palmas mornas por em atrás da orelha (31s).",
+      "truthQuestion": "Sobre um pensamento tímido quando damos as mãos, qual sentimento sincero quer me contar agora?"
+    },
+    {
+      "step": 2,
+      "tier": 1,
+      "durationSec": 31,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "foreplayAction": "Em diante da penteadeira com segurando um sorriso cúmplice, faça roce suavemente o nariz em em a ponta do queixo (31s).",
+      "truthQuestion": "Sobre como quer ser tocado(a) no escuro, qual sentimento sincero quer me contar agora?"
+    },
+    {
+      "step": 2,
+      "tier": 1,
+      "durationSec": 31,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "foreplayAction": "Em a parede do quarto com fica em silêncio absoluto, faça deixe beijos lentos em em a clavícula (31s).",
+      "truthQuestion": "Sobre qual ponto exato quer beijar agora, qual sentimento sincero quer me contar agora?"
+    },
+    {
+      "step": 3,
+      "tier": 2,
+      "durationSec": 34,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use ar morno seguido na hora de lábios macios de o pulso interno a o rosto e maxilar, seguindo 'sussurre o nome dele antes de cada nova zona' (34s).",
+      "truthQuestion": "Qual fantasia de quarto passou pela sua mente ultimamente sem coragem de pedir?"
+    },
+    {
+      "step": 3,
+      "tier": 2,
+      "durationSec": 34,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use mordidinha provocante acalmada logo pela o calor do hálito lenta de os ombros a a ponta da clavícula, seguindo 'alterne toques de pena com pegada firme' (34s).",
+      "truthQuestion": "Qual movimento ou beijo exato meu apaga todo o resto da sua cabeça?"
+    },
+    {
+      "step": 3,
+      "tier": 2,
+      "durationSec": 34,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use cócegas na palma seguidas de dedos entrelaçados de a nuca a o ombro, seguindo 'sussurre o nome dele antes de cada nova zona' (34s).",
+      "truthQuestion": "Qual posição ou ângulo comigo fica mais tempo guardado na sua memória?"
+    },
+    {
+      "step": 3,
+      "tier": 2,
+      "durationSec": 34,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use ar fresco seguido na hora por beijos úmidos e quentes de atrás da orelha a a curva da orelha, seguindo 'alterne toques de pena com pegada firme' (34s).",
+      "truthQuestion": "Você prefere ser preso(a) e provocado(a) com carinho ou assumir todo o mando hoje? Como?"
+    },
+    {
+      "step": 4,
+      "tier": 2,
+      "durationSec": 37,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use palmas mornas sobre a roupa deslizando para a pele de atrás da orelha a a curva da orelha, seguindo 'alterne toques de pena com pegada firme' (37s).",
+      "truthQuestion": "Qual cheiro, som ou se quiser meu coloca você no clima na mesma hora?"
+    },
+    {
+      "step": 4,
+      "tier": 2,
+      "durationSec": 37,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use pegada firme no quadril seguida de dedos como pena de as costelas a o pulso interno, seguindo 'sussurre o nome dele antes de cada nova zona' (37s).",
+      "truthQuestion": "Se pudesse roteirizar os próximos 15 minutos sem freio, qual seria o primeiro passo?"
+    },
+    {
+      "step": 4,
+      "tier": 2,
+      "durationSec": 37,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use roce de nariz seguido de um beijo demorado de a base da garganta a a palma e os dedos, seguindo 'alterne toques de pena com pegada firme' (37s).",
+      "truthQuestion": "Qual ponto esquecido do seu corpo faz você derreter mais rápido que qualquer outro?"
+    },
+    {
+      "step": 4,
+      "tier": 2,
+      "durationSec": 37,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use pausa a meio centímetro antes de beijar de a lombar a o antebraço interno, seguindo 'sussurre o nome dele antes de cada nova zona' (37s).",
+      "truthQuestion": "Qual o lugar mais arriscado onde já imaginou fugir comigo?"
+    },
+    {
+      "step": 5,
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use cócegas na palma seguidas de dedos entrelaçados de a lombar a o antebraço interno, seguindo 'sussurre o nome dele antes de cada nova zona' (40s).",
+      "truthQuestion": "Se tivéssemos um fim de semana sem celular, qual plano ousado você sugeriria primeiro?"
+    },
+    {
+      "step": 5,
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use ar fresco seguido na hora por beijos úmidos e quentes de a clavícula a atrás da orelha, seguindo 'alterne toques de pena com pegada firme' (40s).",
+      "truthQuestion": "Qual sussurro direto ou elogio ousado acelera seu coração na hora?"
+    },
+    {
+      "step": 5,
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use dois tapas leves seguidos de beijos longos e profundos de o pulso interno a a ponta do queixo, seguindo 'sussurre o nome dele antes de cada nova zona' (40s).",
+      "truthQuestion": "Qual roupa ou jeito meu torna quase impossível manter suas mãos paradas?"
+    },
+    {
+      "step": 5,
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "foreplayAction": "Use dedos no cabelo puxando para perto de os ombros a a clavícula, seguindo 'alterne toques de pena com pegada firme' (40s).",
+      "truthQuestion": "No beijo, você derrete mais rápido com pausas lentas ou com urgência sem fôlego?"
+    },
+    {
+      "step": 6,
+      "tier": 3,
+      "durationSec": 43,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em ao lado da cama sob luz baixa fazendo deixe beijos abertos e ardentes em em o peito e costelas (43s).",
+      "truthQuestion": "Quantas vezes você já imaginou check-in numa suíte de luxo com nomes falsos comigo em segredo?"
+    },
+    {
+      "step": 6,
+      "tier": 3,
+      "durationSec": 43,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em o canto da janela com abajur fazendo cubra de beijos quentes em a clavícula (43s).",
+      "truthQuestion": "Você já quis me puxar para um cômodo vazio no meio de uma festa só para um beijo?"
+    },
+    {
+      "step": 6,
+      "tier": 3,
+      "durationSec": 43,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em o braço do sofá fazendo faça trilhas úmidas o calor do hálito em a coluna (43s).",
+      "truthQuestion": "Qual dinâmica de teatro a dois você tem curiosidade de testar comigo a portas fechadas?"
+    },
+    {
+      "step": 6,
+      "tier": 3,
+      "durationSec": 43,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em a ponta da cama fazendo mordisque suavemente em a nuca (43s).",
+      "truthQuestion": "Qual sensação você quer mais hoje à noite: frio, calor, pegada firme ou se quiser de pluma?"
+    },
+    {
+      "step": 7,
+      "tier": 3,
+      "durationSec": 46,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em a ponta da cama fazendo mordisque suavemente em o baixo ventre (46s).",
+      "truthQuestion": "Se pudesse congelar em câmera lenta uma memória íntima nossa, qual momento escolheria?"
+    },
+    {
+      "step": 7,
+      "tier": 3,
+      "durationSec": 46,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em a entrada na meia-luz fazendo provoque com lábios e dedos em o peito e costelas (46s).",
+      "truthQuestion": "Qual elogio sussurrado no ouvido faz você corar mais depressa que tudo?"
+    },
+    {
+      "step": 7,
+      "tier": 3,
+      "durationSec": 46,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em diante do espelho do closet fazendo morda suave e acalme com beijos em a clavícula (46s).",
+      "truthQuestion": "Você prefere ficar vendado(a) por 5 minutos sendo surpreendido(a) ou comandar a venda?"
+    },
+    {
+      "step": 7,
+      "tier": 3,
+      "durationSec": 46,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em um monte de almofadas macias fazendo lamba bem devagar em a coluna (46s).",
+      "truthQuestion": "Qual sinal secreto poderíamos criar em um lugar que seja só nosso para dizer «me leva para casa agora»?"
+    },
+    {
+      "step": 8,
+      "tier": 3,
+      "durationSec": 49,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em um monte de almofadas macias fazendo lamba bem devagar em a cintura (49s).",
+      "truthQuestion": "Em qual parte do seu corpo você queria secretamente que eu demorasse o dobro do tempo?"
+    },
+    {
+      "step": 8,
+      "tier": 3,
+      "durationSec": 49,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em atrás das cortinas leves fazendo sugue de leve e pode beijar em o baixo ventre (49s).",
+      "truthQuestion": "Qual foi o pensamento mais ousado da última vez que trocamos olhares à meia-luz?"
+    },
+    {
+      "step": 8,
+      "tier": 3,
+      "durationSec": 49,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em diante da penteadeira fazendo deixe beijos abertos e ardentes em em o peito e costelas (49s).",
+      "truthQuestion": "Se você dirigisse um beijo de 3 minutos do início ao fim, onde suas mãos iriam primeiro?"
+    },
+    {
+      "step": 8,
+      "tier": 3,
+      "durationSec": 49,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "foreplayAction": "Sussurre check-in numa suíte de luxo com nomes falsos em a parede do quarto fazendo cubra de beijos quentes em a clavícula (49s).",
+      "truthQuestion": "Que detalhe provocante e confortável você adoraria incluir nas nossas noites?"
+    },
+    {
+      "step": 9,
+      "tier": 4,
+      "durationSec": 52,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "foreplayAction": "Com Mantenha as mãos dele coladas na cabeceira, passe apenas sopro quente e lábios sob uma peça de roupa à sua escolha para deixe beijos abertos e ardentes em em o contorno do quadril (52s).",
+      "truthQuestion": "Provocado(a) tão perto, qual próximo passo você mais deseja agora?"
+    },
+    {
+      "step": 9,
+      "tier": 4,
+      "durationSec": 52,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "foreplayAction": "Com Encoste-o suavemente na parede pelos quadris, passe uma mão só sem desviar o olhar sob dois botões da camisa para cubra de beijos quentes em a parte interna da coxa (52s).",
+      "truthQuestion": "Agora mesmo, qual ponto exato você torce para meus lábios visitarem a seguir?"
+    },
+    {
+      "step": 9,
+      "tier": 4,
+      "durationSec": 52,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "foreplayAction": "Com Segure as mãos dele atrás das costas, passe apenas seus lábios e dentes sob uma alça ou peça externa para faça trilhas úmidas o calor do hálito em logo abaixo da clavícula (52s).",
+      "truthQuestion": "Se descrevesse como meu se quiser parece neste segundo em três palavras sinceras, quais seriam?"
+    },
+    {
+      "step": 9,
+      "tier": 4,
+      "durationSec": 52,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "foreplayAction": "Com Prenda os dois pulsos acima da cabeça com uma mão, passe a ponta dos dedos em câmera ultra lenta sob um acessório mais uma camada para mordisque suavemente em o peito e costelas (52s).",
+      "truthQuestion": "Você quer que eu vá ainda mais devagar para provocar ou acelere o ritmo agora?"
+    },
+    {
+      "step": 10,
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "foreplayAction": "Com Encoste-o suavemente na parede pelos quadris, passe uma mão só sem desviar o olhar sob dois botões da camisa para mordisque suavemente em o peito e costelas (55s).",
+      "truthQuestion": "Sussurre a única promessa que você quer que eu cumpra antes de dormirmos hoje."
+    },
+    {
+      "step": 10,
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "foreplayAction": "Com Segure as mãos dele atrás das costas, passe apenas seus lábios e dentes sob uma alça ou peça externa para provoque com lábios e dedos em a linha do quadril (55s).",
+      "truthQuestion": "Qual etapa da nossa subida de hoje fez seu pulso acelerar com mais força?"
+    },
+    {
+      "step": 10,
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "foreplayAction": "Com Prenda os dois pulsos acima da cabeça com uma mão, passe a ponta dos dedos em câmera ultra lenta sob um acessório mais uma camada para morda suave e acalme com beijos em o fim da coluna (55s).",
+      "truthQuestion": "Se hoje tivesse um capítulo extra depois de apagar a luz, como ele deveria começar?"
+    },
+    {
+      "step": 10,
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "foreplayAction": "Com Erga o queixo dele de leve para que só olhe para você, passe as costas dos dedos primeiro e depois a boca sob um zíper ou cós da cintura para lamba bem devagar em a curva da cintura (55s).",
+      "truthQuestion": "Olhe nos meus olhos e diga a única coisa que você mais deseja de mim agora."
+    }
+  ]
+}

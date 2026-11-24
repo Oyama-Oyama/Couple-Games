@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- 1. Velvet Noir (Classic Wine & Champagne Gold) -->
+    <color name="velvet_bg">#121013</color>
+    <color name="velvet_surface">#1D1820</color>
+    <color name="velvet_surface_elevated">#28212C</color>
+    <color name="velvet_crimson">#8C1D40</color>
+    <color name="velvet_crimson_light">#B82E58</color>
+    <color name="velvet_gold">#D4AF37</color>
+    <color name="velvet_stroke">#40D4AF37</color>
+    <color name="velvet_ivory">#F5F0EB</color>
+    <color name="velvet_muted">#A69BA8</color>
+
+    <!-- 2. Peach Blush (桃粉 · Juicy Peach Pink & Soft Coral) -->
+    <color name="peach_bg">#221117</color>
+    <color name="peach_surface">#311922</color>
+    <color name="peach_surface_elevated">#42222E</color>
+    <color name="peach_primary">#FF6B8B</color>
+    <color name="peach_accent">#FFB5A7</color>
+    <color name="peach_stroke">#55FFB5A7</color>
+    <color name="peach_text">#FFF4F6</color>
+    <color name="peach_muted">#D4AAB4</color>
+
+    <!-- 3. Sakura Silk (樱绯丝绸 · Flirty Cherry Blossom Pink) -->
+    <color name="sakura_bg">#1E101A</color>
+    <color name="sakura_surface">#2D1827</color>
+    <color name="sakura_surface_elevated">#3E2136</color>
+    <color name="sakura_primary">#E84A7F</color>
+    <color name="sakura_accent">#FFC2D4</color>
+    <color name="sakura_stroke">#55FFC2D4</color>
+    <color name="sakura_text">#FFF2F7</color>
+    <color name="sakura_muted">#CFA8BD</color>
+
+    <!-- 4. Blush Rosé (微醺玫瑰 · Intimate Rose Cocoa & Rosé Mist) -->
+    <color name="blush_bg">#1A1116</color>
+    <color name="blush_surface">#271A21</color>
+    <color name="blush_surface_elevated">#34222C</color>
+    <color name="blush_primary">#C44569</color>
+    <color name="blush_accent">#F3C6B8</color>
+    <color name="blush_stroke">#48F3C6B8</color>
+    <color name="blush_text">#FBF3F5</color>
+    <color name="blush_muted">#C3A6B2</color>
+
+    <!-- 5. Midnight Plum (午夜魅紫 · Sultry Velvet Plum & Lavender Glow) -->
+    <color name="plum_bg">#120E1D</color>
+    <color name="plum_surface">#1D162E</color>
+    <color name="plum_surface_elevated">#292040</color>
+    <color name="plum_primary">#7D2E68</color>
+    <color name="plum_accent">#DCA8F0</color>
+    <color name="plum_stroke">#48DCA8F0</color>
+    <color name="plum_text">#F5EFFC</color>
+    <color name="plum_muted">#ABA0C2</color>
+
+    <!-- 6. Scarlet Lace (绯红蕾丝 · Glossy Lipstick Crimson & Lace Pink, VIP) -->
+    <color name="scarlet_bg">#180B0F</color>
+    <color name="scarlet_surface">#271219</color>
+    <color name="scarlet_surface_elevated">#381A24</color>
+    <color name="scarlet_primary">#C9184A</color>
+    <color name="scarlet_accent">#FF8FA3</color>
+    <color name="scarlet_stroke">#55FF8FA3</color>
+    <color name="scarlet_text">#FFF0F3</color>
+    <color name="scarlet_muted">#C89BA6</color>
+
+    <!-- 7. Violet Mist (迷离紫雾 · Electric Orchid & Neon Peach, VIP) -->
+    <color name="violet_bg">#140E21</color>
+    <color name="violet_surface">#211736</color>
+    <color name="violet_surface_elevated">#2F214C</color>
+    <color name="violet_primary">#9D4EDD</color>
+    <color name="violet_accent">#FF70A6</color>
+    <color name="violet_stroke">#55FF70A6</color>
+    <color name="violet_text">#FAF2FF</color>
+    <color name="violet_muted">#B6A3CF</color>
+
+    <!-- 8. Candlelight Amber (烛光琥珀 · Warm Espresso & Honey Gold, VIP) -->
+    <color name="amber_bg">#17110E</color>
+    <color name="amber_surface">#241A15</color>
+    <color name="amber_surface_elevated">#32241D</color>
+    <color name="amber_primary">#B84A27</color>
+    <color name="amber_accent">#EAB676</color>
+    <color name="amber_stroke">#48EAB676</color>
+    <color name="amber_text">#FBF3EA</color>
+    <color name="amber_muted">#BDA896</color>
+
+    <!-- 9. Crimson Neon (绯夜霓虹 · After-Hours Magenta Silk & Electric Violet, VIP) -->
+    <color name="neon_bg">#0D0C18</color>
+    <color name="neon_surface">#17152B</color>
+    <color name="neon_surface_elevated">#231F3F</color>
+    <color name="neon_primary">#D91E5B</color>
+    <color name="neon_accent">#C77DFF</color>
+    <color name="neon_stroke">#55C77DFF</color>
+    <color name="neon_text">#F8F2FF</color>
+    <color name="neon_muted">#A49EC4</color>
+
+    <!-- 10. Rouge Velvet (绯夜丝绒 · Deep Wine & Rose Gold) -->
+    <color name="rouge_bg">#180A0E</color>
+    <color name="rouge_surface">#2A1219</color>
+    <color name="rouge_surface_elevated">#3C1A24</color>
+    <color name="rouge_primary">#C2185B</color>
+    <color name="rouge_accent">#F8BBD0</color>
+    <color name="rouge_stroke">#66F8BBD0</color>
+    <color name="rouge_text">#FFF5F6</color>
+    <color name="rouge_muted">#C99AA6</color>
+
+    <!-- 11. Moonlit Lace (月光蕾丝 · Midnight Indigo & Moonlight Silver) -->
+    <color name="moonlit_bg">#0C0E1C</color>
+    <color name="moonlit_surface">#1B1F38</color>
+    <color name="moonlit_surface_elevated">#2A3050</color>
+    <color name="moonlit_primary">#7C6FE0</color>
+    <color name="moonlit_accent">#C9D2FF</color>
+    <color name="moonlit_stroke">#66C9D2FF</color>
+    <color name="moonlit_text">#F5F6FF</color>
+    <color name="moonlit_muted">#9BA5C9</color>
+
+    <!-- 12. Honey Dusk (蜜色黄昏 · Warm Amber & Honey Gold, VIP) -->
+    <color name="honey_bg">#180F0A</color>
+    <color name="honey_surface">#2C1C12</color>
+    <color name="honey_surface_elevated">#3F291B</color>
+    <color name="honey_primary">#D9762B</color>
+    <color name="honey_accent">#FFD59A</color>
+    <color name="honey_stroke">#66FFD59A</color>
+    <color name="honey_text">#FFF8EE</color>
+    <color name="honey_muted">#C9A985</color>
+
+    <!-- Consent Boundary Status Colors -->
+    <color name="status_yes">#2E7D5B</color>
+    <color name="status_soft">#B7791F</color>
+    <color name="status_hard_no">#9B2C2C</color>
+</resources>

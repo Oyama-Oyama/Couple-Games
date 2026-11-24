@@ -1,0 +1,3557 @@
+{
+  "cards": [
+    {
+      "id": "sc_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "title": "息がかかる見つめ合い",
+      "text": "膝が触れる距離で30秒見つめ合い、パートナーの惹かれるところを3つささやきましょう。"
+    },
+    {
+      "id": "sc_02",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "キャンドルマッサージ",
+      "text": "手を温めて45秒間ゆっくり肩と首をほぐし、最後に耳の後ろへそっとキスを落として。"
+    },
+    {
+      "id": "sc_03",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "playful",
+        "physical_light"
+      ],
+      "title": "手を使わない焦らし",
+      "text": "30秒間手を後ろに組んだまま、顎のラインと首筋へ落ちるスローキスに身を委ねて。"
+    },
+    {
+      "id": "sc_04",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 30,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "耳たぶから鎖骨へ",
+      "text": "パートナーの耳たぶを甘くやさしいキス、温かい吐息と息を沿わせて30秒かけて鎖骨までたどりましょう。"
+    },
+    {
+      "id": "sc_05",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "ベルベット・ホールド",
+      "text": "片手で相手の両手首を頭上にそっとそっと包みたまま45秒間、唇以外の場所へ焦らすキスを。"
+    },
+    {
+      "id": "sc_06",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "スロー・アンラップ",
+      "text": "相手の服かアクセサリーを1つ選び、目を合わせたまま片手だけでとびきりゆっくり外して。"
+    },
+    {
+      "id": "sc_07",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "キッチンカウンターのキス",
+      "text": "今すぐキッチンへ移動。カウンターに寄りかからせて、映画のワンシーンのようなキスを。"
+    },
+    {
+      "id": "sc_08",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 60,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "ラグの上の夜ピクニック",
+      "text": "照明を落としドリンクを持って床のラグに寄り添い、15分間スマホを忘れて語り合って。"
+    },
+    {
+      "id": "sc_09",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "壁際のささやき",
+      "text": "一番近い壁やドア枠にパートナーをそっと追い込み、30秒間ドキドキの密着ハグを。"
+    },
+    {
+      "id": "sc_10",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "鏡越しのバックハグ",
+      "text": "鏡の前に並んで45秒間、後ろから腰を抱きしめ、鏡の中で視線を合わせながら首筋にキスを。"
+    },
+    {
+      "id": "sc_11",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "スチームシャワーの約束",
+      "text": "次の2人きりのシャワーは明かりを落として、焦らずお互いの体を泡で洗い合う約束。"
+    },
+    {
+      "id": "sc_12",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "エレベーターの秘密キス",
+      "text": "次のデートで誰もいない廊下やエレベーターになったら、扉が開く前に5秒間の大胆キス。"
+    },
+    {
+      "id": "sc_13",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk"
+      ],
+      "title": "真夜中の告白",
+      "text": "映画や夢の中で見て、実はパートナーと再現してみたいロマンチックな場面を1つ打ち明けて。"
+    },
+    {
+      "id": "sc_14",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "ホテルの初対面",
+      "text": "今から5分間、深夜のバーで出会った他人を演じて——色気と会話だけで相手を口説き落として。"
+    },
+    {
+      "id": "sc_15",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "目隠し温度プレイ",
+      "text": "60秒間目隠しをして、温かいキス・冷たいグラス・羽のような指先を交互に当てて焦らして。"
+    },
+    {
+      "id": "sc_16",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "alcohol",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "カクテルの雫",
+      "text": "パートナーの鎖骨か首元にドリンクかハチミツを1滴落とし、ゆっくり綺麗に息をそっと寄せて取って。"
+    },
+    {
+      "id": "sc_17",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "60秒の主導権",
+      "text": "1分間だけ「今夜の監督」役になり、耳元でささやく甘いリクエストにすべて応えてもらおう。"
+    },
+    {
+      "id": "sc_18",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "ゴールデン・ベルベット券",
+      "text": "当たりスクラッチ券：今夜いつでも1つの大胆な願いか、軽いスパンキング＆濃密キスと交換可能。"
+    },
+    {
+      "id": "sc_19",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "1cmの吐息寸止め",
+      "text": "唇1cm手前で35秒間、熱い息だけを絡ませ続け、最後の1秒でようやくキスして。"
+    },
+    {
+      "id": "sc_20",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "耳たぶ〜喉元の軌跡",
+      "text": "耳たぶをやさしいキスしてから、そっと寄り添いようなウェットキスで喉の側面を下って（35秒）。"
+    },
+    {
+      "id": "sc_21",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "服の下の温かい掌",
+      "text": "温めた両手を相手の服の下へ入れ、背骨・脇腹・腰のくびれを40秒じっくり探索。"
+    },
+    {
+      "id": "sc_22",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "鎖骨下の秘密マーク",
+      "text": "腰を抱き寄せたまま、鎖骨の下の見えない場所を40秒優しく吸い上げてキスして。"
+    },
+    {
+      "id": "sc_23",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "片手でゆっくり外す",
+      "text": "目を離さず片手だけでボタンを2つ外すか肩紐をずらし、素肌へ45秒間キスを重ねて。"
+    },
+    {
+      "id": "sc_24",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "後ろ手ホールド責め",
+      "text": "片手で相手の両手首を背中でそっと包み、喉元と胸元を息をそっと寄せてやさしいキス＆キス（45秒）。"
+    },
+    {
+      "id": "sc_25",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "内もも集中焦らし",
+      "text": "相手の前にひざまずき、左右の内ももを熱い吐息・やさしいキス・湿ったキスで50秒上って。"
+    },
+    {
+      "id": "sc_26",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "ノーハンド唇ゆるめる",
+      "text": "自分の手を背中に隠したまま、唇と歯だけで肩紐や上着を1枚ずらしてキス（45秒）。"
+    },
+    {
+      "id": "sc_27",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "ソファ膝乗りキス",
+      "text": "ソファで向かい合わせに膝へ乗せ、腰を揺らしながら顎と首筋に40秒キスを落として。"
+    },
+    {
+      "id": "sc_28",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "ドア枠の壁ドン",
+      "text": "一番近いドア枠にそっと押し当て、息が上がる35秒の不意打ちディープキス。"
+    },
+    {
+      "id": "sc_29",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "ベッド端の密着",
+      "text": "相手をベッド端に仰向けにし、膝の間に立って服をめくり下腹部へ40秒キスを這わせて。"
+    },
+    {
+      "id": "sc_30",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "暗がりの独占タイム",
+      "text": "部屋で一番暗い隅へ引き寄せ、腰を強く抱いたまま次の願望を耳元で囁いて（45秒）。"
+    },
+    {
+      "id": "sc_31",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "ヘッドボード拘束",
+      "text": "両手をベッドボードにペタッとつけさせたまま、耳の後ろから脇腹まで45秒湿ったキス。"
+    },
+    {
+      "id": "sc_32",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "鏡越しのゆるめる",
+      "text": "鏡の前で後ろから抱きしめ、鏡の中の視線を外さず服を1枚極スローで脱がせて（50秒）。"
+    },
+    {
+      "id": "sc_33",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "チェアの主導権",
+      "text": "相手を椅子に座らせ、上から向かい合って跨がり、45秒間すべてのキスを支配して。"
+    },
+    {
+      "id": "sc_34",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "外出先の秘密キス券",
+      "text": "約束チケット：次のデートで誰もいない角を見つけた瞬間、10秒間の大胆なキスを奪う！"
+    },
+    {
+      "id": "sc_35",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk"
+      ],
+      "title": "言えなかった願望",
+      "text": "最近頭から離れないのに照れて言えていない、2人で試したい秘密のプレイを打ち明けて。"
+    },
+    {
+      "id": "sc_36",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "深夜ルームサービス",
+      "text": "45秒即興ロールプレイ：お酒を届けに来たルームサービスがそのまま一線を越える夜。"
+    },
+    {
+      "id": "sc_37",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "目隠し手引きガイド",
+      "text": "相手に45秒目を閉じさせ、相手の手を取って今夜キスしてほしい3ヶ所へ直接当てさせて。"
+    },
+    {
+      "id": "sc_38",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "roleplay",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "閉店後VIPスパ",
+      "text": "50秒セラピスト役：肩をもみほぐし、そのまま服の中へ滑り込んで背骨へ熱いキス。"
+    },
+    {
+      "id": "sc_39",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "目隠しやさしいキステスト",
+      "text": "目を閉じた45秒間、熱い吐息・やさしいキスの円運動・やさしいキスをランダムに4ヶ所へ浴びせて。"
+    },
+    {
+      "id": "sc_40",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "60秒バンザイ降伏",
+      "text": "相手は60秒間両手を上げたまま反撃禁止。全身の敏感ゾーンを好きなペースで焦らして。"
+    },
+    {
+      "id": "sc_41",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "甘い一滴の掃除",
+      "text": "下腹部か鎖骨にはちみつ・氷水・お酒を1滴垂らし、唇と息で完全に息をそっと寄せて取って（50秒）。"
+    },
+    {
+      "id": "sc_42",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "ベルベット完全服従",
+      "text": "王様カード：60秒目隠しで完全委ね——体勢を決め、服を1枚外して自由に探索して。"
+    },
+    {
+      "id": "sc_v2_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "秘密のご褒美 · #1",
+      "text": "「こっち来て…逃げちゃダメだよ？」目を逸らさずゆっくり触れて、熱いキスと吐息を重ねて（30秒）。"
+    },
+    {
+      "id": "sc_v2_02",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "秘密のご褒美 · #2",
+      "text": "「こっち来て…逃げちゃダメだよ？」目を逸らさずゆっくり触れて、熱いキスと吐息を重ねて（35秒）。"
+    },
+    {
+      "id": "sc_v2_03",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "三つの恥ずかしいささやき",
+      "text": "「もっと近くに…」普段は言わない恥ずかしい褒め言葉を3つ、耳元で吐息とともに（30秒）。"
+    },
+    {
+      "id": "sc_v2_04",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "あご線じらし",
+      "text": "「あごを上げて…」耳の後ろからあご、首筋へゆっくりキス——唇は避けて（35秒）。"
+    },
+    {
+      "id": "sc_v2_05",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "恥ずかしい唇やさしいキス",
+      "text": "「ちょっとだけ触れ…」下唇を軽くくわえて引っ張り、ゆっくりなキスへ（35秒）。"
+    },
+    {
+      "id": "sc_v2_06",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "alcohol",
+        "physical_light"
+      ],
+      "title": "ほろ酔いキス",
+      "text": "「一緒に味わって…」少しだけ口に含んで、温もりをゆっくりキスで分け合う（30秒）。"
+    },
+    {
+      "id": "sc_v2_07",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "秘密のご褒美 · #7",
+      "text": "「こっち来て…逃げちゃダメだよ？」目を逸らさずゆっくり触れて、熱いキスと吐息を重ねて（40秒）。"
+    },
+    {
+      "id": "sc_v2_08",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ],
+      "title": "服の中の温かい手",
+      "text": "「手が温かい…」手のひらを服の中へ滑らせ、くびれと脇腹をゆっくりなぞる（40秒）。"
+    },
+    {
+      "id": "sc_v2_09",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "eye_contact"
+      ],
+      "title": "秘密のご褒美 · #9",
+      "text": "「こっち来て…逃げちゃダメだよ？」目を逸らさずゆっくり触れて、熱いキスと吐息を重ねて（45秒）。"
+    },
+    {
+      "id": "sc_v2_10",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "title": "目隠しキスクイズ",
+      "text": "「見ないで…」目を閉じている間に4か所にキス——外すたびに10秒追加（45秒）。"
+    },
+    {
+      "id": "sc_v2_11",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick"
+      ],
+      "title": "手首固定45秒",
+      "text": "「いい子でいて…」両手首を優しく頭上で抑え、首と胸をキスして軽く息む（45秒）。"
+    },
+    {
+      "id": "sc_v2_12",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "bite_lick"
+      ],
+      "title": "秘密のご褒美 · #12",
+      "text": "「こっち来て…逃げちゃダメだよ？」目を逸らさずゆっくり触れて、熱いキスと吐息を重ねて（50秒）。"
+    },
+    {
+      "id": "sc_v2_13",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "physical_light"
+      ],
+      "title": "内ももトレイル",
+      "text": "「委ねて…」熱い息、柔らかい軽やさしいキス、ウェットなキスを内ももへ50秒。"
+    },
+    {
+      "id": "sc_v2_14",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "軽く触れるとろける",
+      "text": "「振り向いて…」軽いスパンク2回を、温かい手のひらとそっと寄り添いですぐに癒す（45秒）。"
+    },
+    {
+      "id": "sc_v2_15",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "今夜の秘密スポット · #15",
+      "text": "「2人きりの場所へ移動しよう…」壁や鏡の前で密着して、耳元で囁きながら深くキスして（35秒）。"
+    },
+    {
+      "id": "sc_v2_16",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "今夜の秘密スポット · #16",
+      "text": "「2人きりの場所へ移動しよう…」壁や鏡の前で密着して、耳元で囁きながら深くキスして（40秒）。"
+    },
+    {
+      "id": "sc_v2_17",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "キャンドルのじゅうたん",
+      "text": "「じゅうたんに座って…」薄暗いランプの下で床に絡み合い、耳とあごにキスを交換（40秒）。"
+    },
+    {
+      "id": "sc_v2_18",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "カウンターキス",
+      "text": "「ここに座って…」カウンターで私のひざの間に立ち、息の詰まる35秒のキス。"
+    },
+    {
+      "id": "sc_v2_19",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "eye_contact"
+      ],
+      "title": "霧った鏡",
+      "text": "「二人の赤面を見て…」浴室の鏡の前で密着し、ゆっくりしたキスを見つめる（40秒）。"
+    },
+    {
+      "id": "sc_v2_20",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "alcohol"
+      ],
+      "title": "バルコニーの夜",
+      "text": "「グラスを二つ持ってきて…」バルコニーで寄りかかり、ほろ酔いの温かいキスを奪う。"
+    },
+    {
+      "id": "sc_v2_21",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "今夜の秘密スポット · #21",
+      "text": "「2人きりの場所へ移動しよう…」壁や鏡の前で密着して、耳元で囁きながら深くキスして（45秒）。"
+    },
+    {
+      "id": "sc_v2_22",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "薄暗い廊下",
+      "text": "「ちょっと来て…」薄暗い廊下の隅へ引き寄せ、45秒のキスで腰を強く抱く。"
+    },
+    {
+      "id": "sc_v2_23",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "ウォークインクローゼット",
+      "text": "「服を選ぶのを手伝って…」クローゼットの傍で一枚脱がせ、肩にキスを（45秒）。"
+    },
+    {
+      "id": "sc_v2_24",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "椅子のじらし",
+      "text": "「椅子から動かないで…」書斎の椅子でひざまたがり、40秒ゆっくり支配的なキス。"
+    },
+    {
+      "id": "sc_v2_25",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "今夜の秘密スポット · #25",
+      "text": "「2人きりの場所へ移動しよう…」壁や鏡の前で密着して、耳元で囁きながら深くキスして（50秒）。"
+    },
+    {
+      "id": "sc_v2_26",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "ソファの肘掛け",
+      "text": "「ソファにもたれて…」襟をずらし、温かい手とウェットなキスで探る（50秒）。"
+    },
+    {
+      "id": "sc_v2_27",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "後部座席の星空",
+      "text": "「約束できる？」次の夜ドライブで静かな展望台へ行き、後部座席で60秒キス。"
+    },
+    {
+      "id": "sc_v2_28",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "今夜の秘密スポット · #28",
+      "text": "「2人きりの場所へ移動しよう…」壁や鏡の前で密着して、耳元で囁きながら深くキスして（55秒）。"
+    },
+    {
+      "id": "sc_v2_29",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "真夜中の妄想 · #29",
+      "text": "「目、閉じてて…今夜は全部任せて？」吐息と唇だけでじらして、ゆっくり寄り添うキスを落として（40秒）。"
+    },
+    {
+      "id": "sc_v2_30",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "真夜中の妄想 · #30",
+      "text": "「目、閉じてて…今夜は全部任せて？」吐息と唇だけでじらして、ゆっくり寄り添うキスを落として（35秒）。"
+    },
+    {
+      "id": "sc_v2_31",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "真夜中のバーテンダー",
+      "text": "「あなたのために混ぜたよ…」深夜のバーテンダーとほろ酔い客の40秒ロールプレイ、グラスの上で指を触れ合う。"
+    },
+    {
+      "id": "sc_v2_32",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ],
+      "title": "真夜中の妄想 · #32",
+      "text": "「目、閉じてて…今夜は全部任せて？」吐息と唇だけでじらして、ゆっくり寄り添うキスを落として（45秒）。"
+    },
+    {
+      "id": "sc_v2_33",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "roleplay",
+        "eye_contact"
+      ],
+      "title": "見つめられて",
+      "text": "「私を見てたでしょ？」壁に軽くそっと包みて40秒焦らし、赤面して白状するまで待つ。"
+    },
+    {
+      "id": "sc_v2_34",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "alcohol",
+        "deep_talk"
+      ],
+      "title": "ほろ酔いの願い瓶",
+      "text": "「酔った願いを言って…」今夜の恥ずかしい願望をささやき、一つをすぐ叶える。"
+    },
+    {
+      "id": "sc_v2_35",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "真夜中の妄想 · #35",
+      "text": "「目、閉じてて…今夜は全部任せて？」吐息と唇だけでじらして、ゆっくり寄り添うキスを落として（50秒）。"
+    },
+    {
+      "id": "sc_v2_36",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "title": "氷と火の謎",
+      "text": "「次は氷？それとも火？」目を閉じて45秒、冷たい触れ合いと温かい息、ウェットなキスを交互に。"
+    },
+    {
+      "id": "sc_v2_37",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "roleplay"
+      ],
+      "title": "プライベートスタイリスト",
+      "text": "「直させてね…」45秒のスタイリストごっこでボタンを外しながら、鎖骨にキスを奪う。"
+    },
+    {
+      "id": "sc_v2_38",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "roleplay"
+      ],
+      "title": "仮名のホテル escape",
+      "text": "「偽名を使おう…」ホテルへ駆け落ちする計画——まずはバーで他人同士として誘い合う。"
+    },
+    {
+      "id": "sc_v2_39",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "blindfold"
+      ],
+      "title": "真夜中の妄想 · #39",
+      "text": "「目、閉じてて…今夜は全部任せて？」吐息と唇だけでじらして、ゆっくり寄り添うキスを落として（60秒）。"
+    },
+    {
+      "id": "sc_v2_40",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "eye_contact"
+      ],
+      "title": "薄明かりのアンコール",
+      "text": "「あなただけに…」一筋の温かいランプの下、ゆっくりした音楽で一枚脱がせ、そっと寄り添いへ。"
+    },
+    {
+      "id": "sc_v2_41",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "restraint_light",
+        "bite_lick"
+      ],
+      "title": "無音チャレンジ",
+      "text": "「唇を触れ、声は出さないで…」弱点を50秒攻め、息が漏れるたびに大胆なキス。"
+    },
+    {
+      "id": "sc_v2_42",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "title": "真夜中の支配者",
+      "text": "「一分間、私のもの…」赤面とそっと寄り添いで果たす、三段階にエスカレートする命令を3つささやく。"
+    },
+    {
+      "id": "sc_v21_d1_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · こめかみと眉間",
+      "text": "ソファの隅で少し悪戯な微笑みを浮かべてを保ち、「しっかり手を握ってから、息のような指先へ」でこめかみと眉間を焦らして（30秒）。最後に「朝までに2人で試してみたい秘密のプレイ」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_02",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 口角のそば",
+      "text": "キッチンカウンターで吐息以外まったく声を出さずにを保ち、「鼻先を合わせた直後のスローキス」で口角のそばを焦らして（30秒）。最後に「今目を見て浮かんだ褒め言葉」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_03",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 肩甲骨まわり",
+      "text": "薄暗い廊下のドア枠で毎回唇1cm手前で焦らしながらを保ち、「息の届く距離で一度止まり、やさしく寄り添う」で肩甲骨まわりを焦らして（30秒）。最後に「会った瞬間に照れた小さな魅力」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_04",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · うなじの生え際",
+      "text": "間接照明のラグの上で耳元で甘い愛称を囁きながらを保ち、「指先をそっと滑らせて、やさしいキスへ」でうなじの生え際を焦らして（30秒）。最後に「相手のどんな声や息遣いに一番弱いか」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_05",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 頬と顎のライン",
+      "text": "小さな灯りだけのベッドサイドで少し悪戯な微笑みを浮かべてを保ち、「熱い吐息の直後にそっと唇を重ねて」で頬と顎のラインを焦らして（30秒）。最後に「明かりを消したら最初にしたいこと」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_06",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 鎖骨の外側",
+      "text": "暖色ライトの窓辺で吐息以外まったく声を出さずにを保ち、「やさしいキスのあと、ゆっくり息を合わせて」で鎖骨の外側を焦らして（30秒）。最後に「一番弱い私の甘え方」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_07",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 肩先",
+      "text": "ソファの肘掛けで毎回唇1cm手前で焦らしながらを保ち、「手のひらをやさしくなぞって、指を絡めて」で肩先を焦らして（30秒）。最後に「こっそり連れ込んでキスしてみたい危険な場所」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_08",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 耳のふち",
+      "text": "ベッドの足元で耳元で甘い愛称を囁きながらを保ち、「冷たい吐息の直後に灼熱の湿ったキス」で耳のふちを焦らして（30秒）。最後に「ずっと離したくなかったハグ」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_09",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 手首の内側",
+      "text": "薄暗い玄関で少し悪戯な微笑みを浮かべてを保ち、「軽いスパンキング2回の直後にとろけるそっと寄り添い」で手首の内側を焦らして（30秒）。最後に「眠る前に本当にしてほしいこと」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_10",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 手のひらと指先",
+      "text": "クローゼットの鏡前で吐息以外まったく声を出さずにを保ち、「髪を撫でてから首筋を引き寄せて」で手のひらと指先を焦らして（30秒）。最後に「今夜相手に着てほしい——あるいは脱いでほしい服」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_11",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 前腕の内側",
+      "text": "クッションの山の上で毎回唇1cm手前で焦らしながらを保ち、「温かな掌のゆっくりした滑りから突然の引き寄せ」で前腕の内側を焦らして（30秒）。最後に「今日ふと頭をよぎった一番えっちな妄想」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_12",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 耳の後ろ",
+      "text": "カーテンの裏側で耳元で甘い愛称を囁きながらを保ち、「衣類の上から、あたたかさをそっと」で耳の後ろを焦らして（30秒）。最後に「手を繋いだ時こっそり考えたこと」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_13",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · あご先",
+      "text": "柔らかな灯りのドレッサー前で少し悪戯な微笑みを浮かべてを保ち、「しっかり手を握ってから、息のような指先へ」であご先を焦らして（30秒）。最後に「電気を消したあと一番してほしい触れ方」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_14",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 鎖骨のくぼみ",
+      "text": "寝室の壁際で吐息以外まったく声を出さずにを保ち、「鼻先を合わせた直後のスローキス」で鎖骨のくぼみを焦らして（30秒）。最後に「今すぐ一番キスしたい相手の体の場所」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_15",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 指の関節と親指",
+      "text": "ベッドの端で毎回唇1cm手前で焦らしながらを保ち、「息の届く距離で一度止まり、やさしく寄り添う」で指の関節と親指を焦らして（30秒）。最後に「キスする時の大好きな癖」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d1_16",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · 首筋のライン",
+      "text": "全身鏡の前で耳元で甘い愛称を囁きながらを保ち、「指先をそっと滑らせて、やさしいキスへ」で首筋のラインを焦らして（30秒）。最後に「今夜どの瞬間に一番理性が揺らいだか」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d2_01",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · うなじの生え際",
+      "text": "間接照明のラグの上で密着し、「羽のような優しいタッチと強いホールドを切り替える」を守りながら鎖骨のくぼみからうなじの生え際へ羽のようにそっと触れて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_02",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 頬と顎のライン",
+      "text": "小さな灯りだけのベッドサイドで密着し、「次の場所へ移る直前に低く名前を呼ぶ」を守りながら手首の脈拍から頬と顎のラインへ唇でじらすように触れて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_03",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 鎖骨の外側",
+      "text": "暖色ライトの窓辺で密着し、「羽のような優しいタッチと強いホールドを切り替える」を守りながら肩甲骨から鎖骨の外側へ唇で何度も焦らすように触れて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_04",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 肩先",
+      "text": "ソファの肘掛けで密着し、「次の場所へ移る直前に低く名前を呼ぶ」を守りながらうなじの生え際から肩先へ指先でゆっくり撫でて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_05",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 耳のふち",
+      "text": "ベッドの足元で密着し、「羽のような優しいタッチと強いホールドを切り替える」を守りながら耳の後ろから耳のふちへ羽のようなキスを落として（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_06",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 手首の内側",
+      "text": "薄暗い玄関で密着し、「次の場所へ移る直前に低く名前を呼ぶ」を守りながら脇腹のラインから手首の内側へ温かな手でじっくりほぐして（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_07",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 手のひらと指先",
+      "text": "クローゼットの鏡前で密着し、「羽のような優しいタッチと強いホールドを切り替える」を守りながら喉元のくぼみから手のひらと指先へ温かい吐息をそっと吹きかけて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_08",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 前腕の内側",
+      "text": "クッションの山の上で密着し、「次の場所へ移る直前に低く名前を呼ぶ」を守りながら腰のくぼみから前腕の内側へ熱い吐息をゆっくり吹きかけて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_09",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 耳の後ろ",
+      "text": "カーテンの裏側で密着し、「羽のような優しいタッチと強いホールドを切り替える」を守りながら鎖骨のくぼみから耳の後ろへ温かい掌でゆっくり包んで（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_10",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · あご先",
+      "text": "柔らかな灯りのドレッサー前で密着し、「次の場所へ移る直前に低く名前を呼ぶ」を守りながら手首の脈拍からあご先へ鼻先でそっと擦り寄って（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_11",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 鎖骨のくぼみ",
+      "text": "寝室の壁際で密着し、「羽のような優しいタッチと強いホールドを切り替える」を守りながら肩甲骨から鎖骨のくぼみへ長いスローキスを重ねて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_12",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 指の関節と親指",
+      "text": "ベッドの端で密着し、「次の場所へ移る直前に低く名前を呼ぶ」を守りながらうなじの生え際から指の関節と親指へ指腹で小さく円を描いて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_13",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 首筋のライン",
+      "text": "全身鏡の前で密着し、「羽のような優しいタッチと強いホールドを切り替える」を守りながら耳の後ろから首筋のラインへ羽のようにそっと触れて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_14",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · こめかみと眉間",
+      "text": "ソファの隅で密着し、「次の場所へ移る直前に低く名前を呼ぶ」を守りながら脇腹のラインからこめかみと眉間へ唇でじらすように触れて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d3_01",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 背骨のライン",
+      "text": "ソファの肘掛けで熱い吐息と湿った息を沿わせてゆっくりなぞってを交互に背骨のラインへ。ルール：次の場所へ移る直前に低く名前を呼ぶ（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_02",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · うなじの生え際",
+      "text": "ベッドの足元で熱い吐息と優しくやさしいキスしてを交互にうなじの生え際へ。ルール：羽のような優しいタッチと強いホールドを切り替える（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_03",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 首筋",
+      "text": "薄暗い玄関で熱い吐息と唇と指先を交互に使って焦らしてを交互に首筋へ。ルール：次の場所へ移る直前に低く名前を呼ぶ（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_04",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 太ももの内側",
+      "text": "クローゼットの鏡前で熱い吐息とやさしいキスの直後に優しくキスで癒やしてを交互に太ももの内側へ。ルール：羽のような優しいタッチと強いホールドを切り替える（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_05",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 腰骨のあたり",
+      "text": "クッションの山の上で熱い吐息と息を沿わせてじらすように息をそっと寄せてを交互に腰骨のあたりへ。ルール：次の場所へ移る直前に低く名前を呼ぶ（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_06",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 耳たぶ",
+      "text": "カーテンの裏側で熱い吐息とそっと吸い上げてから深くキスしてを交互に耳たぶへ。ルール：羽のような優しいタッチと強いホールドを切り替える（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_07",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 腰のくびれ",
+      "text": "柔らかな灯りのドレッサー前で熱い吐息と熱い吐息とキスを連続で落としてを交互に腰のくびれへ。ルール：次の場所へ移る直前に低く名前を呼ぶ（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_08",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 下腹部",
+      "text": "寝室の壁際で熱い吐息と息が上がるほど深くキスしてを交互に下腹部へ。ルール：羽のような優しいタッチと強いホールドを切り替える（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_09",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 胸元と脇腹",
+      "text": "ベッドの端で熱い吐息と湿った息を沿わせてゆっくりなぞってを交互に胸元と脇腹へ。ルール：次の場所へ移る直前に低く名前を呼ぶ（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_10",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 鎖骨",
+      "text": "全身鏡の前で熱い吐息と優しくやさしいキスしてを交互に鎖骨へ。ルール：羽のような優しいタッチと強いホールドを切り替える（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_11",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 背骨のライン",
+      "text": "ソファの隅で熱い吐息と唇と指先を交互に使って焦らしてを交互に背骨のラインへ。ルール：次の場所へ移る直前に低く名前を呼ぶ（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_12",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · うなじの生え際",
+      "text": "キッチンカウンターで熱い吐息とやさしいキスの直後に優しくキスで癒やしてを交互にうなじの生え際へ。ルール：羽のような優しいタッチと強いホールドを切り替える（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_13",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 首筋",
+      "text": "薄暗い廊下のドア枠で熱い吐息と息を沿わせてじらすように息をそっと寄せてを交互に首筋へ。ルール：次の場所へ移る直前に低く名前を呼ぶ（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_14",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 太ももの内側",
+      "text": "間接照明のラグの上で熱い吐息とそっと吸い上げてから深くキスしてを交互に太ももの内側へ。ルール：羽のような優しいタッチと強いホールドを切り替える（45秒）。"
+    },
+    {
+      "id": "sc_v21_d4_01",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 背骨の一番下",
+      "text": "クローゼットの鏡前で片手で相手の両手首を頭上にそっとそっと包みをとり、極限まで遅い指先でアクセサリー1点＋上の1枚をずらして背骨の一番下へやさしいキスの直後に優しくキスで癒やして（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_02",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · くびれの奥",
+      "text": "クッションの山の上で顎をそっと持ち上げて視線を逃がさずをとり、まず手の甲でなぞってから熱い唇でファスナーまたはウエストの縁をずらしてくびれの奥へ息を沿わせてじらすように息をそっと寄せて（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_03",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 下腹部の敏感ライン",
+      "text": "カーテンの裏側で頭の後ろで指を組ませて無防備にさせをとり、相手自身の手を導きながらでトップスの裾をずらして下腹部の敏感ラインへそっと吸い上げてから深くキスして（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_04",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 腰のカーブ",
+      "text": "柔らかな灯りのドレッサー前で両手をベッドボードにつけたまま動かさずをとり、熱い吐息と唇だけであなたが選んだ服1枚をずらして腰のカーブへ熱い吐息とキスを連続で落として（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_05",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 太ももの内側",
+      "text": "寝室の壁際で腰を抱えて壁にそっと密着させをとり、視線を外さず片手だけでシャツのボタン2つをずらして太ももの内側へ息が上がるほど深くキスして（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_06",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 鎖骨の下",
+      "text": "ベッドの端で相手の両手を背中の後ろで軽くロックしをとり、手を使わず唇と歯だけで肩紐または上着の襟をずらして鎖骨の下へ湿った息を沿わせてゆっくりなぞって（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_07",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 胸元と肋骨のライン",
+      "text": "全身鏡の前で片手で相手の両手首を頭上にそっとそっと包みをとり、極限まで遅い指先でアクセサリー1点＋上の1枚をずらして胸元と肋骨のラインへ優しくやさしいキスして（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_08",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · ヒップと腰骨の境目",
+      "text": "ソファの隅で顎をそっと持ち上げて視線を逃がさずをとり、まず手の甲でなぞってから熱い唇でファスナーまたはウエストの縁をずらしてヒップと腰骨の境目へ唇と指先を交互に使って焦らして（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_09",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 背骨の一番下",
+      "text": "キッチンカウンターで頭の後ろで指を組ませて無防備にさせをとり、相手自身の手を導きながらでトップスの裾をずらして背骨の一番下へやさしいキスの直後に優しくキスで癒やして（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_10",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · くびれの奥",
+      "text": "薄暗い廊下のドア枠で両手をベッドボードにつけたまま動かさずをとり、熱い吐息と唇だけであなたが選んだ服1枚をずらしてくびれの奥へ息を沿わせてじらすように息をそっと寄せて（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_11",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 下腹部の敏感ライン",
+      "text": "間接照明のラグの上で腰を抱えて壁にそっと密着させをとり、視線を外さず片手だけでシャツのボタン2つをずらして下腹部の敏感ラインへそっと吸い上げてから深くキスして（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_12",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 腰のカーブ",
+      "text": "小さな灯りだけのベッドサイドで相手の両手を背中の後ろで軽くロックしをとり、手を使わず唇と歯だけで肩紐または上着の襟をずらして腰のカーブへ熱い吐息とキスを連続で落として（55秒）。"
+    },
+    {
+      "id": "sc_v21_l1_01",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · クローゼットの鏡前",
+      "text": "クローゼットの鏡前を薄暗いホテルのバーに見立て、吐息以外まったく声を出さずにしながら手のひらと指先をゆっくり長いスローキスを重ねて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_02",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · クッションの山の上",
+      "text": "クッションの山の上を2人だけの露天テラスに見立て、毎回唇1cm手前で焦らしながらしながら前腕の内側をゆっくり指腹で小さく円を描いて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_03",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · カーテンの裏側",
+      "text": "カーテンの裏側をキャンドル香るバスルームに見立て、耳元で甘い愛称を囁きながらしながら耳の後ろをゆっくり羽のようにそっと触れて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_04",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · 柔らかな灯りのドレッサー前",
+      "text": "柔らかな灯りのドレッサー前を雨音の響く屋根裏ベッドに見立て、少し悪戯な微笑みを浮かべてしながらあご先をゆっくり唇でじらすように触れて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_05",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · 寝室の壁際",
+      "text": "寝室の壁際を真夜中の海辺バルコニーに見立て、吐息以外まったく声を出さずにしながら鎖骨のくぼみをゆっくり唇で何度も焦らすように触れて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_06",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · ベッドの端",
+      "text": "ベッドの端を秘密の深夜ジャズバーに見立て、毎回唇1cm手前で焦らしながらしながら指の関節と親指をゆっくり指先でゆっくり撫でて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_07",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · 全身鏡の前",
+      "text": "全身鏡の前を星降る秘密の中庭に見立て、耳元で甘い愛称を囁きながらしながら首筋のラインをゆっくり羽のようなキスを落として（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_08",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · ソファの隅",
+      "text": "ソファの隅を薄暗いシアタールームに見立て、少し悪戯な微笑みを浮かべてしながらこめかみと眉間をゆっくり温かな手でじっくりほぐして（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_09",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · キッチンカウンター",
+      "text": "キッチンカウンターを月明かりの窓際に見立て、吐息以外まったく声を出さずにしながら口角のそばをゆっくり温かい吐息をそっと吹きかけて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_10",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · 薄暗い廊下のドア枠",
+      "text": "薄暗い廊下のドア枠を暖炉が揺れる隠れ家コテージに見立て、毎回唇1cm手前で焦らしながらしながら肩甲骨まわりをゆっくり熱い吐息をゆっくり吹きかけて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_11",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · 間接照明のラグの上",
+      "text": "間接照明のラグの上を雨のペントハウススイートに見立て、耳元で甘い愛称を囁きながらしながらうなじの生え際をゆっくり温かい掌でゆっくり包んで（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_12",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · 小さな灯りだけのベッドサイド",
+      "text": "小さな灯りだけのベッドサイドをレースカーテンの窓辺に見立て、少し悪戯な微笑みを浮かべてしながら頬と顎のラインをゆっくり鼻先でそっと擦り寄って（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_13",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · 暖色ライトの窓辺",
+      "text": "暖色ライトの窓辺を潮風の海辺バンに見立て、吐息以外まったく声を出さずにしながら鎖骨の外側をゆっくり長いスローキスを重ねて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_14",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · ソファの肘掛け",
+      "text": "ソファの肘掛けをキャンドルの灯るルーフトップに見立て、毎回唇1cm手前で焦らしながらしながら肩先をゆっくり指腹で小さく円を描いて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_15",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · ベッドの足元",
+      "text": "ベッドの足元を薄暗いホテルのバーに見立て、耳元で甘い愛称を囁きながらしながら耳のふちをゆっくり羽のようにそっと触れて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l1_16",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "2人の空間 · 薄暗い玄関",
+      "text": "薄暗い玄関を2人だけの露天テラスに見立て、少し悪戯な微笑みを浮かべてしながら手首の内側をゆっくり唇でじらすように触れて（30秒）。"
+    },
+    {
+      "id": "sc_v21_l2_01",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · 柔らかな灯りのドレッサー前",
+      "text": "柔らかな灯りのドレッサー前へ移動し、「しっかり手を握ってから、息のような指先へ」で手首の脈拍からあご先までじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_02",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · 寝室の壁際",
+      "text": "寝室の壁際へ移動し、「鼻先を合わせた直後のスローキス」で肩甲骨から鎖骨のくぼみまでじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_03",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · ベッドの端",
+      "text": "ベッドの端へ移動し、「息の届く距離で一度止まり、やさしく寄り添う」でうなじの生え際から指の関節と親指までじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_04",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · 全身鏡の前",
+      "text": "全身鏡の前へ移動し、「指先をそっと滑らせて、やさしいキスへ」で耳の後ろから首筋のラインまでじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_05",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · ソファの隅",
+      "text": "ソファの隅へ移動し、「熱い吐息の直後にそっと唇を重ねて」で脇腹のラインからこめかみと眉間までじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_06",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · キッチンカウンター",
+      "text": "キッチンカウンターへ移動し、「やさしいキスのあと、ゆっくり息を合わせて」で喉元のくぼみから口角のそばまでじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_07",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · 薄暗い廊下のドア枠",
+      "text": "薄暗い廊下のドア枠へ移動し、「手のひらをやさしくなぞって、指を絡めて」で腰のくぼみから肩甲骨まわりまでじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_08",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · 間接照明のラグの上",
+      "text": "間接照明のラグの上へ移動し、「冷たい吐息の直後に灼熱の湿ったキス」で鎖骨のくぼみからうなじの生え際までじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_09",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · 小さな灯りだけのベッドサイド",
+      "text": "小さな灯りだけのベッドサイドへ移動し、「軽いスパンキング2回の直後にとろけるそっと寄り添い」で手首の脈拍から頬と顎のラインまでじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_10",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · 暖色ライトの窓辺",
+      "text": "暖色ライトの窓辺へ移動し、「髪を撫でてから首筋を引き寄せて」で肩甲骨から鎖骨の外側までじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_11",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · ソファの肘掛け",
+      "text": "ソファの肘掛けへ移動し、「温かな掌のゆっくりした滑りから突然の引き寄せ」でうなじの生え際から肩先までじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_12",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · ベッドの足元",
+      "text": "ベッドの足元へ移動し、「衣類の上から、あたたかさをそっと」で耳の後ろから耳のふちまでじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_13",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · 薄暗い玄関",
+      "text": "薄暗い玄関へ移動し、「しっかり手を握ってから、息のような指先へ」で脇腹のラインから手首の内側までじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_14",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · クローゼットの鏡前",
+      "text": "クローゼットの鏡前へ移動し、「鼻先を合わせた直後のスローキス」で喉元のくぼみから手のひらと指先までじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l3_01",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · 全身鏡の前",
+      "text": "全身鏡の前で「羽のような優しいタッチと強いホールドを切り替える」を守りつつ相手を引き寄せ、うなじの生え際を集中して優しくやさしいキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_02",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · ソファの隅",
+      "text": "ソファの隅で「次の場所へ移る直前に低く名前を呼ぶ」を守りつつ相手を引き寄せ、首筋を集中して唇と指先を交互に使って焦らして（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_03",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · キッチンカウンター",
+      "text": "キッチンカウンターで「羽のような優しいタッチと強いホールドを切り替える」を守りつつ相手を引き寄せ、太ももの内側を集中してやさしいキスの直後に優しくキスで癒やして（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_04",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · 薄暗い廊下のドア枠",
+      "text": "薄暗い廊下のドア枠で「次の場所へ移る直前に低く名前を呼ぶ」を守りつつ相手を引き寄せ、腰骨のあたりを集中して息を沿わせてじらすように息をそっと寄せて（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_05",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · 間接照明のラグの上",
+      "text": "間接照明のラグの上で「羽のような優しいタッチと強いホールドを切り替える」を守りつつ相手を引き寄せ、耳たぶを集中してそっと吸い上げてから深くキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_06",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · 小さな灯りだけのベッドサイド",
+      "text": "小さな灯りだけのベッドサイドで「次の場所へ移る直前に低く名前を呼ぶ」を守りつつ相手を引き寄せ、腰のくびれを集中して熱い吐息とキスを連続で落として（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_07",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · 暖色ライトの窓辺",
+      "text": "暖色ライトの窓辺で「羽のような優しいタッチと強いホールドを切り替える」を守りつつ相手を引き寄せ、下腹部を集中して息が上がるほど深くキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_08",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · ソファの肘掛け",
+      "text": "ソファの肘掛けで「次の場所へ移る直前に低く名前を呼ぶ」を守りつつ相手を引き寄せ、胸元と脇腹を集中して湿った息を沿わせてゆっくりなぞって（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_09",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · ベッドの足元",
+      "text": "ベッドの足元で「羽のような優しいタッチと強いホールドを切り替える」を守りつつ相手を引き寄せ、鎖骨を集中して優しくやさしいキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_10",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · 薄暗い玄関",
+      "text": "薄暗い玄関で「次の場所へ移る直前に低く名前を呼ぶ」を守りつつ相手を引き寄せ、背骨のラインを集中して唇と指先を交互に使って焦らして（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_11",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · クローゼットの鏡前",
+      "text": "クローゼットの鏡前で「羽のような優しいタッチと強いホールドを切り替える」を守りつつ相手を引き寄せ、うなじの生え際を集中してやさしいキスの直後に優しくキスで癒やして（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_12",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · クッションの山の上",
+      "text": "クッションの山の上で「次の場所へ移る直前に低く名前を呼ぶ」を守りつつ相手を引き寄せ、首筋を集中して息を沿わせてじらすように息をそっと寄せて（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_13",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · カーテンの裏側",
+      "text": "カーテンの裏側で「羽のような優しいタッチと強いホールドを切り替える」を守りつつ相手を引き寄せ、太ももの内側を集中してそっと吸い上げてから深くキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_l4_01",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · 薄暗い廊下のドア枠",
+      "text": "薄暗い廊下のドア枠で「寝室の壁にもたれて、ゆっくり寄り添う体勢」と相手の両手を背中の後ろで軽くロックしを決め、くびれの奥をじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_02",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · 間接照明のラグの上",
+      "text": "間接照明のラグの上で「向かい合わせで膝に向かい合わせで寄り添う体勢」と片手で相手の両手首を頭上にそっとそっと包みを決め、下腹部の敏感ラインをじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_03",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · 小さな灯りだけのベッドサイド",
+      "text": "小さな灯りだけのベッドサイドで「枕に腰を預けて軽く反らす体勢」と顎をそっと持ち上げて視線を逃がさずを決め、腰のカーブをじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_04",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · 暖色ライトの窓辺",
+      "text": "暖色ライトの窓辺で「目を閉じて横になり完全に委ねる体勢」と頭の後ろで指を組ませて無防備にさせを決め、太ももの内側をじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_05",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · ソファの肘掛け",
+      "text": "ソファの肘掛けで「ベッドの端に浅く仰向けになる体勢」と両手をベッドボードにつけたまま動かさずを決め、鎖骨の下をじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_06",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · ベッドの足元",
+      "text": "ベッドの足元で「鏡の前で後ろから深く抱き合う体勢」と腰を抱えて壁にそっと密着させを決め、胸元と肋骨のラインをじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_07",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · 薄暗い玄関",
+      "text": "薄暗い玄関で「ベッドの上で膝を合わせて向き合う体勢」と相手の両手を背中の後ろで軽くロックしを決め、ヒップと腰骨の境目をじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_08",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · クローゼットの鏡前",
+      "text": "クローゼットの鏡前で「寝室の壁にもたれて、ゆっくり寄り添う体勢」と片手で相手の両手首を頭上にそっとそっと包みを決め、背骨の一番下をじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_09",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · クッションの山の上",
+      "text": "クッションの山の上で「向かい合わせで膝に向かい合わせで寄り添う体勢」と顎をそっと持ち上げて視線を逃がさずを決め、くびれの奥をじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_10",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · カーテンの裏側",
+      "text": "カーテンの裏側で「枕に腰を預けて軽く反らす体勢」と頭の後ろで指を組ませて無防備にさせを決め、下腹部の敏感ラインをじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_11",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · 柔らかな灯りのドレッサー前",
+      "text": "柔らかな灯りのドレッサー前で「目を閉じて横になり完全に委ねる体勢」と両手をベッドボードにつけたまま動かさずを決め、腰のカーブをじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_12",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · 寝室の壁際",
+      "text": "寝室の壁際で「ベッドの端に浅く仰向けになる体勢」と腰を抱えて壁にそっと密着させを決め、太ももの内側をじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_13",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · ベッドの端",
+      "text": "ベッドの端で「鏡の前で後ろから深く抱き合う体勢」と相手の両手を背中の後ろで軽くロックしを決め、鎖骨の下をじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_f1_01",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · キャンドルの灯るルーフトップ",
+      "text": "キャンドルの灯るルーフトップを想像しながら薄暗い廊下のドア枠で「会った瞬間に照れた小さな魅力」を囁き、肩甲骨まわりを指先でゆっくり撫でて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_02",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 薄暗いホテルのバー",
+      "text": "薄暗いホテルのバーを想像しながら間接照明のラグの上で「相手のどんな声や息遣いに一番弱いか」を囁き、うなじの生え際を羽のようなキスを落として（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_03",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 2人だけの露天テラス",
+      "text": "2人だけの露天テラスを想像しながら小さな灯りだけのベッドサイドで「明かりを消したら最初にしたいこと」を囁き、頬と顎のラインを温かな手でじっくりほぐして（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_04",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · キャンドル香るバスルーム",
+      "text": "キャンドル香るバスルームを想像しながら暖色ライトの窓辺で「一番弱い私の甘え方」を囁き、鎖骨の外側を温かい吐息をそっと吹きかけて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_05",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 雨音の響く屋根裏ベッド",
+      "text": "雨音の響く屋根裏ベッドを想像しながらソファの肘掛けで「こっそり連れ込んでキスしてみたい危険な場所」を囁き、肩先を熱い吐息をゆっくり吹きかけて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_06",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 真夜中の海辺バルコニー",
+      "text": "真夜中の海辺バルコニーを想像しながらベッドの足元で「ずっと離したくなかったハグ」を囁き、耳のふちを温かい掌でゆっくり包んで（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_07",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 秘密の深夜ジャズバー",
+      "text": "秘密の深夜ジャズバーを想像しながら薄暗い玄関で「眠る前に本当にしてほしいこと」を囁き、手首の内側を鼻先でそっと擦り寄って（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_08",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 星降る秘密の中庭",
+      "text": "星降る秘密の中庭を想像しながらクローゼットの鏡前で「今夜相手に着てほしい——あるいは脱いでほしい服」を囁き、手のひらと指先を長いスローキスを重ねて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_09",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 薄暗いシアタールーム",
+      "text": "薄暗いシアタールームを想像しながらクッションの山の上で「今日ふと頭をよぎった一番えっちな妄想」を囁き、前腕の内側を指腹で小さく円を描いて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_10",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 月明かりの窓際",
+      "text": "月明かりの窓際を想像しながらカーテンの裏側で「手を繋いだ時こっそり考えたこと」を囁き、耳の後ろを羽のようにそっと触れて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_11",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 暖炉が揺れる隠れ家コテージ",
+      "text": "暖炉が揺れる隠れ家コテージを想像しながら柔らかな灯りのドレッサー前で「電気を消したあと一番してほしい触れ方」を囁き、あご先を唇でじらすように触れて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_12",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 雨のペントハウススイート",
+      "text": "雨のペントハウススイートを想像しながら寝室の壁際で「今すぐ一番キスしたい相手の体の場所」を囁き、鎖骨のくぼみを唇で何度も焦らすように触れて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_13",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · レースカーテンの窓辺",
+      "text": "レースカーテンの窓辺を想像しながらベッドの端で「キスする時の大好きな癖」を囁き、指の関節と親指を指先でゆっくり撫でて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_14",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 潮風の海辺バン",
+      "text": "潮風の海辺バンを想像しながら全身鏡の前で「今夜どの瞬間に一番理性が揺らいだか」を囁き、首筋のラインを羽のようなキスを落として（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_15",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · キャンドルの灯るルーフトップ",
+      "text": "キャンドルの灯るルーフトップを想像しながらソファの隅で「朝までに2人で試してみたい秘密のプレイ」を囁き、こめかみと眉間を温かな手でじっくりほぐして（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_16",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 薄暗いホテルのバー",
+      "text": "薄暗いホテルのバーを想像しながらキッチンカウンターで「今目を見て浮かんだ褒め言葉」を囁き、口角のそばを温かい吐息をそっと吹きかけて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f1_17",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "甘い劇場 · 2人だけの露天テラス",
+      "text": "2人だけの露天テラスを想像しながら薄暗い廊下のドア枠で「会った瞬間に照れた小さな魅力」を囁き、肩甲骨まわりを熱い吐息をゆっくり吹きかけて（30秒）。"
+    },
+    {
+      "id": "sc_v21_f2_01",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 真夜中の海辺バルコニー",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：暖色ライトの窓辺で「やさしいキスのあと、ゆっくり息を合わせて」を使い鎖骨の外側を焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_02",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 秘密の深夜ジャズバー",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：ソファの肘掛けで「手のひらをやさしくなぞって、指を絡めて」を使い肩先を焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_03",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 星降る秘密の中庭",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：ベッドの足元で「冷たい吐息の直後に灼熱の湿ったキス」を使い耳のふちを焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_04",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 薄暗いシアタールーム",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：薄暗い玄関で「軽いスパンキング2回の直後にとろけるそっと寄り添い」を使い手首の内側を焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_05",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 月明かりの窓際",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：クローゼットの鏡前で「髪を撫でてから首筋を引き寄せて」を使い手のひらと指先を焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_06",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 暖炉が揺れる隠れ家コテージ",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：クッションの山の上で「温かな掌のゆっくりした滑りから突然の引き寄せ」を使い前腕の内側を焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_07",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 雨のペントハウススイート",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：カーテンの裏側で「衣類の上から、あたたかさをそっと」を使い耳の後ろを焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_08",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · レースカーテンの窓辺",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：柔らかな灯りのドレッサー前で「しっかり手を握ってから、息のような指先へ」を使いあご先を焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_09",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 潮風の海辺バン",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：寝室の壁際で「鼻先を合わせた直後のスローキス」を使い鎖骨のくぼみを焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_10",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · キャンドルの灯るルーフトップ",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：ベッドの端で「息の届く距離で一度止まり、やさしく寄り添う」を使い指の関節と親指を焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_11",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 薄暗いホテルのバー",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：全身鏡の前で「指先をそっと滑らせて、やさしいキスへ」を使い首筋のラインを焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_12",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 2人だけの露天テラス",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：ソファの隅で「熱い吐息の直後にそっと唇を重ねて」を使いこめかみと眉間を焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_13",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · キャンドル香るバスルーム",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：キッチンカウンターで「やさしいキスのあと、ゆっくり息を合わせて」を使い口角のそばを焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_14",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 雨音の響く屋根裏ベッド",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：薄暗い廊下のドア枠で「手のひらをやさしくなぞって、指を絡めて」を使い肩甲骨まわりを焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f3_01",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 首筋",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：薄暗い玄関で「次の場所へ移る直前に低く名前を呼ぶ」に沿って首筋を唇と指先を交互に使って焦らして（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_02",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 太ももの内側",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：クローゼットの鏡前で「羽のような優しいタッチと強いホールドを切り替える」に沿って太ももの内側をやさしいキスの直後に優しくキスで癒やして（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_03",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 腰骨のあたり",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：クッションの山の上で「次の場所へ移る直前に低く名前を呼ぶ」に沿って腰骨のあたりを息を沿わせてじらすように息をそっと寄せて（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_04",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 耳たぶ",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：カーテンの裏側で「羽のような優しいタッチと強いホールドを切り替える」に沿って耳たぶをそっと吸い上げてから深くキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_05",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 腰のくびれ",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：柔らかな灯りのドレッサー前で「次の場所へ移る直前に低く名前を呼ぶ」に沿って腰のくびれを熱い吐息とキスを連続で落として（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_06",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 下腹部",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：寝室の壁際で「羽のような優しいタッチと強いホールドを切り替える」に沿って下腹部を息が上がるほど深くキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_07",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 胸元と脇腹",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：ベッドの端で「次の場所へ移る直前に低く名前を呼ぶ」に沿って胸元と脇腹を湿った息を沿わせてゆっくりなぞって（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_08",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 鎖骨",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：全身鏡の前で「羽のような優しいタッチと強いホールドを切り替える」に沿って鎖骨を優しくやさしいキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_09",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 背骨のライン",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：ソファの隅で「次の場所へ移る直前に低く名前を呼ぶ」に沿って背骨のラインを唇と指先を交互に使って焦らして（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_10",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · うなじの生え際",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：キッチンカウンターで「羽のような優しいタッチと強いホールドを切り替える」に沿ってうなじの生え際をやさしいキスの直後に優しくキスで癒やして（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_11",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 首筋",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：薄暗い廊下のドア枠で「次の場所へ移る直前に低く名前を呼ぶ」に沿って首筋を息を沿わせてじらすように息をそっと寄せて（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_12",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 太ももの内側",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：間接照明のラグの上で「羽のような優しいタッチと強いホールドを切り替える」に沿って太ももの内側をそっと吸い上げてから深くキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_13",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 腰骨のあたり",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：小さな灯りだけのベッドサイドで「次の場所へ移る直前に低く名前を呼ぶ」に沿って腰骨のあたりを熱い吐息とキスを連続で落として（45秒）。"
+    },
+    {
+      "id": "sc_v21_f4_01",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 下腹部の敏感ライン",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：カーテンの裏側で腰を抱えて壁にそっと密着させ、視線を外さず片手だけでシャツのボタン2つ越しに下腹部の敏感ラインへ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_02",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 腰のカーブ",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：柔らかな灯りのドレッサー前で相手の両手を背中の後ろで軽くロックし、手を使わず唇と歯だけで肩紐または上着の襟越しに腰のカーブへ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_03",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 太ももの内側",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：寝室の壁際で片手で相手の両手首を頭上にそっとそっと包み、極限まで遅い指先でアクセサリー1点＋上の1枚越しに太ももの内側へ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_04",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 鎖骨の下",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：ベッドの端で顎をそっと持ち上げて視線を逃がさず、まず手の甲でなぞってから熱い唇でファスナーまたはウエストの縁越しに鎖骨の下へ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_05",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 胸元と肋骨のライン",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：全身鏡の前で頭の後ろで指を組ませて無防備にさせ、相手自身の手を導きながらでトップスの裾越しに胸元と肋骨のラインへ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_06",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · ヒップと腰骨の境目",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：ソファの隅で両手をベッドボードにつけたまま動かさず、熱い吐息と唇だけであなたが選んだ服1枚越しにヒップと腰骨の境目へ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_07",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 背骨の一番下",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：キッチンカウンターで腰を抱えて壁にそっと密着させ、視線を外さず片手だけでシャツのボタン2つ越しに背骨の一番下へ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_08",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · くびれの奥",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：薄暗い廊下のドア枠で相手の両手を背中の後ろで軽くロックし、手を使わず唇と歯だけで肩紐または上着の襟越しにくびれの奥へ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_09",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 下腹部の敏感ライン",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：間接照明のラグの上で片手で相手の両手首を頭上にそっとそっと包み、極限まで遅い指先でアクセサリー1点＋上の1枚越しに下腹部の敏感ラインへ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_10",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 腰のカーブ",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：小さな灯りだけのベッドサイドで顎をそっと持ち上げて視線を逃がさず、まず手の甲でなぞってから熱い唇でファスナーまたはウエストの縁越しに腰のカーブへ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_11",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 太ももの内側",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：暖色ライトの窓辺で頭の後ろで指を組ませて無防備にさせ、相手自身の手を導きながらでトップスの裾越しに太ももの内側へ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_12",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 鎖骨の下",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：ソファの肘掛けで両手をベッドボードにつけたまま動かさず、熱い吐息と唇だけであなたが選んだ服1枚越しに鎖骨の下へ（55秒）。"
+    },
+    {
+      "id": "sc_v21_d1_17",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "優しい刺激 · こめかみと眉間",
+      "text": "ソファの隅で少し悪戯な微笑みを浮かべてを保ち、「熱い吐息の直後にそっと唇を重ねて」でこめかみと眉間を焦らして（30秒）。最後に「朝までに2人で試してみたい秘密のプレイ」を囁いて。"
+    },
+    {
+      "id": "sc_v21_d2_15",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 口角のそば",
+      "text": "キッチンカウンターで密着し、「羽のような優しいタッチと強いホールドを切り替える」を守りながら喉元のくぼみから口角のそばへ唇で何度も焦らすように触れて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_16",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · 肩甲骨まわり",
+      "text": "薄暗い廊下のドア枠で密着し、「次の場所へ移る直前に低く名前を呼ぶ」を守りながら腰のくぼみから肩甲骨まわりへ指先でゆっくり撫でて（35秒）。"
+    },
+    {
+      "id": "sc_v21_d2_17",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "鼓動アップ · うなじの生え際",
+      "text": "間接照明のラグの上で密着し、「羽のような優しいタッチと強いホールドを切り替える」を守りながら鎖骨のくぼみからうなじの生え際へ羽のようなキスを落として（35秒）。"
+    },
+    {
+      "id": "sc_v21_d3_15",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 腰骨のあたり",
+      "text": "小さな灯りだけのベッドサイドで熱い吐息と熱い吐息とキスを連続で落としてを交互に腰骨のあたりへ。ルール：次の場所へ移る直前に低く名前を呼ぶ（45秒）。"
+    },
+    {
+      "id": "sc_v21_d3_16",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密アタック · 耳たぶ",
+      "text": "暖色ライトの窓辺で熱い吐息と息が上がるほど深くキスしてを交互に耳たぶへ。ルール：羽のような優しいタッチと強いホールドを切り替える（45秒）。"
+    },
+    {
+      "id": "sc_v21_d4_13",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 太ももの内側",
+      "text": "暖色ライトの窓辺で片手で相手の両手首を頭上にそっとそっと包みをとり、極限まで遅い指先でアクセサリー1点＋上の1枚をずらして太ももの内側へ息が上がるほど深くキスして（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_14",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 鎖骨の下",
+      "text": "ソファの肘掛けで顎をそっと持ち上げて視線を逃がさずをとり、まず手の甲でなぞってから熱い唇でファスナーまたはウエストの縁をずらして鎖骨の下へ湿った息を沿わせてゆっくりなぞって（55秒）。"
+    },
+    {
+      "id": "sc_v21_d4_15",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "深夜の支配 · 胸元と肋骨のライン",
+      "text": "ベッドの足元で頭の後ろで指を組ませて無防備にさせをとり、相手自身の手を導きながらでトップスの裾をずらして胸元と肋骨のラインへ優しくやさしいキスして（55秒）。"
+    },
+    {
+      "id": "sc_v21_l2_15",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · クッションの山の上",
+      "text": "クッションの山の上へ移動し、「息の届く距離で一度止まり、やさしく寄り添う」で腰のくぼみから前腕の内側までじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_16",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · カーテンの裏側",
+      "text": "カーテンの裏側へ移動し、「指先をそっと滑らせて、やさしいキスへ」で鎖骨のくぼみから耳の後ろまでじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_17",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · 柔らかな灯りのドレッサー前",
+      "text": "柔らかな灯りのドレッサー前へ移動し、「熱い吐息の直後にそっと唇を重ねて」で手首の脈拍からあご先までじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l2_18",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "秘密スポット · 寝室の壁際",
+      "text": "寝室の壁際へ移動し、「やさしいキスのあと、ゆっくり息を合わせて」で肩甲骨から鎖骨のくぼみまでじっくり焦らす（35秒）。"
+    },
+    {
+      "id": "sc_v21_l3_14",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · 柔らかな灯りのドレッサー前",
+      "text": "柔らかな灯りのドレッサー前で「次の場所へ移る直前に低く名前を呼ぶ」を守りつつ相手を引き寄せ、腰骨のあたりを集中して熱い吐息とキスを連続で落として（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_15",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · 寝室の壁際",
+      "text": "寝室の壁際で「羽のような優しいタッチと強いホールドを切り替える」を守りつつ相手を引き寄せ、耳たぶを集中して息が上がるほど深くキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_l3_16",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "密着ステージ · ベッドの端",
+      "text": "ベッドの端で「次の場所へ移る直前に低く名前を呼ぶ」を守りつつ相手を引き寄せ、腰のくびれを集中して湿った息を沿わせてゆっくりなぞって（45秒）。"
+    },
+    {
+      "id": "sc_v21_l4_14",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · 全身鏡の前",
+      "text": "全身鏡の前で「ベッドの上で膝を合わせて向き合う体勢」と片手で相手の両手首を頭上にそっとそっと包みを決め、胸元と肋骨のラインをじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_l4_15",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "大胆ステージ · ソファの隅",
+      "text": "ソファの隅で「寝室の壁にもたれて、ゆっくり寄り添う体勢」と顎をそっと持ち上げて視線を逃がさずを決め、ヒップと腰骨の境目をじっくり探る（55秒）。"
+    },
+    {
+      "id": "sc_v21_f2_15",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 真夜中の海辺バルコニー",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：間接照明のラグの上で「冷たい吐息の直後に灼熱の湿ったキス」を使いうなじの生え際を焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_16",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 秘密の深夜ジャズバー",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：小さな灯りだけのベッドサイドで「軽いスパンキング2回の直後にとろけるそっと寄り添い」を使い頬と顎のラインを焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f2_17",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "小悪魔シナリオ · 星降る秘密の中庭",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を開幕：暖色ライトの窓辺で「髪を撫でてから首筋を引き寄せて」を使い鎖骨の外側を焦らして（35秒）。"
+    },
+    {
+      "id": "sc_v21_f3_14",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 耳たぶ",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：暖色ライトの窓辺で「羽のような優しいタッチと強いホールドを切り替える」に沿って耳たぶを息が上がるほど深くキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_15",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 腰のくびれ",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：ソファの肘掛けで「次の場所へ移る直前に低く名前を呼ぶ」に沿って腰のくびれを湿った息を沿わせてゆっくりなぞって（45秒）。"
+    },
+    {
+      "id": "sc_v21_f3_16",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "濃密ファンタジー · 下腹部",
+      "text": "「偽名でペントハウスにチェックインする逃避行」を熱演：ベッドの足元で「羽のような優しいタッチと強いホールドを切り替える」に沿って下腹部を優しくやさしいキスして（45秒）。"
+    },
+    {
+      "id": "sc_v21_f4_13",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 胸元と肋骨のライン",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：ベッドの足元で腰を抱えて壁にそっと密着させ、視線を外さず片手だけでシャツのボタン2つ越しに胸元と肋骨のラインへ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_14",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · ヒップと腰骨の境目",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：薄暗い玄関で相手の両手を背中の後ろで軽くロックし、手を使わず唇と歯だけで肩紐または上着の襟越しにヒップと腰骨の境目へ（55秒）。"
+    },
+    {
+      "id": "sc_v21_f4_15",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "極上ファンタジー · 背骨の一番下",
+      "text": "「偽名でペントハウスにチェックインする逃避行」のクライマックス：クローゼットの鏡前で片手で相手の両手首を頭上にそっとそっと包み、極限まで遅い指先でアクセサリー1点＋上の1枚越しに背骨の一番下へ（55秒）。"
+    }
+  ]
+}

@@ -1,0 +1,445 @@
+{
+  "version": 1,
+  "categories": [
+    "dining",
+    "outdoor",
+    "indoor",
+    "culture",
+    "getaway",
+    "ritual"
+  ],
+  "activities": [
+    {
+      "id": "dp_dining_01",
+      "category": "dining",
+      "tier": 1,
+      "durationMin": 90,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "從零開始一起做一道菜",
+      "detail": "分工合作，為鹽量拌兩句嘴，然後直接端鍋上桌吃掉。"
+    },
+    {
+      "id": "dp_dining_02",
+      "category": "dining",
+      "tier": 1,
+      "durationMin": 120,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "複刻你們第一次約會那晚的菜",
+      "detail": "同樣的菜、同樣的歌單、同樣的座位。講講那天是怎麼開始的。"
+    },
+    {
+      "id": "dp_dining_03",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 100,
+      "tags": [
+        "indoor",
+        "eye_contact"
+      ],
+      "title": "盲選三道菜，一樣都不能看",
+      "detail": "由其中一人替兩個人點單。不偷看、不換菜、不抱怨。"
+    },
+    {
+      "id": "dp_dining_04",
+      "category": "dining",
+      "tier": 1,
+      "durationMin": 75,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "野餐籃、地墊、一條毯子",
+      "detail": "把頂燈關掉，只留氛圍燈。今晚哪兒也不去，這就是全部。"
+    },
+    {
+      "id": "dp_dining_05",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 90,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "做一頓飯，送給只屬於你們兩個人",
+      "detail": "挑一個鄰居、上夜班的人，或者是流浪貓的主人。"
+    },
+    {
+      "id": "dp_dining_06",
+      "category": "dining",
+      "tier": 1,
+      "durationMin": 60,
+      "tags": [
+        "indoor",
+        "eye_contact"
+      ],
+      "title": "床上早餐，全程不許說話",
+      "detail": "一個托盤、兩把勺子、不碰手機。改成互相念新聞給對方聽。"
+    },
+    {
+      "id": "dp_outdoor_01",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 75,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "看日落的散步，哪兒也不用去",
+      "detail": "找條街上視野最好的位置，帶上暖的東西，看天色一點點變。"
+    },
+    {
+      "id": "dp_outdoor_02",
+      "category": "outdoor",
+      "tier": 2,
+      "durationMin": 120,
+      "tags": [
+        "deep_talk",
+        "playful"
+      ],
+      "title": "夜路散步，一小時內不許說話",
+      "detail": "沉默就是規則。一小時到，各自說出腦海裡冒出的第一句話。"
+    },
+    {
+      "id": "dp_outdoor_03",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 180,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "title": "一整天的外出，只有一條規矩：不碰手機",
+      "detail": "只存在彼此眼睛裡的照片。其餘的一切，靠記。"
+    },
+    {
+      "id": "dp_outdoor_04",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 90,
+      "tags": [
+        "playful",
+        "deep_talk"
+      ],
+      "title": "逛市集，各挑一樣食材",
+      "detail": "兩人都願意的話就挑一樣從沒做過的食材。當晚就把它做掉。"
+    },
+    {
+      "id": "dp_outdoor_05",
+      "category": "outdoor",
+      "tier": 2,
+      "durationMin": 100,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "開到海邊，在浪聲裡說出來",
+      "detail": "有些話你憋了好幾個月，海不會評判你。"
+    },
+    {
+      "id": "dp_outdoor_06",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 60,
+      "tags": [
+        "playful",
+        "public_space"
+      ],
+      "title": "街拍任務：在公共場合擺五個姿勢",
+      "detail": "挑五個你們從沒一起做過的姿勢。路人笑就讓他們笑。"
+    },
+    {
+      "id": "dp_indoor_01",
+      "category": "indoor",
+      "tier": 1,
+      "durationMin": 120,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "搭一個毯子堡壘，整晚窩在裡面",
+      "detail": "椅子、夾子、小串燈，還有一條一開始誰也不肯分的毯子。"
+    },
+    {
+      "id": "dp_indoor_02",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 150,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "一幕一幕，重演你們相遇的那一天",
+      "detail": "你們各自演一角，每句台詞都臨場發揮。結局不必圓滿。"
+    },
+    {
+      "id": "dp_indoor_03",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 100,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "慢舞歌單，全程不許說話",
+      "detail": "挑十二首歌，在同一個房間裡跳完。最後一首你們可以換掉。"
+    },
+    {
+      "id": "dp_indoor_04",
+      "category": "indoor",
+      "tier": 1,
+      "durationMin": 90,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "問題罐：寫下、折好、隨機抽",
+      "detail": "寫下那些你一直想問卻沒問的事。沒有哪個問題太小、太難或太尷尬。"
+    },
+    {
+      "id": "dp_indoor_05",
+      "category": "indoor",
+      "tier": 1,
+      "durationMin": 75,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "title": "廚藝節目之夜，做一道外國菜",
+      "detail": "隨機抽一個國家，做一道那個國家真正出名的菜，然後自信地端上桌。"
+    },
+    {
+      "id": "dp_indoor_06",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 120,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "主題之夜：一個顏色、一個房間、一種氛圍",
+      "detail": "紅、藍、金或墨綠。為它穿衣，為它點燈，為它說話。"
+    },
+    {
+      "id": "dp_culture_01",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 120,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "兩個人逛博物館，各看一個展廳",
+      "detail": "各自看不同的東西，然後在約定的地方碰頭，互相講給對方聽。"
+    },
+    {
+      "id": "dp_culture_02",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 100,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "title": "一場從沒聽過的現場音樂",
+      "detail": "小小的場子，便宜的票，演出時不許說話。結束再聊。"
+    },
+    {
+      "id": "dp_culture_03",
+      "category": "culture",
+      "tier": 2,
+      "durationMin": 90,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "詩歌之夜：把寫給對方的東西念出來",
+      "detail": "早上寫幾行字藏起來，今晚念給對方聽。"
+    },
+    {
+      "id": "dp_culture_04",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 90,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "title": "並肩的烹飪課，各自帶一個籃子",
+      "detail": "學一道你們都不會做的菜。課後留下喝一杯。"
+    },
+    {
+      "id": "dp_culture_05",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 75,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "書店約會：各給對方挑一本書",
+      "detail": "買了什麼不用說。回家交換，一起讀第一頁。"
+    },
+    {
+      "id": "dp_culture_06",
+      "category": "culture",
+      "tier": 2,
+      "durationMin": 120,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "聊聊彼此的夢想，各問一個問題",
+      "detail": "不給建議，不解決問題。只提問，然後認真聽五分鐘。"
+    },
+    {
+      "id": "dp_getaway_01",
+      "category": "getaway",
+      "tier": 2,
+      "durationMin": 300,
+      "tags": [
+        "playful",
+        "deep_talk"
+      ],
+      "title": "一場一夜逃離，出城二十分鐘",
+      "detail": "就算只隔十分鐘，也去開一間房住一晚。"
+    },
+    {
+      "id": "dp_getaway_02",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 240,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "坐火車去一個名字好聽的小鎮",
+      "detail": "只憑名字決定目的地。逛一逛，吃點當地的東西，然後回來。"
+    },
+    {
+      "id": "dp_getaway_03",
+      "category": "getaway",
+      "tier": 2,
+      "durationMin": 360,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "微度假：一家酒店、一整天、零計劃",
+      "detail": "訂好房間，然後看當天的心情安排。不允許有任何行程表。"
+    },
+    {
+      "id": "dp_getaway_04",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 180,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "開車去海邊，不定目的地",
+      "detail": "選看起來最舒服的那條路。誰喊停就停。"
+    },
+    {
+      "id": "dp_getaway_05",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 150,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "title": "換個街區，各選一個地址",
+      "detail": "各挑一家從沒去過的咖啡店，一小時後在中點碰頭。"
+    },
+    {
+      "id": "dp_getaway_06",
+      "category": "getaway",
+      "tier": 2,
+      "durationMin": 240,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "給對方一整天的驚喜",
+      "detail": "偷偷計畫好。唯一的規矩：見面那一刻之前不能有任何線索。"
+    },
+    {
+      "id": "dp_ritual_01",
+      "category": "ritual",
+      "tier": 2,
+      "durationMin": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "title": "不趕的一個小時，不碰螢幕",
+      "detail": "手機放到別的房間。其餘的，由你們兩個自己決定。"
+    },
+    {
+      "id": "dp_ritual_02",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 45,
+      "tags": [
+        "deep_talk",
+        "playful"
+      ],
+      "title": "這週的十件好事",
+      "detail": "每人說十件。不許重複，小事也算。"
+    },
+    {
+      "id": "dp_ritual_03",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 30,
+      "tags": [
+        "playful",
+        "eye_contact"
+      ],
+      "title": "各誇對方一句，具體而且是真的",
+      "detail": "不要說「你真好看」。要說這週你真的注意到的事。"
+    },
+    {
+      "id": "dp_ritual_04",
+      "category": "ritual",
+      "tier": 2,
+      "durationMin": 90,
+      "tags": [
+        "physical_light",
+        "roleplay"
+      ],
+      "title": "慢慢洗澡，輪流來",
+      "detail": "一個人洗，另一個人歇。然後交換，別爭。"
+    },
+    {
+      "id": "dp_ritual_05",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 60,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "互相讀書給對方聽",
+      "detail": "輪流念出聲。隨時可以停下來改成聊天。"
+    },
+    {
+      "id": "dp_ritual_06",
+      "category": "ritual",
+      "tier": 2,
+      "durationMin": 120,
+      "tags": [
+        "roleplay",
+        "eye_contact"
+      ],
+      "title": "一個規則：贏的人決定今晚怎麼過",
+      "detail": "來一局快遊戲。贏的人不問意見，直接安排整個晚上。"
+    }
+  ]
+}

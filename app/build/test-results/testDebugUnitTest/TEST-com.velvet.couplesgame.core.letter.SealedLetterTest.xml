@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.velvet.couplesgame.core.letter.SealedLetterTest" tests="12" skipped="0" failures="0" errors="0" timestamp="2026-11-24T02:26:43.413Z" hostname="DESKTOP-T2VIOG1" time="0.003">
+  <properties/>
+  <testcase name="openedLetterStaysOpened" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.001"/>
+  <testcase name="revealDelayIsAtLeastOneDay" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.0"/>
+  <testcase name="dateParsingRejectsGarbage" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.001"/>
+  <testcase name="letterStaysSealedBeforeRevealDate" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.0"/>
+  <testcase name="revealDateIsDerivedFromSealTimePlusDelay" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.0"/>
+  <testcase name="promptsRotateDeterministically" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.0"/>
+  <testcase name="clockRollbackCannotBypassTheRevealDelay" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.0"/>
+  <testcase name="emptyPromptListReturnsEmptyString" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.0"/>
+  <testcase name="sanitizeTrimsAndClamps" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.0"/>
+  <testcase name="invalidRevealDateKeepsLetterSealed" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.0"/>
+  <testcase name="letterBecomesReadyOnRevealDate" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.001"/>
+  <testcase name="withBodyProducesReadableCopy" classname="com.velvet.couplesgame.core.letter.SealedLetterTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

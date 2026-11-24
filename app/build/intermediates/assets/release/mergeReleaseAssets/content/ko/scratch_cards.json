@@ -1,0 +1,3557 @@
+{
+  "cards": [
+    {
+      "id": "sc_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "title": "숨결 눈맞춤",
+      "text": "무릎이 닿을 만큼 마주 앉아 30초간 눈을 떼지 않은 채 파트너가 가장 사랑하는 3가지를 들어보세요."
+    },
+    {
+      "id": "sc_02",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "벨벳 어깨 마사지",
+      "text": "손을 따뜻하게 비빈 뒤 45초간 느리게 어깨와 목을 풀어주고 귀 뒤 키스로 마무리하세요."
+    },
+    {
+      "id": "sc_03",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "playful",
+        "physical_light"
+      ],
+      "title": "등 뒤로 손 감추기",
+      "text": "30초간 손을 등 뒤에 숨긴 채 파트너가 턱선과 목선을 마음껏 키스하게 맡기세요."
+    },
+    {
+      "id": "sc_04",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 30,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "귓불에서 쇄골까지",
+      "text": "귓불을 살짝 깨문 뒤 혀끝과 뜨거운 숨결로 목선을 따라 쇄골까지 30초간 내려가세요."
+    },
+    {
+      "id": "sc_05",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "벨벳 홀드",
+      "text": "한 손으로 파트너의 양손목을 머리 위로 누른 채 45초간 입술 빼고 모든 민감한 곳을 키스하세요."
+    },
+    {
+      "id": "sc_06",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "슬로우 언랩",
+      "text": "파트너의 옷이나 액세서리 1개를 골라 눈을 마주친 채 한 손으로 최대한 천천히 느슨하게주세요."
+    },
+    {
+      "id": "sc_07",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "주방 카운터 키스",
+      "text": "지금 바로 주방으로 이동! 파트너를 카운터에 기대게 하고 영화 같은 부드럽게 가까이를 나누세요."
+    },
+    {
+      "id": "sc_08",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 60,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "거실 러그 밤샘 무드",
+      "text": "메인 조명을 끄고 무드등 아래 러그에 나란히 앉아 15분간 휴대폰 없이 와인을 즐기세요."
+    },
+    {
+      "id": "sc_09",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "벽 밀착 텐션",
+      "text": "가장 가까운 벽이나 문틀에 파트너를 살짝 몰아붙이고 30초간 숨 막히는 밀착 포옹!"
+    },
+    {
+      "id": "sc_10",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "거울 앞 백허그",
+      "text": "거울 앞에 나란히 서서 뒤에서 허리를 감싸 안고 거울 속 시선을 맞춘 채 45초간 목에 키스하세요."
+    },
+    {
+      "id": "sc_11",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "스팀 샤워 약속",
+      "text": "스크래치 쿠폰: 다음 합동 샤워 때 조명을 낮추고 천천히 서로 온몸에 거품을 발라주기."
+    },
+    {
+      "id": "sc_12",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "비밀 엘리베이터 키스",
+      "text": "다음 데이트 때 아무도 없는 복도나 엘리베이터 문이 닫히는 찰나 5초짜리 아찔한 기습 키스!"
+    },
+    {
+      "id": "sc_13",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk"
+      ],
+      "title": "자정의 고백",
+      "text": "영화나 꿈에서 본 뒤 파트너와 꼭 재현해 보고 싶었던 로맨틱한 장면을 고백하세요."
+    },
+    {
+      "id": "sc_14",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "라운지의 낯선 연인",
+      "text": "5분 동안 심야 바에서 처음 만난 낯선 사람처럼 연기하며 상대의 마음을 훔쳐보세요."
+    },
+    {
+      "id": "sc_15",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "얼음과 불꽃 안대",
+      "text": "60초간 눈을 가린 파트너에게 뜨거운 키스, 차가운 유리잔/얼음, 깃털 손끝을 번갈아 선물하세요."
+    },
+    {
+      "id": "sc_16",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "alcohol",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "달콤한 쇄골 자국",
+      "text": "파트너의 목선이나 쇄골에 꿀이나 칵테일을 한 방울 묻혀 숨결을 따라 깨끗이 숨을 살짝 스치게 해주세요."
+    },
+    {
+      "id": "sc_17",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "60초 오늘의 디렉터",
+      "text": "딱 1분 동안 한 명이 귓가로 속삭이는 모든 로맨틱 지시에 파트너가 순순히 따릅니다."
+    },
+    {
+      "id": "sc_18",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "벨벳 골든 특권권",
+      "text": "황금 카드 당첨! 오늘 밤 언제든 원하는 대담한 판타지나 스팽킹+천천히 스며드는 입맞춤 1회권으로 사용하세요."
+    },
+    {
+      "id": "sc_19",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "1cm 숨결 정지",
+      "text": "입술 1cm 앞에서 35초간 뜨거운 숨결만 얽히며 버티다 마지막 1초에 깊게 입 맞추세요."
+    },
+    {
+      "id": "sc_20",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "귓불에서 목 앞선까지",
+      "text": "귓불을 살짝 깨문 뒤 부드럽게 빨고 키스하며 목선 아래로 내려가세요 (35초)."
+    },
+    {
+      "id": "sc_21",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "옷 안쪽 따뜻한 탐색",
+      "text": "손바닥을 따뜻하게 비벼 파트너 옷 안으로 넣어 등줄기·옆구리·허리를 40초간 탐색하세요."
+    },
+    {
+      "id": "sc_22",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "쇄골 아래 비밀 마크",
+      "text": "허리를 바짝 끌어안은 채 쇄골 아래 숨겨진 한 곳을 40초간 부드럽게 빨고 키스하세요."
+    },
+    {
+      "id": "sc_23",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "한 손 단추 풀기",
+      "text": "눈을 떼지 않고 한 손만으로 단추 두 개를 풀거나 어깨끈을 내려 드러난 피부에 45초간 키스하세요."
+    },
+    {
+      "id": "sc_24",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "등 뒤 손목 홀드",
+      "text": "한 손으로 양손목을 등 뒤에 잡은 채 목선과 가슴 라인을 숨을 살짝 스치게 해고 부드러운 입맞춤고 키스하세요 (45초)."
+    },
+    {
+      "id": "sc_25",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "허벅지 안쪽 공략",
+      "text": "파트너 앞에 무릎 꿇고 양쪽 허벅지 안쪽을 뜨거운 숨결·부드러운 입맞춤기·습식 키스로 50초간 올라오세요."
+    },
+    {
+      "id": "sc_26",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "노핸즈 입술 느슨하게",
+      "text": "내 두 손은 등 뒤에! 오직 입술과 치아만으로 어깨끈이나 옷 한 겹을 천천히 내리세요 (45초)."
+    },
+    {
+      "id": "sc_27",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "소파 위 무릎 밀착",
+      "text": "소파에서 파트너를 무릎 위에 마주 앉히고 천천히 흔들며 턱선과 목에 40초간 키스하세요."
+    },
+    {
+      "id": "sc_28",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "문틀 기습 천천히 스며드는 입맞춤",
+      "text": "가장 가까운 문틀에 파트너를 살짝 몰아붙이고 숨 막히는 35초 기습 키스를 빼앗으세요."
+    },
+    {
+      "id": "sc_29",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "침대 끝 아랫배 키스",
+      "text": "파트너를 침대 끝에 눕히고 무릎 사이에 서서 옷자락을 들어 아랫배와 골반에 40초간 키스하세요."
+    },
+    {
+      "id": "sc_30",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "어두운 구석 밀착",
+      "text": "방에서 가장 어두운 구석으로 데려가 허리를 강하게 감싸고 다음 욕망을 귓가에 속삭이세요 (45초)."
+    },
+    {
+      "id": "sc_31",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "침대 헤드 고정",
+      "text": "양손을 침대 헤드에 붙이게 하고 떼지 못하게 한 채 귀 뒤에서 옆구리까지 45초간 습식 키스!"
+    },
+    {
+      "id": "sc_32",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "거울 앞 슬로우 느슨하게",
+      "text": "전신 거울 앞에서 뒤로 끌어안고 거울 속 시선을 맞춘 채 천천히 옷 1작은 도전 벗기세요 (50초)."
+    },
+    {
+      "id": "sc_33",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "의자 위 주도권",
+      "text": "파트너를 튼튼한 의자에 앉히고 마주 보고 마주 보고 가까이 앉기 45초 동안 모든 키스의 깊이를 지배하세요."
+    },
+    {
+      "id": "sc_34",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "외출 비밀 키스 쿠폰",
+      "text": "약속 쿠폰: 다음 데이트 때 사람 없는 모퉁이에서 10초짜리 아찔한 비밀 키스 훔치기!"
+    },
+    {
+      "id": "sc_35",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk"
+      ],
+      "title": "차마 못 꺼낸 욕망",
+      "text": "요즘 자꾸 머릿속에 떠오르지만 부끄러워서 아직 파트너에게 말 못 한 침실 판타지를 고백하세요."
+    },
+    {
+      "id": "sc_36",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "자정의 룸서비스",
+      "text": "45초 즉흥 롤플레이: 와인을 배달하러 온 룸서비스가 자연스럽게 선을 넘는 아찔한 밤."
+    },
+    {
+      "id": "sc_37",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "눈 감고 손길 안내",
+      "text": "파트너가 45초간 눈을 감으면, 상대 손을 잡아 오늘 밤 키스받고 싶은 내 몸 3곳에 직접 얹어주세요."
+    },
+    {
+      "id": "sc_38",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "roleplay",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "마감 후 VIP 테라피",
+      "text": "50초 전담 테라피스트: 어깨를 풀어주다 손을 옷 안으로 미끄러뜨려 등줄기에 뜨거운 키스."
+    },
+    {
+      "id": "sc_39",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "안대 혀끝 테스트",
+      "text": "눈을 감은 45초 동안 뜨거운 숨결, 혀끝 원 그리기, 살짝 부드러운 입맞춤기를 4개 부위에 랜덤으로 선사하세요."
+    },
+    {
+      "id": "sc_40",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "60초 만세 항복",
+      "text": "파트너는 60초간 양손을 머리 위로 올린 채 반격 금지! 전신 민감 구역을 내 페이스대로 애태우세요."
+    },
+    {
+      "id": "sc_41",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "달콤한 흔적 숨을 살짝 스치게 해기",
+      "text": "아랫배나 쇄골에 꿀·얼음물·술을 한 방울 떨어뜨려 입술과 숨결을 따라 남김없이 숨을 살짝 스치게 해내세요 (50초)."
+    },
+    {
+      "id": "sc_42",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "벨벳 안대 완전 복종",
+      "text": "궁극의 카드: 60초 안대 복종 — 자세를 정하고 옷 1겹을 느슨하게 마음껏 전신을 탐색하세요."
+    },
+    {
+      "id": "sc_v2_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "비밀 설렘 미션 · #1",
+      "text": "\"이리 와… 도망가면 안 돼?\" 눈을 맞추며 천천히 어루만지고 뜨거운 키스를 남겨줘 (30초)."
+    },
+    {
+      "id": "sc_v2_02",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "비밀 설렘 미션 · #2",
+      "text": "\"이리 와… 도망가면 안 돼?\" 눈을 맞추며 천천히 어루만지고 뜨거운 키스를 남겨줘 (35초)."
+    },
+    {
+      "id": "sc_v2_03",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "수줍은 속삭임 세 번",
+      "text": "\"더 가까이 와…\" 평소엔 잘 소리 내어 말하지 않는 수줍은 칭찬 세 마디를 내 귀에 바로 불어 줘 (30s)."
+    },
+    {
+      "id": "sc_v2_04",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "턱선 애태우기",
+      "text": "\"턱을 들어 올려…\" 내 귀 뒤에서 턱과 목을 따라 천천히 입 맞춰 줘 — 내 입술은 피해서 (35s)."
+    },
+    {
+      "id": "sc_v2_05",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "수줍은 입술 부드러운 입맞춤기",
+      "text": "\"한 번만 살짝 부드러운 입맞춤어…\" 네 입술로 내 아래 입술을 부드럽게 당기더니, 느린 입맞춤에 녹아들어 줘 (35s)."
+    },
+    {
+      "id": "sc_v2_06",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "alcohol",
+        "physical_light"
+      ],
+      "title": "취한 한 모금 입맞춤",
+      "text": "\"이거 나랑 같이 맛봐…\" 한 모금 작게 마시고, 느긋한 입맞춤으로 그 온기를 나눠 줘 (30s)."
+    },
+    {
+      "id": "sc_v2_07",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "비밀 설렘 미션 · #7",
+      "text": "\"이리 와… 도망가면 안 돼?\" 눈을 맞추며 천천히 어루만지고 뜨거운 키스를 남겨줘 (40초)."
+    },
+    {
+      "id": "sc_v2_08",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ],
+      "title": "따뜻한 손, 상의 아래로",
+      "text": "\"네 손이 정말 따뜻해…\" 네 손바닥을 내 상의 아래로 넣고 허리와 갈비뼈를 천천히 그려 줘 (40s)."
+    },
+    {
+      "id": "sc_v2_09",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "eye_contact"
+      ],
+      "title": "비밀 설렘 미션 · #9",
+      "text": "\"이리 와… 도망가면 안 돼?\" 눈을 맞추며 천천히 어루만지고 뜨거운 키스를 남겨줘 (45초)."
+    },
+    {
+      "id": "sc_v2_10",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "title": "안대 쓰고 키스 퀴즈",
+      "text": "\"훔쳐보지 마…\" 내 눈이 감겨 있는 동안 비밀스러운 4군데에 입 맞춰 줘 — 틀릴 때마다 입맞춤 10s가 더해져 (45s)."
+    },
+    {
+      "id": "sc_v2_11",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick"
+      ],
+      "title": "손목 고정 45초",
+      "text": "\"내 말 잘 들어…\" 두 손목을 머리 위에 부드럽게 고정하고, 내 목과 가슴에 입 맞추고 살짝 부드러운 입맞춤어 줘 (45s)."
+    },
+    {
+      "id": "sc_v2_12",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "bite_lick"
+      ],
+      "title": "비밀 설렘 미션 · #12",
+      "text": "\"이리 와… 도망가면 안 돼?\" 눈을 맞추며 천천히 어루만지고 뜨거운 키스를 남겨줘 (50초)."
+    },
+    {
+      "id": "sc_v2_13",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "physical_light"
+      ],
+      "title": "허벅지 안쪽을 따라",
+      "text": "\"내게 몸을 맡겨…\" 50s 동안 뜨거운 숨결, 부드러운 부드러운 입맞춤기, 촉촉한 입맞춤을 허벅지 안쪽 위로 따라 올려 줘."
+    },
+    {
+      "id": "sc_v2_14",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "톡 건드리고 녹이기",
+      "text": "\"내 쪽으로 돌아누워…\" 장난스럽게 두 번 톡 건드리고, 곧바로 따뜻한 손바닥과 깊은 입맞춤으로 녹여 줘 (45s)."
+    },
+    {
+      "id": "sc_v2_15",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "오늘 밤 비밀 장소 · #15",
+      "text": "\"둘만 있는 곳으로 가자…\" 벽이나 거울 앞에서 밀착해 귓가에 속삭이며 깊게 키스해줘 (35초)."
+    },
+    {
+      "id": "sc_v2_16",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "오늘 밤 비밀 장소 · #16",
+      "text": "\"둘만 있는 곳으로 가자…\" 벽이나 거울 앞에서 밀착해 귓가에 속삭이며 깊게 키스해줘 (40초)."
+    },
+    {
+      "id": "sc_v2_17",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "촛불 빛 카펫 위",
+      "text": "\"와서 카펫에 앉아…\" 어두운 조명 아래 바닥에서 뒤엉켜, 귀와 턱에 입맞춤을 주고받아 (40s)."
+    },
+    {
+      "id": "sc_v2_18",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "조리대 위 입맞춤",
+      "text": "\"여기 앉아…\" 조리대 앞에서 내 무릎 사이에 서서 35s 동안 숨이 막히는 입맞춤을 해 줘."
+    },
+    {
+      "id": "sc_v2_19",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "eye_contact"
+      ],
+      "title": "김 서린 거울",
+      "text": "\"우리 붉어진 얼굴 봐…\" 욕실 거울 앞에 바짝 서서, 느린 입맞춤 하나하나를 지켜봐 (40s)."
+    },
+    {
+      "id": "sc_v2_20",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "alcohol"
+      ],
+      "title": "발코니에서 한 잔",
+      "text": "\"잔 두 개 들고 나와…\" 발코니에서 함께 기대어, 따뜻하고 술취한 입맞춤을 훔쳐 줘."
+    },
+    {
+      "id": "sc_v2_21",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "오늘 밤 비밀 장소 · #21",
+      "text": "\"둘만 있는 곳으로 가자…\" 벽이나 거울 앞에서 밀착해 귓가에 속삭이며 깊게 키스해줘 (45초)."
+    },
+    {
+      "id": "sc_v2_22",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "어둑한 복도",
+      "text": "\"잠깐 이리 와…\" 나를 어둑한 복도 구석으로 끌어당겨, 45s 동안 허리를 꽉 잡아 줘."
+    },
+    {
+      "id": "sc_v2_23",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "드레스룸",
+      "text": "\"뭐 입을지 골라 줘…\" 옷장 곁에서 겉옷 한 겹을 벗기고, 어깨를 가로지르며 입 맞춰 줘 (45s)."
+    },
+    {
+      "id": "sc_v2_24",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "책상 의자 애태우기",
+      "text": "\"의자에서 일어나지 마…\" 서재 의자에 앉은 내 무릎에 걸터앉아 40s 동안 느리고 주도적인 입맞춤을 해 줘."
+    },
+    {
+      "id": "sc_v2_25",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "오늘 밤 비밀 장소 · #25",
+      "text": "\"둘만 있는 곳으로 가자…\" 벽이나 거울 앞에서 밀착해 귓가에 속삭이며 깊게 키스해줘 (50초)."
+    },
+    {
+      "id": "sc_v2_26",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "소파 팔걸이",
+      "text": "\"소파에 기대 누워…\" 내 칼라를 옆으로 밀고, 따뜻한 손과 촉촉한 입맞춤으로 탐색해 줘 (50s)."
+    },
+    {
+      "id": "sc_v2_27",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "뒷좌석 별구경",
+      "text": "\"약속할 용기가 있어?\" 다음 날 밤 조용한 전망대에서 드라이브할 때, 뒷좌석으로 미끄러져 들어가 60s 동안 입 맞추자."
+    },
+    {
+      "id": "sc_v2_28",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "오늘 밤 비밀 장소 · #28",
+      "text": "\"둘만 있는 곳으로 가자…\" 벽이나 거울 앞에서 밀착해 귓가에 속삭이며 깊게 키스해줘 (55초)."
+    },
+    {
+      "id": "sc_v2_29",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "자정의 판타지 · #29",
+      "text": "\"눈 감고 나한테 맡겨…\" 뜨거운 숨결과 입술만으로 애태우다 진한 키스로 마무리해 (40초)."
+    },
+    {
+      "id": "sc_v2_30",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "자정의 판타지 · #30",
+      "text": "\"눈 감고 나한테 맡겨…\" 뜨거운 숨결과 입술만으로 애태우다 진한 키스로 마무리해 (35초)."
+    },
+    {
+      "id": "sc_v2_31",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "한밤의 바텐더",
+      "text": "\"너만을 위해 섞었어…\" 40s 동안 심야 바텐더와 취한 손님 역할극을 하며, 잔 위로 손가락을 스쳐 줘."
+    },
+    {
+      "id": "sc_v2_32",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ],
+      "title": "자정의 판타지 · #32",
+      "text": "\"눈 감고 나한테 맡겨…\" 뜨거운 숨결과 입술만으로 애태우다 진한 키스로 마무리해 (45초)."
+    },
+    {
+      "id": "sc_v2_33",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "roleplay",
+        "eye_contact"
+      ],
+      "title": "훔쳐보다 들킴",
+      "text": "\"날 훔쳐봤어?\" 벽에 살짝 눌러 40s 동안 부드럽게 애태우면, 내가 붉어져 고백하고 말아."
+    },
+    {
+      "id": "sc_v2_34",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "alcohol",
+        "deep_talk"
+      ],
+      "title": "술취한 소원 병",
+      "text": "\"술취한 소원을 말해 줘…\" 오늘 밤 수줍게 바라는 걸 하나씩 속삭이고, 그중 하나를 골라 바로 들어줘."
+    },
+    {
+      "id": "sc_v2_35",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "자정의 판타지 · #35",
+      "text": "\"눈 감고 나한테 맡겨…\" 뜨거운 숨결과 입술만으로 애태우다 진한 키스로 마무리해 (50초)."
+    },
+    {
+      "id": "sc_v2_36",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "title": "뜨겁고 차가운 수수께끼",
+      "text": "\"다음은 얼음이야, 불이야?\" 45s 동안 눈을 감고 서늘한 손길, 따뜻한 숨결, 촉촉한 입맞춤을 번갈아 느껴 줘."
+    },
+    {
+      "id": "sc_v2_37",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "roleplay"
+      ],
+      "title": "개인 스타일리스트",
+      "text": "\"내가 이거 좀 고쳐 줄게…\" 45s 동안 스타일리스트 역할극을 하며 단추를 천천히 풀고, 쇄골에 입맞춤을 훔쳐 줘."
+    },
+    {
+      "id": "sc_v2_38",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "roleplay"
+      ],
+      "title": "가명 호텔 도피",
+      "text": "\"가명을 쓰자…\" 호텔로 훌쩍 떠나는 계획을 세우자. 바에서 낯선 사람인 척 먼저 서로 유혹하는 거야."
+    },
+    {
+      "id": "sc_v2_39",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "blindfold"
+      ],
+      "title": "자정의 판타지 · #39",
+      "text": "\"눈 감고 나한테 맡겨…\" 뜨거운 숨결과 입술만으로 애태우다 진한 키스로 마무리해 (60초)."
+    },
+    {
+      "id": "sc_v2_40",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "eye_contact"
+      ],
+      "title": "흐린 조명 앵콜",
+      "text": "\"너만을 위해서야…\" 따뜻한 조명 한 개 아래, 느린 음악에 맞춰 겉옷 한 겹을 천천히 벗고 깊은 입맞춤에 빠져들어 줘."
+    },
+    {
+      "id": "sc_v2_41",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "restraint_light",
+        "bite_lick"
+      ],
+      "title": "소리 금지 챌린지",
+      "text": "\"입술 부드러운 입맞춤어 — 소리 한마디도 내지 마…\" 50s 동안 가장 약한 곳을 애태워. 작게 숨이 새어나올 때마다 더 대담한 입맞춤을 얻어."
+    },
+    {
+      "id": "sc_v2_42",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "title": "한밤의 지배자",
+      "text": "\"1분 동안, 전부 내 거야…\" 점점 더 대담해지는 명령 세 가지를 속삭이고, 부끄러워하며 깊은 입맞춤으로 들어줘."
+    },
+    {
+      "id": "sc_v21_d1_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 관자놀이와 미간",
+      "text": "소파 구석에서 장난기 어린 미소를 머금은 채 상태를 유지하며 '손을 단단히 잡은 뒤, 숨처럼 가벼운 손끝으로'로 관자놀이와 미간을(를) 자극하고(30초), '아침이 오기 전에 꼭 해보고 싶은 비밀 판타지'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_02",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 입꼬리 옆",
+      "text": "주방 카운터에서 완전한 침묵 속에서 상태를 유지하며 '코끝을 맞댄 직후 녹아내리는 슬로우 키스'로 입꼬리 옆을(를) 자극하고(30초), '지금 눈을 보며 떠오른 칭찬'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_03",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 어깨뼈 라인",
+      "text": "어두운 복도 문틀에서 입술 1cm 앞에서 매번 멈칫하며 상태를 유지하며 '숨이 닿는 거리에서 멈칫한 뒤, 다가가기'로 어깨뼈 라인을(를) 자극하고(30초), '오늘 나를 보고 몰래 설렜던 디테일'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_04",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 뒷목 헤어라인",
+      "text": "무드등 켜진 러그 위에서 귓가에 애칭을 낮게 부르며 상태를 유지하며 '손끝으로 가볍게 스친 뒤, 부드러운 입맞춤'로 뒷목 헤어라인을(를) 자극하고(30초), '파트너의 어떤 숨소리나 목소리에 제일 약한지'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_05",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 볼과 턱선",
+      "text": "작은 스탠드만 켠 침대 머리맡에서 장난기 어린 미소를 머금은 채 상태를 유지하며 '따뜻한 숨결 직후 포개는 입술'로 볼과 턱선을(를) 자극하고(30초), '불을 끄면 가장 먼저 하고 싶은 일'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_06",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 쇄골 바깥선",
+      "text": "무드등 아래 창가에서 완전한 침묵 속에서 상태를 유지하며 '살짝 깨문 직후 숨결을 따라 부드럽게 달래기'로 쇄골 바깥선을(를) 자극하고(30초), '가장 약한 나의 애교'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_07",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 어깨",
+      "text": "소파 팔걸이 옆에서 입술 1cm 앞에서 매번 멈칫하며 상태를 유지하며 '손바닥을 가볍게 쓴 뒤, 손가락을 맞잡기'로 어깨을(를) 자극하고(30초), '몰래 데려가 키스하고 싶은 아찔한 장소'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_08",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 귓바퀴 테두리",
+      "text": "포근한 침대 끝에서 귓가에 애칭을 낮게 부르며 상태를 유지하며 '시원한 숨결 직후 쏟아지는 뜨거운 습식 키스'로 귓바퀴 테두리을(를) 자극하고(30초), '놓기 싫었던 그날의 포옹'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_09",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 손목 안쪽",
+      "text": "어둑한 현관 앞에서 장난기 어린 미소를 머금은 채 상태를 유지하며 '손을 살짝 감싼 뒤, 천천히 스며드는 입맞춤'로 손목 안쪽을(를) 자극하고(30초), '잠들기 전 몰래 바라는 스킨십'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_10",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 손바닥과 손끝",
+      "text": "드레스룸 거울 앞에서 완전한 침묵 속에서 상태를 유지하며 '머리카락을 쓸다 목선을 당겨오는 포옹'로 손바닥과 손끝을(를) 자극하고(30초), '오늘 밤 입어줬으면 — 혹은 벗어줬으면 — 하는 옷'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_11",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 팔 안쪽",
+      "text": "쿠션 가득한 러그 위에서 입술 1cm 앞에서 매번 멈칫하며 상태를 유지하며 '따뜻한 손바닥으로 천천히 쓸다 갑자기 품에 끌어당기기'로 팔 안쪽을(를) 자극하고(30초), '오늘 문득 떠올렸던 가장 야릇한 상상'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_12",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 귀 뒤쪽",
+      "text": "커튼 뒤 아늑한 공간에서 귓가에 애칭을 낮게 부르며 상태를 유지하며 '옷 위로 따뜻하게 감싸며 천천히'로 귀 뒤쪽을(를) 자극하고(30초), '손 잡았을 때 속으로 떠올린 상상'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_13",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 턱끝",
+      "text": "화장대 조명 앞에서 장난기 어린 미소를 머금은 채 상태를 유지하며 '손을 단단히 잡은 뒤, 숨처럼 가벼운 손끝으로'로 턱끝을(를) 자극하고(30초), '불을 끈 뒤 가장 바라는 스킨십 방식'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_14",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 쇄골",
+      "text": "침실 벽 앞에서 완전한 침묵 속에서 상태를 유지하며 '코끝을 맞댄 직후 녹아내리는 슬로우 키스'로 쇄골을(를) 자극하고(30초), '지금 당장 가장 키스하고 싶은 부위'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_15",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 손가락 마디",
+      "text": "침대 가장자리에서 입술 1cm 앞에서 매번 멈칫하며 상태를 유지하며 '숨이 닿는 거리에서 멈칫한 뒤, 다가가기'로 손가락 마디을(를) 자극하고(30초), '내 키스 습관 중 제일 좋은 점'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d1_16",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 목선",
+      "text": "전신 거울 앞에서 귓가에 애칭을 낮게 부르며 상태를 유지하며 '손끝으로 가볍게 스친 뒤, 부드러운 입맞춤'로 목선을(를) 자극하고(30초), '오늘 밤 정확히 어느 순간에 이성이 흔들렸는지'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d2_01",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 뒷목 헤어라인",
+      "text": "무드등 켜진 러그 위에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기' 규칙대로 쇄골 움푹한 곳부터 뒷목 헤어라인까지 깃털처럼 부드럽게 스쳐주세요(35초)."
+    },
+    {
+      "id": "sc_v21_d2_02",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 볼과 턱선",
+      "text": "작은 스탠드만 켠 침대 머리맡에서 '부위를 옮기기 직전 낮게 이름 속삭이기' 규칙대로 손목 맥박 부위부터 볼과 턱선까지 입술로 스치듯 애태우며(35초)."
+    },
+    {
+      "id": "sc_v21_d2_03",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 쇄골 바깥선",
+      "text": "무드등 아래 창가에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기' 규칙대로 어깨뼈부터 쇄골 바깥선까지 입술로 스치듯 반복해 애태워 주세요(35초)."
+    },
+    {
+      "id": "sc_v21_d2_04",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 어깨",
+      "text": "소파 팔걸이 옆에서 '부위를 옮기기 직전 낮게 이름 속삭이기' 규칙대로 뒷목 헤어라인부터 어깨까지 손끝으로 천천히 어루만져 주세요(35초)."
+    },
+    {
+      "id": "sc_v21_d2_05",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 귓바퀴 테두리",
+      "text": "포근한 침대 끝에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기' 규칙대로 귀 뒤 민감 스팟부터 귓바퀴 테두리까지 깃털처럼 가벼운 키스를 남기며(35초)."
+    },
+    {
+      "id": "sc_v21_d2_06",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 손목 안쪽",
+      "text": "어둑한 현관 앞에서 '부위를 옮기기 직전 낮게 이름 속삭이기' 규칙대로 옆구리 라인부터 손목 안쪽까지 따뜻하게 마사지해 주세요(35초)."
+    },
+    {
+      "id": "sc_v21_d2_07",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 손바닥과 손끝",
+      "text": "드레스룸 거울 앞에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기' 규칙대로 목젖 아래선부터 손바닥과 손끝까지 따뜻한 숨결을 가만히 불어넣으며(35초)."
+    },
+    {
+      "id": "sc_v21_d2_08",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 팔 안쪽",
+      "text": "쿠션 가득한 러그 위에서 '부위를 옮기기 직전 낮게 이름 속삭이기' 규칙대로 허리 뒤쪽부터 팔 안쪽까지 뜨거운 숨결을 천천히 불어넣어 주세요(35초)."
+    },
+    {
+      "id": "sc_v21_d2_09",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 귀 뒤쪽",
+      "text": "커튼 뒤 아늑한 공간에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기' 규칙대로 쇄골 움푹한 곳부터 귀 뒤쪽까지 따뜻한 손바닥으로 감싸 안으며(35초)."
+    },
+    {
+      "id": "sc_v21_d2_10",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 턱끝",
+      "text": "화장대 조명 앞에서 '부위를 옮기기 직전 낮게 이름 속삭이기' 규칙대로 손목 맥박 부위부터 턱끝까지 코끝으로 살며시 비비며(35초)."
+    },
+    {
+      "id": "sc_v21_d2_11",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 쇄골",
+      "text": "침실 벽 앞에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기' 규칙대로 어깨뼈부터 쇄골까지 깊고 느린 키스를 남겨주세요(35초)."
+    },
+    {
+      "id": "sc_v21_d2_12",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 손가락 마디",
+      "text": "침대 가장자리에서 '부위를 옮기기 직전 낮게 이름 속삭이기' 규칙대로 뒷목 헤어라인부터 손가락 마디까지 손끝으로 천천히 원을 그리며(35초)."
+    },
+    {
+      "id": "sc_v21_d2_13",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 목선",
+      "text": "전신 거울 앞에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기' 규칙대로 귀 뒤 민감 스팟부터 목선까지 깃털처럼 부드럽게 스쳐주세요(35초)."
+    },
+    {
+      "id": "sc_v21_d2_14",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 관자놀이와 미간",
+      "text": "소파 구석에서 '부위를 옮기기 직전 낮게 이름 속삭이기' 규칙대로 옆구리 라인부터 관자놀이와 미간까지 입술로 스치듯 애태우며(35초)."
+    },
+    {
+      "id": "sc_v21_d3_01",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 등줄기",
+      "text": "소파 팔걸이 옆에서 뜨거운 숨결과 촉촉한 숨결을 따라 선을 그려주세요을(를) 번갈아 등줄기에 쏟아부어. 규칙: 부위를 옮기기 직전 낮게 이름 속삭이기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_02",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 뒷목 헤어라인",
+      "text": "포근한 침대 끝에서 뜨거운 숨결과 부드럽게 부드러운 입맞춤어 주세요을(를) 번갈아 뒷목 헤어라인에 쏟아부어. 규칙: 깃털 같은 터치와 단단한 그립을 번갈아 쓰기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_03",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 목덜미",
+      "text": "어둑한 현관 앞에서 뜨거운 숨결과 입술과 손끝으로 번갈아 애태워 주세요을(를) 번갈아 목덜미에 쏟아부어. 규칙: 부위를 옮기기 직전 낮게 이름 속삭이기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_04",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 허벅지 안쪽",
+      "text": "드레스룸 거울 앞에서 뜨거운 숨결과 장난스럽게 깨문 직후 키스로 달래주세요을(를) 번갈아 허벅지 안쪽에 쏟아부어. 규칙: 깃털 같은 터치와 단단한 그립을 번갈아 쓰기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_05",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 골반선",
+      "text": "쿠션 가득한 러그 위에서 뜨거운 숨결과 숨결을 따라 천천히 숨을 살짝 스치게 해주세요을(를) 번갈아 골반선에 쏟아부어. 규칙: 부위를 옮기기 직전 낮게 이름 속삭이기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_06",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 귓불",
+      "text": "커튼 뒤 아늑한 공간에서 뜨거운 숨결과 입술로 살짝 빨고 진하게 키스해 주세요을(를) 번갈아 귓불에 쏟아부어. 규칙: 깃털 같은 터치와 단단한 그립을 번갈아 쓰기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_07",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 허리라인",
+      "text": "화장대 조명 앞에서 뜨거운 숨결과 뜨거운 숨결과 습식 키스를 이어가세요을(를) 번갈아 허리라인에 쏟아부어. 규칙: 부위를 옮기기 직전 낮게 이름 속삭이기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_08",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 아랫배 라인",
+      "text": "침실 벽 앞에서 뜨거운 숨결과 숨 막히는 키스를 퍼부어 주세요을(를) 번갈아 아랫배 라인에 쏟아부어. 규칙: 깃털 같은 터치와 단단한 그립을 번갈아 쓰기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_09",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 가슴과 옆구리",
+      "text": "침대 가장자리에서 뜨거운 숨결과 촉촉한 숨결을 따라 선을 그려주세요을(를) 번갈아 가슴과 옆구리에 쏟아부어. 규칙: 부위를 옮기기 직전 낮게 이름 속삭이기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_10",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 쇄골",
+      "text": "전신 거울 앞에서 뜨거운 숨결과 부드럽게 부드러운 입맞춤어 주세요을(를) 번갈아 쇄골에 쏟아부어. 규칙: 깃털 같은 터치와 단단한 그립을 번갈아 쓰기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_11",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 등줄기",
+      "text": "소파 구석에서 뜨거운 숨결과 입술과 손끝으로 번갈아 애태워 주세요을(를) 번갈아 등줄기에 쏟아부어. 규칙: 부위를 옮기기 직전 낮게 이름 속삭이기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_12",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 뒷목 헤어라인",
+      "text": "주방 카운터에서 뜨거운 숨결과 장난스럽게 깨문 직후 키스로 달래주세요을(를) 번갈아 뒷목 헤어라인에 쏟아부어. 규칙: 깃털 같은 터치와 단단한 그립을 번갈아 쓰기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_13",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 목덜미",
+      "text": "어두운 복도 문틀에서 뜨거운 숨결과 숨결을 따라 천천히 숨을 살짝 스치게 해주세요을(를) 번갈아 목덜미에 쏟아부어. 규칙: 부위를 옮기기 직전 낮게 이름 속삭이기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_14",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 허벅지 안쪽",
+      "text": "무드등 켜진 러그 위에서 뜨거운 숨결과 입술로 살짝 빨고 진하게 키스해 주세요을(를) 번갈아 허벅지 안쪽에 쏟아부어. 규칙: 깃털 같은 터치와 단단한 그립을 번갈아 쓰기(45초)."
+    },
+    {
+      "id": "sc_v21_d4_01",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 등줄기 맨 아래",
+      "text": "드레스룸 거울 앞에서 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고 상태로 극도로 느린 손끝로 액세서리 1개 + 겉옷 1겹을(를) 젖히고 등줄기 맨 아래을(를) 장난스럽게 깨문 직후 키스로 달래주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_02",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 허리 잘록한 곳",
+      "text": "쿠션 가득한 러그 위에서 턱을 부드럽게 들어 올려 시선을 고정한 채 상태로 먼저 손등으로 스친 뒤 뜨거운 입술로 지퍼나 허리밴드 가장자리을(를) 젖히고 허리 잘록한 곳을(를) 숨결을 따라 천천히 숨을 살짝 스치게 해주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_03",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 아랫배 민감 라인",
+      "text": "커튼 뒤 아늑한 공간에서 양손을 머리 뒤에 깍지 끼게 해 무방비로 만든 채 상태로 파트너 본인의 손을 직접 이끌며로 상의 밑단을(를) 젖히고 아랫배 민감 라인을(를) 입술로 살짝 빨고 진하게 키스해 주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_04",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 골반 곡선",
+      "text": "화장대 조명 앞에서 양손을 침대 헤드에 대고 떼지 못하게 한 채 상태로 뜨거운 숨결과 입술만로 당신이 직접 고른 옷 1작은 도전(를) 젖히고 골반 곡선을(를) 뜨거운 숨결과 습식 키스를 이어가세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_05",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 허벅지 안쪽",
+      "text": "침실 벽 앞에서 벽에 등을 살짝 밀어 붙여 밀착한 채 상태로 눈을 맞춘 채 한 손로 셔츠 단추 두 개을(를) 젖히고 허벅지 안쪽을(를) 숨 막히는 키스를 퍼부어 주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_06",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 쇄골 아래 맨살",
+      "text": "침대 가장자리에서 양손을 등 뒤로 잡아 반항을 막은 채 상태로 손 없이 입술과 치아로 어깨끈이나 옷깃을(를) 젖히고 쇄골 아래 맨살을(를) 촉촉한 숨결을 따라 선을 그려주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_07",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 가슴과 갈비뼈 라인",
+      "text": "전신 거울 앞에서 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고 상태로 극도로 느린 손끝로 액세서리 1개 + 겉옷 1겹을(를) 젖히고 가슴과 갈비뼈 라인을(를) 부드럽게 부드러운 입맞춤어 주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_08",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 힙과 골반선",
+      "text": "소파 구석에서 턱을 부드럽게 들어 올려 시선을 고정한 채 상태로 먼저 손등으로 스친 뒤 뜨거운 입술로 지퍼나 허리밴드 가장자리을(를) 젖히고 힙과 골반선을(를) 입술과 손끝으로 번갈아 애태워 주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_09",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 등줄기 맨 아래",
+      "text": "주방 카운터에서 양손을 머리 뒤에 깍지 끼게 해 무방비로 만든 채 상태로 파트너 본인의 손을 직접 이끌며로 상의 밑단을(를) 젖히고 등줄기 맨 아래을(를) 장난스럽게 깨문 직후 키스로 달래주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_10",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 허리 잘록한 곳",
+      "text": "어두운 복도 문틀에서 양손을 침대 헤드에 대고 떼지 못하게 한 채 상태로 뜨거운 숨결과 입술만로 당신이 직접 고른 옷 1작은 도전(를) 젖히고 허리 잘록한 곳을(를) 숨결을 따라 천천히 숨을 살짝 스치게 해주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_11",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 아랫배 민감 라인",
+      "text": "무드등 켜진 러그 위에서 벽에 등을 살짝 밀어 붙여 밀착한 채 상태로 눈을 맞춘 채 한 손로 셔츠 단추 두 개을(를) 젖히고 아랫배 민감 라인을(를) 입술로 살짝 빨고 진하게 키스해 주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_12",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 골반 곡선",
+      "text": "작은 스탠드만 켠 침대 머리맡에서 양손을 등 뒤로 잡아 반항을 막은 채 상태로 손 없이 입술과 치아로 어깨끈이나 옷깃을(를) 젖히고 골반 곡선을(를) 뜨거운 숨결과 습식 키스를 이어가세요(55초)."
+    },
+    {
+      "id": "sc_v21_l1_01",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 드레스룸 거울 앞",
+      "text": "드레스룸 거울 앞을(를) 벨벳 조명의 부티크 호텔 라운지처럼 꾸미고 완전한 침묵 속에서 상태로 손바닥과 손끝을(를) 깊고 느린 키스를 남겨주세요(30초)."
+    },
+    {
+      "id": "sc_v21_l1_02",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 쿠션 가득한 러그 위",
+      "text": "쿠션 가득한 러그 위을(를) 둘만의 프라이빗 노천 스파처럼 꾸미고 입술 1cm 앞에서 매번 멈칫하며 상태로 팔 안쪽을(를) 손끝으로 천천히 원을 그리며(30초)."
+    },
+    {
+      "id": "sc_v21_l1_03",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 커튼 뒤 아늑한 공간",
+      "text": "커튼 뒤 아늑한 공간을(를) 촛불 켠 따뜻한 욕실처럼 꾸미고 귓가에 애칭을 낮게 부르며 상태로 귀 뒤쪽을(를) 깃털처럼 부드럽게 스쳐주세요(30초)."
+    },
+    {
+      "id": "sc_v21_l1_04",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 화장대 조명 앞",
+      "text": "화장대 조명 앞을(를) 빗소리 들리는 다락방 침대처럼 꾸미고 장난기 어린 미소를 머금은 채 상태로 턱끝을(를) 입술로 스치듯 애태우며(30초)."
+    },
+    {
+      "id": "sc_v21_l1_05",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 침실 벽 앞",
+      "text": "침실 벽 앞을(를) 한밤중 오션뷰 발코니처럼 꾸미고 완전한 침묵 속에서 상태로 쇄골을(를) 입술로 스치듯 반복해 애태워 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_l1_06",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 침대 가장자리",
+      "text": "침대 가장자리을(를) 비밀 심야 재즈바처럼 꾸미고 입술 1cm 앞에서 매번 멈칫하며 상태로 손가락 마디을(를) 손끝으로 천천히 어루만져 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_l1_07",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 전신 거울 앞",
+      "text": "전신 거울 앞을(를) 별빛 가득한 비밀 정원처럼 꾸미고 귓가에 애칭을 낮게 부르며 상태로 목선을(를) 깃털처럼 가벼운 키스를 남기며(30초)."
+    },
+    {
+      "id": "sc_v21_l1_08",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 소파 구석",
+      "text": "소파 구석을(를) 아늑한 프라이빗 시네마처럼 꾸미고 장난기 어린 미소를 머금은 채 상태로 관자놀이와 미간을(를) 따뜻하게 마사지해 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_l1_09",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 주방 카운터",
+      "text": "주방 카운터을(를) 달빛 스민 창가 소파처럼 꾸미고 완전한 침묵 속에서 상태로 입꼬리 옆을(를) 따뜻한 숨결을 가만히 불어넣으며(30초)."
+    },
+    {
+      "id": "sc_v21_l1_10",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 어두운 복도 문틀",
+      "text": "어두운 복도 문틀을(를) 벽난로가 따뜻한 산장처럼 꾸미고 입술 1cm 앞에서 매번 멈칫하며 상태로 어깨뼈 라인을(를) 뜨거운 숨결을 천천히 불어넣어 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_l1_11",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 무드등 켜진 러그 위",
+      "text": "무드등 켜진 러그 위을(를) 비 오는 밤 펜트하우스 스위트처럼 꾸미고 귓가에 애칭을 낮게 부르며 상태로 뒷목 헤어라인을(를) 따뜻한 손바닥으로 감싸 안으며(30초)."
+    },
+    {
+      "id": "sc_v21_l1_12",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 작은 스탠드만 켠 침대 머리맡",
+      "text": "작은 스탠드만 켠 침대 머리맡을(를) 커튼 너머 노을 진 창가처럼 꾸미고 장난기 어린 미소를 머금은 채 상태로 볼과 턱선을(를) 코끝으로 살며시 비비며(30초)."
+    },
+    {
+      "id": "sc_v21_l1_13",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 무드등 아래 창가",
+      "text": "무드등 아래 창가을(를) 바닷바람 부는 캠핑카처럼 꾸미고 완전한 침묵 속에서 상태로 쇄골 바깥선을(를) 깊고 느린 키스를 남겨주세요(30초)."
+    },
+    {
+      "id": "sc_v21_l1_14",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 소파 팔걸이 옆",
+      "text": "소파 팔걸이 옆을(를) 촛불 켜진 루프탑 바처럼 꾸미고 입술 1cm 앞에서 매번 멈칫하며 상태로 어깨을(를) 손끝으로 천천히 원을 그리며(30초)."
+    },
+    {
+      "id": "sc_v21_l1_15",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 포근한 침대 끝",
+      "text": "포근한 침대 끝을(를) 벨벳 조명의 부티크 호텔 라운지처럼 꾸미고 귓가에 애칭을 낮게 부르며 상태로 귓바퀴 테두리을(를) 깃털처럼 부드럽게 스쳐주세요(30초)."
+    },
+    {
+      "id": "sc_v21_l1_16",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "아늑한 공간 · 어둑한 현관 앞",
+      "text": "어둑한 현관 앞을(를) 둘만의 프라이빗 노천 스파처럼 꾸미고 장난기 어린 미소를 머금은 채 상태로 손목 안쪽을(를) 입술로 스치듯 애태우며(30초)."
+    },
+    {
+      "id": "sc_v21_l2_01",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 화장대 조명 앞",
+      "text": "화장대 조명 앞에서 둘만의 시간: '손을 단단히 잡은 뒤, 숨처럼 가벼운 손끝으로'로 손목 맥박 부위부터 턱끝까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_02",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 침실 벽 앞",
+      "text": "침실 벽 앞에서 둘만의 시간: '코끝을 맞댄 직후 녹아내리는 슬로우 키스'로 어깨뼈부터 쇄골까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_03",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 침대 가장자리",
+      "text": "침대 가장자리에서 둘만의 시간: '숨이 닿는 거리에서 멈칫한 뒤, 다가가기'로 뒷목 헤어라인부터 손가락 마디까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_04",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 전신 거울 앞",
+      "text": "전신 거울 앞에서 둘만의 시간: '손끝으로 가볍게 스친 뒤, 부드러운 입맞춤'로 귀 뒤 민감 스팟부터 목선까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_05",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 소파 구석",
+      "text": "소파 구석에서 둘만의 시간: '따뜻한 숨결 직후 포개는 입술'로 옆구리 라인부터 관자놀이와 미간까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_06",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 주방 카운터",
+      "text": "주방 카운터에서 둘만의 시간: '살짝 깨문 직후 숨결을 따라 부드럽게 달래기'로 목젖 아래선부터 입꼬리 옆까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_07",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 어두운 복도 문틀",
+      "text": "어두운 복도 문틀에서 둘만의 시간: '손바닥을 가볍게 쓴 뒤, 손가락을 맞잡기'로 허리 뒤쪽부터 어깨뼈 라인까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_08",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 무드등 켜진 러그 위",
+      "text": "무드등 켜진 러그 위에서 둘만의 시간: '시원한 숨결 직후 쏟아지는 뜨거운 습식 키스'로 쇄골 움푹한 곳부터 뒷목 헤어라인까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_09",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 작은 스탠드만 켠 침대 머리맡",
+      "text": "작은 스탠드만 켠 침대 머리맡에서 둘만의 시간: '손을 살짝 감싼 뒤, 천천히 스며드는 입맞춤'로 손목 맥박 부위부터 볼과 턱선까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_10",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 무드등 아래 창가",
+      "text": "무드등 아래 창가에서 둘만의 시간: '머리카락을 쓸다 목선을 당겨오는 포옹'로 어깨뼈부터 쇄골 바깥선까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_11",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 소파 팔걸이 옆",
+      "text": "소파 팔걸이 옆에서 둘만의 시간: '따뜻한 손바닥으로 천천히 쓸다 갑자기 품에 끌어당기기'로 뒷목 헤어라인부터 어깨까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_12",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 포근한 침대 끝",
+      "text": "포근한 침대 끝에서 둘만의 시간: '옷 위로 따뜻하게 감싸며 천천히'로 귀 뒤 민감 스팟부터 귓바퀴 테두리까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_13",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 어둑한 현관 앞",
+      "text": "어둑한 현관 앞에서 둘만의 시간: '손을 단단히 잡은 뒤, 숨처럼 가벼운 손끝으로'로 옆구리 라인부터 손목 안쪽까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_14",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 드레스룸 거울 앞",
+      "text": "드레스룸 거울 앞에서 둘만의 시간: '코끝을 맞댄 직후 녹아내리는 슬로우 키스'로 목젖 아래선부터 손바닥과 손끝까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l3_01",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 전신 거울 앞",
+      "text": "전신 거울 앞에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 상대를 끌어당겨 뒷목 헤어라인을(를) 집중 부드럽게 부드러운 입맞춤어 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_02",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 소파 구석",
+      "text": "소파 구석에서 '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 상대를 끌어당겨 목덜미을(를) 집중 입술과 손끝으로 번갈아 애태워 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_03",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 주방 카운터",
+      "text": "주방 카운터에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 상대를 끌어당겨 허벅지 안쪽을(를) 집중 장난스럽게 깨문 직후 키스로 달래주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_04",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 어두운 복도 문틀",
+      "text": "어두운 복도 문틀에서 '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 상대를 끌어당겨 골반선을(를) 집중 숨결을 따라 천천히 숨을 살짝 스치게 해주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_05",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 무드등 켜진 러그 위",
+      "text": "무드등 켜진 러그 위에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 상대를 끌어당겨 귓불을(를) 집중 입술로 살짝 빨고 진하게 키스해 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_06",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 작은 스탠드만 켠 침대 머리맡",
+      "text": "작은 스탠드만 켠 침대 머리맡에서 '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 상대를 끌어당겨 허리라인을(를) 집중 뜨거운 숨결과 습식 키스를 이어가세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_07",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 무드등 아래 창가",
+      "text": "무드등 아래 창가에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 상대를 끌어당겨 아랫배 라인을(를) 집중 숨 막히는 키스를 퍼부어 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_08",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 소파 팔걸이 옆",
+      "text": "소파 팔걸이 옆에서 '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 상대를 끌어당겨 가슴과 옆구리을(를) 집중 촉촉한 숨결을 따라 선을 그려주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_09",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 포근한 침대 끝",
+      "text": "포근한 침대 끝에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 상대를 끌어당겨 쇄골을(를) 집중 부드럽게 부드러운 입맞춤어 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_10",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 어둑한 현관 앞",
+      "text": "어둑한 현관 앞에서 '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 상대를 끌어당겨 등줄기을(를) 집중 입술과 손끝으로 번갈아 애태워 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_11",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 드레스룸 거울 앞",
+      "text": "드레스룸 거울 앞에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 상대를 끌어당겨 뒷목 헤어라인을(를) 집중 장난스럽게 깨문 직후 키스로 달래주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_12",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 쿠션 가득한 러그 위",
+      "text": "쿠션 가득한 러그 위에서 '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 상대를 끌어당겨 목덜미을(를) 집중 숨결을 따라 천천히 숨을 살짝 스치게 해주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_13",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 커튼 뒤 아늑한 공간",
+      "text": "커튼 뒤 아늑한 공간에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 상대를 끌어당겨 허벅지 안쪽을(를) 집중 입술로 살짝 빨고 진하게 키스해 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l4_01",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 어두운 복도 문틀",
+      "text": "바로 어두운 복도 문틀에서 '침실 벽에 기대어 천천히 가까이하는 자세' 자세와 양손을 등 뒤로 잡아 반항을 막은 채으로 허리 잘록한 곳을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_02",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 무드등 켜진 러그 위",
+      "text": "바로 무드등 켜진 러그 위에서 '마주 보고 가까이 앉기' 자세와 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고으로 아랫배 민감 라인을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_03",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 작은 스탠드만 켠 침대 머리맡",
+      "text": "바로 작은 스탠드만 켠 침대 머리맡에서 '베개를 허리에 받치고 살짝 젖힌 자세' 자세와 턱을 부드럽게 들어 올려 시선을 고정한 채으로 골반 곡선을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_04",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 무드등 아래 창가",
+      "text": "바로 무드등 아래 창가에서 '눈을 감고 누워 모든 주도권을 맡기는 자세' 자세와 양손을 머리 뒤에 깍지 끼게 해 무방비로 만든 채으로 허벅지 안쪽을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_05",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 소파 팔걸이 옆",
+      "text": "바로 소파 팔걸이 옆에서 '침대 가장자리에 살짝 눕는 자세' 자세와 양손을 침대 헤드에 대고 떼지 못하게 한 채으로 쇄골 아래 맨살을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_06",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 포근한 침대 끝",
+      "text": "바로 포근한 침대 끝에서 '거울 앞에서 뒤로 바짝 안긴 자세' 자세와 벽에 등을 살짝 밀어 붙여 밀착한 채으로 가슴과 갈비뼈 라인을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_07",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 어둑한 현관 앞",
+      "text": "바로 어둑한 현관 앞에서 '침대 위에서 무릎을 맞대고 마주 앉는 자세' 자세와 양손을 등 뒤로 잡아 반항을 막은 채으로 힙과 골반선을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_08",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 드레스룸 거울 앞",
+      "text": "바로 드레스룸 거울 앞에서 '침실 벽에 기대어 천천히 가까이하는 자세' 자세와 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고으로 등줄기 맨 아래을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_09",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 쿠션 가득한 러그 위",
+      "text": "바로 쿠션 가득한 러그 위에서 '마주 보고 가까이 앉기' 자세와 턱을 부드럽게 들어 올려 시선을 고정한 채으로 허리 잘록한 곳을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_10",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 커튼 뒤 아늑한 공간",
+      "text": "바로 커튼 뒤 아늑한 공간에서 '베개를 허리에 받치고 살짝 젖힌 자세' 자세와 양손을 머리 뒤에 깍지 끼게 해 무방비로 만든 채으로 아랫배 민감 라인을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_11",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 화장대 조명 앞",
+      "text": "바로 화장대 조명 앞에서 '눈을 감고 누워 모든 주도권을 맡기는 자세' 자세와 양손을 침대 헤드에 대고 떼지 못하게 한 채으로 골반 곡선을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_12",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 침실 벽 앞",
+      "text": "바로 침실 벽 앞에서 '침대 가장자리에 살짝 눕는 자세' 자세와 벽에 등을 살짝 밀어 붙여 밀착한 채으로 허벅지 안쪽을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_13",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 침대 가장자리",
+      "text": "바로 침대 가장자리에서 '거울 앞에서 뒤로 바짝 안긴 자세' 자세와 양손을 등 뒤로 잡아 반항을 막은 채으로 쇄골 아래 맨살을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_f1_01",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 촛불 켜진 루프탑 바",
+      "text": "촛불 켜진 루프탑 바을(를) 떠올리며 어두운 복도 문틀에서 '오늘 나를 보고 몰래 설렜던 디테일'을(를) 속삭이고 어깨뼈 라인을(를) 손끝으로 천천히 어루만져 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_f1_02",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 벨벳 조명의 부티크 호텔 라운지",
+      "text": "벨벳 조명의 부티크 호텔 라운지을(를) 떠올리며 무드등 켜진 러그 위에서 '파트너의 어떤 숨소리나 목소리에 제일 약한지'을(를) 속삭이고 뒷목 헤어라인을(를) 깃털처럼 가벼운 키스를 남기며(30초)."
+    },
+    {
+      "id": "sc_v21_f1_03",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 둘만의 프라이빗 노천 스파",
+      "text": "둘만의 프라이빗 노천 스파을(를) 떠올리며 작은 스탠드만 켠 침대 머리맡에서 '불을 끄면 가장 먼저 하고 싶은 일'을(를) 속삭이고 볼과 턱선을(를) 따뜻하게 마사지해 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_f1_04",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 촛불 켠 따뜻한 욕실",
+      "text": "촛불 켠 따뜻한 욕실을(를) 떠올리며 무드등 아래 창가에서 '가장 약한 나의 애교'을(를) 속삭이고 쇄골 바깥선을(를) 따뜻한 숨결을 가만히 불어넣으며(30초)."
+    },
+    {
+      "id": "sc_v21_f1_05",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 빗소리 들리는 다락방 침대",
+      "text": "빗소리 들리는 다락방 침대을(를) 떠올리며 소파 팔걸이 옆에서 '몰래 데려가 키스하고 싶은 아찔한 장소'을(를) 속삭이고 어깨을(를) 뜨거운 숨결을 천천히 불어넣어 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_f1_06",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 한밤중 오션뷰 발코니",
+      "text": "한밤중 오션뷰 발코니을(를) 떠올리며 포근한 침대 끝에서 '놓기 싫었던 그날의 포옹'을(를) 속삭이고 귓바퀴 테두리을(를) 따뜻한 손바닥으로 감싸 안으며(30초)."
+    },
+    {
+      "id": "sc_v21_f1_07",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 비밀 심야 재즈바",
+      "text": "비밀 심야 재즈바을(를) 떠올리며 어둑한 현관 앞에서 '잠들기 전 몰래 바라는 스킨십'을(를) 속삭이고 손목 안쪽을(를) 코끝으로 살며시 비비며(30초)."
+    },
+    {
+      "id": "sc_v21_f1_08",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 별빛 가득한 비밀 정원",
+      "text": "별빛 가득한 비밀 정원을(를) 떠올리며 드레스룸 거울 앞에서 '오늘 밤 입어줬으면 — 혹은 벗어줬으면 — 하는 옷'을(를) 속삭이고 손바닥과 손끝을(를) 깊고 느린 키스를 남겨주세요(30초)."
+    },
+    {
+      "id": "sc_v21_f1_09",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 아늑한 프라이빗 시네마",
+      "text": "아늑한 프라이빗 시네마을(를) 떠올리며 쿠션 가득한 러그 위에서 '오늘 문득 떠올렸던 가장 야릇한 상상'을(를) 속삭이고 팔 안쪽을(를) 손끝으로 천천히 원을 그리며(30초)."
+    },
+    {
+      "id": "sc_v21_f1_10",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 달빛 스민 창가 소파",
+      "text": "달빛 스민 창가 소파을(를) 떠올리며 커튼 뒤 아늑한 공간에서 '손 잡았을 때 속으로 떠올린 상상'을(를) 속삭이고 귀 뒤쪽을(를) 깃털처럼 부드럽게 스쳐주세요(30초)."
+    },
+    {
+      "id": "sc_v21_f1_11",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 벽난로가 따뜻한 산장",
+      "text": "벽난로가 따뜻한 산장을(를) 떠올리며 화장대 조명 앞에서 '불을 끈 뒤 가장 바라는 스킨십 방식'을(를) 속삭이고 턱끝을(를) 입술로 스치듯 애태우며(30초)."
+    },
+    {
+      "id": "sc_v21_f1_12",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 비 오는 밤 펜트하우스 스위트",
+      "text": "비 오는 밤 펜트하우스 스위트을(를) 떠올리며 침실 벽 앞에서 '지금 당장 가장 키스하고 싶은 부위'을(를) 속삭이고 쇄골을(를) 입술로 스치듯 반복해 애태워 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_f1_13",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 커튼 너머 노을 진 창가",
+      "text": "커튼 너머 노을 진 창가을(를) 떠올리며 침대 가장자리에서 '내 키스 습관 중 제일 좋은 점'을(를) 속삭이고 손가락 마디을(를) 손끝으로 천천히 어루만져 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_f1_14",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 바닷바람 부는 캠핑카",
+      "text": "바닷바람 부는 캠핑카을(를) 떠올리며 전신 거울 앞에서 '오늘 밤 정확히 어느 순간에 이성이 흔들렸는지'을(를) 속삭이고 목선을(를) 깃털처럼 가벼운 키스를 남기며(30초)."
+    },
+    {
+      "id": "sc_v21_f1_15",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 촛불 켜진 루프탑 바",
+      "text": "촛불 켜진 루프탑 바을(를) 떠올리며 소파 구석에서 '아침이 오기 전에 꼭 해보고 싶은 비밀 판타지'을(를) 속삭이고 관자놀이와 미간을(를) 따뜻하게 마사지해 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_f1_16",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 벨벳 조명의 부티크 호텔 라운지",
+      "text": "벨벳 조명의 부티크 호텔 라운지을(를) 떠올리며 주방 카운터에서 '지금 눈을 보며 떠오른 칭찬'을(를) 속삭이고 입꼬리 옆을(를) 따뜻한 숨결을 가만히 불어넣으며(30초)."
+    },
+    {
+      "id": "sc_v21_f1_17",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "달콤한 극장 · 둘만의 프라이빗 노천 스파",
+      "text": "둘만의 프라이빗 노천 스파을(를) 떠올리며 어두운 복도 문틀에서 '오늘 나를 보고 몰래 설렜던 디테일'을(를) 속삭이고 어깨뼈 라인을(를) 뜨거운 숨결을 천천히 불어넣어 주세요(30초)."
+    },
+    {
+      "id": "sc_v21_f2_01",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 한밤중 오션뷰 발코니",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 무드등 아래 창가에서 '살짝 깨문 직후 숨결을 따라 부드럽게 달래기'로 쇄골 바깥선을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_02",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 비밀 심야 재즈바",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 소파 팔걸이 옆에서 '손바닥을 가볍게 쓴 뒤, 손가락을 맞잡기'로 어깨을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_03",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 별빛 가득한 비밀 정원",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 포근한 침대 끝에서 '시원한 숨결 직후 쏟아지는 뜨거운 습식 키스'로 귓바퀴 테두리을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_04",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 아늑한 프라이빗 시네마",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 어둑한 현관 앞에서 '손을 살짝 감싼 뒤, 천천히 스며드는 입맞춤'로 손목 안쪽을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_05",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 달빛 스민 창가 소파",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 드레스룸 거울 앞에서 '머리카락을 쓸다 목선을 당겨오는 포옹'로 손바닥과 손끝을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_06",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 벽난로가 따뜻한 산장",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 쿠션 가득한 러그 위에서 '따뜻한 손바닥으로 천천히 쓸다 갑자기 품에 끌어당기기'로 팔 안쪽을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_07",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 비 오는 밤 펜트하우스 스위트",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 커튼 뒤 아늑한 공간에서 '옷 위로 따뜻하게 감싸며 천천히'로 귀 뒤쪽을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_08",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 커튼 너머 노을 진 창가",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 화장대 조명 앞에서 '손을 단단히 잡은 뒤, 숨처럼 가벼운 손끝으로'로 턱끝을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_09",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 바닷바람 부는 캠핑카",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 침실 벽 앞에서 '코끝을 맞댄 직후 녹아내리는 슬로우 키스'로 쇄골을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_10",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 촛불 켜진 루프탑 바",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 침대 가장자리에서 '숨이 닿는 거리에서 멈칫한 뒤, 다가가기'로 손가락 마디을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_11",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 벨벳 조명의 부티크 호텔 라운지",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 전신 거울 앞에서 '손끝으로 가볍게 스친 뒤, 부드러운 입맞춤'로 목선을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_12",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 둘만의 프라이빗 노천 스파",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 소파 구석에서 '따뜻한 숨결 직후 포개는 입술'로 관자놀이와 미간을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_13",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 촛불 켠 따뜻한 욕실",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 주방 카운터에서 '살짝 깨문 직후 숨결을 따라 부드럽게 달래기'로 입꼬리 옆을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_14",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 빗소리 들리는 다락방 침대",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 어두운 복도 문틀에서 '손바닥을 가볍게 쓴 뒤, 손가락을 맞잡기'로 어깨뼈 라인을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f3_01",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 목덜미",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 어둑한 현관 앞에서 '부위를 옮기기 직전 낮게 이름 속삭이기'에 맞춰 목덜미을(를) 입술과 손끝으로 번갈아 애태워 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_02",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 허벅지 안쪽",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 드레스룸 거울 앞에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'에 맞춰 허벅지 안쪽을(를) 장난스럽게 깨문 직후 키스로 달래주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_03",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 골반선",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 쿠션 가득한 러그 위에서 '부위를 옮기기 직전 낮게 이름 속삭이기'에 맞춰 골반선을(를) 숨결을 따라 천천히 숨을 살짝 스치게 해주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_04",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 귓불",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 커튼 뒤 아늑한 공간에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'에 맞춰 귓불을(를) 입술로 살짝 빨고 진하게 키스해 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_05",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 허리라인",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 화장대 조명 앞에서 '부위를 옮기기 직전 낮게 이름 속삭이기'에 맞춰 허리라인을(를) 뜨거운 숨결과 습식 키스를 이어가세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_06",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 아랫배 라인",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 침실 벽 앞에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'에 맞춰 아랫배 라인을(를) 숨 막히는 키스를 퍼부어 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_07",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 가슴과 옆구리",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 침대 가장자리에서 '부위를 옮기기 직전 낮게 이름 속삭이기'에 맞춰 가슴과 옆구리을(를) 촉촉한 숨결을 따라 선을 그려주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_08",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 쇄골",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 전신 거울 앞에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'에 맞춰 쇄골을(를) 부드럽게 부드러운 입맞춤어 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_09",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 등줄기",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 소파 구석에서 '부위를 옮기기 직전 낮게 이름 속삭이기'에 맞춰 등줄기을(를) 입술과 손끝으로 번갈아 애태워 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_10",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 뒷목 헤어라인",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 주방 카운터에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'에 맞춰 뒷목 헤어라인을(를) 장난스럽게 깨문 직후 키스로 달래주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_11",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 목덜미",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 어두운 복도 문틀에서 '부위를 옮기기 직전 낮게 이름 속삭이기'에 맞춰 목덜미을(를) 숨결을 따라 천천히 숨을 살짝 스치게 해주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_12",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 허벅지 안쪽",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 무드등 켜진 러그 위에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'에 맞춰 허벅지 안쪽을(를) 입술로 살짝 빨고 진하게 키스해 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_13",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 골반선",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 작은 스탠드만 켠 침대 머리맡에서 '부위를 옮기기 직전 낮게 이름 속삭이기'에 맞춰 골반선을(를) 뜨거운 숨결과 습식 키스를 이어가세요(45초)."
+    },
+    {
+      "id": "sc_v21_f4_01",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 아랫배 민감 라인",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 커튼 뒤 아늑한 공간에서 벽에 등을 살짝 밀어 붙여 밀착한 채 상태로 눈을 맞춘 채 한 손로 셔츠 단추 두 개 너머 아랫배 민감 라인 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_02",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 골반 곡선",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 화장대 조명 앞에서 양손을 등 뒤로 잡아 반항을 막은 채 상태로 손 없이 입술과 치아로 어깨끈이나 옷깃 너머 골반 곡선 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_03",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 허벅지 안쪽",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 침실 벽 앞에서 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고 상태로 극도로 느린 손끝로 액세서리 1개 + 겉옷 1겹 너머 허벅지 안쪽 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_04",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 쇄골 아래 맨살",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 침대 가장자리에서 턱을 부드럽게 들어 올려 시선을 고정한 채 상태로 먼저 손등으로 스친 뒤 뜨거운 입술로 지퍼나 허리밴드 가장자리 너머 쇄골 아래 맨살 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_05",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 가슴과 갈비뼈 라인",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 전신 거울 앞에서 양손을 머리 뒤에 깍지 끼게 해 무방비로 만든 채 상태로 파트너 본인의 손을 직접 이끌며로 상의 밑단 너머 가슴과 갈비뼈 라인 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_06",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 힙과 골반선",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 소파 구석에서 양손을 침대 헤드에 대고 떼지 못하게 한 채 상태로 뜨거운 숨결과 입술만로 당신이 직접 고른 옷 1벌 너머 힙과 골반선 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_07",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 등줄기 맨 아래",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 주방 카운터에서 벽에 등을 살짝 밀어 붙여 밀착한 채 상태로 눈을 맞춘 채 한 손로 셔츠 단추 두 개 너머 등줄기 맨 아래 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_08",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 허리 잘록한 곳",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 어두운 복도 문틀에서 양손을 등 뒤로 잡아 반항을 막은 채 상태로 손 없이 입술과 치아로 어깨끈이나 옷깃 너머 허리 잘록한 곳 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_09",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 아랫배 민감 라인",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 무드등 켜진 러그 위에서 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고 상태로 극도로 느린 손끝로 액세서리 1개 + 겉옷 1겹 너머 아랫배 민감 라인 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_10",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 골반 곡선",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 작은 스탠드만 켠 침대 머리맡에서 턱을 부드럽게 들어 올려 시선을 고정한 채 상태로 먼저 손등으로 스친 뒤 뜨거운 입술로 지퍼나 허리밴드 가장자리 너머 골반 곡선 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_11",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 허벅지 안쪽",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 무드등 아래 창가에서 양손을 머리 뒤에 깍지 끼게 해 무방비로 만든 채 상태로 파트너 본인의 손을 직접 이끌며로 상의 밑단 너머 허벅지 안쪽 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_12",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 쇄골 아래 맨살",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 소파 팔걸이 옆에서 양손을 침대 헤드에 대고 떼지 못하게 한 채 상태로 뜨거운 숨결과 입술만로 당신이 직접 고른 옷 1벌 너머 쇄골 아래 맨살 공략(55초)."
+    },
+    {
+      "id": "sc_v21_d1_17",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "부드러운 유혹 · 관자놀이와 미간",
+      "text": "소파 구석에서 장난기 어린 미소를 머금은 채 상태를 유지하며 '따뜻한 숨결 직후 포개는 입술'로 관자놀이와 미간을(를) 자극하고(30초), '아침이 오기 전에 꼭 해보고 싶은 비밀 판타지'을(를) 속삭여."
+    },
+    {
+      "id": "sc_v21_d2_15",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 입꼬리 옆",
+      "text": "주방 카운터에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기' 규칙대로 목젖 아래선부터 입꼬리 옆까지 입술로 스치듯 반복해 애태워 주세요(35초)."
+    },
+    {
+      "id": "sc_v21_d2_16",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 어깨뼈 라인",
+      "text": "어두운 복도 문틀에서 '부위를 옮기기 직전 낮게 이름 속삭이기' 규칙대로 허리 뒤쪽부터 어깨뼈 라인까지 손끝으로 천천히 어루만져 주세요(35초)."
+    },
+    {
+      "id": "sc_v21_d2_17",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "심박 상승 · 뒷목 헤어라인",
+      "text": "무드등 켜진 러그 위에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기' 규칙대로 쇄골 움푹한 곳부터 뒷목 헤어라인까지 깃털처럼 가벼운 키스를 남기며(35초)."
+    },
+    {
+      "id": "sc_v21_d3_15",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 골반선",
+      "text": "작은 스탠드만 켠 침대 머리맡에서 뜨거운 숨결과 뜨거운 숨결과 습식 키스를 이어가세요을(를) 번갈아 골반선에 쏟아부어. 규칙: 부위를 옮기기 직전 낮게 이름 속삭이기(45초)."
+    },
+    {
+      "id": "sc_v21_d3_16",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "뜨거운 탐험 · 귓불",
+      "text": "무드등 아래 창가에서 뜨거운 숨결과 숨 막히는 키스를 퍼부어 주세요을(를) 번갈아 귓불에 쏟아부어. 규칙: 깃털 같은 터치와 단단한 그립을 번갈아 쓰기(45초)."
+    },
+    {
+      "id": "sc_v21_d4_13",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 허벅지 안쪽",
+      "text": "무드등 아래 창가에서 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고 상태로 극도로 느린 손끝로 액세서리 1개 + 겉옷 1겹을(를) 젖히고 허벅지 안쪽을(를) 숨 막히는 키스를 퍼부어 주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_14",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 쇄골 아래 맨살",
+      "text": "소파 팔걸이 옆에서 턱을 부드럽게 들어 올려 시선을 고정한 채 상태로 먼저 손등으로 스친 뒤 뜨거운 입술로 지퍼나 허리밴드 가장자리을(를) 젖히고 쇄골 아래 맨살을(를) 촉촉한 숨결을 따라 선을 그려주세요(55초)."
+    },
+    {
+      "id": "sc_v21_d4_15",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "자정의 지배 · 가슴과 갈비뼈 라인",
+      "text": "포근한 침대 끝에서 양손을 머리 뒤에 깍지 끼게 해 무방비로 만든 채 상태로 파트너 본인의 손을 직접 이끌며로 상의 밑단을(를) 젖히고 가슴과 갈비뼈 라인을(를) 부드럽게 부드러운 입맞춤어 주세요(55초)."
+    },
+    {
+      "id": "sc_v21_l2_15",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 쿠션 가득한 러그 위",
+      "text": "쿠션 가득한 러그 위에서 둘만의 시간: '숨이 닿는 거리에서 멈칫한 뒤, 다가가기'로 허리 뒤쪽부터 팔 안쪽까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_16",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 커튼 뒤 아늑한 공간",
+      "text": "커튼 뒤 아늑한 공간에서 둘만의 시간: '손끝으로 가볍게 스친 뒤, 부드러운 입맞춤'로 쇄골 움푹한 곳부터 귀 뒤쪽까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_17",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 화장대 조명 앞",
+      "text": "화장대 조명 앞에서 둘만의 시간: '따뜻한 숨결 직후 포개는 입술'로 손목 맥박 부위부터 턱끝까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l2_18",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "비밀 스팟 · 침실 벽 앞",
+      "text": "침실 벽 앞에서 둘만의 시간: '살짝 깨문 직후 숨결을 따라 부드럽게 달래기'로 어깨뼈부터 쇄골까지 천천히 공략(35초)."
+    },
+    {
+      "id": "sc_v21_l3_14",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 화장대 조명 앞",
+      "text": "화장대 조명 앞에서 '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 상대를 끌어당겨 골반선을(를) 집중 뜨거운 숨결과 습식 키스를 이어가세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_15",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 침실 벽 앞",
+      "text": "침실 벽 앞에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 상대를 끌어당겨 귓불을(를) 집중 숨 막히는 키스를 퍼부어 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l3_16",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "밀착 무대 · 침대 가장자리",
+      "text": "침대 가장자리에서 '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 상대를 끌어당겨 허리라인을(를) 집중 촉촉한 숨결을 따라 선을 그려주세요(45초)."
+    },
+    {
+      "id": "sc_v21_l4_14",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 전신 거울 앞",
+      "text": "바로 전신 거울 앞에서 '침대 위에서 무릎을 맞대고 마주 앉는 자세' 자세와 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고으로 가슴과 갈비뼈 라인을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_l4_15",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "과감한 무대 · 소파 구석",
+      "text": "바로 소파 구석에서 '침실 벽에 기대어 천천히 가까이하는 자세' 자세와 턱을 부드럽게 들어 올려 시선을 고정한 채으로 힙과 골반선을(를) 깊이 탐험(55초)."
+    },
+    {
+      "id": "sc_v21_f2_15",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 한밤중 오션뷰 발코니",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 무드등 켜진 러그 위에서 '시원한 숨결 직후 쏟아지는 뜨거운 습식 키스'로 뒷목 헤어라인을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_16",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 비밀 심야 재즈바",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 작은 스탠드만 켠 침대 머리맡에서 '손을 살짝 감싼 뒤, 천천히 스며드는 입맞춤'로 볼과 턱선을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f2_17",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "밀당 각본 · 별빛 가득한 비밀 정원",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 플레이 시작: 무드등 아래 창가에서 '머리카락을 쓸다 목선을 당겨오는 포옹'로 쇄골 바깥선을(를) 간지럽혀(35초)."
+    },
+    {
+      "id": "sc_v21_f3_14",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 귓불",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 무드등 아래 창가에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'에 맞춰 귓불을(를) 숨 막히는 키스를 퍼부어 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_15",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 허리라인",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 소파 팔걸이 옆에서 '부위를 옮기기 직전 낮게 이름 속삭이기'에 맞춰 허리라인을(를) 촉촉한 숨결을 따라 선을 그려주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f3_16",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "대담한 판타지 · 아랫배 라인",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈'에 몰입해 포근한 침대 끝에서 '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'에 맞춰 아랫배 라인을(를) 부드럽게 부드러운 입맞춤어 주세요(45초)."
+    },
+    {
+      "id": "sc_v21_f4_13",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 가슴과 갈비뼈 라인",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 포근한 침대 끝에서 벽에 등을 살짝 밀어 붙여 밀착한 채 상태로 눈을 맞춘 채 한 손로 셔츠 단추 두 개 너머 가슴과 갈비뼈 라인 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_14",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 힙과 골반선",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 어둑한 현관 앞에서 양손을 등 뒤로 잡아 반항을 막은 채 상태로 손 없이 입술과 치아로 어깨끈이나 옷깃 너머 힙과 골반선 공략(55초)."
+    },
+    {
+      "id": "sc_v21_f4_15",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "절정 판타지 · 등줄기 맨 아래",
+      "text": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 완결편: 드레스룸 거울 앞에서 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고 상태로 극도로 느린 손끝로 액세서리 1개 + 겉옷 1겹 너머 등줄기 맨 아래 공략(55초)."
+    }
+  ]
+}

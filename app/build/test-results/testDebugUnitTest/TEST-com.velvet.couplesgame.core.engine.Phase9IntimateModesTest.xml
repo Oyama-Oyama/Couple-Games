@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.velvet.couplesgame.core.engine.Phase9IntimateModesTest" tests="5" skipped="0" failures="0" errors="0" timestamp="2026-11-24T02:26:43.269Z" hostname="DESKTOP-T2VIOG1" time="0.001">
+  <properties/>
+  <testcase name="desireAuctionTracksBiddingFoldPayoutAndBailout" classname="com.velvet.couplesgame.core.engine.Phase9IntimateModesTest" time="0.0"/>
+  <testcase name="heartbeatEngineFiltersAndTracksSyncsAndForfeits" classname="com.velvet.couplesgame.core.engine.Phase9IntimateModesTest" time="0.0"/>
+  <testcase name="velvetBombArmsWithinFuseBoundsPassesAndDetonatesOnHolder" classname="com.velvet.couplesgame.core.engine.Phase9IntimateModesTest" time="0.0"/>
+  <testcase name="blackjackComputesAceReductionAndShowdownChipTransfer" classname="com.velvet.couplesgame.core.engine.Phase9IntimateModesTest" time="0.0"/>
+  <testcase name="bodyMapHidesHotSpotsAndDetectsDiscovery" classname="com.velvet.couplesgame.core.engine.Phase9IntimateModesTest" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="velvetBg" format="color|reference" />
+    <attr name="velvetSurface" format="color|reference" />
+    <attr name="velvetSurfaceElevated" format="color|reference" />
+    <attr name="velvetPrimary" format="color|reference" />
+    <attr name="velvetAccent" format="color|reference" />
+    <attr name="velvetAccentStroke" format="color|reference" />
+    <attr name="velvetTextPrimary" format="color|reference" />
+    <attr name="velvetTextMuted" format="color|reference" />
+</resources>

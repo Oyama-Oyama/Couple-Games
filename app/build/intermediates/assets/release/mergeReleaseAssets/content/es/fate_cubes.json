@@ -1,0 +1,3980 @@
+{
+  "actions": [
+    {
+      "id": "act_caress",
+      "label": "Acariciar Despacio",
+      "icon": "✋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_kiss",
+      "label": "Beso Suave",
+      "icon": "💋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_whisper",
+      "label": "Susurrar al Oído",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "act_massage",
+      "label": "Masaje Cálido",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_breath",
+      "label": "Soplar Aliento Cálido",
+      "icon": "🌬",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_trace",
+      "label": "Recorrer con Dedos",
+      "icon": "〰",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_lick",
+      "label": "dejar que el aliento roz Suavemente",
+      "icon": "👅",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_nibble",
+      "label": "beso suave Suave",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_lingering_kiss",
+      "label": "beso pausado y tierno",
+      "icon": "❤",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_lick_bite",
+      "label": "dejar que el aliento roz y beso suave",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_spank",
+      "label": "reto divertido Juguetón",
+      "icon": "💥",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_suck_tease",
+      "label": "dejar besos suaves cerca de y Provocar",
+      "icon": "🍷",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_ice_trace",
+      "label": "Deslizar Cubito de Hielo",
+      "icon": "🧊",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_undress_slow",
+      "label": "Desabrochar Despacio",
+      "icon": "🎀",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "act_pin_kiss",
+      "label": "Sujetar Muñecas y Besar",
+      "icon": "⛓",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_slow_lick",
+      "label": "dejar que el aliento roz despacio y húmedo",
+      "icon": "👅",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_gentle_suck",
+      "label": "Succionar suave",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_soft_bite",
+      "label": "beso suave travieso",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_wet_kiss",
+      "label": "Beso húmedo y profundo",
+      "icon": "💦",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_deep_suck_mark",
+      "label": "Succionar fuerte dejando marca",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_lip_nibble_pull",
+      "label": "beso suave y tirar suavemente",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_pinch_tease",
+      "label": "Pellizco suave y caricia",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_warm_oil_glide",
+      "label": "Deslizar aceite tibio / palmas",
+      "icon": "💧",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_tongue_circle",
+      "label": "Círculos lentos el aliento",
+      "icon": "🌀",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_bite_then_soothe",
+      "label": "beso suave y calmar el aliento",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_breath_stop_kiss",
+      "label": "Aliento ardiente + beso súbito",
+      "icon": "🌬",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_01",
+      "label": "Acariciar como una pluma",
+      "icon": "🪶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_02",
+      "label": "Tres besitos tímidos",
+      "icon": "💋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_03",
+      "label": "Soplar aliento tibio cerca",
+      "icon": "🌬",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_04",
+      "label": "Dibujar círculos con la yema",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_05",
+      "label": "Rozar suavemente mirándote",
+      "icon": "💕",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_06",
+      "label": "Beso lento y embriagador",
+      "icon": "🥂",
+      "tier": 1,
+      "tags": [
+        "alcohol",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_07",
+      "label": "Cubrir con la palma tibia",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_08",
+      "label": "Susurrar halagos sobre la piel",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "deep_talk",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_09",
+      "label": "Rozar despacio con la nariz",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_10",
+      "label": "acercar suave sobre la ropa",
+      "icon": "🤍",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_11",
+      "label": "Quedarte a 1 cm sin besar",
+      "icon": "🌹",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_01",
+      "label": "Rozar ida y vuelta con los labios",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_02",
+      "label": "Pequeño beso suave travieso",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t2_03",
+      "label": "Rozar suave con las uñas",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_04",
+      "label": "Cadena de besos ardientes",
+      "icon": "💓",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_05",
+      "label": "Probar una gota de bebida",
+      "icon": "🍷",
+      "tier": 2,
+      "tags": [
+        "alcohol",
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t2_06",
+      "label": "Beso sorpresa con ojos cerrados",
+      "icon": "🙈",
+      "tier": 2,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_07",
+      "label": "Atraer de golpe y robar beso",
+      "icon": "🎭",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_01",
+      "label": "Trazar lento con el aliento húmeda",
+      "icon": "👅",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_02",
+      "label": "Succionar suave hasta que gimas",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_03",
+      "label": "Deslizar manos bajo la ropa",
+      "icon": "✋",
+      "tier": 3,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_04",
+      "label": "Aire fresco y luego beso ardiente",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_05",
+      "label": "Agarre firme y caricia profunda",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "restraint_light",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_06",
+      "label": "Beso abierto y lento sin prisa",
+      "icon": "💧",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_07",
+      "label": "Apartar el cuello y besar la piel",
+      "icon": "🎀",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "act_v2_t4_01",
+      "label": "Sujetar y beso suave-dejar besos suaves cerca de sin pausa",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "bite_lick",
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t4_02",
+      "label": "Apartar ropa con boca y besar",
+      "icon": "💋",
+      "tier": 4,
+      "tags": [
+        "clothing_dare",
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t4_03",
+      "label": "Dos reto divertido suaves y beso lento",
+      "icon": "💥",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t4_04",
+      "label": "Círculos con el aliento hasta rogar",
+      "icon": "🌀",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t4_05",
+      "label": "Provocar a ciegas hasta temblar",
+      "icon": "⛓",
+      "tier": 4,
+      "tags": [
+        "blindfold",
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v21_001",
+      "label": "Muy lento Besar",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_002",
+      "label": "Muy lento Acariciar",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_003",
+      "label": "Muy lento Trazar",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_004",
+      "label": "Muy lento Rozar",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_005",
+      "label": "Muy lento Masajear",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_006",
+      "label": "Muy lento Deslizar",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_007",
+      "label": "Muy lento Abrazar",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_008",
+      "label": "Muy lento Calentar",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_009",
+      "label": "Muy lento Tocar suave",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_010",
+      "label": "Muy lento Presionar",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_011",
+      "label": "Muy lento Recorrer",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_012",
+      "label": "Muy lento Calmar",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_013",
+      "label": "Muy lento Mimar",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_014",
+      "label": "Como pluma Besar",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_015",
+      "label": "Como pluma Acariciar",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_016",
+      "label": "Como pluma Trazar",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_017",
+      "label": "Como pluma Rozar",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_018",
+      "label": "Como pluma Masajear",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_019",
+      "label": "Como pluma Deslizar",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_020",
+      "label": "Como pluma Abrazar",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_021",
+      "label": "Como pluma Calentar",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_022",
+      "label": "Como pluma Tocar suave",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_023",
+      "label": "Como pluma Presionar",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_024",
+      "label": "Como pluma Recorrer",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_025",
+      "label": "Como pluma Calmar",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_026",
+      "label": "Como pluma Mimar",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_027",
+      "label": "Ojos cerrados Besar",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_028",
+      "label": "Ojos cerrados Acariciar",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_029",
+      "label": "Ojos cerrados Trazar",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_030",
+      "label": "Ojos cerrados Rozar",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_031",
+      "label": "Ojos cerrados Masajear",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_032",
+      "label": "Ojos cerrados Deslizar",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_033",
+      "label": "Ojos cerrados Abrazar",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_034",
+      "label": "Ojos cerrados Calentar",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_035",
+      "label": "Ojos cerrados Tocar suave",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_036",
+      "label": "Ojos cerrados Presionar",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_037",
+      "label": "Ojos cerrados Recorrer",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_038",
+      "label": "Ojos cerrados Calmar",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_039",
+      "label": "Ojos cerrados Mimar",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_040",
+      "label": "Aliento tibio Besar",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_041",
+      "label": "Aliento tibio Acariciar",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_042",
+      "label": "Aliento tibio Trazar",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_043",
+      "label": "Aliento tibio Rozar",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_044",
+      "label": "Aliento tibio Masajear",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_045",
+      "label": "Aliento tibio Deslizar",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_046",
+      "label": "Aliento tibio Abrazar",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_047",
+      "label": "Aliento tibio Calentar",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_048",
+      "label": "Aliento tibio Tocar suave",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_049",
+      "label": "Aliento tibio Presionar",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_050",
+      "label": "Aliento tibio Recorrer",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_051",
+      "label": "Aliento tibio Calmar",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_052",
+      "label": "Aliento tibio Mimar",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_053",
+      "label": "Sonriendo Besar",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_054",
+      "label": "Sonriendo Acariciar",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_055",
+      "label": "Sonriendo Trazar",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_056",
+      "label": "Sonriendo Rozar",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_057",
+      "label": "Sonriendo Masajear",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_058",
+      "label": "Sonriendo Deslizar",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_059",
+      "label": "Sonriendo Abrazar",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_060",
+      "label": "Sonriendo Calentar",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_061",
+      "label": "Sonriendo Tocar suave",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_062",
+      "label": "Sonriendo Presionar",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_063",
+      "label": "Sonriendo Recorrer",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_064",
+      "label": "Sonriendo Calmar",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_065",
+      "label": "Sonriendo Mimar",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_066",
+      "label": "Susurrando Besar",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_067",
+      "label": "Susurrando Acariciar",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_068",
+      "label": "Susurrando Trazar",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_069",
+      "label": "Susurrando Rozar",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_070",
+      "label": "Susurrando Masajear",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_071",
+      "label": "Susurrando Deslizar",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_072",
+      "label": "Susurrando Abrazar",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_073",
+      "label": "Susurrando Calentar",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_074",
+      "label": "Susurrando Tocar suave",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_075",
+      "label": "Susurrando Presionar",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_076",
+      "label": "Susurrando Recorrer",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_077",
+      "label": "Susurrando Calmar",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_078",
+      "label": "Susurrando Mimar",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_079",
+      "label": "En círculos Besar",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_080",
+      "label": "En círculos Acariciar",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_081",
+      "label": "En círculos Trazar",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_082",
+      "label": "En círculos Rozar",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_083",
+      "label": "En círculos Masajear",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_084",
+      "label": "En círculos Deslizar",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_085",
+      "label": "En círculos Abrazar",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_086",
+      "label": "En círculos Calentar",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_087",
+      "label": "En círculos Tocar suave",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_088",
+      "label": "En círculos Presionar",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_089",
+      "label": "En círculos Recorrer",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_090",
+      "label": "En círculos Calmar",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_091",
+      "label": "En círculos Mimar",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_092",
+      "label": "Sin prisa Besar",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_093",
+      "label": "Sin prisa Acariciar",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_094",
+      "label": "Sin prisa Trazar",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_095",
+      "label": "Sin prisa Rozar",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_096",
+      "label": "Sin prisa Masajear",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_097",
+      "label": "Sin prisa Deslizar",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_098",
+      "label": "Sin prisa Abrazar",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_099",
+      "label": "Sin prisa Calentar",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_100",
+      "label": "Sin prisa Tocar suave",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_101",
+      "label": "Sin prisa Presionar",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_102",
+      "label": "Sin prisa Recorrer",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_103",
+      "label": "Sin prisa Calmar",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_104",
+      "label": "Sin prisa Mimar",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ],
+  "spots": [
+    {
+      "id": "spot_hand",
+      "label": "Mano y Dedos",
+      "icon": "🤲",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_cheek",
+      "label": "Mejilla y Mandíbula",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_shoulder",
+      "label": "Hombro",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lips",
+      "label": "Labios",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_earlobe",
+      "label": "Lóbulo de la Oreja",
+      "icon": "🎧",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_neck",
+      "label": "Cuello",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_collarbone",
+      "label": "Clavícula",
+      "icon": "💎",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_wrist",
+      "label": "Muñeca Interior",
+      "icon": "🕊",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_waist",
+      "label": "Cintura",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_spine",
+      "label": "Espalda y Columna",
+      "icon": "🌊",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_hip",
+      "label": "Cadera y Espalda Baja",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_thigh",
+      "label": "Muslo Interior",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lower_belly",
+      "label": "Bajo Vientre",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_chest",
+      "label": "Pecho y Costillas",
+      "icon": "❤",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_nape",
+      "label": "Nuca",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_behind_ear",
+      "label": "Detrás de la oreja",
+      "icon": "🎧",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_throat",
+      "label": "Garganta y hueco del cuello",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_under_collar",
+      "label": "Debajo de la clavícula",
+      "icon": "💎",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_side_ribs",
+      "label": "Costillas laterales",
+      "icon": "〰",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lower_back",
+      "label": "Hoyuelos de la espalda baja",
+      "icon": "🌙",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_navel_line",
+      "label": "Ombligo y bajo vientre",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_hip_bone",
+      "label": "Borde del hueso de la cadera",
+      "icon": "🌹",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_glutes_curve",
+      "label": "Curva de los glúteos",
+      "icon": "🍑",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_upper_inner_thigh",
+      "label": "Parte alta del muslo interno",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_chest_hollow",
+      "label": "Pecho bajo la camisa",
+      "icon": "❤️‍🔥",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_behind_knee",
+      "label": "Detrás de la rodilla",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_01",
+      "label": "Dedos y nudillos",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_02",
+      "label": "Frente y entrecejo",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_03",
+      "label": "Borde de la oreja",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_04",
+      "label": "Curva de la mandíbula",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_05",
+      "label": "Hueco de la clavícula",
+      "icon": "🤍",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_06",
+      "label": "Comisura de los labios",
+      "icon": "🌹",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_07",
+      "label": "Centro de la palma",
+      "icon": "🤲",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_08",
+      "label": "Omóplatos",
+      "icon": "🦋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_09",
+      "label": "Pliegue del codo",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_10",
+      "label": "Sienes y patillas",
+      "icon": "💕",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_11",
+      "label": "Tobillo y empeine",
+      "icon": "🕊",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_01",
+      "label": "Centro del labio inferior",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_02",
+      "label": "Pulso del cuello",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_03",
+      "label": "Antebrazo interior",
+      "icon": "🌊",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_04",
+      "label": "Hoyuelo lumbar",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_05",
+      "label": "Curva cuello-hombro",
+      "icon": "💎",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_06",
+      "label": "Espalda alta bajo el cuello",
+      "icon": "🌙",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_01",
+      "label": "Alrededor del ombligo",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_02",
+      "label": "Costado sensible",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_03",
+      "label": "Curva exterior del muslo",
+      "icon": "🌹",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_04",
+      "label": "Toda la línea de la columna",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_05",
+      "label": "Vientre bajo el dobladillo",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_01",
+      "label": "Lo más alto del muslo interno",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_02",
+      "label": "Zona más sensible del pecho",
+      "icon": "❤️‍🔥",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_03",
+      "label": "Curva baja de los glúteos",
+      "icon": "🍑",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_04",
+      "label": "Borde de la ropa interior",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_05",
+      "label": "Línea V del bajo vientre",
+      "icon": "🍷",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_06",
+      "label": "Hueco del hueso de la cadera",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_07",
+      "label": "Espalda aflojar piel con piel",
+      "icon": "💫",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_08",
+      "label": "Ruta de la oreja al pecho",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_001",
+      "label": "Izq. Sien",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_002",
+      "label": "Izq. Pómulo",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_003",
+      "label": "Izq. Oreja",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_004",
+      "label": "Izq. Tras oreja",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_005",
+      "label": "Izq. Mandíbula",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_006",
+      "label": "Izq. Comisura",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_007",
+      "label": "Izq. Mentón",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_008",
+      "label": "Izq. Nuca",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_009",
+      "label": "Izq. Clavícula",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_010",
+      "label": "Izq. Hombro",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_011",
+      "label": "Izq. Brazo",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_012",
+      "label": "Izq. Antebrazo",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_013",
+      "label": "Izq. Muñeca",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_014",
+      "label": "Izq. Palma",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_015",
+      "label": "Izq. Nudillos",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_016",
+      "label": "Izq. Omóplato",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_017",
+      "label": "Izq. Espalda",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_018",
+      "label": "Izq. Cintura",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_019",
+      "label": "Izq. Tobillo",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_020",
+      "label": "Izq. Empeine",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_021",
+      "label": "Der. Sien",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_022",
+      "label": "Der. Pómulo",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_023",
+      "label": "Der. Oreja",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_024",
+      "label": "Der. Tras oreja",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_025",
+      "label": "Der. Mandíbula",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_026",
+      "label": "Der. Comisura",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_027",
+      "label": "Der. Mentón",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_028",
+      "label": "Der. Nuca",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_029",
+      "label": "Der. Clavícula",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_030",
+      "label": "Der. Hombro",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_031",
+      "label": "Der. Brazo",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_032",
+      "label": "Der. Antebrazo",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_033",
+      "label": "Der. Muñeca",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_034",
+      "label": "Der. Palma",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_035",
+      "label": "Der. Nudillos",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_036",
+      "label": "Der. Omóplato",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_037",
+      "label": "Der. Espalda",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_038",
+      "label": "Der. Cintura",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_039",
+      "label": "Der. Tobillo",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_040",
+      "label": "Der. Empeine",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_041",
+      "label": "Exterior Sien",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_042",
+      "label": "Exterior Pómulo",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_043",
+      "label": "Exterior Oreja",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_044",
+      "label": "Exterior Tras oreja",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_045",
+      "label": "Exterior Mandíbula",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_046",
+      "label": "Exterior Comisura",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_047",
+      "label": "Exterior Mentón",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_048",
+      "label": "Exterior Nuca",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_049",
+      "label": "Exterior Clavícula",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_050",
+      "label": "Exterior Hombro",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_051",
+      "label": "Exterior Brazo",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_052",
+      "label": "Exterior Antebrazo",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_053",
+      "label": "Exterior Muñeca",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_054",
+      "label": "Exterior Palma",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_055",
+      "label": "Exterior Nudillos",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_056",
+      "label": "Exterior Omóplato",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_057",
+      "label": "Exterior Espalda",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_058",
+      "label": "Exterior Cintura",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_059",
+      "label": "Exterior Tobillo",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_060",
+      "label": "Exterior Empeine",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_061",
+      "label": "Interior Sien",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_062",
+      "label": "Interior Pómulo",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_063",
+      "label": "Interior Oreja",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_064",
+      "label": "Interior Tras oreja",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_065",
+      "label": "Interior Mandíbula",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_066",
+      "label": "Interior Comisura",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_067",
+      "label": "Interior Mentón",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_068",
+      "label": "Interior Nuca",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_069",
+      "label": "Interior Clavícula",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_070",
+      "label": "Interior Hombro",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_071",
+      "label": "Interior Brazo",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_072",
+      "label": "Interior Antebrazo",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_073",
+      "label": "Interior Muñeca",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_074",
+      "label": "Interior Palma",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_075",
+      "label": "Interior Nudillos",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_076",
+      "label": "Interior Omóplato",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_077",
+      "label": "Interior Espalda",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_078",
+      "label": "Interior Cintura",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_079",
+      "label": "Interior Tobillo",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_080",
+      "label": "Interior Empeine",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_081",
+      "label": "Alto Sien",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_082",
+      "label": "Alto Pómulo",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_083",
+      "label": "Alto Oreja",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_084",
+      "label": "Alto Tras oreja",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_085",
+      "label": "Alto Mandíbula",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_086",
+      "label": "Alto Comisura",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_087",
+      "label": "Alto Mentón",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_088",
+      "label": "Alto Nuca",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_089",
+      "label": "Alto Clavícula",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_090",
+      "label": "Alto Hombro",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_091",
+      "label": "Alto Brazo",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_092",
+      "label": "Alto Antebrazo",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_093",
+      "label": "Alto Muñeca",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_094",
+      "label": "Alto Palma",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_095",
+      "label": "Alto Nudillos",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_096",
+      "label": "Alto Omóplato",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_097",
+      "label": "Alto Espalda",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_098",
+      "label": "Alto Cintura",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_099",
+      "label": "Alto Tobillo",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_100",
+      "label": "Alto Empeine",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_101",
+      "label": "Bajo Sien",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_102",
+      "label": "Bajo Pómulo",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_103",
+      "label": "Bajo Oreja",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_104",
+      "label": "Bajo Tras oreja",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ],
+  "modifiers": [
+    {
+      "id": "mod_eye",
+      "label": "Sin apartar la mirada ni un segundo",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_slow",
+      "label": "En cámara ultra lenta, sin prisas",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_no_hands",
+      "label": "Sin manos — solo labios y aliento",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_whisper_name",
+      "label": "Susurra su nombre antes y después",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_blindfold",
+      "label": "Quien recibe cierra los ojos en silencio",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ]
+    },
+    {
+      "id": "mod_pin_hands",
+      "label": "Sujeta suavemente sus manos arriba",
+      "durationSec": 25,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_clothing",
+      "label": "Aparta primero una capa de ropa",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_freeze_gasp",
+      "label": "Congela 3s cada vez que suspire",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_hands_behind",
+      "label": "Quien recibe deja las manos tras la espalda",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_mirror_watch",
+      "label": "Hacedlo frente al espejo mirándoos",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_dirty_praise",
+      "label": "Susurra elogios atrevidos todo el tiempo",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_hot_cold",
+      "label": "Aliento fresco primero, luego boca ardiente",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_under_shirt",
+      "label": "Directo debajo de su ropa piel con piel",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_no_sound",
+      "label": "Prohibido hacer ruido — cada suspiro suma 15s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_01",
+      "label": "Muy cerca — a ver quién se sonroja primero",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_02",
+      "label": "Susurra '¿te gusta así?' a mitad",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_03",
+      "label": "Suave y tímido, lo más lento posible",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_04",
+      "label": "Dedos entrelazados sin soltarse",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_05",
+      "label": "Da un sorbito antes de acercarte",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "alcohol"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_01",
+      "label": "Espera 5 segundos a 1 cm antes",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_02",
+      "label": "Susurra su apodo especial al oído",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_03",
+      "label": "Hazlo sentado/a en su regazo",
+      "durationSec": 30,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_01",
+      "label": "Ojos cerrados — si fallas, tiempo doble",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_02",
+      "label": "Aliento caliente primero, siente el temblor",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_03",
+      "label": "Susurra como si pudieran descubriros",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_04",
+      "label": "Quien recibe guía tu muñeca y ritmo",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t4_01",
+      "label": "Apóyala suave contra la pared o cabecero",
+      "durationSec": 35,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t4_02",
+      "label": "Aparta un poco la tela, besa y provoca",
+      "durationSec": 35,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_v21_001",
+      "label": "Sin apartar ojos — por 15s",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_002",
+      "label": "Sin apartar ojos — por 20s",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_003",
+      "label": "Sin apartar ojos — por 25s",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_004",
+      "label": "Sin apartar ojos — por 30s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_005",
+      "label": "Sin apartar ojos — en 3 gestos lentos",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_006",
+      "label": "Sin apartar ojos — cerrando con abrazo",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_007",
+      "label": "Sin apartar ojos — y beso en frente",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_008",
+      "label": "Sin apartar ojos — con sonrisa cálida",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_009",
+      "label": "Sin apartar ojos — a ritmo suave",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_010",
+      "label": "Sin apartar ojos — hasta sonrojarse",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_011",
+      "label": "Ojos cerrados — por 15s",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_012",
+      "label": "Ojos cerrados — por 20s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_013",
+      "label": "Ojos cerrados — por 25s",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_014",
+      "label": "Ojos cerrados — por 30s",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_015",
+      "label": "Ojos cerrados — en 3 gestos lentos",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_016",
+      "label": "Ojos cerrados — cerrando con abrazo",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_017",
+      "label": "Ojos cerrados — y beso en frente",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_018",
+      "label": "Ojos cerrados — con sonrisa cálida",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_019",
+      "label": "Ojos cerrados — a ritmo suave",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_020",
+      "label": "Ojos cerrados — hasta sonrojarse",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_021",
+      "label": "Dedos unidos — por 15s",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_022",
+      "label": "Dedos unidos — por 20s",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_023",
+      "label": "Dedos unidos — por 25s",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_024",
+      "label": "Dedos unidos — por 30s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_025",
+      "label": "Dedos unidos — en 3 gestos lentos",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_026",
+      "label": "Dedos unidos — cerrando con abrazo",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_027",
+      "label": "Dedos unidos — y beso en frente",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_028",
+      "label": "Dedos unidos — con sonrisa cálida",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_029",
+      "label": "Dedos unidos — a ritmo suave",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_030",
+      "label": "Dedos unidos — hasta sonrojarse",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_031",
+      "label": "Respirando igual — por 15s",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_032",
+      "label": "Respirando igual — por 20s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_033",
+      "label": "Respirando igual — por 25s",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_034",
+      "label": "Respirando igual — por 30s",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_035",
+      "label": "Respirando igual — en 3 gestos lentos",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_036",
+      "label": "Respirando igual — cerrando con abrazo",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_037",
+      "label": "Respirando igual — y beso en frente",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_038",
+      "label": "Respirando igual — con sonrisa cálida",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_039",
+      "label": "Respirando igual — a ritmo suave",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_040",
+      "label": "Respirando igual — hasta sonrojarse",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_041",
+      "label": "Susurrando halago — por 15s",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_042",
+      "label": "Susurrando halago — por 20s",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_043",
+      "label": "Susurrando halago — por 25s",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_044",
+      "label": "Susurrando halago — por 30s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_045",
+      "label": "Susurrando halago — en 3 gestos lentos",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_046",
+      "label": "Susurrando halago — cerrando con abrazo",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_047",
+      "label": "Susurrando halago — y beso en frente",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_048",
+      "label": "Susurrando halago — con sonrisa cálida",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_049",
+      "label": "Susurrando halago — a ritmo suave",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_050",
+      "label": "Susurrando halago — hasta sonrojarse",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_051",
+      "label": "Frentes juntas — por 15s",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_052",
+      "label": "Frentes juntas — por 20s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_053",
+      "label": "Frentes juntas — por 25s",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_054",
+      "label": "Frentes juntas — por 30s",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_055",
+      "label": "Frentes juntas — en 3 gestos lentos",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_056",
+      "label": "Frentes juntas — cerrando con abrazo",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_057",
+      "label": "Frentes juntas — y beso en frente",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_058",
+      "label": "Frentes juntas — con sonrisa cálida",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_059",
+      "label": "Frentes juntas — a ritmo suave",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_060",
+      "label": "Frentes juntas — hasta sonrojarse",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_061",
+      "label": "Sin reírse — por 15s",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_062",
+      "label": "Sin reírse — por 20s",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_063",
+      "label": "Sin reírse — por 25s",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_064",
+      "label": "Sin reírse — por 30s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_065",
+      "label": "Sin reírse — en 3 gestos lentos",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_066",
+      "label": "Sin reírse — cerrando con abrazo",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_067",
+      "label": "Sin reírse — y beso en frente",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_068",
+      "label": "Sin reírse — con sonrisa cálida",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_069",
+      "label": "Sin reírse — a ritmo suave",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_070",
+      "label": "Sin reírse — hasta sonrojarse",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_071",
+      "label": "Con la otra mano — por 15s",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_072",
+      "label": "Con la otra mano — por 20s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_073",
+      "label": "Con la otra mano — por 25s",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_074",
+      "label": "Con la otra mano — por 30s",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_075",
+      "label": "Con la otra mano — en 3 gestos lentos",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_076",
+      "label": "Con la otra mano — cerrando con abrazo",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_077",
+      "label": "Con la otra mano — y beso en frente",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_078",
+      "label": "Con la otra mano — con sonrisa cálida",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_079",
+      "label": "Con la otra mano — a ritmo suave",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_080",
+      "label": "Con la otra mano — hasta sonrojarse",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_081",
+      "label": "Pausa de 3s — por 15s",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_082",
+      "label": "Pausa de 3s — por 20s",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_083",
+      "label": "Pausa de 3s — por 25s",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_084",
+      "label": "Pausa de 3s — por 30s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_085",
+      "label": "Pausa de 3s — en 3 gestos lentos",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_086",
+      "label": "Pausa de 3s — cerrando con abrazo",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_087",
+      "label": "Pausa de 3s — y beso en frente",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_088",
+      "label": "Pausa de 3s — con sonrisa cálida",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_089",
+      "label": "Pausa de 3s — a ritmo suave",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_090",
+      "label": "Pausa de 3s — hasta sonrojarse",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_091",
+      "label": "Diciendo su apodo — por 15s",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_092",
+      "label": "Diciendo su apodo — por 20s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.velvet.couplesgame.core.engine.FullCorpusValidationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2026-11-24T02:26:42.628Z" hostname="DESKTOP-T2VIOG1" time="0.516">
+  <properties/>
+  <testcase name="validateAllGamesAllTagsAllLanguages" classname="com.velvet.couplesgame.core.engine.FullCorpusValidationTest" time="0.516"/>
+  <system-out><![CDATA[REPORT_LINES=625
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

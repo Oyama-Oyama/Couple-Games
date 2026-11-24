@@ -1,0 +1,2164 @@
+{
+  "nhie": [
+    {
+      "id": "nhie_01",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca reli conversas antigas nossas de madrugada sorrindo escondido."
+    },
+    {
+      "id": "nhie_02",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "text": "Eu nunca fingi precisar de ajuda só para trazer você para perto."
+    },
+    {
+      "id": "nhie_03",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca fiquei te encarando e esqueci completamente o que ia dizer."
+    },
+    {
+      "id": "nhie_04",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "text": "Eu nunca mandei (ou quase mandei) uma mensagem picante durante o trabalho."
+    },
+    {
+      "id": "nhie_05",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Eu nunca quis te puxar para um quarto vazio no meio de uma festa."
+    },
+    {
+      "id": "nhie_06",
+      "tier": 2,
+      "tags": [
+        "alcohol"
+      ],
+      "text": "Eu nunca joguei Verdade ou Desafio bebendo e a noite esquentou demais."
+    },
+    {
+      "id": "nhie_07",
+      "tier": 3,
+      "tags": [
+        "public_space"
+      ],
+      "text": "Eu nunca roubei um beijo ou carícia onde quase podiam nos ver."
+    },
+    {
+      "id": "nhie_08",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "text": "Eu nunca imaginei um jogo de papéis com você sem ter coragem de falar."
+    },
+    {
+      "id": "nhie_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Eu nunca deixei (ou quis deixar) uma marca de beijo em um lugar escondido."
+    },
+    {
+      "id": "nhie_10",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Eu nunca escolhi lingerie ousada ou saí sem nada por baixo só para te provocar."
+    },
+    {
+      "id": "nhie_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Eu nunca fantasiei você prendendo meus pulsos e assumindo todo o controle."
+    },
+    {
+      "id": "nhie_12",
+      "tier": 4,
+      "tags": [
+        "blindfold"
+      ],
+      "text": "Eu nunca quis testar venda de seda, gelo ou penas com você."
+    },
+    {
+      "id": "nhie_13",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca fiquei acordado(a) só olhando meu par dormir com vontade de apertar num abraço."
+    },
+    {
+      "id": "nhie_14",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "text": "Eu nunca vesti algo de propósito torcendo para meu par tirar rápido de mim."
+    },
+    {
+      "id": "nhie_15",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Eu nunca fiquei excitado(a) só ouvindo a voz baixa do meu par no telefone."
+    },
+    {
+      "id": "nhie_16",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Eu nunca quis deixar uma marquinha escondida onde só nós dois veríamos."
+    },
+    {
+      "id": "nhie_17",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Eu nunca saí sem roupa íntima ou com lingerie secreta num encontro super normal."
+    },
+    {
+      "id": "nhie_18",
+      "tier": 3,
+      "tags": [
+        "public_space"
+      ],
+      "text": "Eu nunca tive um momento quente num carro, provador ou varanda de hotel."
+    },
+    {
+      "id": "nhie_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Eu nunca fantasiei ter os pulsos suavemente presos ou aproximar meu par na cama."
+    },
+    {
+      "id": "nhie_20",
+      "tier": 4,
+      "tags": [
+        "roleplay"
+      ],
+      "text": "Eu nunca tive vontade secreta de nos assistir num espelho grande juntos."
+    },
+    {
+      "id": "nhie_v2_01",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca tirei print em segredo de uma mensagem super fofa sua para reler à noite. (1)"
+    },
+    {
+      "id": "nhie_v2_02",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "text": "Eu nunca desviei o olhar morrendo de vergonha quando na verdade queria mais um beijo. (2)"
+    },
+    {
+      "id": "nhie_v2_03",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "text": "Eu nunca usei duas taças de vinho como desculpa para ficar muito mais ousado(a) com você. (3)"
+    },
+    {
+      "id": "nhie_v2_04",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca fiquei te olhando trocar de roupa sentindo o coração disparar na hora. (4)"
+    },
+    {
+      "id": "nhie_v2_05",
+      "tier": 1,
+      "tags": [
+        "alcohol"
+      ],
+      "text": "Eu nunca roubei um beijo na meia-luz com aquele friozinho de quase nos verem. (5)"
+    },
+    {
+      "id": "nhie_v2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Eu nunca te dei um beijo bem leve na bochecha quando achei que você já dormia. (6)"
+    },
+    {
+      "id": "nhie_v2_07",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "text": "Eu nunca falei timidamente «para» torcendo por dentro para você me apertar mais forte. (7)"
+    },
+    {
+      "id": "nhie_v2_08",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca escolhi roupa íntima ou perfume em segredo só para te enlouquecer hoje. (8)"
+    },
+    {
+      "id": "nhie_v2_09",
+      "tier": 2,
+      "tags": [
+        "alcohol"
+      ],
+      "text": "Eu nunca soltei um suspiro sem querer quando sua boca encostou no meu pescoço. (9)"
+    },
+    {
+      "id": "nhie_v2_10",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Eu nunca fantasiei testar venda de seda ou uma provocação bem lenta até o limite. (10)"
+    },
+    {
+      "id": "nhie_v2_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Eu nunca tirei print em segredo de uma mensagem super fofa sua para reler à noite. (11)"
+    },
+    {
+      "id": "nhie_v2_12",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desviei o olhar morrendo de vergonha quando na verdade queria mais um beijo. (12)"
+    },
+    {
+      "id": "nhie_v2_13",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "text": "Eu nunca usei duas taças de vinho como desculpa para ficar muito mais ousado(a) com você. (13)"
+    },
+    {
+      "id": "nhie_v2_14",
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ],
+      "text": "Eu nunca fiquei te olhando trocar de roupa sentindo o coração disparar na hora. (14)"
+    },
+    {
+      "id": "nhie_v2_15",
+      "tier": 3,
+      "tags": [
+        "public_space"
+      ],
+      "text": "Eu nunca roubei um beijo na meia-luz com aquele friozinho de quase nos verem. (15)"
+    },
+    {
+      "id": "nhie_v2_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Eu nunca te dei um beijo bem leve na bochecha quando achei que você já dormia. (16)"
+    },
+    {
+      "id": "nhie_v2_17",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Eu nunca falei timidamente «para» torcendo por dentro para você me apertar mais forte. (17)"
+    },
+    {
+      "id": "nhie_v2_18",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Eu nunca escolhi roupa íntima ou perfume em segredo só para te enlouquecer hoje. (18)"
+    },
+    {
+      "id": "nhie_v2_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Eu nunca soltei um suspiro sem querer quando sua boca encostou no meu pescoço. (19)"
+    },
+    {
+      "id": "nhie_v2_20",
+      "tier": 4,
+      "tags": [
+        "blindfold"
+      ],
+      "text": "Eu nunca fantasiei testar venda de seda ou uma provocação bem lenta até o limite. (20)"
+    },
+    {
+      "id": "nhie_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um bar de hotel intimista em te puxar para o batente da porta na meia-luz só para falar de como quer ser tocado(a) no escuro."
+    },
+    {
+      "id": "nhie_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um clube secreto de jazz em te puxar para o canto da janela com abajur só para falar de um pensamento tímido quando damos as mãos."
+    },
+    {
+      "id": "nhie_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante uma suíte sob a chuva em te puxar para a entrada na meia-luz só para falar de um pensamento safado que teve sobre ele hoje."
+    },
+    {
+      "id": "nhie_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um terraço termal privativo em te puxar para atrás das cortinas leves só para falar de o que quer que ele vista — ou tire — hoje."
+    },
+    {
+      "id": "nhie_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um pátio secreto sob as estrelas em te puxar para a beira da cama só para falar de como você ama ser abraçado(a) antes de dormir."
+    },
+    {
+      "id": "nhie_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um janelão de cortinas leves em te puxar para a bancada da cozinha só para falar de o abraço que nunca quis soltar."
+    },
+    {
+      "id": "nhie_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um banho morno à luz de velas em te puxar para ao lado da cama sob luz baixa só para falar de o lugar mais arriscado onde quer roubar um beijo."
+    },
+    {
+      "id": "nhie_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um cineminha privado na meia-luz em te puxar para a ponta da cama só para falar de qual carinho meu te derrete na hora."
+    },
+    {
+      "id": "nhie_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante uma van de frente para o mar em te puxar para um monte de almofadas macias só para falar de o que mais deseja ao apagar a luz."
+    },
+    {
+      "id": "nhie_v21_t1_10",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante uma cama no sótão ouvindo a chuva em te puxar para a parede do quarto só para falar de qual som dele te deixa fora de controle."
+    },
+    {
+      "id": "nhie_v21_t1_11",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um cantinho da janela ao luar em te puxar para o canto do sofá só para falar de um detalhe meu que ainda te faz corar."
+    },
+    {
+      "id": "nhie_v21_t1_12",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um rooftop à luz de velas em te puxar para o tapete à luz de velas só para falar de o primeiro elogio que pensa ao me olhar."
+    },
+    {
+      "id": "nhie_v21_t1_13",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante uma varanda de frente para o mar à noite em te puxar para o braço do sofá só para falar de uma fantasia secreta para antes do sol nascer."
+    },
+    {
+      "id": "nhie_v21_t1_14",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um chalé com lareira em te puxar para diante do espelho do closet só para falar de em que segundo exato você perdeu a calma hoje."
+    },
+    {
+      "id": "nhie_v21_t1_15",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um bar de hotel intimista em te puxar para diante da penteadeira só para falar de seu detalhe favorito do meu beijo."
+    },
+    {
+      "id": "nhie_v21_t1_16",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um clube secreto de jazz em te puxar para a frente do espelho só para falar de qual ponto exato quer beijar agora."
+    },
+    {
+      "id": "nhie_v21_t1_17",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante uma suíte sob a chuva em te puxar para o batente da porta na meia-luz só para falar de como quer ser tocado(a) no escuro."
+    },
+    {
+      "id": "nhie_v21_t1_18",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um terraço termal privativo em te puxar para o canto da janela com abajur só para falar de um pensamento tímido quando damos as mãos."
+    },
+    {
+      "id": "nhie_v21_t1_19",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um pátio secreto sob as estrelas em te puxar para a entrada na meia-luz só para falar de um pensamento safado que teve sobre ele hoje."
+    },
+    {
+      "id": "nhie_v21_t1_20",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um janelão de cortinas leves em te puxar para atrás das cortinas leves só para falar de o que quer que ele vista — ou tire — hoje."
+    },
+    {
+      "id": "nhie_v21_t1_21",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Eu nunca sonhei durante um banho morno à luz de velas em te puxar para a beira da cama só para falar de como você ama ser abraçado(a) antes de dormir."
+    },
+    {
+      "id": "nhie_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em o canto da janela com abajur de provocar seu a palma e os dedos com pegada firme no quadril seguida de dedos como pena."
+    },
+    {
+      "id": "nhie_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em a entrada na meia-luz de provocar seu o ombro com palmas mornas sobre a roupa deslizando para a pele."
+    },
+    {
+      "id": "nhie_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em atrás das cortinas leves de provocar seu a linha da nuca com palmas mornas deslizando até um puxão colado."
+    },
+    {
+      "id": "nhie_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em a beira da cama de provocar seu a têmpora e testa com dedos no cabelo puxando para perto."
+    },
+    {
+      "id": "nhie_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em a bancada da cozinha de provocar seu a clavícula com dois tapas leves seguidos de beijos longos e profundos."
+    },
+    {
+      "id": "nhie_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em ao lado da cama sob luz baixa de provocar seu o antebraço interno com ar fresco seguido na hora por beijos úmidos e quentes."
+    },
+    {
+      "id": "nhie_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em a ponta da cama de provocar seu a curva da orelha com cócegas na palma seguidas de dedos entrelaçados."
+    },
+    {
+      "id": "nhie_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em um monte de almofadas macias de provocar seu o rosto e maxilar com mordidinha provocante acalmada logo pela o calor do hálito lenta."
+    },
+    {
+      "id": "nhie_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em a parede do quarto de provocar seu o canto dos lábios com ar morno seguido na hora de lábios macios."
+    },
+    {
+      "id": "nhie_v21_t2_10",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em o canto do sofá de provocar seu os dedos e polegar com um se quiser leve de dedos e um beijo terno."
+    },
+    {
+      "id": "nhie_v21_t2_11",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em o tapete à luz de velas de provocar seu atrás da orelha com pausa a meio centímetro antes de beijar."
+    },
+    {
+      "id": "nhie_v21_t2_12",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em o braço do sofá de provocar seu o pulso interno com roce de nariz seguido de um beijo demorado."
+    },
+    {
+      "id": "nhie_v21_t2_13",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em diante do espelho do closet de provocar seu a ponta da clavícula com pegada firme no quadril seguida de dedos como pena."
+    },
+    {
+      "id": "nhie_v21_t2_14",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em diante da penteadeira de provocar seu os ombros e costas com palmas mornas sobre a roupa deslizando para a pele."
+    },
+    {
+      "id": "nhie_v21_t2_15",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em a frente do espelho de provocar seu o pescoço com palmas mornas deslizando até um puxão colado."
+    },
+    {
+      "id": "nhie_v21_t2_16",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em o batente da porta na meia-luz de provocar seu a ponta do queixo com dedos no cabelo puxando para perto."
+    },
+    {
+      "id": "nhie_v21_t2_17",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em o canto da janela com abajur de provocar seu a palma e os dedos com dois tapas leves seguidos de beijos longos e profundos."
+    },
+    {
+      "id": "nhie_v21_t2_18",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em a entrada na meia-luz de provocar seu o ombro com ar fresco seguido na hora por beijos úmidos e quentes."
+    },
+    {
+      "id": "nhie_v21_t2_19",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em atrás das cortinas leves de provocar seu a linha da nuca com cócegas na palma seguidas de dedos entrelaçados."
+    },
+    {
+      "id": "nhie_v21_t2_20",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Eu nunca senti vontade súbita em a beira da cama de provocar seu a têmpora e testa com mordidinha provocante acalmada logo pela o calor do hálito lenta."
+    },
+    {
+      "id": "nhie_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com chefe e assistente trancados quando todos foram embora nem em fazer lamba bem devagar no seu a nuca em a entrada na meia-luz."
+    },
+    {
+      "id": "nhie_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com um dos dois tem comando absoluto pelos próximos 10 minutos nem em fazer morda suave e acalme com beijos no seu a coluna em atrás das cortinas leves."
+    },
+    {
+      "id": "nhie_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com um provador privado atrás da cortina de veludo nem em fazer provoque com lábios e dedos no seu a clavícula em a beira da cama."
+    },
+    {
+      "id": "nhie_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com check-in numa suíte de luxo com nomes falsos nem em fazer mordisque suavemente no seu o peito e costelas em a bancada da cozinha."
+    },
+    {
+      "id": "nhie_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com uma massagem VIP após o expediente que passa do limite nem em fazer faça trilhas úmidas o calor do hálito no seu o baixo ventre em ao lado da cama sob luz baixa."
+    },
+    {
+      "id": "nhie_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com uma degustação vendada guiada só pelo se quiser nem em fazer cubra de beijos quentes no seu a cintura em a ponta da cama."
+    },
+    {
+      "id": "nhie_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com dois estranhos se devorando com o olhar num bar de hotel nem em fazer deixe beijos abertos e ardentes em no seu o lóbulo da orelha em um monte de almofadas macias."
+    },
+    {
+      "id": "nhie_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com chefe e assistente trancados quando todos foram embora nem em fazer sugue de leve e pode beijar no seu a linha do quadril em a parede do quarto."
+    },
+    {
+      "id": "nhie_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com um dos dois tem comando absoluto pelos próximos 10 minutos nem em fazer lamba bem devagar no seu a parte interna da coxa em o canto do sofá."
+    },
+    {
+      "id": "nhie_v21_t3_10",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com um provador privado atrás da cortina de veludo nem em fazer morda suave e acalme com beijos no seu o pescoço em o tapete à luz de velas."
+    },
+    {
+      "id": "nhie_v21_t3_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com check-in numa suíte de luxo com nomes falsos nem em fazer provoque com lábios e dedos no seu a nuca em o braço do sofá."
+    },
+    {
+      "id": "nhie_v21_t3_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com uma massagem VIP após o expediente que passa do limite nem em fazer mordisque suavemente no seu a coluna em diante do espelho do closet."
+    },
+    {
+      "id": "nhie_v21_t3_13",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com uma degustação vendada guiada só pelo se quiser nem em fazer faça trilhas úmidas o calor do hálito no seu a clavícula em diante da penteadeira."
+    },
+    {
+      "id": "nhie_v21_t3_14",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com dois estranhos se devorando com o olhar num bar de hotel nem em fazer cubra de beijos quentes no seu o peito e costelas em a frente do espelho."
+    },
+    {
+      "id": "nhie_v21_t3_15",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com chefe e assistente trancados quando todos foram embora nem em fazer deixe beijos abertos e ardentes em no seu o baixo ventre em o batente da porta na meia-luz."
+    },
+    {
+      "id": "nhie_v21_t3_16",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com um dos dois tem comando absoluto pelos próximos 10 minutos nem em fazer sugue de leve e pode beijar no seu a cintura em o canto da janela com abajur."
+    },
+    {
+      "id": "nhie_v21_t3_17",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com um provador privado atrás da cortina de veludo nem em fazer lamba bem devagar no seu o lóbulo da orelha em a entrada na meia-luz."
+    },
+    {
+      "id": "nhie_v21_t3_18",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com check-in numa suíte de luxo com nomes falsos nem em fazer morda suave e acalme com beijos no seu a linha do quadril em atrás das cortinas leves."
+    },
+    {
+      "id": "nhie_v21_t3_19",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "text": "Eu nunca fantasiei de madrugada com uma massagem VIP após o expediente que passa do limite nem em fazer provoque com lábios e dedos no seu a parte interna da coxa em a beira da cama."
+    },
+    {
+      "id": "nhie_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Erga o queixo dele de leve para que só olhe para você em atrás das cortinas leves usando apenas seus lábios e dentes no seu o fim da coluna."
+    },
+    {
+      "id": "nhie_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Encoste-o suavemente na parede pelos quadris em a beira da cama usando uma mão só sem desviar o olhar no seu a linha do quadril."
+    },
+    {
+      "id": "nhie_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Erga o queixo dele de leve para que só olhe para você em a bancada da cozinha usando apenas sopro quente e lábios no seu o peito e costelas."
+    },
+    {
+      "id": "nhie_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Encoste-o suavemente na parede pelos quadris em ao lado da cama sob luz baixa usando guiando a própria mão do seu par no seu logo abaixo da clavícula."
+    },
+    {
+      "id": "nhie_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Erga o queixo dele de leve para que só olhe para você em a ponta da cama usando as costas dos dedos primeiro e depois a boca no seu a parte interna da coxa."
+    },
+    {
+      "id": "nhie_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Encoste-o suavemente na parede pelos quadris em um monte de almofadas macias usando a ponta dos dedos em câmera ultra lenta no seu o contorno do quadril."
+    },
+    {
+      "id": "nhie_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Erga o queixo dele de leve para que só olhe para você em a parede do quarto usando apenas seus lábios e dentes no seu o baixo ventre."
+    },
+    {
+      "id": "nhie_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Encoste-o suavemente na parede pelos quadris em o canto do sofá usando uma mão só sem desviar o olhar no seu a curva da cintura."
+    },
+    {
+      "id": "nhie_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Erga o queixo dele de leve para que só olhe para você em o tapete à luz de velas usando apenas sopro quente e lábios no seu o fim da coluna."
+    },
+    {
+      "id": "nhie_v21_t4_10",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Encoste-o suavemente na parede pelos quadris em o braço do sofá usando guiando a própria mão do seu par no seu a linha do quadril."
+    },
+    {
+      "id": "nhie_v21_t4_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Erga o queixo dele de leve para que só olhe para você em diante do espelho do closet usando as costas dos dedos primeiro e depois a boca no seu o peito e costelas."
+    },
+    {
+      "id": "nhie_v21_t4_12",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Encoste-o suavemente na parede pelos quadris em diante da penteadeira usando a ponta dos dedos em câmera ultra lenta no seu logo abaixo da clavícula."
+    },
+    {
+      "id": "nhie_v21_t4_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Erga o queixo dele de leve para que só olhe para você em a frente do espelho usando apenas seus lábios e dentes no seu a parte interna da coxa."
+    },
+    {
+      "id": "nhie_v21_t4_14",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Encoste-o suavemente na parede pelos quadris em o batente da porta na meia-luz usando uma mão só sem desviar o olhar no seu o contorno do quadril."
+    },
+    {
+      "id": "nhie_v21_t4_15",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Erga o queixo dele de leve para que só olhe para você em o canto da janela com abajur usando apenas sopro quente e lábios no seu o baixo ventre."
+    },
+    {
+      "id": "nhie_v21_t4_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Encoste-o suavemente na parede pelos quadris em a entrada na meia-luz usando guiando a própria mão do seu par no seu a curva da cintura."
+    },
+    {
+      "id": "nhie_v21_t4_17",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Erga o queixo dele de leve para que só olhe para você em atrás das cortinas leves usando as costas dos dedos primeiro e depois a boca no seu o fim da coluna."
+    },
+    {
+      "id": "nhie_v21_t4_18",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Encoste-o suavemente na parede pelos quadris em a beira da cama usando a ponta dos dedos em câmera ultra lenta no seu a linha do quadril."
+    },
+    {
+      "id": "nhie_v21_t4_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Erga o queixo dele de leve para que só olhe para você em a bancada da cozinha usando apenas seus lábios e dentes no seu o peito e costelas."
+    },
+    {
+      "id": "nhie_v21_t4_20",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Eu nunca desejei em segredo testar Encoste-o suavemente na parede pelos quadris em ao lado da cama sob luz baixa usando uma mão só sem desviar o olhar no seu logo abaixo da clavícula."
+    }
+  ],
+  "wyr": [
+    {
+      "id": "wyr_01",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Banho quente com velas aromáticas juntos hoje",
+      "optionB": "Passeio de carro à noite vendo as luzes da cidade"
+    },
+    {
+      "id": "wyr_02",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "optionA": "20 minutos de massagem corporal completa",
+      "optionB": "Café da manhã especial na cama amanhã"
+    },
+    {
+      "id": "wyr_03",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Ouvir todas as minhas confissões mais doces",
+      "optionB": "Ouvir todas as minhas fantasias mais ousadas"
+    },
+    {
+      "id": "wyr_04",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "optionA": "10 minutos de beijos ultra lentos e provocantes",
+      "optionB": "Um beijo urgente e intenso contra a parede"
+    },
+    {
+      "id": "wyr_05",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "optionA": "Manhã preguiçosa agarradinhos nos lençóis",
+      "optionB": "Meia-noite quente sob meia-luz"
+    },
+    {
+      "id": "wyr_06",
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ],
+      "optionA": "Olho no olho à luz de velas",
+      "optionB": "Escuro total, guiados só por se quiser e sussurros"
+    },
+    {
+      "id": "wyr_07",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "optionA": "Fingir que são estranhos flertando em um bar",
+      "optionB": "Reservar um hotel boutique de improviso hoje"
+    },
+    {
+      "id": "wyr_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "optionA": "Mordidinhas e ar quente na orelha e pescoço",
+      "optionB": "Beijos e o calor do hálito descendo devagar pela clavícula"
+    },
+    {
+      "id": "wyr_09",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "optionA": "Comandar tudo e provocar sem pressa",
+      "optionB": "Ficar parado(a) e apenas receber"
+    },
+    {
+      "id": "wyr_10",
+      "tier": 4,
+      "tags": [
+        "blindfold"
+      ],
+      "optionA": "Usar venda de seda por 10 min entregando-se",
+      "optionB": "Vendar seu par e aproximar cada sensação"
+    },
+    {
+      "id": "wyr_11",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "optionA": "Jogar dados ou cartas valendo tirar peças",
+      "optionB": "Deixar seu par escolher o que você veste ou tira"
+    },
+    {
+      "id": "wyr_12",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "optionA": "Ter as mãos presas acima da cabeça",
+      "optionB": "Dar 60 segundos de obediência absoluta ao seu par"
+    },
+    {
+      "id": "wyr_13",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Beijos lentos na cama ao acordar",
+      "optionB": "Uma emboscada sem fôlego contra a parede à meia-noite"
+    },
+    {
+      "id": "wyr_14",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "optionA": "Mãos quentes deslizando sob sua blusa",
+      "optionB": "Lábios quentes descendo da orelha à garganta"
+    },
+    {
+      "id": "wyr_15",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "optionA": "Sucção suave e beijo suaves no pescoço",
+      "optionB": "o calor do hálito úmida e lenta na parte interna das coxas"
+    },
+    {
+      "id": "wyr_16",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "optionA": "Ser despido(a) usando só a boca",
+      "optionB": "Se afrouxar devagar diante de um espelho"
+    },
+    {
+      "id": "wyr_17",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "optionA": "Contraste de gelo e beijos quentes",
+      "optionB": "Massagem corporal pele na pele com óleo morno"
+    },
+    {
+      "id": "wyr_18",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "optionA": "Fingir serem estranhos num bar de hotel",
+      "optionB": "Brincar de chefe e assistente trancados à noite"
+    },
+    {
+      "id": "wyr_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "optionA": "Ser encostado(a) na parede do quarto",
+      "optionB": "Sentar no colo dele numa cadeira no comando"
+    },
+    {
+      "id": "wyr_20",
+      "tier": 4,
+      "tags": [
+        "blindfold"
+      ],
+      "optionA": "Se render vendado(a) por 15 minutos",
+      "optionB": "Ter 100% do comando com seu par vendado"
+    },
+    {
+      "id": "wyr_v2_01",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Sussurros sob os lençóis e beijos lentos",
+      "optionB": "Beijos fundos olho no olho na meia-luz"
+    },
+    {
+      "id": "wyr_v2_02",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "optionA": "Abraço por trás com beijos no pescoço",
+      "optionB": "Sentar no seu colo ditando o ritmo"
+    },
+    {
+      "id": "wyr_v2_03",
+      "tier": 1,
+      "tags": [
+        "alcohol"
+      ],
+      "optionA": "Dividir um gole de vinho boca a boca",
+      "optionB": "Uma gotinha doce lambida na clavícula"
+    },
+    {
+      "id": "wyr_v2_04",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "optionA": "Desabotoar devagar com uma só mão",
+      "optionB": "Usar só sua camisa larga pela casa"
+    },
+    {
+      "id": "wyr_v2_05",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "optionA": "Olhos fechados guiado(a) só pela boca",
+      "optionB": "Escuro total explorando só no se quiser"
+    },
+    {
+      "id": "wyr_v2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "optionA": "Nos ver corar diante de um espelho",
+      "optionB": "Um beijo urgente colados na parede"
+    },
+    {
+      "id": "wyr_v2_07",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "optionA": "Pulsos presos 1 minuto de entrega doce",
+      "optionB": "Assumir o controle inteiro da noite"
+    },
+    {
+      "id": "wyr_v2_08",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "optionA": "Contraste de gelo e boca ardente",
+      "optionB": "Massagem morna com óleo pele na pele"
+    },
+    {
+      "id": "wyr_v2_09",
+      "tier": 2,
+      "tags": [
+        "alcohol"
+      ],
+      "optionA": "5 segundos a 1 cm antes de beijar",
+      "optionB": "Um beijo surpresa bem quando eu corar"
+    },
+    {
+      "id": "wyr_v2_10",
+      "tier": 2,
+      "tags": [
+        "roleplay"
+      ],
+      "optionA": "Entregar 15 minutos de comando total",
+      "optionB": "Liderar sem timidez cada passo hoje"
+    },
+    {
+      "id": "wyr_v2_11",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "optionA": "Sussurros sob os lençóis e beijos lentos",
+      "optionB": "Sentar no seu colo ditando o ritmo"
+    },
+    {
+      "id": "wyr_v2_12",
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ],
+      "optionA": "Abraço por trás com beijos no pescoço",
+      "optionB": "Uma gotinha doce lambida na clavícula"
+    },
+    {
+      "id": "wyr_v2_13",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "optionA": "Dividir um gole de vinho boca a boca",
+      "optionB": "Usar só sua camisa larga pela casa"
+    },
+    {
+      "id": "wyr_v2_14",
+      "tier": 3,
+      "tags": [
+        "restraint_light"
+      ],
+      "optionA": "Desabotoar devagar com uma só mão",
+      "optionB": "Escuro total explorando só no se quiser"
+    },
+    {
+      "id": "wyr_v2_15",
+      "tier": 3,
+      "tags": [
+        "public_space"
+      ],
+      "optionA": "Olhos fechados guiado(a) só pela boca",
+      "optionB": "Um beijo urgente colados na parede"
+    },
+    {
+      "id": "wyr_v2_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "optionA": "Nos ver corar diante de um espelho",
+      "optionB": "Assumir o controle inteiro da noite"
+    },
+    {
+      "id": "wyr_v2_17",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "optionA": "Pulsos presos 1 minuto de entrega doce",
+      "optionB": "Massagem morna com óleo pele na pele"
+    },
+    {
+      "id": "wyr_v2_18",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "optionA": "Contraste de gelo e boca ardente",
+      "optionB": "Um beijo surpresa bem quando eu corar"
+    },
+    {
+      "id": "wyr_v2_19",
+      "tier": 4,
+      "tags": [
+        "blindfold"
+      ],
+      "optionA": "5 segundos a 1 cm antes de beijar",
+      "optionB": "Liderar sem timidez cada passo hoje"
+    },
+    {
+      "id": "wyr_v2_20",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "optionA": "Entregar 15 minutos de comando total",
+      "optionB": "Beijos fundos olho no olho na meia-luz"
+    },
+    {
+      "id": "wyr_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um rooftop à luz de velas sussurrando sobre uma fantasia secreta para antes do sol nascer",
+      "optionB": "Ir a o batente da porta na meia-luz com sem desviar o olhar um segundo e massageie com carinho em o antebraço interno"
+    },
+    {
+      "id": "wyr_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um bar de hotel intimista sussurrando sobre qual carinho meu te derrete na hora",
+      "optionB": "Ir a a ponta da cama com sussurra o que te enlouquece e deixe beijos lentos em em a ponta da clavícula"
+    },
+    {
+      "id": "wyr_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um terraço termal privativo sussurrando sobre um pensamento safado que teve sobre ele hoje",
+      "optionB": "Ir a diante da penteadeira com sincroniza a respiração de vocês e acaricie devagar em a têmpora e testa"
+    },
+    {
+      "id": "wyr_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um banho morno à luz de velas sussurrando sobre em que segundo exato você perdeu a calma hoje",
+      "optionB": "Ir a a bancada da cozinha com mantendo os pulsos colados e deslize suas palmas mornas por em atrás da orelha"
+    },
+    {
+      "id": "wyr_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir uma cama no sótão ouvindo a chuva sussurrando sobre o que mais deseja ao apagar a luz",
+      "optionB": "Ir a o braço do sofá com sem desviar o olhar um segundo e roce timidamente os lábios em em o ombro"
+    },
+    {
+      "id": "wyr_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir uma varanda de frente para o mar à noite sussurrando sobre o que quer que ele vista — ou tire — hoje",
+      "optionB": "Ir a atrás das cortinas leves com sussurra o que te enlouquece e sopre ar morno bem devagar em em o canto dos lábios"
+    },
+    {
+      "id": "wyr_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um clube secreto de jazz sussurrando sobre seu detalhe favorito do meu beijo",
+      "optionB": "Ir a o canto do sofá com sincroniza a respiração de vocês e faça círculos mornos com os dedos em em a ponta do queixo"
+    },
+    {
+      "id": "wyr_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um pátio secreto sob as estrelas sussurrando sobre qual som dele te deixa fora de controle",
+      "optionB": "Ir a o canto da janela com abajur com mantendo os pulsos colados e deixe beijos de pluma em em a curva da orelha"
+    },
+    {
+      "id": "wyr_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um cineminha privado na meia-luz sussurrando sobre como você ama ser abraçado(a) antes de dormir",
+      "optionB": "Ir a um monte de almofadas macias com sem desviar o olhar um segundo e roce suavemente o nariz em em os ombros e costas"
+    },
+    {
+      "id": "wyr_v21_t1_10",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um cantinho da janela ao luar sussurrando sobre qual ponto exato quer beijar agora",
+      "optionB": "Ir a a frente do espelho com sussurra o que te enlouquece e roce devagar os lábios em em a clavícula"
+    },
+    {
+      "id": "wyr_v21_t1_11",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um chalé com lareira sussurrando sobre um detalhe meu que ainda te faz corar",
+      "optionB": "Ir a ao lado da cama sob luz baixa com sincroniza a respiração de vocês e sopre ar quente sobre em o pulso interno"
+    },
+    {
+      "id": "wyr_v21_t1_12",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir uma suíte sob a chuva sussurrando sobre o abraço que nunca quis soltar",
+      "optionB": "Ir a diante do espelho do closet com mantendo os pulsos colados e passe a ponta dos dedos em em a linha da nuca"
+    },
+    {
+      "id": "wyr_v21_t1_13",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um janelão de cortinas leves sussurrando sobre como quer ser tocado(a) no escuro",
+      "optionB": "Ir a a beira da cama com sem desviar o olhar um segundo e massageie com carinho em os dedos e polegar"
+    },
+    {
+      "id": "wyr_v21_t1_14",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir uma van de frente para o mar sussurrando sobre o primeiro elogio que pensa ao me olhar",
+      "optionB": "Ir a o tapete à luz de velas com sussurra o que te enlouquece e deixe beijos lentos em em a palma e os dedos"
+    },
+    {
+      "id": "wyr_v21_t1_15",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um rooftop à luz de velas sussurrando sobre o lugar mais arriscado onde quer roubar um beijo",
+      "optionB": "Ir a a entrada na meia-luz com sincroniza a respiração de vocês e acaricie devagar em o rosto e maxilar"
+    },
+    {
+      "id": "wyr_v21_t1_16",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um bar de hotel intimista sussurrando sobre um pensamento tímido quando damos as mãos",
+      "optionB": "Ir a a parede do quarto com mantendo os pulsos colados e deslize suas palmas mornas por em o pescoço"
+    },
+    {
+      "id": "wyr_v21_t1_17",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um terraço termal privativo sussurrando sobre uma fantasia secreta para antes do sol nascer",
+      "optionB": "Ir a o batente da porta na meia-luz com sem desviar o olhar um segundo e roce timidamente os lábios em em o antebraço interno"
+    },
+    {
+      "id": "wyr_v21_t1_18",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um banho morno à luz de velas sussurrando sobre qual carinho meu te derrete na hora",
+      "optionB": "Ir a a ponta da cama com sussurra o que te enlouquece e sopre ar morno bem devagar em em a ponta da clavícula"
+    },
+    {
+      "id": "wyr_v21_t1_19",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir uma cama no sótão ouvindo a chuva sussurrando sobre um pensamento safado que teve sobre ele hoje",
+      "optionB": "Ir a diante da penteadeira com sincroniza a respiração de vocês e faça círculos mornos com os dedos em em a têmpora e testa"
+    },
+    {
+      "id": "wyr_v21_t1_20",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir uma varanda de frente para o mar à noite sussurrando sobre em que segundo exato você perdeu a calma hoje",
+      "optionB": "Ir a a bancada da cozinha com mantendo os pulsos colados e deixe beijos de pluma em em atrás da orelha"
+    },
+    {
+      "id": "wyr_v21_t1_21",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "optionA": "Curtir um clube secreto de jazz sussurrando sobre o que mais deseja ao apagar a luz",
+      "optionB": "Ir a o braço do sofá com sem desviar o olhar um segundo e roce suavemente o nariz em em o ombro"
+    },
+    {
+      "id": "wyr_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir dedos no cabelo puxando para perto em a curva da orelha em o canto da janela com abajur",
+      "optionB": "Seguir 'pare a um suspiro de distância e depois chegue perto' após um cantinho da janela ao luar chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir pegada firme no quadril seguida de dedos como pena em os ombros e costas em um monte de almofadas macias",
+      "optionB": "Seguir 'alterne toques de pena com pegada firme' após um chalé com lareira chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir um se quiser leve de dedos e um beijo terno em a clavícula em a frente do espelho",
+      "optionB": "Seguir 'diminua o ritmo pela metade quando o ar falhar' após uma suíte sob a chuva chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir cócegas na palma seguidas de dedos entrelaçados em o pulso interno em ao lado da cama sob luz baixa",
+      "optionB": "Seguir 'congele 3 segundos sempre que ele suspirar' após um janelão de cortinas leves chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir dedos no cabelo puxando para perto em a linha da nuca em diante do espelho do closet",
+      "optionB": "Seguir 'sussurre o nome dele antes de cada nova zona' após uma van de frente para o mar chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir pegada firme no quadril seguida de dedos como pena em os dedos e polegar em a beira da cama",
+      "optionB": "Seguir 'não quebre o contato visual nem por um segundo' após um rooftop à luz de velas chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir um se quiser leve de dedos e um beijo terno em a palma e os dedos em o tapete à luz de velas",
+      "optionB": "Seguir 'pare a um suspiro de distância e depois chegue perto' após um bar de hotel intimista chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir cócegas na palma seguidas de dedos entrelaçados em o rosto e maxilar em a entrada na meia-luz",
+      "optionB": "Seguir 'alterne toques de pena com pegada firme' após um terraço termal privativo chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir dedos no cabelo puxando para perto em o pescoço em a parede do quarto",
+      "optionB": "Seguir 'diminua o ritmo pela metade quando o ar falhar' após um banho morno à luz de velas chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_10",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir pegada firme no quadril seguida de dedos como pena em o antebraço interno em o batente da porta na meia-luz",
+      "optionB": "Seguir 'congele 3 segundos sempre que ele suspirar' após uma cama no sótão ouvindo a chuva chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_11",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir um se quiser leve de dedos e um beijo terno em a ponta da clavícula em a ponta da cama",
+      "optionB": "Seguir 'sussurre o nome dele antes de cada nova zona' após uma varanda de frente para o mar à noite chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_12",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir cócegas na palma seguidas de dedos entrelaçados em a têmpora e testa em diante da penteadeira",
+      "optionB": "Seguir 'não quebre o contato visual nem por um segundo' após um clube secreto de jazz chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_13",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir dedos no cabelo puxando para perto em atrás da orelha em a bancada da cozinha",
+      "optionB": "Seguir 'pare a um suspiro de distância e depois chegue perto' após um pátio secreto sob as estrelas chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_14",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir pegada firme no quadril seguida de dedos como pena em o ombro em o braço do sofá",
+      "optionB": "Seguir 'alterne toques de pena com pegada firme' após um cineminha privado na meia-luz chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_15",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir um se quiser leve de dedos e um beijo terno em o canto dos lábios em atrás das cortinas leves",
+      "optionB": "Seguir 'diminua o ritmo pela metade quando o ar falhar' após um cantinho da janela ao luar chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_16",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir cócegas na palma seguidas de dedos entrelaçados em a ponta do queixo em o canto do sofá",
+      "optionB": "Seguir 'congele 3 segundos sempre que ele suspirar' após um chalé com lareira chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_17",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir dedos no cabelo puxando para perto em a curva da orelha em o canto da janela com abajur",
+      "optionB": "Seguir 'sussurre o nome dele antes de cada nova zona' após uma suíte sob a chuva chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_18",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir pegada firme no quadril seguida de dedos como pena em os ombros e costas em um monte de almofadas macias",
+      "optionB": "Seguir 'não quebre o contato visual nem por um segundo' após um janelão de cortinas leves chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_19",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir um se quiser leve de dedos e um beijo terno em a clavícula em a frente do espelho",
+      "optionB": "Seguir 'pare a um suspiro de distância e depois chegue perto' após uma van de frente para o mar chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t2_20",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "optionA": "Sentir cócegas na palma seguidas de dedos entrelaçados em o pulso interno em ao lado da cama sob luz baixa",
+      "optionB": "Seguir 'alterne toques de pena com pegada firme' após um rooftop à luz de velas chegando bem perto"
+    },
+    {
+      "id": "wyr_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a cintura em a entrada na meia-luz",
+      "optionB": "Alternar sussurros e sugue de leve e pode beijar a partir de a lombar"
+    },
+    {
+      "id": "wyr_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a parte interna da coxa em a parede do quarto",
+      "optionB": "Alternar sussurros e deixe beijos abertos e ardentes em a partir de a clavícula"
+    },
+    {
+      "id": "wyr_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a coluna em o batente da porta na meia-luz",
+      "optionB": "Alternar sussurros e cubra de beijos quentes a partir de o pulso interno"
+    },
+    {
+      "id": "wyr_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando o baixo ventre em a ponta da cama",
+      "optionB": "Alternar sussurros e faça trilhas úmidas o calor do hálito a partir de os ombros"
+    },
+    {
+      "id": "wyr_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a linha do quadril em diante da penteadeira",
+      "optionB": "Alternar sussurros e mordisque suavemente a partir de a nuca"
+    },
+    {
+      "id": "wyr_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a nuca em a bancada da cozinha",
+      "optionB": "Alternar sussurros e provoque com lábios e dedos a partir de atrás da orelha"
+    },
+    {
+      "id": "wyr_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando o peito e costelas em o braço do sofá",
+      "optionB": "Alternar sussurros e morda suave e acalme com beijos a partir de as costelas"
+    },
+    {
+      "id": "wyr_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando o lóbulo da orelha em atrás das cortinas leves",
+      "optionB": "Alternar sussurros e lamba bem devagar a partir de a base da garganta"
+    },
+    {
+      "id": "wyr_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando o pescoço em o canto do sofá",
+      "optionB": "Alternar sussurros e sugue de leve e pode beijar a partir de a lombar"
+    },
+    {
+      "id": "wyr_v21_t3_10",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a clavícula em o canto da janela com abajur",
+      "optionB": "Alternar sussurros e deixe beijos abertos e ardentes em a partir de a clavícula"
+    },
+    {
+      "id": "wyr_v21_t3_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a cintura em um monte de almofadas macias",
+      "optionB": "Alternar sussurros e cubra de beijos quentes a partir de o pulso interno"
+    },
+    {
+      "id": "wyr_v21_t3_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a parte interna da coxa em a frente do espelho",
+      "optionB": "Alternar sussurros e faça trilhas úmidas o calor do hálito a partir de os ombros"
+    },
+    {
+      "id": "wyr_v21_t3_13",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a coluna em ao lado da cama sob luz baixa",
+      "optionB": "Alternar sussurros e mordisque suavemente a partir de a nuca"
+    },
+    {
+      "id": "wyr_v21_t3_14",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando o baixo ventre em diante do espelho do closet",
+      "optionB": "Alternar sussurros e provoque com lábios e dedos a partir de atrás da orelha"
+    },
+    {
+      "id": "wyr_v21_t3_15",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a linha do quadril em a beira da cama",
+      "optionB": "Alternar sussurros e morda suave e acalme com beijos a partir de as costelas"
+    },
+    {
+      "id": "wyr_v21_t3_16",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando a nuca em o tapete à luz de velas",
+      "optionB": "Alternar sussurros e lamba bem devagar a partir de a base da garganta"
+    },
+    {
+      "id": "wyr_v21_t3_17",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando o peito e costelas em a entrada na meia-luz",
+      "optionB": "Alternar sussurros e sugue de leve e pode beijar a partir de a lombar"
+    },
+    {
+      "id": "wyr_v21_t3_18",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando o lóbulo da orelha em a parede do quarto",
+      "optionB": "Alternar sussurros e deixe beijos abertos e ardentes em a partir de a clavícula"
+    },
+    {
+      "id": "wyr_v21_t3_19",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "roleplay"
+      ],
+      "optionA": "Viver um provador privado atrás da cortina de veludo focando o pescoço em o batente da porta na meia-luz",
+      "optionB": "Alternar sussurros e cubra de beijos quentes a partir de o pulso interno"
+    },
+    {
+      "id": "wyr_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em atrás das cortinas leves com Prenda os dois pulsos acima da cabeça com uma mão",
+      "optionB": "Usar a ponta dos dedos em câmera ultra lenta sob dois botões da camisa rumo a a linha do quadril"
+    },
+    {
+      "id": "wyr_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em o canto do sofá com Mantenha as mãos dele coladas na cabeceira",
+      "optionB": "Usar apenas seus lábios e dentes sob uma peça de roupa à sua escolha rumo a o peito e costelas"
+    },
+    {
+      "id": "wyr_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em o canto da janela com abajur com Prenda os dois pulsos acima da cabeça com uma mão",
+      "optionB": "Usar uma mão só sem desviar o olhar sob a barra da blusa rumo a logo abaixo da clavícula"
+    },
+    {
+      "id": "wyr_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em um monte de almofadas macias com Mantenha as mãos dele coladas na cabeceira",
+      "optionB": "Usar apenas sopro quente e lábios sob um zíper ou cós da cintura rumo a a parte interna da coxa"
+    },
+    {
+      "id": "wyr_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em a frente do espelho com Prenda os dois pulsos acima da cabeça com uma mão",
+      "optionB": "Usar guiando a própria mão do seu par sob um acessório mais uma camada rumo a o contorno do quadril"
+    },
+    {
+      "id": "wyr_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em ao lado da cama sob luz baixa com Mantenha as mãos dele coladas na cabeceira",
+      "optionB": "Usar as costas dos dedos primeiro e depois a boca sob uma alça ou peça externa rumo a o baixo ventre"
+    },
+    {
+      "id": "wyr_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em diante do espelho do closet com Prenda os dois pulsos acima da cabeça com uma mão",
+      "optionB": "Usar a ponta dos dedos em câmera ultra lenta sob dois botões da camisa rumo a a curva da cintura"
+    },
+    {
+      "id": "wyr_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em a beira da cama com Mantenha as mãos dele coladas na cabeceira",
+      "optionB": "Usar apenas seus lábios e dentes sob uma peça de roupa à sua escolha rumo a o fim da coluna"
+    },
+    {
+      "id": "wyr_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em o tapete à luz de velas com Prenda os dois pulsos acima da cabeça com uma mão",
+      "optionB": "Usar uma mão só sem desviar o olhar sob a barra da blusa rumo a a linha do quadril"
+    },
+    {
+      "id": "wyr_v21_t4_10",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em a entrada na meia-luz com Mantenha as mãos dele coladas na cabeceira",
+      "optionB": "Usar apenas sopro quente e lábios sob um zíper ou cós da cintura rumo a o peito e costelas"
+    },
+    {
+      "id": "wyr_v21_t4_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em a parede do quarto com Prenda os dois pulsos acima da cabeça com uma mão",
+      "optionB": "Usar guiando a própria mão do seu par sob um acessório mais uma camada rumo a logo abaixo da clavícula"
+    },
+    {
+      "id": "wyr_v21_t4_12",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em o batente da porta na meia-luz com Mantenha as mãos dele coladas na cabeceira",
+      "optionB": "Usar as costas dos dedos primeiro e depois a boca sob uma alça ou peça externa rumo a a parte interna da coxa"
+    },
+    {
+      "id": "wyr_v21_t4_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em a ponta da cama com Prenda os dois pulsos acima da cabeça com uma mão",
+      "optionB": "Usar a ponta dos dedos em câmera ultra lenta sob dois botões da camisa rumo a o contorno do quadril"
+    },
+    {
+      "id": "wyr_v21_t4_14",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em diante da penteadeira com Mantenha as mãos dele coladas na cabeceira",
+      "optionB": "Usar apenas seus lábios e dentes sob uma peça de roupa à sua escolha rumo a o baixo ventre"
+    },
+    {
+      "id": "wyr_v21_t4_15",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em a bancada da cozinha com Prenda os dois pulsos acima da cabeça com uma mão",
+      "optionB": "Usar uma mão só sem desviar o olhar sob a barra da blusa rumo a a curva da cintura"
+    },
+    {
+      "id": "wyr_v21_t4_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em o braço do sofá com Mantenha as mãos dele coladas na cabeceira",
+      "optionB": "Usar apenas sopro quente e lábios sob um zíper ou cós da cintura rumo a o fim da coluna"
+    },
+    {
+      "id": "wyr_v21_t4_17",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em atrás das cortinas leves com Prenda os dois pulsos acima da cabeça com uma mão",
+      "optionB": "Usar guiando a própria mão do seu par sob um acessório mais uma camada rumo a a linha do quadril"
+    },
+    {
+      "id": "wyr_v21_t4_18",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em o canto do sofá com Mantenha as mãos dele coladas na cabeceira",
+      "optionB": "Usar as costas dos dedos primeiro e depois a boca sob uma alça ou peça externa rumo a o peito e costelas"
+    },
+    {
+      "id": "wyr_v21_t4_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em o canto da janela com abajur com Prenda os dois pulsos acima da cabeça com uma mão",
+      "optionB": "Usar a ponta dos dedos em câmera ultra lenta sob dois botões da camisa rumo a logo abaixo da clavícula"
+    },
+    {
+      "id": "wyr_v21_t4_20",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "optionA": "Testar 'de joelhos frente a frente na cama' em um monte de almofadas macias com Mantenha as mãos dele coladas na cabeceira",
+      "optionB": "Usar apenas seus lábios e dentes sob uma peça de roupa à sua escolha rumo a a parte interna da coxa"
+    }
+  ]
+}

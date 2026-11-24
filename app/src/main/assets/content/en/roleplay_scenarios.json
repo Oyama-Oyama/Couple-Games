@@ -1,0 +1,1562 @@
+{
+  "scenarios": [
+    {
+      "id": "rp_strangers",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "Midnight Hotel Lounge",
+      "subtitle": "Two strangers lock eyes over late cocktails",
+      "leadRole": "The Mysterious Stranger",
+      "partnerRole": "The Solo Traveler",
+      "acts": [
+        {
+          "actTitle": "Act I · First Glance",
+          "durationSec": 45,
+          "direction": "{lead} approaches {partner} with a confident smile and asks to share the table.",
+          "whisperLine": "\"I've been watching you from across the room—tell me you're not waiting for someone else.\""
+        },
+        {
+          "actTitle": "Act II · Closing Distance",
+          "durationSec": 45,
+          "direction": "{lead} leans in close enough to brush {partner}'s hand while keeping steady eye contact.",
+          "whisperLine": "\"What would it take for you to forget your flight tomorrow morning?\""
+        },
+        {
+          "actTitle": "Act III · The Room Key",
+          "durationSec": 30,
+          "direction": "{partner} decides if {lead} earned a slow, lingering kiss that seals the night.",
+          "whisperLine": "\"Come upstairs with me—I don't want tonight to end here.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_spa",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Private Velvet Spa",
+      "subtitle": "VIP after-hours massage with rising warmth",
+      "leadRole": "The Private Therapist",
+      "partnerRole": "The VIP Guest",
+      "acts": [
+        {
+          "actTitle": "Act I · Unwind",
+          "durationSec": 45,
+          "direction": "{partner} relaxes with eyes closed while {lead} warms their hands and begins slow shoulder strokes.",
+          "whisperLine": "\"You're carrying way too much tension—just breathe and let me handle everything.\""
+        },
+        {
+          "actTitle": "Act II · Lingering Touch",
+          "durationSec": 45,
+          "direction": "{lead} slows down along {partner}'s neck and spine, whispering right beside their ear.",
+          "whisperLine": "\"Tell me where my hands feel best—don't hold back.\""
+        },
+        {
+          "actTitle": "Act III · After-Hours Tip",
+          "durationSec": 30,
+          "direction": "{lead} turns {partner} around and claims a slow kiss along the jawline and lips.",
+          "whisperLine": "\"This part isn't on the spa menu.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_office",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "After-Hours Corner Office",
+      "subtitle": "Everyone left the building—except the two of you",
+      "leadRole": "The Strict Boss",
+      "partnerRole": "The Bold Assistant",
+      "acts": [
+        {
+          "actTitle": "Act I · Stay Late",
+          "durationSec": 40,
+          "direction": "{lead} asks {partner} to close the door and step closer for a 'private review'.",
+          "whisperLine": "\"You've been distracting me all afternoon. Come here.\""
+        },
+        {
+          "actTitle": "Act II · Breaking Protocol",
+          "durationSec": 45,
+          "direction": "{partner} leans close to {lead}'s collar while {lead} keeps one firm hand on their waist.",
+          "whisperLine": "\"Are you going to keep giving orders, or show me what you really want?\""
+        },
+        {
+          "actTitle": "Act III · Overtime Reward",
+          "durationSec": 30,
+          "direction": "{lead} claims a slow, commanding kiss on the neck and lips before granting a 'bonus'.",
+          "whisperLine": "\"Consider the rest of your night officially booked.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_blindfold_chef",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "blindfold",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Midnight Tasting Room",
+      "subtitle": "Blindfolded sensory indulgence led by touch & taste",
+      "leadRole": "The Sommelier",
+      "partnerRole": "The Blindfolded Guest",
+      "acts": [
+        {
+          "actTitle": "Act I · Surrender Sight",
+          "durationSec": 30,
+          "direction": "{partner} closes their eyes completely while {lead} gently guides their hands to rest.",
+          "whisperLine": "\"No peeking—tonight you only get to feel and taste.\""
+        },
+        {
+          "actTitle": "Act II · Warm & Sweet",
+          "durationSec": 45,
+          "direction": "{lead} brushes fingertips along {partner}'s lips, then leaves soft kisses and light soft kisss on their earlobe.",
+          "whisperLine": "\"Tell me what you want next without opening your eyes.\""
+        },
+        {
+          "actTitle": "Act III · Final Course",
+          "durationSec": 30,
+          "direction": "{lead} trails a slow kiss from neck to lips until {partner} pulls them closer.",
+          "whisperLine": "\"And now for tonight's secret dessert.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_stylist",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Private Fitting Suite",
+      "subtitle": "Behind the velvet curtain—one layer at a time",
+      "leadRole": "The Personal Stylist",
+      "partnerRole": "The Muse",
+      "acts": [
+        {
+          "actTitle": "Act I · Measurements",
+          "durationSec": 40,
+          "direction": "{lead} slowly traces {partner}'s shoulders and waist as if checking a tailored fit.",
+          "whisperLine": "\"Hold still—I need to see how this sits on your skin.\""
+        },
+        {
+          "actTitle": "Act II · Adjustments",
+          "durationSec": 45,
+          "direction": "{lead} slides a collar or sleeve aside and lets their fingers and lips linger on bare skin.",
+          "whisperLine": "\"Honestly? I think this looks much better off.\""
+        },
+        {
+          "actTitle": "Act III · Mirror Reveal",
+          "durationSec": 30,
+          "direction": "{lead} pulls {partner} close from behind and whispers a bold compliment while kissing their neck.",
+          "whisperLine": "\"Forget the party—we're staying right here.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_velvet_ruler",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Velvet Sovereign",
+      "subtitle": "Playful dominance, whispered obedience & breathless rewards",
+      "leadRole": "The Sovereign",
+      "partnerRole": "The Devoted",
+      "acts": [
+        {
+          "actTitle": "Act I · The Command",
+          "durationSec": 35,
+          "direction": "{lead} asks {partner} to place both hands in view and hold steady eye contact.",
+          "whisperLine": "\"For the next three minutes, you don't move unless I tell you to.\""
+        },
+        {
+          "actTitle": "Act II · Testing Patience",
+          "durationSec": 45,
+          "direction": "{lead} circles slowly, leaving feather-light touches, warm breaths, and soft soft kisss along {partner}'s neck.",
+          "whisperLine": "\"Good. Stay right there—let's see how long you can resist kissing me.\""
+        },
+        {
+          "actTitle": "Act III · The Reward",
+          "durationSec": 30,
+          "direction": "{lead} releases {partner}'s hands with a playful tap and pulls them into a deep, unhurried, lingering kiss.",
+          "whisperLine": "\"You earned your reward—now show me how much you wanted it.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_01",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "Rainy Night Stay-Over",
+      "subtitle": "Storm outside, warm towel, and shy sparks indoors",
+      "leadRole": "Caught-in-Rain Guest",
+      "partnerRole": "Warm Host",
+      "acts": [
+        {
+          "actTitle": "Act 1 · Drying Your Hair",
+          "durationSec": 45,
+          "direction": "{partner} gently towels {lead}'s hair and behind the ears, letting fingertips linger two beats longer.",
+          "whisperLine": "\"It's pouring out there… don't go home tonight, okay?\""
+        },
+        {
+          "actTitle": "Act 2 · Sharing a Blanket",
+          "durationSec": 45,
+          "direction": "Tuck under one throw on the couch; {lead} slips cool hands into {partner}'s palms as foreheads rest close.",
+          "whisperLine": "\"Your hands are so warm… can I sit a little closer?\""
+        },
+        {
+          "actTitle": "Act 3 · The Shy First Kiss",
+          "durationSec": 45,
+          "direction": "{partner} cups {lead}'s cheek, hovers 1 cm away for three heartbeats, then melts into a slow kiss.",
+          "whisperLine": "\"I've wanted to kiss you since the second you walked in.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_02",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "alcohol",
+        "indoor"
+      ],
+      "title": "Midnight Jazz Bar Spark",
+      "subtitle": "One off-menu cocktail and lingering glances across the bar",
+      "leadRole": "Tipsy Guest",
+      "partnerRole": "Velvet Bartender",
+      "acts": [
+        {
+          "actTitle": "Act 1 · Off-Menu Pour",
+          "durationSec": 40,
+          "direction": "{partner} slides a drink across, brushing {lead}'s knuckles intentionally let the eye contact stay as long as it feels good.",
+          "whisperLine": "\"This one isn't on the menu—I mixed it just for you.\""
+        },
+        {
+          "actTitle": "Act 2 · Across the Counter",
+          "durationSec": 45,
+          "direction": "{lead} leans in after a sip; {partner} leans closer to whisper right beside the ear.",
+          "whisperLine": "\"I haven't been able to focus since you sat down.\""
+        },
+        {
+          "actTitle": "Act 3 · After Closing Time",
+          "durationSec": 45,
+          "direction": "Flip the sign to Closed; {partner} pulls {lead} in by the waist for a warm, lingering kiss.",
+          "whisperLine": "\"Now it's just the two of us…\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_03",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Snuck Away From the Party",
+      "subtitle": "Loud music outside, hushed unhurried, lingering kisses behind the door",
+      "leadRole": "Bold Escape Lead",
+      "partnerRole": "Blushing Accomplice",
+      "acts": [
+        {
+          "actTitle": "Act 1 · Slipping Out",
+          "durationSec": 40,
+          "direction": "{lead} pulls {partner} by the wrist to the bedroom door, pressing a finger to their lips.",
+          "whisperLine": "\"Shh, it's too loud out there… give me five minutes alone.\""
+        },
+        {
+          "actTitle": "Act 2 · Quiet unhurried, lingering kisses",
+          "durationSec": 45,
+          "direction": "Pretending someone might hear, trade hushed kisses along jaw, earlobes, and lips while gripping waists.",
+          "whisperLine": "\"Keep quiet… or they'll figure out where we hid.\""
+        },
+        {
+          "actTitle": "Act 3 · The kiss-Home Pact",
+          "durationSec": 45,
+          "direction": "{partner} soft kisss {lead}'s lower lip and whispers a bold promise for the second you get home.",
+          "whisperLine": "\"The moment we lock our own door, I'm not holding back.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_04",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "eye_contact",
+        "indoor"
+      ],
+      "title": "Private Studio Portrait",
+      "subtitle": "Every brushstroke replaced by slow fingertips and warm kisses",
+      "leadRole": "Focused Artist",
+      "partnerRole": "Blushing Muse",
+      "acts": [
+        {
+          "actTitle": "Act 1 · Setting the Pose",
+          "durationSec": 45,
+          "direction": "{lead} gently tilts {partner}'s chin and adjusts a shoulder, holding an intense, admiring gaze.",
+          "whisperLine": "\"Hold still… chin up slightly. Your collarbone is distracting.\""
+        },
+        {
+          "actTitle": "Act 2 · Fingertip Sketch",
+          "durationSec": 45,
+          "direction": "{lead} traces {partner}'s jaw, neck, and shoulders with one slow fingertip, feeling every shiver.",
+          "whisperLine": "\"A brush isn't enough—I want to memorize you by touch.\""
+        },
+        {
+          "actTitle": "Act 3 · Signing the Canvas",
+          "durationSec": 45,
+          "direction": "{lead} kisses every line just traced, finishing with a slow, lingering kiss on the lips.",
+          "whisperLine": "\"My signature belongs right here.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_05",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Velvet Fitting Room",
+      "subtitle": "Draw the curtain for a slow, blushing wardrobe check",
+      "leadRole": "Private Stylist",
+      "partnerRole": "VIP Guest",
+      "acts": [
+        {
+          "actTitle": "Act 1 · Drawing the Curtain",
+          "durationSec": 45,
+          "direction": "{lead} stands behind {partner} facing a mirror, adjusting the collar while whispering close.",
+          "whisperLine": "\"This fits you dangerously well… let me help with the clasp.\""
+        },
+        {
+          "actTitle": "Act 2 · Slow Unfastening",
+          "durationSec": 50,
+          "direction": "{lead} slowly undoes two buttons or slides one strap down, kissing every inch of newly bare skin.",
+          "whisperLine": "\"Don't rush into the next outfit… let me admire you.\""
+        },
+        {
+          "actTitle": "Act 3 · Mirror Surrender",
+          "durationSec": 50,
+          "direction": "{partner} turns inside {lead}'s arms, locking eyes before melting into a unhurried, lingering kiss.",
+          "whisperLine": "\"Admit it—you only wanted to help me take it off.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_06",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "blindfold"
+      ],
+      "title": "Midnight Surrender Pact",
+      "subtitle": "Silk blindfold, soft commands, and total breathless trust",
+      "leadRole": "Midnight Sovereign",
+      "partnerRole": "Willing Captive",
+      "acts": [
+        {
+          "actTitle": "Act 1 · Sealing the Pact",
+          "durationSec": 50,
+          "direction": "{lead} gently blindfolds {partner} and holds both wrists, whispering the only rule: say 'yes.'",
+          "whisperLine": "\"Don't think about anything tonight—just trust my hands.\""
+        },
+        {
+          "actTitle": "Act 2 · Breathless Teasing",
+          "durationSec": 55,
+          "direction": "{lead} alternates fingertips, hot breath, and soft, lingering kisses across ear, neck, and waist—pausing 3s at every shiver.",
+          "whisperLine": "\"Shivering already… tell me how badly you want me.\""
+        },
+        {
+          "actTitle": "Act 3 · Unmasked Reward",
+          "durationSec": 60,
+          "direction": "{lead} slips the blindfold off, cups {partner}'s flushed face, and claims a deep, melting kiss.",
+          "whisperLine": "\"You were so good for me… here's your reward.\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "a sheer-curtained afternoon window · a pile of plush floor pillows",
+      "subtitle": "A tender slow-burn encounter inspired by a sheer-curtained afternoon window",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} meets {partner} at a pile of plush floor pillows, while letting your lips hover 1 cm away between moves while opening up about one naughty thought you had about them today.",
+          "whisperLine": "'The light feels unreal tonight—may I step a little closer?'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} traces {partner}'s inner forearm with slow warm palms gliding into a sudden close pull at an unhurried pace.",
+          "whisperLine": "'Don't look away—tell me if your pulse just jumped.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Drawn close at a pile of plush floor pillows, {lead} closes the scene with slow softly caress on inner forearm.",
+          "whisperLine": "'Right here, I wish midnight would never end.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "a breezy seaside camper · behind the sheer curtains",
+      "subtitle": "A tender slow-burn encounter inspired by a breezy seaside camper",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} meets {partner} behind the sheer curtains, while whispering their pet name softly while opening up about a shy thought you had while holding my hand.",
+          "whisperLine": "'The light feels unreal tonight—may I step a little closer?'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} traces {partner}'s behind the ear with warm palms resting lightly, unhurried at an unhurried pace.",
+          "whisperLine": "'Don't look away—tell me if your pulse just jumped.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Drawn close behind the sheer curtains, {lead} closes the scene with slow leave feather-light kisses across behind the ear.",
+          "whisperLine": "'Right here, I wish midnight would never end.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "a candlelit rooftop · the softly lit vanity",
+      "subtitle": "A tender slow-burn encounter inspired by a candlelit rooftop",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} meets {partner} at the softly lit vanity, while holding a shy teasing smile while opening up about how you want to be touched when the lights go out.",
+          "whisperLine": "'The light feels unreal tonight—may I step a little closer?'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} traces {partner}'s tip of the chin with a steady hand held, then fingertips as light as a breath at an unhurried pace.",
+          "whisperLine": "'Don't look away—tell me if your pulse just jumped.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Drawn close at the softly lit vanity, {lead} closes the scene with slow warmly massage on tip of the chin.",
+          "whisperLine": "'Right here, I wish midnight would never end.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "a dim boutique hotel bar · the bedroom wall",
+      "subtitle": "A tender slow-burn encounter inspired by a dim boutique hotel bar",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} meets {partner} at the bedroom wall, while staying completely silent while opening up about the exact body part you want to kiss next.",
+          "whisperLine": "'The light feels unreal tonight—may I step a little closer?'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} traces {partner}'s collarbone with a shy brush of noses, then a slow, soft kiss at an unhurried pace.",
+          "whisperLine": "'Don't look away—tell me if your pulse just jumped.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Drawn close at the bedroom wall, {lead} closes the scene with slow brush lingering warm breath along collarbone.",
+          "whisperLine": "'Right here, I wish midnight would never end.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "a private hot-spring terrace · the edge of the bed",
+      "subtitle": "A tender slow-burn encounter inspired by a private hot-spring terrace",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} meets {partner} at the edge of the bed, while letting your lips hover 1 cm away between moves while opening up about your favorite tiny habit when I kiss you.",
+          "whisperLine": "'The light feels unreal tonight—may I step a little closer?'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} traces {partner}'s knuckles and thumb with pausing a breath away, then a soft kiss at an unhurried pace.",
+          "whisperLine": "'Don't look away—tell me if your pulse just jumped.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Drawn close at the edge of the bed, {lead} closes the scene with slow brush warm breath across knuckles and thumb.",
+          "whisperLine": "'Right here, I wish midnight would never end.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "a candlelit warm bath · in front of a mirror",
+      "subtitle": "A tender slow-burn encounter inspired by a candlelit warm bath",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} meets {partner} in front of a mirror, while whispering their pet name softly while opening up about the exact moment tonight you stopped thinking straight.",
+          "whisperLine": "'The light feels unreal tonight—may I step a little closer?'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} traces {partner}'s neck with a light fingertip brush, then a soft kiss at an unhurried pace.",
+          "whisperLine": "'Don't look away—tell me if your pulse just jumped.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Drawn close in front of a mirror, {lead} closes the scene with slow smooth warm palms slowly down neck.",
+          "whisperLine": "'Right here, I wish midnight would never end.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "a rain-tapped attic bed · the couch corner",
+      "subtitle": "A tender slow-burn encounter inspired by a rain-tapped attic bed",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} meets {partner} at the couch corner, while holding a shy teasing smile while opening up about a secret fantasy you want to try before sunrise.",
+          "whisperLine": "'The light feels unreal tonight—may I step a little closer?'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} traces {partner}'s temple and brow with warm breath that lingers, then a soft kiss at an unhurried pace.",
+          "whisperLine": "'Don't look away—tell me if your pulse just jumped.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Drawn close at the couch corner, {lead} closes the scene with slow nuzzle softly with your nose along temple and brow.",
+          "whisperLine": "'Right here, I wish midnight would never end.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "a midnight ocean balcony · the kitchen counter",
+      "subtitle": "A tender slow-burn encounter inspired by a midnight ocean balcony",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} meets {partner} at the kitchen counter, while staying completely silent while opening up about the first compliment in your head looking at me now.",
+          "whisperLine": "'The light feels unreal tonight—may I step a little closer?'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} traces {partner}'s corner of the mouth with one soft kiss, then a slow breath together at an unhurried pace.",
+          "whisperLine": "'Don't look away—tell me if your pulse just jumped.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Drawn close at the kitchen counter, {lead} closes the scene with slow leave lingering kisses along corner of the mouth.",
+          "whisperLine": "'Right here, I wish midnight would never end.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "a secret jazz lounge · a dim hallway doorway",
+      "subtitle": "A tender slow-burn encounter inspired by a secret jazz lounge",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} meets {partner} at a dim hallway doorway, while letting your lips hover 1 cm away between moves while opening up about one tiny detail about me that still makes you blush.",
+          "whisperLine": "'The light feels unreal tonight—may I step a little closer?'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} traces {partner}'s upper back with a feather-light touch, then fingers intertwined at an unhurried pace.",
+          "whisperLine": "'Don't look away—tell me if your pulse just jumped.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Drawn close at a dim hallway doorway, {lead} closes the scene with slow trace slow warm circles over upper back.",
+          "whisperLine": "'Right here, I wish midnight would never end.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "Private Stage · a breezy seaside camper",
+      "subtitle": "A flirty roleplay built around checking into a penthouse suite under fake names at the foot of the bed",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} guides {partner} toward the foot of the bed, kicking off checking into a penthouse suite under fake names with teasing lines.",
+          "whisperLine": "'Now that the door is shut, we rewrite every rule tonight.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} follows 'alternate feather-light strokes with firm pressure', offering slow smooth warm palms slowly down from behind the ear to outer curve of the ear.",
+          "whisperLine": "'The harder you try to stay calm, the more I want to tease.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "{partner} flips the script at the foot of the bed, raising the heat with a light fingertip brush, then a soft kiss.",
+          "whisperLine": "'My turn—follow my breath now.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "Private Stage · a candlelit rooftop",
+      "subtitle": "A flirty roleplay built around checking into a penthouse suite under fake names at the dim entryway",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} guides {partner} toward the dim entryway, kicking off checking into a penthouse suite under fake names with teasing lines.",
+          "whisperLine": "'Now that the door is shut, we rewrite every rule tonight.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} follows 'whisper their name right before each new spot', offering slow nuzzle softly with your nose along from side ribs to inner wrist.",
+          "whisperLine": "'The harder you try to stay calm, the more I want to tease.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "{partner} flips the script at the dim entryway, raising the heat with warm breath that lingers, then a soft kiss.",
+          "whisperLine": "'My turn—follow my breath now.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "Private Stage · a dim boutique hotel bar",
+      "subtitle": "A flirty roleplay built around checking into a penthouse suite under fake names beside the closet mirror",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} guides {partner} toward beside the closet mirror, kicking off checking into a penthouse suite under fake names with teasing lines.",
+          "whisperLine": "'Now that the door is shut, we rewrite every rule tonight.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} follows 'alternate feather-light strokes with firm pressure', offering slow leave lingering kisses along from base of the throat to palm and fingertips.",
+          "whisperLine": "'The harder you try to stay calm, the more I want to tease.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "{partner} flips the script beside the closet mirror, raising the heat with one soft kiss, then a slow breath together.",
+          "whisperLine": "'My turn—follow my breath now.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "Private Stage · a private hot-spring terrace",
+      "subtitle": "A flirty roleplay built around checking into a penthouse suite under fake names at a pile of plush floor pillows",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} guides {partner} toward a pile of plush floor pillows, kicking off checking into a penthouse suite under fake names with teasing lines.",
+          "whisperLine": "'Now that the door is shut, we rewrite every rule tonight.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} follows 'whisper their name right before each new spot', offering slow trace slow warm circles over from lower back dimples to inner forearm.",
+          "whisperLine": "'The harder you try to stay calm, the more I want to tease.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "{partner} flips the script at a pile of plush floor pillows, raising the heat with a feather-light touch, then fingers intertwined.",
+          "whisperLine": "'My turn—follow my breath now.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "Private Stage · a candlelit warm bath",
+      "subtitle": "A flirty roleplay built around checking into a penthouse suite under fake names behind the sheer curtains",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} guides {partner} toward behind the sheer curtains, kicking off checking into a penthouse suite under fake names with teasing lines.",
+          "whisperLine": "'Now that the door is shut, we rewrite every rule tonight.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} follows 'alternate feather-light strokes with firm pressure', offering slow feather-trace with your fingertips along from collarbone hollow to behind the ear.",
+          "whisperLine": "'The harder you try to stay calm, the more I want to tease.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "{partner} flips the script behind the sheer curtains, raising the heat with cool breath followed immediately by hot soft, lingering kisses.",
+          "whisperLine": "'My turn—follow my breath now.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "Private Stage · a rain-tapped attic bed",
+      "subtitle": "A flirty roleplay built around checking into a penthouse suite under fake names at the softly lit vanity",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} guides {partner} toward the softly lit vanity, kicking off checking into a penthouse suite under fake names with teasing lines.",
+          "whisperLine": "'Now that the door is shut, we rewrite every rule tonight.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} follows 'whisper their name right before each new spot', offering slow graze your lips shyly across from inner wrist to tip of the chin.",
+          "whisperLine": "'The harder you try to stay calm, the more I want to tease.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "{partner} flips the script at the softly lit vanity, raising the heat with a gentle squeeze of the hand, then unhurried soft kisses.",
+          "whisperLine": "'My turn—follow my breath now.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "Private Stage · a midnight ocean balcony",
+      "subtitle": "A flirty roleplay built around checking into a penthouse suite under fake names at the bedroom wall",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} guides {partner} toward the bedroom wall, kicking off checking into a penthouse suite under fake names with teasing lines.",
+          "whisperLine": "'Now that the door is shut, we rewrite every rule tonight.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} follows 'alternate feather-light strokes with firm pressure', offering slow press slow soft, lingering kisses over from shoulder blades to collarbone.",
+          "whisperLine": "'The harder you try to stay calm, the more I want to tease.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "{partner} flips the script at the bedroom wall, raising the heat with fingers through hair pulling you gently closer.",
+          "whisperLine": "'My turn—follow my breath now.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "Private Stage · a secret jazz lounge",
+      "subtitle": "A flirty roleplay built around checking into a penthouse suite under fake names at the edge of the bed",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} guides {partner} toward the edge of the bed, kicking off checking into a penthouse suite under fake names with teasing lines.",
+          "whisperLine": "'Now that the door is shut, we rewrite every rule tonight.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} follows 'whisper their name right before each new spot', offering slow softly caress from nape of the neck to knuckles and thumb.",
+          "whisperLine": "'The harder you try to stay calm, the more I want to tease.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "{partner} flips the script at the edge of the bed, raising the heat with slow warm palms gliding into a sudden close pull.",
+          "whisperLine": "'My turn—follow my breath now.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "Private Stage · a starlit private courtyard",
+      "subtitle": "A flirty roleplay built around checking into a penthouse suite under fake names in front of a mirror",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} guides {partner} toward in front of a mirror, kicking off checking into a penthouse suite under fake names with teasing lines.",
+          "whisperLine": "'Now that the door is shut, we rewrite every rule tonight.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} follows 'alternate feather-light strokes with firm pressure', offering slow leave feather-light kisses across from behind the ear to neck.",
+          "whisperLine": "'The harder you try to stay calm, the more I want to tease.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "{partner} flips the script in front of a mirror, raising the heat with warm palms resting lightly, unhurried.",
+          "whisperLine": "'My turn—follow my breath now.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "After-Hours · beside the bed with lights dimmed",
+      "subtitle": "An intoxicating scene of checking into a penthouse suite under fake namesmes · Beside the bed with lights dimmed",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} pulls {partner} into beside the bed with lights dimmed, whispering about what you crave first once every light goes out right against their ear.",
+          "whisperLine": "'Stop pretending you're calm—your breath already gave you away.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} trades warm breath with tracing a slow line of warmth along across {partner}'s spine, obeying 'whisper their name right before each new spot'.",
+          "whisperLine": "'Admit it—this exact spot undoes you every time.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Pressed close beside the bed with lights dimmed, {lead} trails tracing a slow line of warmth along between inner wrist and spine.",
+          "whisperLine": "'No holding back tonight—just let go.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "After-Hours · the lamp-lit window seat",
+      "subtitle": "An intoxicating scene of checking into a penthouse suite under fake namesmes · the lamp-lit window seat",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} pulls {partner} into the lamp-lit window seat, whispering about which clingy habit of mine melts you fastest right against their ear.",
+          "whisperLine": "'Stop pretending you're calm—your breath already gave you away.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} trades warm breath with leave unhurried, lingering kisses across across {partner}'s nape of the neck, obeying 'alternate feather-light strokes with firm pressure'.",
+          "whisperLine": "'Admit it—this exact spot undoes you every time.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Pressed close at the lamp-lit window seat, {lead} trails leave unhurried, lingering kisses across between shoulder blades and nape of the neck.",
+          "whisperLine": "'No holding back tonight—just let go.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "After-Hours · the couch armrest",
+      "subtitle": "An intoxicating scene of checking into a penthouse suite under fake namesmes · the couch armrest",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} pulls {partner} into the couch armrest, whispering about the boldest place you want to pull them into right against their ear.",
+          "whisperLine": "'Stop pretending you're calm—your breath already gave you away.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} trades warm breath with trace wet soft, lingering kisss along across {partner}'s neck, obeying 'whisper their name right before each new spot'.",
+          "whisperLine": "'Admit it—this exact spot undoes you every time.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Pressed close at the couch armrest, {lead} trails trace wet soft, lingering kisss along between nape of the neck and neck.",
+          "whisperLine": "'No holding back tonight—just let go.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "After-Hours · the foot of the bed",
+      "subtitle": "An intoxicating scene of checking into a penthouse suite under fake namesmes · the foot of the bed",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} pulls {partner} into the foot of the bed, whispering about the hug you never wanted to end right against their ear.",
+          "whisperLine": "'Stop pretending you're calm—your breath already gave you away.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} trades warm breath with soft kiss across {partner}'s inner thigh, obeying 'alternate feather-light strokes with firm pressure'.",
+          "whisperLine": "'Admit it—this exact spot undoes you every time.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Pressed close at the foot of the bed, {lead} trails soft kiss between behind the ear and inner thigh.",
+          "whisperLine": "'No holding back tonight—just let go.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "After-Hours · the dim entryway",
+      "subtitle": "An intoxicating scene of checking into a penthouse suite under fake namesmes · the dim entryway",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} pulls {partner} into the dim entryway, whispering about how you secretly want to be held before sleep right against their ear.",
+          "whisperLine": "'Stop pretending you're calm—your breath already gave you away.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} trades warm breath with tease with alternating lips and fingertips over across {partner}'s hip bone, obeying 'whisper their name right before each new spot'.",
+          "whisperLine": "'Admit it—this exact spot undoes you every time.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Pressed close at the dim entryway, {lead} trails tease with alternating lips and fingertips over between side ribs and hip bone.",
+          "whisperLine": "'No holding back tonight—just let go.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "After-Hours · beside the closet mirror",
+      "subtitle": "An intoxicating scene of checking into a penthouse suite under fake namesmes · Beside the closet mirror",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} pulls {partner} into beside the closet mirror, whispering about what you want them to wear — or take off — tonight right against their ear.",
+          "whisperLine": "'Stop pretending you're calm—your breath already gave you away.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} trades warm breath with press lightly, then soothe with a kiss across {partner}'s earlobe, obeying 'alternate feather-light strokes with firm pressure'.",
+          "whisperLine": "'Admit it—this exact spot undoes you every time.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Pressed close beside the closet mirror, {lead} trails press lightly, then soothe with a kiss between base of the throat and earlobe.",
+          "whisperLine": "'No holding back tonight—just let go.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "After-Hours · a pile of plush floor pillows",
+      "subtitle": "An intoxicating scene of checking into a penthouse suite under fake namesmes · a pile of plush floor pillows",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} pulls {partner} into a pile of plush floor pillows, whispering about one naughty thought you had about them today right against their ear.",
+          "whisperLine": "'Stop pretending you're calm—your breath already gave you away.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} trades warm breath with slowly warming across {partner}'s waistline, obeying 'whisper their name right before each new spot'.",
+          "whisperLine": "'Admit it—this exact spot undoes you every time.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Pressed close at a pile of plush floor pillows, {lead} trails slowly warming between lower back dimples and waistline.",
+          "whisperLine": "'No holding back tonight—just let go.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "After-Hours · behind the sheer curtains",
+      "subtitle": "An intoxicating scene of checking into a penthouse suite under fake namesmes · Behind the sheer curtains",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} pulls {partner} into behind the sheer curtains, whispering about a shy thought you had while holding my hand right against their ear.",
+          "whisperLine": "'Stop pretending you're calm—your breath already gave you away.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} trades warm breath with resting soft, unhurried kisses near across {partner}'s lower belly, obeying 'alternate feather-light strokes with firm pressure'.",
+          "whisperLine": "'Admit it—this exact spot undoes you every time.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Pressed close behind the sheer curtains, {lead} trails resting soft, unhurried kisses near between collarbone hollow and lower belly.",
+          "whisperLine": "'No holding back tonight—just let go.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "After-Hours · the softly lit vanity",
+      "subtitle": "An intoxicating scene of checking into a penthouse suite under fake namesmes · the softly lit vanity",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} pulls {partner} into the softly lit vanity, whispering about how you want to be touched when the lights go out right against their ear.",
+          "whisperLine": "'Stop pretending you're calm—your breath already gave you away.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} trades warm breath with tracing a slow line of warmth along across {partner}'s chest and ribcage, obeying 'whisper their name right before each new spot'.",
+          "whisperLine": "'Admit it—this exact spot undoes you every time.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Pressed close at the softly lit vanity, {lead} trails tracing a slow line of warmth along between inner wrist, chest, and ribcage.",
+          "whisperLine": "'No holding back tonight—just let go.'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · the kitchen counter",
+      "subtitle": "A surrender-and-command checking into a penthouse suite under fake names 3-act experience at the kitchen counter",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} sets checking into a penthouse suite under fake names at the kitchen counter, guiding {partner} into stand close together, unhurried, by the wall.",
+          "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} slides one hand only while holding eye contact past two shirt buttons, teasing collarbone with a shy brush of noses, then a slow, soft kiss.",
+          "whisperLine": "'Try not to make a sound—restraint makes every touch sharper.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Shifting into 'kneeling face-to-face on the bed', {lead} focuses press lightly, then soothe with a kiss with a kiss on {partner}'s hollow of the spine.",
+          "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · a dim hallway doorway",
+      "subtitle": "A surrender-and-command checking into a penthouse suite under fake names 3-act experience at a dim hallway doorway",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} sets checking into a penthouse suite under fake names at a dim hallway doorway, guiding {partner} into Hold their resting quietly at their sides their back.",
+          "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} slides your lips and teeth only (no hands) past a shoulder strap or outer layer, teasing spine with pausing a breath away, then a soft kiss.",
+          "whisperLine": "'Try not to make a sound—restraint makes every touch sharper.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Shifting into 'pressed softly against the bedroom wall', {lead} focuses slowly warming on {partner}'s small of the waist.",
+          "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · the candlelit bedroom rug",
+      "subtitle": "A surrender-and-command checking into a penthouse suite under fake names 3-act experience at the candlelit bedroom rug",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} sets checking into a penthouse suite under fake names at the candlelit bedroom rug, guiding {partner} into Hold both wrists gently above their head with one hand.",
+          "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} slides ultra-slow fingertips past one accessory plus one layer, teasing nape of the neck with a light fingertip brush, then a soft kiss.",
+          "whisperLine": "'Try not to make a sound—restraint makes every touch sharper.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Shifting into 'sitting close, face to face', {lead} focuses resting soft, unhurried kisses near on {partner}'s lower belly.",
+          "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · beside the bed with lights dimmed",
+      "subtitle": "A surrender-and-command checking into a penthouse suite under fake names 3- · Beside the bed with lights dimmed",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} sets checking into a penthouse suite under fake names beside the bed with lights dimmed, guiding {partner} into Hold their chin gently tilted up so they can only watch.",
+          "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} slides the back of your knuckles first, then your mouth past a zipper or waistband edge, teasing neck with warm breath that lingers, then a soft kiss.",
+          "whisperLine": "'Try not to make a sound—restraint makes every touch sharper.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Shifting into 'arched gently over a pillow', {lead} focuses tracing a slow line of warmth along {partner}'s curve of the hip.",
+          "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · the lamp-lit window seat",
+      "subtitle": "A surrender-and-command checking into a penthouse suite under fake names 3-act experience at the lamp-lit window seat",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} sets checking into a penthouse suite under fake names at the lamp-lit window seat, guiding {partner} into Let your fingers rest behind their neck, both of you still.",
+          "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} slides your partner's own guided hand past the hem of their top, teasing inner thigh with one soft kiss, then a slow breath together.",
+          "whisperLine": "'Try not to make a sound—restraint makes every touch sharper.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Shifting into 'lying back, eyes closed, letting go completely', {lead} focuses leave unhurried, lingering kisses across {partner}'s inner thigh.",
+          "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · the couch armrest",
+      "subtitle": "A surrender-and-command checking into a penthouse suite under fake names 3-act experience at the couch armrest",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} sets checking into a penthouse suite under fake names at the couch armrest, guiding {partner} into Keep their hands flat against the headboard.",
+          "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} slides warm breath and lips alone past one garment of your choice, teasing hip bone with a feather-light touch, then fingers intertwined.",
+          "whisperLine": "'Try not to make a sound—restraint makes every touch sharper.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Shifting into 'reclined at the edge of the bed', {lead} focuses trace wet soft, lingering kisss along {partner}'s sensitive collarbone.",
+          "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · the foot of the bed",
+      "subtitle": "A surrender-and-command checking into a penthouse suite under fake names 3-act experience at the foot of the bed",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} sets checking into a penthouse suite under fake names at the foot of the bed, guiding {partner} into stand close together, unhurried, by the wall.",
+          "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} slides one hand only while holding eye contact past two shirt buttons, teasing earlobe with cool breath followed immediately by hot soft, lingering kisses.",
+          "whisperLine": "'Try not to make a sound—restraint makes every touch sharper.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Shifting into 'standing close in front of a mirror', {lead} focuses soft kiss on {partner}'s chest and ribcage.",
+          "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · the dim entryway",
+      "subtitle": "A surrender-and-command checking into a penthouse suite under fake names 3-act experience at the dim entryway",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} sets checking into a penthouse suite under fake names at the dim entryway, guiding {partner} into Hold their resting quietly at their sides their back.",
+          "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} slides your lips and teeth only (no hands) past a shoulder strap or outer layer, teasing waistline with a gentle squeeze of the hand, then unhurried soft kisses.",
+          "whisperLine": "'Try not to make a sound—restraint makes every touch sharper.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Shifting into 'kneeling face-to-face on the bed', {lead} focuses tease with alternating lips and fingertips over {partner}'s hip bone line.",
+          "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · beside the closet mirror",
+      "subtitle": "A surrender-and-command checking into a penthouse suite under fake names 3-act experience · the closet mirror",
+      "leadRole": "Lead Actor",
+      "partnerRole": "Co-Star",
+      "acts": [
+        {
+          "actTitle": "Act I · The Spark",
+          "durationSec": 45,
+          "direction": "{lead} sets checking into a penthouse suite under fake names beside the closet mirror, guiding {partner} into Hold both wrists gently above their head with one hand.",
+          "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
+        },
+        {
+          "actTitle": "Act II · Rising Tension",
+          "durationSec": 55,
+          "direction": "{lead} slides ultra-slow fingertips past one accessory plus one layer, teasing lower belly with fingers through hair pulling you gently closer.",
+          "whisperLine": "'Try not to make a sound—restraint makes every touch sharper.'"
+        },
+        {
+          "actTitle": "Act III · Midnight Finale",
+          "durationSec": 65,
+          "direction": "Shifting into 'pressed softly against the bedroom wall', {lead} focuses press lightly, then soothe with a kiss with a kiss on {partner}'s hollow of the spine.",
+          "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
+        }
+      ]
+    }
+  ]
+}

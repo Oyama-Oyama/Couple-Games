@@ -1,0 +1,4686 @@
+{
+  "heartbeatPrompts": [
+    {
+      "id": "hb_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "text": "Keep both fingers locked on the screen—lean in until your foreheads touch and hold steady eye contact until the pulse peaks."
+    },
+    {
+      "id": "hb_02",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Without lifting either finger, lean across the phone and leave three slow kisses along your partner's jawline."
+    },
+    {
+      "id": "hb_03",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Keep holding! Lean close enough for your breath to touch their ear and whisper the boldest thought in your head right now."
+    },
+    {
+      "id": "hb_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Don't let go! Lean in and softly soft kiss your partner's earlobe or lower lip while your fingers stay pressed to the pulse."
+    },
+    {
+      "id": "hb_05",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Hands locked on screen—share a slow, breathless 10-second kiss without breaking contact with the phone."
+    },
+    {
+      "id": "hb_06",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Hold the pulse! Trail a slow soft kiss and soft soft kiss along your partner's neck—whoever flinches and lifts first takes a forfeit."
+    },
+    {
+      "id": "hb_07",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Challenge: Use your free hand to slide your partner's collar or strap aside and kiss their bare shoulder while keeping one finger locked."
+    },
+    {
+      "id": "hb_08",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Use your free hand to gently tilt your partner's chin up and tease their lips 1cm away without kissing until the beat drops."
+    },
+    {
+      "id": "hb_09",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Keep both fingers pressed — whisper three things about your partner's body you adore until the ring fills!"
+    },
+    {
+      "id": "hb_10",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Don't lift! Lean across and trail slow wet soft kiss along their jawline and earlobe."
+    },
+    {
+      "id": "hb_11",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Hold steady while pressing your knees and hips together — match each other's breathing!"
+    },
+    {
+      "id": "hb_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Stay locked on screen! Softly soft kiss on their neck or collarbone — first to shiver and lift loses!"
+    },
+    {
+      "id": "hb_13",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Free-hand explore: slide your free hand under their shirt along their ribs and spine without lifting!"
+    },
+    {
+      "id": "hb_14",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "One-hand loosen: use your free hand to undo a button or slide a strap before time runs out!"
+    },
+    {
+      "id": "hb_15",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "soft kiss & soothe: soft kiss their lower lip, then kiss slowly for the full countdown without letting go!"
+    },
+    {
+      "id": "hb_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Dominance hold: grip their chin or hair gently with your free hand and tease 1 cm from their lips until done!"
+    },
+    {
+      "id": "hb_v2_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "text": "\"Don't blink…\" Hold the pads while bringing our noses inches apart in quiet eye contact for 15s."
+    },
+    {
+      "id": "hb_v2_02",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "\"While our pulses race…\" Keep holding and whisper one shy detail about me you secretly adore."
+    },
+    {
+      "id": "hb_v2_03",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "\"Lean closer…\" Rest foreheads together while holding the pads, matching every breath until sync completes."
+    },
+    {
+      "id": "hb_v2_04",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "text": "\"First to giggle loses…\" Hold steady while softly breathing their pet name three times by their ear."
+    },
+    {
+      "id": "hb_v2_05",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "\"Don't lift your finger…\" Press feather-soft kisses on my cheek, temple, and lip corner while holding."
+    },
+    {
+      "id": "hb_v2_06",
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ],
+      "text": "\"Hover 1 cm away…\" Keep fingers down with lips barely apart for 15s—try not to cave early!"
+    },
+    {
+      "id": "hb_v2_07",
+      "tier": 2,
+      "tags": [
+        "alcohol"
+      ],
+      "text": "\"Tipsy pulse check…\" Hold steady, lean close enough to catch each other's scent, and whisper a midnight wish."
+    },
+    {
+      "id": "hb_v2_08",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "text": "\"Don't squirm…\" Hold with one hand while your free fingertip traces slowly from my jaw down my neck."
+    },
+    {
+      "id": "hb_v2_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "\"Don't shiver off the pad…\" Hold steady while breathing warm air on my earlobe with one shy soft kiss."
+    },
+    {
+      "id": "hb_v2_10",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "\"Pull me flush…\" Keep one finger locked on screen while your free arm pulls my waist tight against you."
+    },
+    {
+      "id": "hb_v2_11",
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ],
+      "text": "\"Eyes shut, stay pressed…\" One partner closes their eyes holding the pad while receiving slow neck kisses."
+    },
+    {
+      "id": "hb_v2_12",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "text": "\"Shh, stay quiet…\" Hold the pads while stealing a hushed, breathless slow kiss like we might be caught."
+    },
+    {
+      "id": "hb_v2_13",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "\"Warm hands underneath…\" Keep holding while your free palm glides warmly beneath my top along my waist."
+    },
+    {
+      "id": "hb_v2_14",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "\"Hold steady through the tease…\" Stay pressed while receiving slow, lingering kisses from neck to collarbone."
+    },
+    {
+      "id": "hb_v2_15",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "\"No pulling back…\" Keep holding while your free hand cradles the nape of my neck through a 15s unhurried, lingering kiss."
+    },
+    {
+      "id": "hb_v2_16",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "\"Ultimate 15s willpower…\" Never break touch while trading unhurried, lingering kisses and whispered names between breaths."
+    },
+    {
+      "id": "hb_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the bedroom wall while staying completely silent, trade slow brush lingering warm breath along collarbone while whispering about the exact body part you want to kiss next."
+    },
+    {
+      "id": "hb_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the edge of the bed while letting your lips hover 1 cm away between moves, trade slow brush warm breath across knuckles and thumb while whispering about your favorite tiny habit when I kiss you."
+    },
+    {
+      "id": "hb_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: in front of a mirror while whispering their pet name softly, trade slow smooth warm palms slowly down neck while whispering about the exact moment tonight you stopped thinking straight."
+    },
+    {
+      "id": "hb_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the couch corner while holding a shy teasing smile, trade slow nuzzle softly with your nose along temple and brow while whispering about a secret fantasy you want to try before sunrise."
+    },
+    {
+      "id": "hb_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the kitchen counter while staying completely silent, trade slow leave lingering kisses along corner of the mouth while whispering about the first compliment in your head looking at me now."
+    },
+    {
+      "id": "hb_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at a dim hallway doorway while letting your lips hover 1 cm away between moves, trade slow trace slow warm circles over upper back while whispering about one tiny detail about me that still makes you blush."
+    },
+    {
+      "id": "hb_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the candlelit bedroom rug while whispering their pet name softly, trade slow feather-trace with your fingertips along nape hairline while whispering about what sound of theirs drives you completely wild."
+    },
+    {
+      "id": "hb_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: beside the bed with lights dimmed while holding a shy teasing smile, trade slow graze your lips shyly across cheek & jawline while whispering about what you crave first once every light goes out."
+    },
+    {
+      "id": "hb_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the lamp-lit window seat while staying completely silent, trade slow press slow soft, lingering kisses over outer collarbone while whispering about which clingy habit of mine melts you fastest."
+    },
+    {
+      "id": "hb_v21_t1_10",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the couch armrest while letting your lips hover 1 cm away between moves, trade slow softly caress on shoulder while whispering about the boldest place you want to pull them into."
+    },
+    {
+      "id": "hb_v21_t1_11",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the foot of the bed while whispering their pet name softly, trade slow leave feather-light kisses across outer curve of the ear while whispering about the hug you never wanted to end."
+    },
+    {
+      "id": "hb_v21_t1_12",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the dim entryway while holding a shy teasing smile, trade slow warmly massage on inner wrist while whispering about how you secretly want to be held before sleep."
+    },
+    {
+      "id": "hb_v21_t1_13",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: beside the closet mirror while staying completely silent, trade slow brush lingering warm breath along palm and fingertips while whispering about what you want them to wear — or take off — tonight."
+    },
+    {
+      "id": "hb_v21_t1_14",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at a pile of plush floor pillows while letting your lips hover 1 cm away between moves, trade slow brush warm breath across inner forearm while whispering about one naughty thought you had about them today."
+    },
+    {
+      "id": "hb_v21_t1_15",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: behind the sheer curtains while whispering their pet name softly, trade slow smooth warm palms slowly down behind the ear while whispering about a shy thought you had while holding my hand."
+    },
+    {
+      "id": "hb_v21_t1_16",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the softly lit vanity while holding a shy teasing smile, trade slow nuzzle softly with your nose along tip of the chin while whispering about how you want to be touched when the lights go out."
+    },
+    {
+      "id": "hb_v21_t1_17",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the bedroom wall while staying completely silent, trade slow leave lingering kisses along collarbone while whispering about the exact body part you want to kiss next."
+    },
+    {
+      "id": "hb_v21_t1_18",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the edge of the bed while letting your lips hover 1 cm away between moves, trade slow trace slow warm circles over knuckles and thumb while whispering about your favorite tiny habit when I kiss you."
+    },
+    {
+      "id": "hb_v21_t1_19",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: in front of a mirror while whispering their pet name softly, trade slow feather-trace with your fingertips along neck while whispering about the exact moment tonight you stopped thinking straight."
+    },
+    {
+      "id": "hb_v21_t1_20",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the couch corner while holding a shy teasing smile, trade slow graze your lips shyly across temple and brow while whispering about a secret fantasy you want to try before sunrise."
+    },
+    {
+      "id": "hb_v21_t1_21",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the kitchen counter while staying completely silent, trade slow press slow soft, lingering kisses over corner of the mouth while whispering about the first compliment in your head looking at me now."
+    },
+    {
+      "id": "hb_v21_t1_22",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at a dim hallway doorway while letting your lips hover 1 cm away between moves, trade slow softly caress on upper back while whispering about one tiny detail about me that still makes you blush."
+    },
+    {
+      "id": "hb_v21_t1_23",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: at the candlelit bedroom rug while whispering their pet name softly, trade slow leave feather-light kisses across nape hairline while whispering about what sound of theirs drives you completely wild."
+    },
+    {
+      "id": "hb_v21_t1_24",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Keep fingertips pressed together: beside the bed with lights dimmed while holding a shy teasing smile, trade slow warmly massage on cheek & jawline while whispering about what you crave first once every light goes out."
+    },
+    {
+      "id": "hb_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at a pile of plush floor pillows, trace a feather-light touch, then fingers intertwined from lower back dimples to inner forearm, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: behind the sheer curtains, trace cool breath followed immediately by hot soft, lingering kisses from collarbone hollow to behind the ear, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the softly lit vanity, trace a gentle squeeze of the hand, then unhurried soft kisses from inner wrist to tip of the chin, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the bedroom wall, trace fingers through hair pulling you gently closer from shoulder blades to collarbone, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the edge of the bed, trace slow warm palms gliding into a sudden close pull from nape of the neck to knuckles and thumb, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: in front of a mirror, trace warm palms resting lightly, unhurried from behind the ear to neck, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the couch corner, trace a steady hand held, then fingertips as light as a breath from side ribs to temple and brow, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the kitchen counter, trace a shy brush of noses, then a slow, soft kiss from base of the throat to corner of the mouth, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at a dim hallway doorway, trace pausing a breath away, then a soft kiss from lower back dimples to upper back, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_10",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the candlelit bedroom rug, trace a light fingertip brush, then a soft kiss from collarbone hollow to nape hairline, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t2_11",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: beside the bed with lights dimmed, trace warm breath that lingers, then a soft kiss from inner wrist to cheek & jawline, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_12",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the lamp-lit window seat, trace one soft kiss, then a slow breath together from shoulder blades to outer collarbone, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t2_13",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the couch armrest, trace a feather-light touch, then fingers intertwined from nape of the neck to shoulder, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_14",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the foot of the bed, trace cool breath followed immediately by hot soft, lingering kisses from behind the ear to outer curve of the ear, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t2_15",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the dim entryway, trace a gentle squeeze of the hand, then unhurried soft kisses from side ribs to inner wrist, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_16",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: beside the closet mirror, trace fingers through hair pulling you gently closer from base of the throat to palm and fingertips, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t2_17",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at a pile of plush floor pillows, trace slow warm palms gliding into a sudden close pull from lower back dimples to inner forearm, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_18",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: behind the sheer curtains, trace warm palms resting lightly, unhurried from collarbone hollow to behind the ear, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t2_19",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the softly lit vanity, trace a steady hand held, then fingertips as light as a breath from inner wrist to tip of the chin, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_20",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the bedroom wall, trace a shy brush of noses, then a slow, soft kiss from shoulder blades to collarbone, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t2_21",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: at the edge of the bed, trace pausing a breath away, then a soft kiss from nape of the neck to knuckles and thumb, following 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "hb_v21_t2_22",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Sync your pulses onscreen: in front of a mirror, trace a light fingertip brush, then a soft kiss from behind the ear to neck, following 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "hb_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus soft kiss along inner thigh while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus tease with alternating lips and fingertips over along hip bone while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus press lightly, then soothe with a kiss along earlobe while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus slowly warming along waistline while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus resting soft, unhurried kisses near along lower belly while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus tracing a slow line of warmth along along chest and ribcage while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus leave unhurried, lingering kisses across along collarbone while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus trace wet soft, lingering kisss along along spine while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus soft kiss along nape of the neck while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_10",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus tease with alternating lips and fingertips over along neck while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus press lightly, then soothe with a kiss along inner thigh while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus slowly warming along hip bone while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_13",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus resting soft, unhurried kisses near along earlobe while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_14",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus tracing a slow line of warmth along along waistline while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_15",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus leave unhurried, lingering kisses across along lower belly while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_16",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus trace wet soft, lingering kisss along along chest and ribcage while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_17",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus soft kiss along collarbone while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_18",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus tease with alternating lips and fingertips over along spine while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_19",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus press lightly, then soothe with a kiss along nape of the neck while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_20",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus slowly warming along neck while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_21",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus resting soft, unhurried kisses near along inner thigh while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t3_22",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Heartbeat surge: with your free hand, focus tracing a slow line of warmth along along hip bone while whispering about checking into a penthouse suite under fake names."
+    },
+    {
+      "id": "hb_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Hold their chin gently tilted up so they can only watch while teasing curve of the hip with hot breath and tracing a slow line of warmth along."
+    },
+    {
+      "id": "hb_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Let your fingers rest behind their neck, both of you still while teasing inner thigh with hot breath and leave unhurried, lingering kisses across."
+    },
+    {
+      "id": "hb_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Keep their hands flat against the headboard while teasing sensitive collarbone with hot breath and trace wet soft, lingering kisss along."
+    },
+    {
+      "id": "hb_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under stand close together, unhurried, by the wall while teasing chest and ribcage with hot breath, and soft kiss."
+    },
+    {
+      "id": "hb_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Hold their resting quietly at their sides their back while teasing hip bone line with hot breath and tease with alternating lips, and fingertips over."
+    },
+    {
+      "id": "hb_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Hold both wrists gently above their head with one hand while teasing hollow of the spine with hot breath and press lightly, then soothe with a kiss."
+    },
+    {
+      "id": "hb_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Hold their chin gently tilted up so they can only watch while teasing small of the waist with hot breath and slowly warming."
+    },
+    {
+      "id": "hb_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Let your fingers rest behind their neck, both of you still while teasing lower belly with hot breath and soft kiss softly, then kiss."
+    },
+    {
+      "id": "hb_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Keep their hands flat against the headboard while teasing curve of the hip with hot breath and tracing a slow line of warmth along."
+    },
+    {
+      "id": "hb_v21_t4_10",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under stand close together, unhurried, by the wall while teasing inner thigh with hot breath and leave unhurried, lingering kisses across."
+    },
+    {
+      "id": "hb_v21_t4_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Hold their resting quietly at their sides their back while teasing sensitive collarbone with hot breath and trace wet soft, lingering kisss along."
+    },
+    {
+      "id": "hb_v21_t4_12",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Hold both wrists gently above their head with one hand while teasing chest and ribcage with hot breath, and soft kiss."
+    },
+    {
+      "id": "hb_v21_t4_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Hold their chin gently tilted up so they can only watch while teasing hip bone line with hot breath and tease with alternating lips, and fingertips over."
+    },
+    {
+      "id": "hb_v21_t4_14",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Let your fingers rest behind their neck, both of you still while teasing hollow of the spine with hot breath and press lightly, then soothe with a kiss."
+    },
+    {
+      "id": "hb_v21_t4_15",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Keep their hands flat against the headboard while teasing small of the waist with hot breath and slowly warming."
+    },
+    {
+      "id": "hb_v21_t4_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under stand close together, unhurried, by the wall while teasing lower belly with hot breath and soft kiss softly, then kiss."
+    },
+    {
+      "id": "hb_v21_t4_17",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Hold their resting quietly at their sides their back while teasing curve of the hip with hot breath and tracing a slow line of warmth along."
+    },
+    {
+      "id": "hb_v21_t4_18",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Hold both wrists gently above their head with one hand while teasing inner thigh with hot breath and leave unhurried, lingering kisses across."
+    },
+    {
+      "id": "hb_v21_t4_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Hold their chin gently tilted up so they can only watch while teasing sensitive collarbone with hot breath and trace wet soft, lingering kisss along."
+    },
+    {
+      "id": "hb_v21_t4_20",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Midnight pulse edge: stay locked on screen under Let your fingers rest behind their neck, both of you still while teasing chest and ribcage with hot breath, and soft kiss."
+    }
+  ],
+  "bombRelays": [
+    {
+      "id": "bm_01",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Take turns kissing a DIFFERENT spot on your partner's face or hand—tap PASS immediately after each kiss!"
+    },
+    {
+      "id": "bm_02",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Rapid-fire: Whisper one thing you love about your partner's body and immediately pass the ticking bomb!"
+    },
+    {
+      "id": "bm_03",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Blow warm breath on a sensitive spot (ear, neck, wrist) and slam PASS before the fuse blows!"
+    },
+    {
+      "id": "bm_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Quick tease: Leave one light soft kiss or soft kiss on your partner's neck, collarbone, or earlobe—then PASS fast!"
+    },
+    {
+      "id": "bm_05",
+      "tier": 3,
+      "tags": [
+        "playful"
+      ],
+      "text": "Name a secret place you'd love to kiss your partner (kitchen, elevator, beach...)—no repeats! Pass fast!"
+    },
+    {
+      "id": "bm_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Deliver one playful tap or pull your partner in by the waist for a 2-second kiss—then hit PASS before boom!"
+    },
+    {
+      "id": "bm_07",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Rapid forfeit: Loosen one button, zipper, or accessory—or steal a deep 3-second kiss—and PASS immediately!"
+    },
+    {
+      "id": "bm_08",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Whisper a bold midnight fantasy in under 5 words, kiss their neck once, and PASS before it explodes!"
+    },
+    {
+      "id": "bm_09",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Leave two slow kisses on your partner's cheek or jawline and hit Pass immediately!"
+    },
+    {
+      "id": "bm_10",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "Say one secret reason you crave your partner tonight and pass the bomb fast!"
+    },
+    {
+      "id": "bm_11",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Slide your hands around their waist, pull them chest-to-chest for 2s, and pass!"
+    },
+    {
+      "id": "bm_12",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "Softly soft kiss their earlobe or lower lip for 2 seconds and slam Pass!"
+    },
+    {
+      "id": "bm_13",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "text": "Whisper one dirty word or nickname into their ear and pass before it blows!"
+    },
+    {
+      "id": "bm_14",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Press a warm soft, lingering kiss onto their throat or collarbone and pass!"
+    },
+    {
+      "id": "bm_15",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "soft kiss a quick wet line up their neck or inner wrist and pass immediately!"
+    },
+    {
+      "id": "bm_16",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "Slide one hand under their shirt along their waist or ribs for 2s and pass!"
+    },
+    {
+      "id": "bm_17",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Unfasten one button, zipper, or strap (or remove one accessory) and pass fast!"
+    },
+    {
+      "id": "bm_18",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "soft kiss softly on their neck or collarbone for 3 seconds and pass before BOOM!"
+    },
+    {
+      "id": "bm_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "Pin their wrists for 2 seconds while stealing a hungry kiss — then pass!"
+    },
+    {
+      "id": "bm_20",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "Deliver one playful caress + kiss their lips — smash Pass before it explodes!"
+    },
+    {
+      "id": "bm_v2_01",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "\"Quick!\" Name one tiny detail about me you adore, then pass the bomb!"
+    },
+    {
+      "id": "bm_v2_02",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "\"Kiss and pass!\" Plant a sweet kiss on my cheek or hand, then tap pass!"
+    },
+    {
+      "id": "bm_v2_03",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "text": "\"Lock eyes for 3s!\" Tell me I look irresistible tonight, then pass!"
+    },
+    {
+      "id": "bm_v2_04",
+      "tier": 1,
+      "tags": [
+        "playful"
+      ],
+      "text": "\"New pet name!\" Call me a brand-new blushing nickname, then pass!"
+    },
+    {
+      "id": "bm_v2_05",
+      "tier": 1,
+      "tags": [
+        "alcohol"
+      ],
+      "text": "\"Cheers relay!\" Clink glasses or toast the mood with one sweet line, then pass!"
+    },
+    {
+      "id": "bm_v2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "\"Warm ear breath!\" Brush warm breath right beside my ear, then pass!"
+    },
+    {
+      "id": "bm_v2_07",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "text": "\"Two nose nuzzles!\" Brush noses twice without giggling, then pass!"
+    },
+    {
+      "id": "bm_v2_08",
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ],
+      "text": "\"Spill it fast!\" Blur out one cozy thing you want to do after this game, then pass!"
+    },
+    {
+      "id": "bm_v2_09",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "\"Wrist kiss!\" Press a soft kiss onto my inner wrist pulse point, then pass!"
+    },
+    {
+      "id": "bm_v2_10",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "\"Quick lip peck!\" Steal a teasing peck on my lower lip, then pass!"
+    },
+    {
+      "id": "bm_v2_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "\"Shy earlobe nip!\" Give my earlobe one feather-soft soft kiss, then pass!"
+    },
+    {
+      "id": "bm_v2_12",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "text": "\"Collarbone kiss!\" Leave one warm kiss right in my collarbone hollow, then pass!"
+    },
+    {
+      "id": "bm_v2_13",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "\"Collar tease!\" Gently adjust or slip my collar aside with a compliment, then pass!"
+    },
+    {
+      "id": "bm_v2_14",
+      "tier": 3,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "\"Pull me in!\" Pull my waist flush against yours for 2 breathless seconds, then pass!"
+    },
+    {
+      "id": "bm_v2_15",
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ],
+      "text": "\"Velvet whisper!\" Drop your voice low and say 'you're mine tonight,' then pass!"
+    },
+    {
+      "id": "bm_v2_16",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "\"Hot neck kiss!\" Leave a lingering warm kiss on the side of my neck, then pass!"
+    },
+    {
+      "id": "bm_v2_17",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "text": "\"Warm palm sneak!\" Slip a warm hand under my top onto my lower back for 2s, then pass!"
+    },
+    {
+      "id": "bm_v2_18",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "text": "\"Playful tap!\" Give one cheeky playful tap with a grin, then pass!"
+    },
+    {
+      "id": "bm_v2_19",
+      "tier": 4,
+      "tags": [
+        "blindfold"
+      ],
+      "text": "\"Eyes-shut kiss!\" Close your eyes, find my cheek or lips, kiss once, then pass!"
+    },
+    {
+      "id": "bm_v2_20",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "text": "\"3-second unhurried, lingering kiss!\" Claim a breathless 3-second kiss and tap pass the instant you part!"
+    },
+    {
+      "id": "bm_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick brush lingering warm breath along their collarbone, drop a line about the exact body part you want to kiss next, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick brush warm breath across their knuckles and thumb, drop a line about your favorite tiny habit when I kiss you, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick smooth warm palms slowly down their neck, drop a line about the exact moment tonight you stopped thinking straight, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick nuzzle softly with your nose along their temple and brow, drop a line about a secret fantasy you want to try before sunrise, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick leave lingering kisses along their corner of the mouth, drop a line about the first compliment in your head looking at me now, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick trace slow warm circles over their upper back, drop a line about one tiny detail about me that still makes you blush, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick feather-trace with your fingertips along their nape hairline, drop a line about what sound of theirs drives you completely wild, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick graze your lips shyly across their cheek & jawline, drop a line about what you crave first once every light goes out, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick press slow soft, lingering kisses over their outer collarbone, drop a line about which clingy habit of mine melts you fastest, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_10",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick softly caress on their shoulder, drop a line about the boldest place you want to pull them into, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_11",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick leave feather-light kisses across their outer curve of the ear, drop a line about the hug you never wanted to end, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_12",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick warmly massage on their inner wrist, drop a line about how you secretly want to be held before sleep, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_13",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick brush lingering warm breath along their palm and fingertips, drop a line about what you want them to wear — or take off — tonight, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_14",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick brush warm breath across their inner forearm, drop a line about one naughty thought you had about them today, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_15",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick smooth warm palms slowly down their behind the ear, drop a line about a shy thought you had while holding my hand, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_16",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick nuzzle softly with your nose along their tip of the chin, drop a line about how you want to be touched when the lights go out, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_17",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick leave lingering kisses along their collarbone, drop a line about the exact body part you want to kiss next, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_18",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick trace slow warm circles over their knuckles and thumb, drop a line about your favorite tiny habit when I kiss you, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_19",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick feather-trace with your fingertips along their neck, drop a line about the exact moment tonight you stopped thinking straight, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_20",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick graze your lips shyly across their temple and brow, drop a line about a secret fantasy you want to try before sunrise, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_21",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick press slow soft, lingering kisses over their corner of the mouth, drop a line about the first compliment in your head looking at me now, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_22",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick softly caress on their upper back, drop a line about one tiny detail about me that still makes you blush, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_23",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick leave feather-light kisses across their nape hairline, drop a line about what sound of theirs drives you completely wild, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_24",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick warmly massage on their cheek & jawline, drop a line about what you crave first once every light goes out, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_25",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick brush lingering warm breath along their outer collarbone, drop a line about which clingy habit of mine melts you fastest, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_26",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick brush warm breath across their shoulder, drop a line about the boldest place you want to pull them into, and pass!"
+    },
+    {
+      "id": "bm_v21_t1_27",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "text": "Bomb ticking! Land a quick smooth warm palms slowly down their outer curve of the ear, drop a line about the hug you never wanted to end, and pass!"
+    },
+    {
+      "id": "bm_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their inner forearm using a feather-light touch, then fingers intertwined while while letting your lips hover 1 cm away between moves, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their behind the ear using cool breath followed immediately by hot soft, lingering kisses while while whispering their pet name softly, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their tip of the chin using a gentle squeeze of the hand, then unhurried soft kisses while while holding a shy teasing smile, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their collarbone using fingers through hair pulling you gently closer while while staying completely silent, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their knuckles and thumb using slow warm palms gliding into a sudden close pull while while letting your lips hover 1 cm away between moves, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their neck using warm palms resting lightly, unhurried while while whispering their pet name softly, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their temple and brow using a steady hand held, then fingertips as light as a breath while while holding a shy teasing smile, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their corner of the mouth using a shy brush of noses, then a slow, soft kiss while while staying completely silent, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their upper back using pausing a breath away, then a soft kiss while while letting your lips hover 1 cm away between moves, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_10",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their nape hairline using a light fingertip brush, then a soft kiss while while whispering their pet name softly, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_11",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their cheek & jawline using warm breath that lingers, then a soft kiss while while holding a shy teasing smile, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_12",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their outer collarbone using one soft kiss, then a slow breath together while while staying completely silent, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_13",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their shoulder using a feather-light touch, then fingers intertwined while while letting your lips hover 1 cm away between moves, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_14",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their outer curve of the ear using cool breath followed immediately by hot soft, lingering kisses while while whispering their pet name softly, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_15",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their inner wrist using a gentle squeeze of the hand, then unhurried soft kisses while while holding a shy teasing smile, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_16",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their palm and fingertips using fingers through hair pulling you gently closer while while staying completely silent, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_17",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their inner forearm using slow warm palms gliding into a sudden close pull while while letting your lips hover 1 cm away between moves, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_18",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their behind the ear using warm palms resting lightly, unhurried while while whispering their pet name softly, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_19",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their tip of the chin using a steady hand held, then fingertips as light as a breath while while holding a shy teasing smile, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_20",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their collarbone using a shy brush of noses, then a slow, soft kiss while while staying completely silent, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_21",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their knuckles and thumb using pausing a breath away, then a soft kiss while while letting your lips hover 1 cm away between moves, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_22",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their neck using a light fingertip brush, then a soft kiss while while whispering their pet name softly, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_23",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their temple and brow using warm breath that lingers, then a soft kiss while while holding a shy teasing smile, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t2_24",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "text": "Pass fast! Tease their corner of the mouth using one soft kiss, then a slow breath together while while staying completely silent, then tap pass!"
+    },
+    {
+      "id": "bm_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift soft kiss on their inner thigh and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift tease with alternating lips and fingertips over their hip bone and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift press lightly, then soothe with a kiss with a kiss on their earlobe and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift slowly warming on their waistline and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift resting soft, unhurried kisses near on their lower belly and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift tracing a slow line of warmth along their chest, ribcage, and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift leave unhurried, lingering kisses across their collarbone and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift trace wet soft, lingering kisss along their spine and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift soft kiss on their nape of the neck and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_10",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift tease with alternating lips and fingertips over their neck and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift press lightly, then soothe with a kiss with a kiss on their inner thigh and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift slowly warming on their hip bone and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_13",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift resting soft, unhurried kisses near on their earlobe and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_14",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift tracing a slow line of warmth along their waistline and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_15",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift leave unhurried, lingering kisses across their lower belly and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_16",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift trace wet soft, lingering kisss along their chest, ribcage, and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_17",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift soft kiss on their collarbone and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_18",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift tease with alternating lips and fingertips over their spine and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_19",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift press lightly, then soothe with a kiss with a kiss on their nape of the neck and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_20",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift slowly warming on their neck and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_21",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift resting soft, unhurried kisses near on their inner thigh and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_22",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift tracing a slow line of warmth along their hip bone and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_23",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift leave unhurried, lingering kisses across their earlobe and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_24",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift trace wet soft, lingering kisss along their waistline and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t3_25",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "text": "Danger zone! Deliver a swift soft kiss on their lower belly and whisper 'checking into a penthouse suite under fake names' before passing!"
+    },
+    {
+      "id": "bm_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep the back of your knuckles first, then your mouth across curve of the hip obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep your partner's own guided hand across inner thigh obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep warm breath and lips alone across sensitive collarbone obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep one hand only while holding eye contact across chest and ribcage obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep your lips and teeth only (no hands) across hip bone line obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep ultra-slow fingertips across hollow of the spine obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep the back of your knuckles first, then your mouth across small of the waist obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep your partner's own guided hand across lower belly obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep warm breath and lips alone across curve of the hip obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_10",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep one hand only while holding eye contact across inner thigh obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep your lips and teeth only (no hands) across sensitive collarbone obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_12",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep ultra-slow fingertips across chest and ribcage obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep the back of your knuckles first, then your mouth across hip bone line obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_14",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep your partner's own guided hand across hollow of the spine obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_15",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep warm breath and lips alone across small of the waist obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep one hand only while holding eye contact across lower belly obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_17",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep your lips and teeth only (no hands) across curve of the hip obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_18",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep ultra-slow fingertips across inner thigh obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep the back of your knuckles first, then your mouth across sensitive collarbone obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_20",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep your partner's own guided hand across chest and ribcage obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_21",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep warm breath and lips alone across hip bone line obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_22",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep one hand only while holding eye contact across hollow of the spine obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_23",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep your lips and teeth only (no hands) across small of the waist obeying 'whisper their name right before each new spot', then pass immediately!"
+    },
+    {
+      "id": "bm_v21_t4_24",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "text": "Final defuse! Sweep ultra-slow fingertips across lower belly obeying 'alternate feather-light strokes with firm pressure', then pass immediately!"
+    }
+  ],
+  "blackjackStakes": [
+    {
+      "id": "bj_01",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "15s slow shoulder & neck kiss"
+    },
+    {
+      "id": "bj_02",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "20s no-hands lap kiss"
+    },
+    {
+      "id": "bj_03",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "25s earlobe soft kiss & collarbone trail"
+    },
+    {
+      "id": "bj_04",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "label": "Slowly remove 1 layer or accessory"
+    },
+    {
+      "id": "bj_05",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "label": "Hands pinned overhead · 30s tease"
+    },
+    {
+      "id": "bj_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "2 playful caress + 20s unhurried, lingering kiss"
+    },
+    {
+      "id": "bj_07",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "20s behind-the-ear warm breath & kisses"
+    },
+    {
+      "id": "bj_08",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "25s soft kiss & kissing on the neck"
+    },
+    {
+      "id": "bj_09",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "30s under-shirt waist & spine exploration"
+    },
+    {
+      "id": "bj_10",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "30s wet soft, lingering kisss across collarbone & ribs"
+    },
+    {
+      "id": "bj_11",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "label": "Slowly unfasten or slide off 1 layer with eye contact"
+    },
+    {
+      "id": "bj_12",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "35s soft kiss & kissing up the inner thigh"
+    },
+    {
+      "id": "bj_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "label": "40s resting quietly at their sides back + nonstop lip tease"
+    },
+    {
+      "id": "bj_14",
+      "tier": 4,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "label": "Lips-only loosen 1 strap/layer + 25s unhurried, lingering kiss"
+    },
+    {
+      "id": "bj_v2_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ],
+      "label": "20s nose-to-nose gaze & 3 shy compliments"
+    },
+    {
+      "id": "bj_v2_02",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "20s slow kisses across palm & wrist"
+    },
+    {
+      "id": "bj_v2_03",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ],
+      "label": "Whisper one blushing secret into the winner's ear"
+    },
+    {
+      "id": "bj_v2_04",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "label": "25s close lap cuddle & slow kisses"
+    },
+    {
+      "id": "bj_v2_05",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "25s earlobe soft kisss & jawline kisses"
+    },
+    {
+      "id": "bj_v2_06",
+      "tier": 2,
+      "tags": [
+        "alcohol"
+      ],
+      "label": "Take a tipsy sip and share a lingering kiss"
+    },
+    {
+      "id": "bj_v2_07",
+      "tier": 2,
+      "tags": [
+        "playful"
+      ],
+      "label": "25s hands-behind-back teasing kisses"
+    },
+    {
+      "id": "bj_v2_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "30s slow kisses from neck down to collarbone"
+    },
+    {
+      "id": "bj_v2_09",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ],
+      "label": "One-hand loosen two buttons & kiss bare skin"
+    },
+    {
+      "id": "bj_v2_10",
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ],
+      "label": "30s eyes-shut surprise kisses on 3 chosen spots"
+    },
+    {
+      "id": "bj_v2_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "label": "35s wrists held overhead with breathless teasing"
+    },
+    {
+      "id": "bj_v2_12",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ],
+      "label": "Slowly remove one outer layer while locking eyes"
+    },
+    {
+      "id": "bj_v2_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "label": "Two playful caress melted into a 30s unhurried, lingering kiss"
+    },
+    {
+      "id": "bj_v2_14",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "label": "45s surrender from behind the ear down to the waist"
+    },
+    {
+      "id": "bj_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow brush lingering warm breath along collarbone at the bedroom wall"
+    },
+    {
+      "id": "bj_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow brush warm breath across knuckles and thumb at the edge of the bed"
+    },
+    {
+      "id": "bj_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow smooth warm palms slowly down neck in front of a mirror"
+    },
+    {
+      "id": "bj_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow nuzzle softly with your nose along temple and brow at the couch corner"
+    },
+    {
+      "id": "bj_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow leave lingering kisses along corner of the mouth at the kitchen counter"
+    },
+    {
+      "id": "bj_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow trace slow warm circles over upper back at a dim hallway doorway"
+    },
+    {
+      "id": "bj_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow feather-trace with your fingertips along nape hairline at the candlelit bedroom rug"
+    },
+    {
+      "id": "bj_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow graze your lips shyly across cheek & jawline beside the bed with lights dimmed"
+    },
+    {
+      "id": "bj_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow press slow soft, lingering kisses over outer collarbone at the lamp-lit window seat"
+    },
+    {
+      "id": "bj_v21_t1_10",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow softly caress on shoulder at the couch armrest"
+    },
+    {
+      "id": "bj_v21_t1_11",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow leave feather-light kisses across outer curve of the ear at the foot of the bed"
+    },
+    {
+      "id": "bj_v21_t1_12",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow warmly massage on inner wrist at the dim entryway"
+    },
+    {
+      "id": "bj_v21_t1_13",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow brush lingering warm breath along palm and fingertips beside the closet mirror"
+    },
+    {
+      "id": "bj_v21_t1_14",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow brush warm breath across inner forearm at a pile of plush floor pillows"
+    },
+    {
+      "id": "bj_v21_t1_15",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow smooth warm palms slowly down behind the ear behind the sheer curtains"
+    },
+    {
+      "id": "bj_v21_t1_16",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow nuzzle softly with your nose along tip of the chin at the softly lit vanity"
+    },
+    {
+      "id": "bj_v21_t1_17",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow leave lingering kisses along collarbone at the bedroom wall"
+    },
+    {
+      "id": "bj_v21_t1_18",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow trace slow warm circles over knuckles and thumb at the edge of the bed"
+    },
+    {
+      "id": "bj_v21_t1_19",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow feather-trace with your fingertips along neck in front of a mirror"
+    },
+    {
+      "id": "bj_v21_t1_20",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow graze your lips shyly across temple and brow at the couch corner"
+    },
+    {
+      "id": "bj_v21_t1_21",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow press slow soft, lingering kisses over corner of the mouth at the kitchen counter"
+    },
+    {
+      "id": "bj_v21_t1_22",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow softly caress on upper back at a dim hallway doorway"
+    },
+    {
+      "id": "bj_v21_t1_23",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "label": "30s slow leave feather-light kisses across nape hairline at the candlelit bedroom rug"
+    },
+    {
+      "id": "bj_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s a feather-light touch, then fingers intertwined tracing lower back dimples to inner forearm"
+    },
+    {
+      "id": "bj_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s cool breath followed immediately by hot soft, lingering kisses tracing collarbone hollow to behind the ear"
+    },
+    {
+      "id": "bj_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s a gentle squeeze of the hand, then unhurried soft kisses tracing inner wrist to tip of the chin"
+    },
+    {
+      "id": "bj_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s fingers through hair pulling you gently closer tracing shoulder blades to collarbone"
+    },
+    {
+      "id": "bj_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s slow warm palms gliding into a sudden close pull tracing nape of the neck to knuckles and thumb"
+    },
+    {
+      "id": "bj_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s warm palms resting lightly, unhurried tracing behind the ear to neck"
+    },
+    {
+      "id": "bj_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s a steady hand held, then fingertips as light as a breath tracing side ribs to temple and brow"
+    },
+    {
+      "id": "bj_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s a shy brush of noses, then a slow, soft kiss tracing base of the throat to corner of the mouth"
+    },
+    {
+      "id": "bj_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s pausing a breath away, then a soft kiss tracing lower back dimples to upper back"
+    },
+    {
+      "id": "bj_v21_t2_10",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s a light fingertip brush, then a soft kiss tracing collarbone hollow to nape hairline"
+    },
+    {
+      "id": "bj_v21_t2_11",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s warm breath that lingers, then a soft kiss tracing inner wrist to cheek & jawline"
+    },
+    {
+      "id": "bj_v21_t2_12",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s one soft kiss, then a slow breath together tracing shoulder blades to outer collarbone"
+    },
+    {
+      "id": "bj_v21_t2_13",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s a feather-light touch, then fingers intertwined tracing nape of the neck to shoulder"
+    },
+    {
+      "id": "bj_v21_t2_14",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s cool breath followed immediately by hot soft, lingering kisses tracing behind the ear to outer curve of the ear"
+    },
+    {
+      "id": "bj_v21_t2_15",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s a gentle squeeze of the hand, then unhurried soft kisses tracing side ribs to inner wrist"
+    },
+    {
+      "id": "bj_v21_t2_16",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s fingers through hair pulling you gently closer tracing base of the throat to palm and fingertips"
+    },
+    {
+      "id": "bj_v21_t2_17",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s slow warm palms gliding into a sudden close pull tracing lower back dimples to inner forearm"
+    },
+    {
+      "id": "bj_v21_t2_18",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s warm palms resting lightly, unhurried tracing collarbone hollow to behind the ear"
+    },
+    {
+      "id": "bj_v21_t2_19",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s a steady hand held, then fingertips as light as a breath tracing inner wrist to tip of the chin"
+    },
+    {
+      "id": "bj_v21_t2_20",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s a shy brush of noses, then a slow, soft kiss tracing shoulder blades to collarbone"
+    },
+    {
+      "id": "bj_v21_t2_21",
+      "tier": 2,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "label": "35s pausing a breath away, then a soft kiss tracing nape of the neck to knuckles and thumb"
+    },
+    {
+      "id": "bj_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused soft kiss on inner thigh at the foot of the bed"
+    },
+    {
+      "id": "bj_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused tease with alternating lips and fingertips over hip bone at the dim entryway"
+    },
+    {
+      "id": "bj_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused press lightly, then soothe with a kiss with a kiss on earlobe beside the closet mirror"
+    },
+    {
+      "id": "bj_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused slowly warming on waistline at a pile of plush floor pillows"
+    },
+    {
+      "id": "bj_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused resting soft, unhurried kisses near on lower belly behind the sheer curtains"
+    },
+    {
+      "id": "bj_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused tracing a slow line of warmth along chest and ribcage at the softly lit vanity"
+    },
+    {
+      "id": "bj_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused leave unhurried, lingering kisses across collarbone at the bedroom wall"
+    },
+    {
+      "id": "bj_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused trace wet soft, lingering kisss along spine at the edge of the bed"
+    },
+    {
+      "id": "bj_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused soft kiss on nape of the neck in front of a mirror"
+    },
+    {
+      "id": "bj_v21_t3_10",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused tease with alternating lips and fingertips over neck at the couch corner"
+    },
+    {
+      "id": "bj_v21_t3_11",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused press lightly, then soothe with a kiss with a kiss on inner thigh at the kitchen counter"
+    },
+    {
+      "id": "bj_v21_t3_12",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused slowly warming on hip bone at a dim hallway doorway"
+    },
+    {
+      "id": "bj_v21_t3_13",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused resting soft, unhurried kisses near on earlobe at the candlelit bedroom rug"
+    },
+    {
+      "id": "bj_v21_t3_14",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused tracing a slow line of warmth along waistline beside the bed with lights dimmed"
+    },
+    {
+      "id": "bj_v21_t3_15",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused leave unhurried, lingering kisses across lower belly at the lamp-lit window seat"
+    },
+    {
+      "id": "bj_v21_t3_16",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused trace wet soft, lingering kisss along chest and ribcage at the couch armrest"
+    },
+    {
+      "id": "bj_v21_t3_17",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused soft kiss on collarbone at the foot of the bed"
+    },
+    {
+      "id": "bj_v21_t3_18",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused tease with alternating lips and fingertips over spine at the dim entryway"
+    },
+    {
+      "id": "bj_v21_t3_19",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused press lightly, then soothe with a kiss with a kiss on nape of the neck beside the closet mirror"
+    },
+    {
+      "id": "bj_v21_t3_20",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused slowly warming on neck at a pile of plush floor pillows"
+    },
+    {
+      "id": "bj_v21_t3_21",
+      "tier": 3,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "label": "45s focused resting soft, unhurried kisses near on inner thigh behind the sheer curtains"
+    },
+    {
+      "id": "bj_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s tracing a slow line of warmth along curve of the hip under Hold their chin gently tilted up so they can only watch"
+    },
+    {
+      "id": "bj_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s leave unhurried, lingering kisses across inner thigh under Let your fingers rest behind their neck, both of you still"
+    },
+    {
+      "id": "bj_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s trace wet soft, lingering kisss along sensitive collarbone under Keep their hands flat against the headboard"
+    },
+    {
+      "id": "bj_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s soft kiss on chest and ribcage under stand close together, unhurried, by the wall"
+    },
+    {
+      "id": "bj_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s tease with alternating lips and fingertips over hip bone line under Hold their resting quietly at their sides their back"
+    },
+    {
+      "id": "bj_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s press lightly, then soothe with a kiss with a kiss on hollow of the spine under Hold both wrists gently above their head with one hand"
+    },
+    {
+      "id": "bj_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s slowly warming on small of the waist under Hold their chin gently tilted up so they can only watch"
+    },
+    {
+      "id": "bj_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s resting soft, unhurried kisses near on lower belly under Let your fingers rest behind their neck, both of you still"
+    },
+    {
+      "id": "bj_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s tracing a slow line of warmth along curve of the hip under Keep their hands flat against the headboard"
+    },
+    {
+      "id": "bj_v21_t4_10",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s leave unhurried, lingering kisses across inner thigh under stand close together, unhurried, by the wall"
+    },
+    {
+      "id": "bj_v21_t4_11",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s trace wet soft, lingering kisss along sensitive collarbone under Hold their resting quietly at their sides their back"
+    },
+    {
+      "id": "bj_v21_t4_12",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s soft kiss on chest and ribcage under Hold both wrists gently above their head with one hand"
+    },
+    {
+      "id": "bj_v21_t4_13",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s tease with alternating lips and fingertips over hip bone line under Hold their chin gently tilted up so they can only watch"
+    },
+    {
+      "id": "bj_v21_t4_14",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s press lightly, then soothe with a kiss with a kiss on hollow of the spine under Let your fingers rest behind their neck, both of you still"
+    },
+    {
+      "id": "bj_v21_t4_15",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s slowly warming on small of the waist under Keep their hands flat against the headboard"
+    },
+    {
+      "id": "bj_v21_t4_16",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s resting soft, unhurried kisses near on lower belly under stand close together, unhurried, by the wall"
+    },
+    {
+      "id": "bj_v21_t4_17",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s tracing a slow line of warmth along curve of the hip under Hold their resting quietly at their sides their back"
+    },
+    {
+      "id": "bj_v21_t4_18",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s leave unhurried, lingering kisses across inner thigh under Hold both wrists gently above their head with one hand"
+    },
+    {
+      "id": "bj_v21_t4_19",
+      "tier": 4,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "label": "60s trace wet soft, lingering kisss along sensitive collarbone under Hold their chin gently tilted up so they can only watch"
+    }
+  ],
+  "bodyMapZones": [
+    {
+      "id": "z_lips",
+      "label": "Lips",
+      "nx": 0.5,
+      "ny": 0.14,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Press a slow, teasing kiss onto your partner's lips—pause halfway to catch their breath (20s).",
+      "hotAction": "JACKPOT ZONE! Pull them close for a breathless 30-second unhurried, lingering kiss with gentle lip soft kisss.",
+      "durationSec": 25
+    },
+    {
+      "id": "z_ear",
+      "label": "Earlobe",
+      "nx": 0.34,
+      "ny": 0.14,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Brush warm breath across their earlobe and whisper what you want later tonight (20s).",
+      "hotAction": "SENSITIVE HIT! soft kiss and softly soft kiss their earlobe for 30 seconds while holding their waist.",
+      "durationSec": 30
+    },
+    {
+      "id": "z_neck",
+      "label": "Neck",
+      "nx": 0.5,
+      "ny": 0.25,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Trail slow, lingering kisses down the side of their neck from behind the ear (25s).",
+      "hotAction": "HOT SPOT! hands held gently in view and kiss + softly soft kiss their neck for 35 seconds.",
+      "durationSec": 35
+    },
+    {
+      "id": "z_collar",
+      "label": "Collarbone",
+      "nx": 0.5,
+      "ny": 0.34,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Trace their collarbone with feather-light fingertips, then kiss along the exact same line (25s).",
+      "hotAction": "DESIRE HIT! Slide the collar aside and leave slow soft kiss and warm kisses across both collarbones (35s).",
+      "durationSec": 35
+    },
+    {
+      "id": "z_shoulder",
+      "label": "Shoulder",
+      "nx": 0.26,
+      "ny": 0.34,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Warmly massage their shoulders from behind and kiss the curve of their bare shoulder (30s).",
+      "hotAction": "SECRET SPOT! Slowly slip one strap/sleeve down and kiss + soft kiss from shoulder to neck (35s).",
+      "durationSec": 35
+    },
+    {
+      "id": "z_wrist",
+      "label": "Inner Wrist",
+      "nx": 0.78,
+      "ny": 0.5,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Hold their hand gently, lock eyes, and kiss the pulse point on their inner wrist (20s).",
+      "hotAction": "ELECTRIC HIT! Trace slow soft kiss and kisses from fingertips up the inner wrist to the forearm (30s).",
+      "durationSec": 30
+    },
+    {
+      "id": "z_waist",
+      "label": "Waist",
+      "nx": 0.32,
+      "ny": 0.55,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Slip your hands around their bare waist and pull them flush against you for a 25-second sway.",
+      "hotAction": "HOT ZONE! Lift the edge of their shirt and leave slow kisses & warm breaths along their waist (35s).",
+      "durationSec": 35
+    },
+    {
+      "id": "z_spine",
+      "label": "Spine",
+      "nx": 0.68,
+      "ny": 0.45,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ],
+      "normalAction": "Run one fingernail lightly down their spine, followed immediately by slow kisses along their back (30s).",
+      "hotAction": "DESIRE ZONE! Partner closes eyes while you trace alternating warm breaths and soft bites down their back (40s).",
+      "durationSec": 40
+    },
+    {
+      "id": "z_hip",
+      "label": "Hip Line",
+      "nx": 0.34,
+      "ny": 0.7,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ],
+      "normalAction": "Grip their hips firmly, pull them in, and deliver a teasing kiss plus one playful tap (25s).",
+      "hotAction": "MIDNIGHT HIT! Claim two playful caress followed by 35 seconds of slow kisses along their lower back & hip.",
+      "durationSec": 35
+    },
+    {
+      "id": "z_thigh",
+      "label": "Inner Thigh",
+      "nx": 0.58,
+      "ny": 0.84,
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ],
+      "normalAction": "Slowly glide your palm and warm kisses along their thigh, stopping right when they gasp (30s).",
+      "hotAction": "JACKPOT FORFEIT! 40 seconds of agonizingly slow kisses and gentle soft kisss along their inner thigh—no rushing.",
+      "durationSec": 40
+    }
+  ],
+  "auctionContracts": [
+    {
+      "id": "auc_01",
+      "tier": 1,
+      "durationSec": 45,
+      "tags": [
+        "physical_light"
+      ],
+      "title": "Candlelit Spa Master",
+      "text": "Winner receives an uninterrupted 45-second slow neck, shoulder & scalp massage with zero talking."
+    },
+    {
+      "id": "auc_02",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Breathless Tease Contract",
+      "text": "Winner holds loser's chin and teases their lips and jawline for 30 seconds—loser cannot kiss back until permitted."
+    },
+    {
+      "id": "auc_03",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "playful",
+        "physical_light"
+      ],
+      "title": "Lap Throne Privilege",
+      "text": "Loser sits facing winner in their lap for 30 seconds with hands in view while winner whispers bold secrets."
+    },
+    {
+      "id": "auc_04",
+      "tier": 3,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "Collarbone & Earlobe Claim",
+      "text": "Winner claims 35 seconds of slow soft kisss, warm breaths, and soft soft kiss anywhere from earlobe to collarbone."
+    },
+    {
+      "id": "auc_05",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold"
+      ],
+      "title": "Blindfolded Surrender",
+      "text": "Loser closes their eyes for 45 seconds—winner chooses 3 surprise touches or kisses anywhere above the waist."
+    },
+    {
+      "id": "auc_06",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare"
+      ],
+      "title": "One-Layer Unwrap Veto",
+      "text": "Winner points to one piece of clothing or accessory—loser removes it slowly while maintaining steady eye contact."
+    },
+    {
+      "id": "auc_07",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light"
+      ],
+      "title": "Pinned Wrists Command",
+      "text": "Winner gently pins loser's wrists overhead for 45 seconds and kisses wherever they desire—loser must stay still."
+    },
+    {
+      "id": "auc_08",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "restraint_light"
+      ],
+      "title": "Velvet caress & Kiss",
+      "text": "Winner claims three playful caress (winner sets the intensity) immediately followed by a breathless 20-second kiss."
+    },
+    {
+      "id": "auc_09",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "bite_lick"
+      ],
+      "title": "60-Second Sovereign",
+      "text": "Full minute of playful obedience: loser kneels or leans close and fulfills every whispered touch request within boundaries."
+    },
+    {
+      "id": "auc_10",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ],
+      "title": "Midnight Director Pass",
+      "text": "Golden Contract: Winner dictates tonight's next location, lighting, and exact pace for the next 10 minutes."
+    },
+    {
+      "id": "auc_11",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "Neck & Collarbone Feast",
+      "text": "Winner gets 35 seconds of uninterrupted kiss, soft kiss, and soft kiss along neck and collarbone."
+    },
+    {
+      "id": "auc_12",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light"
+      ],
+      "title": "Under-Shirt Exploration",
+      "text": "Winner slides warm palms under loser's clothes for 40 seconds of slow torso, waist, and hip exploration."
+    },
+    {
+      "id": "auc_13",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare"
+      ],
+      "title": "One-Hand loosen Privilege",
+      "text": "Winner chooses one garment and slowly removes or unfastens it using only one hand while locking eyes."
+    },
+    {
+      "id": "auc_14",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "Inner-Thigh Tease Rights",
+      "text": "Winner claims 45 seconds of agonizingly slow breath, bites, and soft, lingering kisses along both inner thighs."
+    },
+    {
+      "id": "auc_15",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "title": "Blindfold Ice & soft kiss",
+      "text": "Loser wears a blindfold for 60s while winner alternates cold ice/glass with hot wet mouth exploration."
+    },
+    {
+      "id": "auc_16",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Pinned Sovereign Minute",
+      "text": "Winner pins loser's wrists for 60s, removes one layer, and explores freely with zero touching back."
+    },
+    {
+      "id": "auc_v2_01",
+      "tier": 1,
+      "durationSec": 40,
+      "tags": [
+        "physical_light"
+      ],
+      "title": "Warm Hands Worship",
+      "text": "Winner enjoys 40s of unhurried fingertip, palm, and wrist kisses."
+    },
+    {
+      "id": "auc_v2_02",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "eye_contact"
+      ],
+      "title": "Blushing Gaze Pact",
+      "text": "Loser holds close eye contact for 35s, whispering a sweet line every 10s."
+    },
+    {
+      "id": "auc_v2_03",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk"
+      ],
+      "title": "Mood & Cuddle Crown",
+      "text": "Winner sets the lighting, playlist, and cuddle pose for the next 30 minutes."
+    },
+    {
+      "id": "auc_v2_04",
+      "tier": 1,
+      "durationSec": 45,
+      "tags": [
+        "physical_light"
+      ],
+      "title": "After-Hours Shoulder Melt",
+      "text": "Winner relaxes through 45s of warm neck massage ending with behind-the-ear kisses."
+    },
+    {
+      "id": "auc_v2_05",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "playful"
+      ],
+      "title": "Close Lap Contract",
+      "text": "Winner claims 40s of face-to-face lap closeness and soft teasing kisses."
+    },
+    {
+      "id": "auc_v2_06",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "Jaw & Earlobe Claim",
+      "text": "Winner takes 35s to kiss and soft kiss along earlobe and jawline."
+    },
+    {
+      "id": "auc_v2_07",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "alcohol"
+      ],
+      "title": "Tipsy Sip Kiss Pass",
+      "text": "Redeemable anytime tonight for a slow, warm sip-sharing kiss."
+    },
+    {
+      "id": "auc_v2_08",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "blindfold"
+      ],
+      "title": "Eyes-Shut Kiss Quiz",
+      "text": "Loser closes eyes for 40s while winner kisses 4 spots—each miss earns an extra kiss."
+    },
+    {
+      "id": "auc_v2_09",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "Collarbone Linger 45s",
+      "text": "Winner lingers with warm kisses and soft suction from neck into collarbone for 45s."
+    },
+    {
+      "id": "auc_v2_10",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare"
+      ],
+      "title": "One-Hand Unwrap",
+      "text": "Winner slowly undoes two buttons or slides a strap with one hand, kissing the revealed skin."
+    },
+    {
+      "id": "auc_v2_11",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "roleplay"
+      ],
+      "title": "Private Encore Scene",
+      "text": "50s dim-light roleplay combining a shy fitting tease with a breathless wall kiss."
+    },
+    {
+      "id": "auc_v2_12",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light"
+      ],
+      "title": "Wall Edge-Tease",
+      "text": "Winner presses loser softly to the wall, teasing 1 cm away for 45s until they ask for a kiss."
+    },
+    {
+      "id": "auc_v2_13",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light"
+      ],
+      "title": "Silk Ribbon 55s",
+      "text": "Soft silk blindfold or gentle wrist hold—winner guides 55s of slow sensory teasing."
+    },
+    {
+      "id": "auc_v2_14",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare"
+      ],
+      "title": "Lips-Only Sovereign",
+      "text": "Hands forbidden—winner uses only lips and warm breath to shift a collar and kiss for 50s."
+    },
+    {
+      "id": "auc_v2_15",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "restraint_light"
+      ],
+      "title": "50s Silence Bet",
+      "text": "Winner teases your ticklish weak spots for 50s—every soft gasp extends the timer by 10s."
+    },
+    {
+      "id": "auc_v2_16",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "bite_lick"
+      ],
+      "title": "60s Midnight Director",
+      "text": "Top-lot privilege: 60 uninterrupted seconds directing poses, slow kisses, and pace."
+    },
+    {
+      "id": "auc_v21_t1_01",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · corner of the mouth",
+      "text": "Winner claims 30s VIP care at the kitchen counter: keep staying completely silent while enjoying leave lingering kisses along corner of the mouth and the first compliment in your head looking at me now."
+    },
+    {
+      "id": "auc_v21_t1_02",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · upper back",
+      "text": "Winner claims 30s VIP care at a dim hallway doorway: keep letting your lips hover 1 cm away between moves while enjoying trace slow warm circles over upper back and one tiny detail about me that still makes you blush."
+    },
+    {
+      "id": "auc_v21_t1_03",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · nape hairline",
+      "text": "Winner claims 30s VIP care at the candlelit bedroom rug: keep whispering their pet name softly while enjoying feather-trace with your fingertips along nape hairline and what sound of theirs drives you completely wild."
+    },
+    {
+      "id": "auc_v21_t1_04",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · cheek & jawline",
+      "text": "Winner claims 30s VIP care beside the bed with lights dimmed: keep holding a shy teasing smile while enjoying graze your lips shyly across cheek & jawline and what you crave first once every light goes out."
+    },
+    {
+      "id": "auc_v21_t1_05",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · outer collarbone",
+      "text": "Winner claims 30s VIP care at the lamp-lit window seat: keep staying completely silent while enjoying press slow soft, lingering kisses over outer collarbone and which clingy habit of mine melts you fastest."
+    },
+    {
+      "id": "auc_v21_t1_06",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · shoulder",
+      "text": "Winner claims 30s VIP care at the couch armrest: keep letting your lips hover 1 cm away between moves while enjoying softly caress on shoulder and the boldest place you want to pull them into."
+    },
+    {
+      "id": "auc_v21_t1_07",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · outer curve of the ear",
+      "text": "Winner claims 30s VIP care at the foot of the bed: keep whispering their pet name softly while enjoying leave feather-light kisses across outer curve of the ear and the hug you never wanted to end."
+    },
+    {
+      "id": "auc_v21_t1_08",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · inner wrist",
+      "text": "Winner claims 30s VIP care at the dim entryway: keep holding a shy teasing smile while enjoying warmly massage on inner wrist and how you secretly want to be held before sleep."
+    },
+    {
+      "id": "auc_v21_t1_09",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · palm and fingertips",
+      "text": "Winner claims 30s VIP care beside the closet mirror: keep staying completely silent while enjoying brush lingering warm breath along palm, fingertips, and what you want them to wear — or take off — tonight."
+    },
+    {
+      "id": "auc_v21_t1_10",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · inner forearm",
+      "text": "Winner claims 30s VIP care at a pile of plush floor pillows: keep letting your lips hover 1 cm away between moves while enjoying brush warm breath across inner forearm and one naughty thought you had about them today."
+    },
+    {
+      "id": "auc_v21_t1_11",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · behind the ear",
+      "text": "Winner claims 30s VIP care behind the sheer curtains: keep whispering their pet name softly while enjoying smooth warm palms slowly down behind the ear and a shy thought you had while holding my hand."
+    },
+    {
+      "id": "auc_v21_t1_12",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · tip of the chin",
+      "text": "Winner claims 30s VIP care at the softly lit vanity: keep holding a shy teasing smile while enjoying nuzzle softly with your nose along tip of the chin and how you want to be touched when the lights go out."
+    },
+    {
+      "id": "auc_v21_t1_13",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · collarbone",
+      "text": "Winner claims 30s VIP care at the bedroom wall: keep staying completely silent while enjoying leave lingering kisses along collarbone and the exact body part you want to kiss next."
+    },
+    {
+      "id": "auc_v21_t1_14",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · knuckles and thumb",
+      "text": "Winner claims 30s VIP care at the edge of the bed: keep letting your lips hover 1 cm away between moves while enjoying trace slow warm circles over knuckles and thumb, and your favorite tiny habit when I kiss you."
+    },
+    {
+      "id": "auc_v21_t1_15",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · neck",
+      "text": "Winner claims 30s VIP care in front of a mirror: keep whispering their pet name softly while enjoying feather-trace with your fingertips along neck and the exact moment tonight you stopped thinking straight."
+    },
+    {
+      "id": "auc_v21_t1_16",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · temple and brow",
+      "text": "Winner claims 30s VIP care at the couch corner: keep holding a shy teasing smile while enjoying graze your lips shyly across temple and brow, and a secret fantasy you want to try before sunrise."
+    },
+    {
+      "id": "auc_v21_t1_17",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · corner of the mouth 2",
+      "text": "Winner claims 30s VIP care at the kitchen counter: keep staying completely silent while enjoying press slow soft, lingering kisses over corner of the mouth and the first compliment in your head looking at me now."
+    },
+    {
+      "id": "auc_v21_t1_18",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · upper back 2",
+      "text": "Winner claims 30s VIP care at a dim hallway doorway: keep letting your lips hover 1 cm away between moves while enjoying softly caress on upper back and one tiny detail about me that still makes you blush."
+    },
+    {
+      "id": "auc_v21_t1_19",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · nape hairline 2",
+      "text": "Winner claims 30s VIP care at the candlelit bedroom rug: keep whispering their pet name softly while enjoying leave feather-light kisses across nape hairline and what sound of theirs drives you completely wild."
+    },
+    {
+      "id": "auc_v21_t1_20",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · cheek & jawline 2",
+      "text": "Winner claims 30s VIP care beside the bed with lights dimmed: keep holding a shy teasing smile while enjoying warmly massage on cheek & jawline and what you crave first once every light goes out."
+    },
+    {
+      "id": "auc_v21_t1_21",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · outer collarbone 2",
+      "text": "Winner claims 30s VIP care at the lamp-lit window seat: keep staying completely silent while enjoying brush lingering warm breath along outer collarbone and which clingy habit of mine melts you fastest."
+    },
+    {
+      "id": "auc_v21_t1_22",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · shoulder 2",
+      "text": "Winner claims 30s VIP care at the couch armrest: keep letting your lips hover 1 cm away between moves while enjoying brush warm breath across shoulder and the boldest place you want to pull them into."
+    },
+    {
+      "id": "auc_v21_t1_23",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · outer curve of the ear 2",
+      "text": "Winner claims 30s VIP care at the foot of the bed: keep whispering their pet name softly while enjoying smooth warm palms slowly down outer curve of the ear and the hug you never wanted to end."
+    },
+    {
+      "id": "auc_v21_t1_24",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · inner wrist 2",
+      "text": "Winner claims 30s VIP care at the dim entryway: keep holding a shy teasing smile while enjoying nuzzle softly with your nose along inner wrist and how you secretly want to be held before sleep."
+    },
+    {
+      "id": "auc_v21_t1_25",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Velvet Pass · palm and fingertips 2",
+      "text": "Winner claims 30s VIP care beside the closet mirror: keep staying completely silent while enjoying leave lingering kisses along palm, fingertips, and what you want them to wear — or take off — tonight."
+    },
+    {
+      "id": "auc_v21_t2_01",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the edge of the bed",
+      "text": "Winner enjoys 35s of slow warm palms gliding into a sudden close pull at the edge of the bed, traced slowly from nape of the neck up to knuckles and thumb."
+    },
+    {
+      "id": "auc_v21_t2_02",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · in front of a mirror",
+      "text": "Winner enjoys 35s of warm palms resting lightly, unhurried in front of a mirror, traced slowly from behind the ear up to neck."
+    },
+    {
+      "id": "auc_v21_t2_03",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the couch corner",
+      "text": "Winner enjoys 35s of a steady hand held, then fingertips as light as a breath at the couch corner, traced slowly from side ribs up to temple and brow."
+    },
+    {
+      "id": "auc_v21_t2_04",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the kitchen counter",
+      "text": "Winner enjoys 35s of a shy brush of noses, then a slow, soft kiss at the kitchen counter, traced slowly from base of the throat up to corner of the mouth."
+    },
+    {
+      "id": "auc_v21_t2_05",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · a dim hallway doorway",
+      "text": "Winner enjoys 35s of pausing a breath away, then a soft kiss at a dim hallway doorway, traced slowly from lower back dimples up to upper back."
+    },
+    {
+      "id": "auc_v21_t2_06",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the candlelit bedroom rug",
+      "text": "Winner enjoys 35s of a light fingertip brush, then a soft kiss at the candlelit bedroom rug, traced slowly from collarbone hollow up to nape hairline."
+    },
+    {
+      "id": "auc_v21_t2_07",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · beside the bed with lights dimmed",
+      "text": "Winner enjoys 35s of warm breath that lingers, then a soft kiss beside the bed with lights dimmed, traced slowly from inner wrist up to cheek & jawline."
+    },
+    {
+      "id": "auc_v21_t2_08",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the lamp-lit window seat",
+      "text": "Winner enjoys 35s of one soft kiss, then a slow breath together at the lamp-lit window seat, traced slowly from shoulder blades up to outer collarbone."
+    },
+    {
+      "id": "auc_v21_t2_09",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the couch armrest",
+      "text": "Winner enjoys 35s of a feather-light touch, then fingers intertwined at the couch armrest, traced slowly from nape of the neck up to shoulder."
+    },
+    {
+      "id": "auc_v21_t2_10",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the foot of the bed",
+      "text": "Winner enjoys 35s of cool breath followed immediately by hot soft, lingering kisses at the foot of the bed, traced slowly from behind the ear up to outer curve of the ear."
+    },
+    {
+      "id": "auc_v21_t2_11",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the dim entryway",
+      "text": "Winner enjoys 35s of a gentle squeeze of the hand, then unhurried soft kisses at the dim entryway, traced slowly from side ribs up to inner wrist."
+    },
+    {
+      "id": "auc_v21_t2_12",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · beside the closet mirror",
+      "text": "Winner enjoys 35s of fingers through hair pulling you gently closer beside the closet mirror, traced slowly from base of the throat up to palm and fingertips."
+    },
+    {
+      "id": "auc_v21_t2_13",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · a pile of plush floor pillows",
+      "text": "Winner enjoys 35s of slow warm palms gliding into a sudden close pull at a pile of plush floor pillows, traced slowly from lower back dimples up to inner forearm."
+    },
+    {
+      "id": "auc_v21_t2_14",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · behind the sheer curtains",
+      "text": "Winner enjoys 35s of warm palms resting lightly, unhurried behind the sheer curtains, traced slowly from collarbone hollow up to behind the ear."
+    },
+    {
+      "id": "auc_v21_t2_15",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the softly lit vanity",
+      "text": "Winner enjoys 35s of a steady hand held, then fingertips as light as a breath at the softly lit vanity, traced slowly from inner wrist up to tip of the chin."
+    },
+    {
+      "id": "auc_v21_t2_16",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the bedroom wall",
+      "text": "Winner enjoys 35s of a shy brush of noses, then a slow, soft kiss at the bedroom wall, traced slowly from shoulder blades up to collarbone."
+    },
+    {
+      "id": "auc_v21_t2_17",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the edge of the bed 2",
+      "text": "Winner enjoys 35s of pausing a breath away, then a soft kiss at the edge of the bed, traced slowly from nape of the neck up to knuckles and thumb."
+    },
+    {
+      "id": "auc_v21_t2_18",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · in front of a mirror 2",
+      "text": "Winner enjoys 35s of a light fingertip brush, then a soft kiss in front of a mirror, traced slowly from behind the ear up to neck."
+    },
+    {
+      "id": "auc_v21_t2_19",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the couch corner 2",
+      "text": "Winner enjoys 35s of warm breath that lingers, then a soft kiss at the couch corner, traced slowly from side ribs up to temple and brow."
+    },
+    {
+      "id": "auc_v21_t2_20",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the kitchen counter 2",
+      "text": "Winner enjoys 35s of one soft kiss, then a slow breath together at the kitchen counter, traced slowly from base of the throat up to corner of the mouth."
+    },
+    {
+      "id": "auc_v21_t2_21",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · a dim hallway doorway 2",
+      "text": "Winner enjoys 35s of a feather-light touch, then fingers intertwined at a dim hallway doorway, traced slowly from lower back dimples up to upper back."
+    },
+    {
+      "id": "auc_v21_t2_22",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Warmth Voucher · the candlelit bedroom rug 2",
+      "text": "Winner enjoys 35s of cool breath followed immediately by hot soft, lingering kisses at the candlelit bedroom rug, traced slowly from collarbone hollow up to nape hairline."
+    },
+    {
+      "id": "auc_v21_t3_01",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · lower belly",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of resting soft, unhurried kisses near on lower belly behind the sheer curtains under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t3_02",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · chest and ribcage",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of tracing a slow line of warmth along chest and ribcage at the softly lit vanity under 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "auc_v21_t3_03",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · collarbone",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of leave unhurried, lingering kisses across collarbone at the bedroom wall under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t3_04",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · spine",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of trace wet soft, lingering kisss along spine at the edge of the bed under 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "auc_v21_t3_05",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · nape of the neck",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of soft kiss on nape of the neck in front of a mirror under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t3_06",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · neck",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of tease with alternating lips and fingertips over neck at the couch corner under 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "auc_v21_t3_07",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · inner thigh",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of press lightly, then soothe with a kiss with a kiss on inner thigh at the kitchen counter under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t3_08",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · hip bone",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of slowly warming on hip bone at a dim hallway doorway under 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "auc_v21_t3_09",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · earlobe",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of resting soft, unhurried kisses near on earlobe at the candlelit bedroom rug under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t3_10",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · waistline",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of tracing a slow line of warmth along waistline beside the bed with lights dimmed under 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "auc_v21_t3_11",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · lower belly 2",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of leave unhurried, lingering kisses across lower belly at the lamp-lit window seat under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t3_12",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · chest and ribcage 2",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of trace wet soft, lingering kisss along chest and ribcage at the couch armrest under 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "auc_v21_t3_13",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · collarbone 2",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of soft kiss on collarbone at the foot of the bed under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t3_14",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · spine 2",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of tease with alternating lips and fingertips over spine at the dim entryway under 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "auc_v21_t3_15",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · nape of the neck 2",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of press lightly, then soothe with a kiss with a kiss on nape of the neck beside the closet mirror under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t3_16",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · neck 2",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of slowly warming on neck at a pile of plush floor pillows under 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "auc_v21_t3_17",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · inner thigh 2",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of resting soft, unhurried kisses near on inner thigh behind the sheer curtains under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t3_18",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · hip bone 2",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of tracing a slow line of warmth along hip bone at the softly lit vanity under 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "auc_v21_t3_19",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · earlobe 2",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of leave unhurried, lingering kisses across earlobe at the bedroom wall under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t3_20",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · waistline 2",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of trace wet soft, lingering kisss along waistline at the edge of the bed under 'whisper their name right before each new spot'."
+    },
+    {
+      "id": "auc_v21_t3_21",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Private Control · lower belly 3",
+      "text": "Winner unlocks checking into a penthouse suite under fake names: 45s of soft kiss on lower belly in front of a mirror under 'alternate feather-light strokes with firm pressure'."
+    },
+    {
+      "id": "auc_v21_t4_01",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · hip bone line",
+      "text": "Winner commands 60s at the dim entryway: partner holds Hold their resting quietly at their sides their back while you guide your lips and teeth only (no hands) past a shoulder strap or outer layer to hip bone line."
+    },
+    {
+      "id": "auc_v21_t4_02",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · hollow of the spine",
+      "text": "Winner commands 60s beside the closet mirror: partner holds Hold both wrists gently above their head with one hand while you guide ultra-slow fingertips past one accessory plus one layer to hollow of the spine."
+    },
+    {
+      "id": "auc_v21_t4_03",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · small of the waist",
+      "text": "Winner commands 60s at a pile of plush floor pillows: partner holds Hold their chin gently tilted up so they can only watch while you guide the back of your knuckles first, then your mouth past a zipper or waistband edge to small of the waist."
+    },
+    {
+      "id": "auc_v21_t4_04",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · lower belly",
+      "text": "Winner commands 60s behind the sheer curtains: partner holds Let your fingers rest behind their neck, both of you still while you guide your partner's own guided hand past the hem of their top to lower belly."
+    },
+    {
+      "id": "auc_v21_t4_05",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · curve of the hip",
+      "text": "Winner commands 60s at the softly lit vanity: partner holds Keep their hands flat against the headboard while you guide warm breath and lips alone past one garment of your choice to curve of the hip."
+    },
+    {
+      "id": "auc_v21_t4_06",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · inner thigh",
+      "text": "Winner commands 60s at the bedroom wall: partner holds stand close together, unhurried, by the wall while you guide one hand only while holding eye contact past two shirt buttons to inner thigh."
+    },
+    {
+      "id": "auc_v21_t4_07",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · sensitive collarbone",
+      "text": "Winner commands 60s at the edge of the bed: partner holds Hold their resting quietly at their sides their back while you guide your lips and teeth only (no hands) past a shoulder strap or outer layer to sensitive collarbone."
+    },
+    {
+      "id": "auc_v21_t4_08",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · chest and ribcage",
+      "text": "Winner commands 60s in front of a mirror: partner holds Hold both wrists gently above their head with one hand while you guide ultra-slow fingertips past one accessory plus one layer to chest and ribcage."
+    },
+    {
+      "id": "auc_v21_t4_09",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · hip bone line 2",
+      "text": "Winner commands 60s at the couch corner: partner holds Hold their chin gently tilted up so they can only watch while you guide the back of your knuckles first, then your mouth past a zipper or waistband edge to hip bone line."
+    },
+    {
+      "id": "auc_v21_t4_10",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · hollow of the spine 2",
+      "text": "Winner commands 60s at the kitchen counter: partner holds Let your fingers rest behind their neck, both of you still while you guide your partner's own guided hand past the hem of their top to hollow of the spine."
+    },
+    {
+      "id": "auc_v21_t4_11",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · small of the waist 2",
+      "text": "Winner commands 60s at a dim hallway doorway: partner holds Keep their hands flat against the headboard while you guide warm breath and lips alone past one garment of your choice to small of the waist."
+    },
+    {
+      "id": "auc_v21_t4_12",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · lower belly 2",
+      "text": "Winner commands 60s at the candlelit bedroom rug: partner holds stand close together, unhurried, by the wall while you guide one hand only while holding eye contact past two shirt buttons to lower belly."
+    },
+    {
+      "id": "auc_v21_t4_13",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · curve of the hip 2",
+      "text": "Winner commands 60s beside the bed with lights dimmed: partner holds Hold their resting quietly at their sides their back while you guide your lips and teeth only (no hands) past a shoulder strap or outer layer to curve of the hip."
+    },
+    {
+      "id": "auc_v21_t4_14",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · inner thigh 2",
+      "text": "Winner commands 60s at the lamp-lit window seat: partner holds Hold both wrists gently above their head with one hand while you guide ultra-slow fingertips past one accessory plus one layer to inner thigh."
+    },
+    {
+      "id": "auc_v21_t4_15",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · sensitive collarbone 2",
+      "text": "Winner commands 60s at the couch armrest: partner holds Hold their chin gently tilted up so they can only watch while you guide the back of your knuckles first, then your mouth past a zipper or waistband edge to sensitive collarbone."
+    },
+    {
+      "id": "auc_v21_t4_16",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · chest and ribcage 2",
+      "text": "Winner commands 60s at the foot of the bed: partner holds Let your fingers rest behind their neck, both of you still while you guide your partner's own guided hand past the hem of their top to chest and ribcage."
+    },
+    {
+      "id": "auc_v21_t4_17",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · hip bone line 3",
+      "text": "Winner commands 60s at the dim entryway: partner holds Keep their hands flat against the headboard while you guide warm breath and lips alone past one garment of your choice to hip bone line."
+    },
+    {
+      "id": "auc_v21_t4_18",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · hollow of the spine 3",
+      "text": "Winner commands 60s beside the closet mirror: partner holds stand close together, unhurried, by the wall while you guide one hand only while holding eye contact past two shirt buttons to hollow of the spine."
+    },
+    {
+      "id": "auc_v21_t4_19",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · small of the waist 3",
+      "text": "Winner commands 60s at a pile of plush floor pillows: partner holds Hold their resting quietly at their sides their back while you guide your lips and teeth only (no hands) past a shoulder strap or outer layer to small of the waist."
+    },
+    {
+      "id": "auc_v21_t4_20",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "Midnight Sovereign · lower belly 3",
+      "text": "Winner commands 60s behind the sheer curtains: partner holds Hold both wrists gently above their head with one hand while you guide ultra-slow fingertips past one accessory plus one layer to lower belly."
+    }
+  ]
+}

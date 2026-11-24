@@ -1,0 +1,3206 @@
+{
+  "cards": [
+    {
+      "id": "sc_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "indoor"
+      ],
+      "title": "Breathless Stare",
+      "text": "Sit knee-to-knee and hold eye contact for 30 seconds while your partner whispers three things they crave about you."
+    },
+    {
+      "id": "sc_02",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Candlelight Massage",
+      "text": "Warm your hands and give your partner a slow 45-second neck and shoulder massage—end with a kiss behind their ear."
+    },
+    {
+      "id": "sc_03",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "playful",
+        "physical_light"
+      ],
+      "title": "No-Hands Tease",
+      "text": "Keep your hands behind your back for 30 seconds while your partner leaves slow kisses along your jawline and neck."
+    },
+    {
+      "id": "sc_04",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 30,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Earlobe & Collarbone",
+      "text": "Lightly soft kiss your partner's earlobe, then trail slow soft kiss and warm breaths down to their collarbone for 30 seconds."
+    },
+    {
+      "id": "sc_05",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Velvet Control",
+      "text": "Gently pin your partner's wrists above their head with one hand for 45 seconds—kiss anywhere except their lips while they stay still."
+    },
+    {
+      "id": "sc_06",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Slow Unwrap",
+      "text": "Choose one layer or accessory on your partner and remove it as slowly as possible using only one hand and steady eye contact."
+    },
+    {
+      "id": "sc_07",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "Kitchen Counter Spark",
+      "text": "Move to the kitchen right now: lift or lean your partner against the counter for a slow, movie-style kiss."
+    },
+    {
+      "id": "sc_08",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 60,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "Living Room Floor Picnic",
+      "text": "Dim the lamps, grab two drinks, and sit shoulder-to-shoulder on the rug—no phones for the next 15 minutes."
+    },
+    {
+      "id": "sc_09",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "Against the Wall",
+      "text": "Back your partner gently against the nearest doorway or wall and hold a teasing 30-second embrace."
+    },
+    {
+      "id": "sc_10",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "Mirror Reflection",
+      "text": "Stand behind your partner in front of a mirror for 45 seconds—wrap your arms around their waist and kiss their neck while watching each other."
+    },
+    {
+      "id": "sc_11",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "Steamy Shower Pact",
+      "text": "Scratch-off promise: your next shower together happens in dim light with zero rushing and a full-body lather."
+    },
+    {
+      "id": "sc_12",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "Stolen Elevator Moment",
+      "text": "On your very next date out, claim a bold 5-second kiss in an empty hallway, parking deck, or elevator before the doors open."
+    },
+    {
+      "id": "sc_13",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk"
+      ],
+      "title": "Midnight Confession",
+      "text": "Reveal one romantic scene from a movie or dream that you've secretly wanted to recreate with your partner."
+    },
+    {
+      "id": "sc_14",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Hotel Strangers",
+      "text": "Spend the next 5 minutes pretending you just met at a midnight lounge—win your partner's room key with pure charm."
+    },
+    {
+      "id": "sc_15",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Blindfolded Taste & Touch",
+      "text": "Partner wears a blindfold for 60 seconds: surprise them with a warm kiss, an ice cube or cold glass, and feather-light fingertips."
+    },
+    {
+      "id": "sc_16",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "alcohol",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Cocktail Trail",
+      "text": "Place a single drop of wine, cocktail, or honey on your partner's neck or collarbone—and slowly warming it clean."
+    },
+    {
+      "id": "sc_17",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "60-Second Boss",
+      "text": "For one full minute, one partner becomes 'Tonight's Director' and whispers slow, bold instructions while the other obeys."
+    },
+    {
+      "id": "sc_18",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "clothing_dare",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "Velvet Coupon",
+      "text": "Winner keeps this golden scratch card: redeemable tonight for one bold fantasy or playful caress-and-kiss forfeit."
+    },
+    {
+      "id": "sc_19",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Lip-Hover Stare",
+      "text": "Hover 1 cm from your partner's lips for 35 seconds, brushing breath without kissing until the final second."
+    },
+    {
+      "id": "sc_20",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Ear-to-Throat Trail",
+      "text": "Softly soft kiss their earlobe, then soft kiss and kiss slowly down the side of their throat for 35 seconds."
+    },
+    {
+      "id": "sc_21",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Under-Shirt Palms",
+      "text": "Warm both palms and slide them under your partner's shirt to explore their spine, ribs, and waist (40s)."
+    },
+    {
+      "id": "sc_22",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Collarbone Mark",
+      "text": "Gently soft kiss and kiss one hidden spot below their collarbone for 40 seconds while gripping their hips."
+    },
+    {
+      "id": "sc_23",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "One-Hand loosen",
+      "text": "Using only one hand while holding eye contact, undo two buttons or slide a strap and kiss the bare skin (45s)."
+    },
+    {
+      "id": "sc_24",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Pinned Behind Back",
+      "text": "Hold both of their wrists in view with one hand while kiss and kissing their neck and chest (45s)."
+    },
+    {
+      "id": "sc_25",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Inner-Thigh Tease",
+      "text": "Kneel before your partner and trail slow bites, warm breath, and soft, lingering kisses up both inner thighs (50s)."
+    },
+    {
+      "id": "sc_26",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "Lips-Only loosen",
+      "text": "Hands completely behind your back: use only your lips and teeth to slide off a strap or pull aside one layer (45s)."
+    },
+    {
+      "id": "sc_27",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "Couch sitting close, face to face",
+      "text": "Pull your partner sitting close, face to face onto your lap on the couch and sway slowly while kissing their jaw and neck (40s)."
+    },
+    {
+      "id": "sc_28",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "Doorway Ambush",
+      "text": "Pin your partner softly against the nearest doorway and steal a breathless 35-second kiss."
+    },
+    {
+      "id": "sc_29",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "Bed-Edge Lean",
+      "text": "Have your partner lie back at the edge of the bed while you stand between their knees and kiss their stomach (40s)."
+    },
+    {
+      "id": "sc_30",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "Dim Hallway Hold",
+      "text": "Step into the dimmest corner of the room, hold their waist tight, and whisper what you crave next (45s)."
+    },
+    {
+      "id": "sc_31",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "Headboard Trap",
+      "text": "Press their hands flat against the headboard and trace soft, lingering kisses from behind the ear to their ribs (45s)."
+    },
+    {
+      "id": "sc_32",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "Bedside Mirror",
+      "text": "Stand behind them facing a mirror and slowly peel off one garment while keeping eyes locked in the reflection (50s)."
+    },
+    {
+      "id": "sc_33",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "Chair Sovereign",
+      "text": "Seat your partner on a sturdy chair, sitting close, face to face their lap facing them, and control every kiss for 45 seconds."
+    },
+    {
+      "id": "sc_34",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "Stolen Date Kiss",
+      "text": "Voucher: On your very next night out, pull them into a quiet corner for a daring 10-second secret kiss."
+    },
+    {
+      "id": "sc_35",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk"
+      ],
+      "title": "Unspoken Craving",
+      "text": "Confess one sensual thing you've pictured doing with your partner lately that you've never said out loud."
+    },
+    {
+      "id": "sc_36",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Midnight Concierge",
+      "text": "Spend 45 seconds roleplaying a bold late-night room service visit that quickly crosses the line."
+    },
+    {
+      "id": "sc_37",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Guided Blind Hands",
+      "text": "Blindfold your partner for 45s and guide their hands to three places you want kissed next."
+    },
+    {
+      "id": "sc_38",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "roleplay",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "VIP After-Hours",
+      "text": "Play a private spa therapist for 50s: massage shoulders, slide lower under their top, and kiss their spine."
+    },
+    {
+      "id": "sc_39",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Blindfold soft kiss Test",
+      "text": "With eyes closed for 45s, alternate warm breath, soft, lingering kisss, and light bites across four spots."
+    },
+    {
+      "id": "sc_40",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "60s Hands-Up Rule",
+      "text": "Your partner keeps hands raised above their head for 60s while you explore without letting them touch back."
+    },
+    {
+      "id": "sc_41",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Sweet & Salty",
+      "text": "Drop a tiny bit of honey, ice, or cocktail on their lower belly and soft kiss every single trace clean (50s)."
+    },
+    {
+      "id": "sc_42",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "blindfold",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "Velvet Blind Surrender",
+      "text": "Ultimate fantasy: 60s blindfolded surrender — you choose the pose, remove one layer, and take total lead."
+    },
+    {
+      "id": "sc_v2_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "Nose-to-Nose 30s",
+      "text": "\"Don't shy away…\" Rest nose-to-nose breathing softly for 30s—first to blush kisses the corner of my lips."
+    },
+    {
+      "id": "sc_v2_02",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Warm Palm Kisses",
+      "text": "\"Give me your hand…\" Kiss slowly from your fingertips across your palm to your inner wrist (35s)."
+    },
+    {
+      "id": "sc_v2_03",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "Three Shy Whispers",
+      "text": "\"Come closer…\" Breathe three shy compliments right against my ear you rarely say aloud (30s)."
+    },
+    {
+      "id": "sc_v2_04",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "Jawline Tease",
+      "text": "\"Tilt your chin up…\" Kiss slowly from behind my ear down my jaw and neck—avoiding my lips (35s)."
+    },
+    {
+      "id": "sc_v2_05",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Shy Lip soft kiss",
+      "text": "\"Just one little soft kiss…\" Gently tug my lower lip with yours, then melt into a slow kiss (35s)."
+    },
+    {
+      "id": "sc_v2_06",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 30,
+      "tags": [
+        "alcohol",
+        "physical_light"
+      ],
+      "title": "Tipsy Sip Kiss",
+      "text": "\"Taste this with me…\" Take a tiny sip and share the warmth through an unhurried kiss (30s)."
+    },
+    {
+      "id": "sc_v2_07",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "Collarbone Linger",
+      "text": "\"Right here makes you shiver…\" Softly soft kiss my earlobe then trail soft, lingering kisses down into my collarbone (40s)."
+    },
+    {
+      "id": "sc_v2_08",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ],
+      "title": "Warm Hands Under Top",
+      "text": "\"Your hands are so warm…\" Slip your palms under my top and trace my waist and ribs slowly (40s)."
+    },
+    {
+      "id": "sc_v2_09",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "eye_contact"
+      ],
+      "title": "Wall Edge-Tease",
+      "text": "\"Hands behind you…\" Press me softly to the wall and brush my lips without caving for 45s."
+    },
+    {
+      "id": "sc_v2_10",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "title": "Blindfold Kiss Quiz",
+      "text": "\"No peeking…\" Kiss 4 secret spots while my eyes are shut—every wrong guess adds 10s of kisses (45s)."
+    },
+    {
+      "id": "sc_v2_11",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "bite_lick"
+      ],
+      "title": "Wrists Pinned 45s",
+      "text": "\"Be good for me…\" Pin both wrists gently overhead while kissing and soft kiss my neck and chest (45s)."
+    },
+    {
+      "id": "sc_v2_12",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "bite_lick"
+      ],
+      "title": "Lips-Only Unwrap",
+      "text": "\"Zero hands allowed…\" Shift a strap or collar using only lips and teeth, kissing every bare inch (50s)."
+    },
+    {
+      "id": "sc_v2_13",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "bite_lick",
+        "physical_light"
+      ],
+      "title": "Inner Thigh Trail",
+      "text": "\"Relax into me…\" Trail hot breath, soft soft kisss, and soft, lingering kisses up my inner thighs for 50s."
+    },
+    {
+      "id": "sc_v2_14",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 45,
+      "tags": [
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "caress & Melt",
+      "text": "\"Turn around for me…\" Two playful caress immediately melted away with warm palms and a unhurried, lingering kiss (45s)."
+    },
+    {
+      "id": "sc_v2_15",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "Doorway Welcome",
+      "text": "\"Just got home…\" Lean against the front door and trade slow, blushing kisses for 35s."
+    },
+    {
+      "id": "sc_v2_16",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "Midnight Window",
+      "text": "\"Look outside with me…\" Hold me from behind by the window and whisper sweet secrets (40s)."
+    },
+    {
+      "id": "sc_v2_17",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "Candlelit Rug",
+      "text": "\"Come sit on the rug…\" Tangle on the floor under a dim lamp, trading ear and jaw kisses (40s)."
+    },
+    {
+      "id": "sc_v2_18",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "Countertop Kiss",
+      "text": "\"Sit right here…\" Stand between my knees at the counter for a breathless 35s kiss."
+    },
+    {
+      "id": "sc_v2_19",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "eye_contact"
+      ],
+      "title": "Steamy Mirror",
+      "text": "\"Look at us blush…\" Stand close before the bathroom mirror watching each slow kiss (40s)."
+    },
+    {
+      "id": "sc_v2_20",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "indoor",
+        "alcohol"
+      ],
+      "title": "Balcony Nightcap",
+      "text": "\"Bring two glasses out…\" Lean together on the balcony and steal a warm, tipsy kiss."
+    },
+    {
+      "id": "sc_v2_21",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "Under the Covers",
+      "text": "\"Hide under the blanket…\" Slip beneath the sheets where every breath and kiss echoes close (45s)."
+    },
+    {
+      "id": "sc_v2_22",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "physical_light"
+      ],
+      "title": "Dim Hallway",
+      "text": "\"Come here a second…\" Pull me into a dim hallway corner and hold my waist tight through a 45s kiss."
+    },
+    {
+      "id": "sc_v2_23",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "Walk-In Closet",
+      "text": "\"Help me pick something…\" Slip a layer off beside the closet and kiss across my shoulders (45s)."
+    },
+    {
+      "id": "sc_v2_24",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 40,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "Desk Chair Tease",
+      "text": "\"Stay in the chair…\" sitting close, face to face my lap in the study chair for 40s of slow, commanding kisses."
+    },
+    {
+      "id": "sc_v2_25",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "restraint_light"
+      ],
+      "title": "Headboard Claim",
+      "text": "\"Palms flat on the headboard…\" Hold steady while my lips roam from behind your ear down to your belly (50s)."
+    },
+    {
+      "id": "sc_v2_26",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "indoor",
+        "clothing_dare"
+      ],
+      "title": "Sofa Armrest",
+      "text": "\"Lean back on the sofa…\" Slip my collar aside and explore with warm hands and soft, lingering kisses (50s)."
+    },
+    {
+      "id": "sc_v2_27",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "playful"
+      ],
+      "title": "Backseat Stargaze",
+      "text": "\"Dare to promise?\" Next night drive at a quiet overlook, slip into the backseat for 60s of kisses."
+    },
+    {
+      "id": "sc_v2_28",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "indoor",
+        "bite_lick"
+      ],
+      "title": "Edge of the Bed",
+      "text": "\"Sit at the bed's edge…\" I'll kneel between your knees and kiss slowly upward to your hips (55s)."
+    },
+    {
+      "id": "sc_v2_29",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 0,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "First Kiss Encore",
+      "text": "\"Remember how nervous we were?\" Re-enact our very first kiss—shy, hesitant, then melting in."
+    },
+    {
+      "id": "sc_v2_30",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 35,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "Rainy Night Stay",
+      "text": "\"It's pouring—stay tonight…\" 35s cozy scene pretending to dry each other's hair before leaning in."
+    },
+    {
+      "id": "sc_v2_31",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Midnight Bartender",
+      "text": "\"Mixed just for you…\" 40s roleplay as late-night bartender and tipsy guest brushing fingers over a glass."
+    },
+    {
+      "id": "sc_v2_32",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ],
+      "title": "Find My Lips",
+      "text": "\"Eyes shut—find me…\" Guided only by warmth and breath for 45s until your lips find mine."
+    },
+    {
+      "id": "sc_v2_33",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 40,
+      "tags": [
+        "roleplay",
+        "eye_contact"
+      ],
+      "title": "Caught Staring",
+      "text": "\"Were you staring at me?\" Tease me gently against the wall for 40s until I blush and confess."
+    },
+    {
+      "id": "sc_v2_34",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 0,
+      "tags": [
+        "alcohol",
+        "deep_talk"
+      ],
+      "title": "Tipsy Wish Jar",
+      "text": "\"Tell me a tipsy wish…\" Each whisper one shy craving for tonight and pick one to fulfill immediately."
+    },
+    {
+      "id": "sc_v2_35",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 50,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "After-Hours Massage",
+      "text": "\"Where are you tense?\" 50s private masseuse scene sliding slowly lower until lips meet neck."
+    },
+    {
+      "id": "sc_v2_36",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "blindfold",
+        "bite_lick"
+      ],
+      "title": "Hot & Cold Mystery",
+      "text": "\"Ice or fire next?\" Eyes closed for 45s alternating cool touches, warm breath, and soft, lingering kisses."
+    },
+    {
+      "id": "sc_v2_37",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "clothing_dare",
+        "roleplay"
+      ],
+      "title": "Private Stylist",
+      "text": "\"Let me adjust this…\" 45s stylist scene slowly undoing buttons while stealing collarbone kisses."
+    },
+    {
+      "id": "sc_v2_38",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 0,
+      "tags": [
+        "public_space",
+        "roleplay"
+      ],
+      "title": "Alias Hotel Escape",
+      "text": "\"Let's use fake names…\" Plan a hotel getaway where we flirt as strangers at the bar first."
+    },
+    {
+      "id": "sc_v2_39",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "restraint_light",
+        "blindfold"
+      ],
+      "title": "Silk Ribbon 60s",
+      "text": "\"Trust my pace…\" Soft silk over eyes or wrists for 60s of slow, worshipful exploration."
+    },
+    {
+      "id": "sc_v2_40",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "clothing_dare",
+        "eye_contact"
+      ],
+      "title": "Dim-Light Encore",
+      "text": "\"For your eyes only…\" Under one warm lamp, slowly slip off a layer to slow music then fall into a unhurried, lingering kiss."
+    },
+    {
+      "id": "sc_v2_41",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 50,
+      "tags": [
+        "restraint_light",
+        "bite_lick"
+      ],
+      "title": "No-Sound Challenge",
+      "text": "\"soft kiss your lip—not a peep…\" Tease your weakest spots for 50s; every soft gasp earns a bolder kiss."
+    },
+    {
+      "id": "sc_v2_42",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 60,
+      "tags": [
+        "clothing_dare",
+        "restraint_light"
+      ],
+      "title": "Midnight Sovereign",
+      "text": "\"One minute, all mine…\" Whisper 3 escalating commands fulfilled with a blush and a unhurried, lingering kiss."
+    },
+    {
+      "id": "sc_v21_d1_01",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · temple and brow",
+      "text": "At the couch corner, keep holding a shy teasing smile while teasing their temple and brow with a steady hand held, then fingertips as light as a breath (30s), then whisper about a secret fantasy you want to try before sunrise."
+    },
+    {
+      "id": "sc_v21_d1_02",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · corner of the mouth",
+      "text": "At the kitchen counter, keep staying completely silent while teasing their corner of the mouth with a shy brush of noses, then a slow, soft kiss (30s), then whisper about the first compliment in your head looking at me now."
+    },
+    {
+      "id": "sc_v21_d1_03",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · upper back",
+      "text": "At a dim hallway doorway, keep letting your lips hover 1 cm away between moves while teasing their upper back with pausing a breath away, then a soft kiss (30s), then whisper about one tiny detail about me that still makes you blush."
+    },
+    {
+      "id": "sc_v21_d1_04",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · nape hairline",
+      "text": "At the candlelit bedroom rug, keep whispering their pet name softly while teasing their nape hairline with a light fingertip brush, then a soft kiss (30s), then whisper about what sound of theirs drives you completely wild."
+    },
+    {
+      "id": "sc_v21_d1_05",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · cheek & jawline",
+      "text": "beside the bed with lights dimmed, keep holding a shy teasing smile while teasing their cheek & jawline with warm breath that lingers, then a soft kiss (30s), then whisper about what you crave first once every light goes out."
+    },
+    {
+      "id": "sc_v21_d1_06",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · outer collarbone",
+      "text": "At the lamp-lit window seat, keep staying completely silent while teasing their outer collarbone with one soft kiss, then a slow breath together (30s), then whisper about which clingy habit of mine melts you fastest."
+    },
+    {
+      "id": "sc_v21_d1_07",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · shoulder",
+      "text": "At the couch armrest, keep letting your lips hover 1 cm away between moves while teasing their shoulder with a feather-light touch, then fingers intertwined (30s), then whisper about the boldest place you want to pull them into."
+    },
+    {
+      "id": "sc_v21_d1_08",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · outer curve of the ear",
+      "text": "At the foot of the bed, keep whispering their pet name softly while teasing their outer curve of the ear with cool breath followed immediately by hot soft, lingering kisses (30s), then whisper about the hug you never wanted to end."
+    },
+    {
+      "id": "sc_v21_d1_09",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · inner wrist",
+      "text": "At the dim entryway, keep holding a shy teasing smile while teasing their inner wrist with a gentle squeeze of the hand, then unhurried soft kisses (30s), then whisper about how you secretly want to be held before sleep."
+    },
+    {
+      "id": "sc_v21_d1_10",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · palm and fingertips",
+      "text": "beside the closet mirror, keep staying completely silent while teasing their palm and fingertips with fingers through hair pulling you gently closer (30s), then whisper about what you want them to wear — or take off — tonight."
+    },
+    {
+      "id": "sc_v21_d1_11",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · inner forearm",
+      "text": "At a pile of plush floor pillows, keep letting your lips hover 1 cm away between moves while teasing their inner forearm with slow warm palms gliding into a sudden close pull (30s), then whisper about one naughty thought you had about them today."
+    },
+    {
+      "id": "sc_v21_d1_12",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · behind the ear",
+      "text": "behind the sheer curtains, keep whispering their pet name softly while teasing their behind the ear with warm palms resting lightly, unhurried (30s), then whisper about a shy thought you had while holding my hand."
+    },
+    {
+      "id": "sc_v21_d1_13",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · tip of the chin",
+      "text": "At the softly lit vanity, keep holding a shy teasing smile while teasing their tip of the chin with a steady hand held, then fingertips as light as a breath (30s), then whisper about how you want to be touched when the lights go out."
+    },
+    {
+      "id": "sc_v21_d1_14",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · collarbone",
+      "text": "At the bedroom wall, keep staying completely silent while teasing their collarbone with a shy brush of noses, then a slow, soft kiss (30s), then whisper about the exact body part you want to kiss next."
+    },
+    {
+      "id": "sc_v21_d1_15",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · knuckles and thumb",
+      "text": "At the edge of the bed, keep letting your lips hover 1 cm away between moves while teasing their knuckles and thumb with pausing a breath away, then a soft kiss (30s), then whisper about your favorite tiny habit when I kiss you."
+    },
+    {
+      "id": "sc_v21_d1_16",
+      "category": "DARE",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Tease · neck",
+      "text": "in front of a mirror, keep whispering their pet name softly while teasing their neck with a light fingertip brush, then a soft kiss (30s), then whisper about the exact moment tonight you stopped thinking straight."
+    },
+    {
+      "id": "sc_v21_d2_01",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · nape hairline",
+      "text": "Draw close at the candlelit bedroom rug, Follow 'alternate feather-light strokes with firm pressure', and slowly feather-trace with your fingertips along from collarbone hollow to nape hairline (35s)."
+    },
+    {
+      "id": "sc_v21_d2_02",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · cheek & jawline",
+      "text": "Draw close beside the bed with lights dimmed, Follow 'whisper their name right before each new spot', and slowly graze your lips shyly across from inner wrist to cheek & jawline (35s)."
+    },
+    {
+      "id": "sc_v21_d2_03",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · outer collarbone",
+      "text": "Draw close at the lamp-lit window seat, Follow 'alternate feather-light strokes with firm pressure', and slowly press slow soft, lingering kisses over from shoulder blades to outer collarbone (35s)."
+    },
+    {
+      "id": "sc_v21_d2_04",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · shoulder",
+      "text": "Draw close at the couch armrest, Follow 'whisper their name right before each new spot', and slowly softly caress from nape of the neck to shoulder (35s)."
+    },
+    {
+      "id": "sc_v21_d2_05",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · outer curve of the ear",
+      "text": "Draw close at the foot of the bed, Follow 'alternate feather-light strokes with firm pressure', and slowly leave feather-light kisses across from behind the ear to outer curve of the ear (35s)."
+    },
+    {
+      "id": "sc_v21_d2_06",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · inner wrist",
+      "text": "Draw close at the dim entryway, Follow 'whisper their name right before each new spot', and slowly warmly massage from side ribs to inner wrist (35s)."
+    },
+    {
+      "id": "sc_v21_d2_07",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · palm and fingertips",
+      "text": "Draw close beside the closet mirror, Follow 'alternate feather-light strokes with firm pressure', and slowly brush lingering warm breath along from base of the throat to palm and fingertips (35s)."
+    },
+    {
+      "id": "sc_v21_d2_08",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · inner forearm",
+      "text": "Draw close at a pile of plush floor pillows, Follow 'whisper their name right before each new spot', and slowly brush warm breath across from lower back dimples to inner forearm (35s)."
+    },
+    {
+      "id": "sc_v21_d2_09",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · behind the ear",
+      "text": "Draw close behind the sheer curtains, Follow 'alternate feather-light strokes with firm pressure', and slowly smooth warm palms slowly down from collarbone hollow to behind the ear (35s)."
+    },
+    {
+      "id": "sc_v21_d2_10",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · tip of the chin",
+      "text": "Draw close at the softly lit vanity, Follow 'whisper their name right before each new spot', and slowly nuzzle softly with your nose along from inner wrist to tip of the chin (35s)."
+    },
+    {
+      "id": "sc_v21_d2_11",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · collarbone",
+      "text": "Draw close at the bedroom wall, Follow 'alternate feather-light strokes with firm pressure', and slowly leave lingering kisses along from shoulder blades to collarbone (35s)."
+    },
+    {
+      "id": "sc_v21_d2_12",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · knuckles and thumb",
+      "text": "Draw close at the edge of the bed, Follow 'whisper their name right before each new spot', and slowly trace slow warm circles over from nape of the neck to knuckles and thumb (35s)."
+    },
+    {
+      "id": "sc_v21_d2_13",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · neck",
+      "text": "Draw close in front of a mirror, Follow 'alternate feather-light strokes with firm pressure', and slowly feather-trace with your fingertips along from behind the ear to neck (35s)."
+    },
+    {
+      "id": "sc_v21_d2_14",
+      "category": "DARE",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Pulse Rise · temple and brow",
+      "text": "Draw close at the couch corner, Follow 'whisper their name right before each new spot', and slowly graze your lips shyly across from side ribs to temple and brow (35s)."
+    },
+    {
+      "id": "sc_v21_d3_01",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · spine",
+      "text": "Move to the couch armrest, trade hot breath with trace wet soft, lingering kisss along across spine, obeying 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_02",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · nape of the neck",
+      "text": "Move to the foot of the bed, trade hot breath with soft kiss across nape of the neck, obeying 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_03",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · neck",
+      "text": "Move to the dim entryway, trade hot breath with tease with alternating lips and fingertips over across neck, obeying 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_04",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · inner thigh",
+      "text": "Move to beside the closet mirror, trade hot breath with press lightly, then soothe with a kiss across inner thigh, obeying 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_05",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · hip bone",
+      "text": "Move to a pile of plush floor pillows, trade hot breath with slowly warming across hip bone, obeying 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_06",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · earlobe",
+      "text": "Move to behind the sheer curtains, trade hot breath with resting soft, unhurried kisses near across earlobe, obeying 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_07",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · waistline",
+      "text": "Move to the softly lit vanity, trade hot breath with tracing a slow line of warmth along across waistline, obeying 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_08",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · lower belly",
+      "text": "Move to the bedroom wall, trade hot breath with leave unhurried, lingering kisses across across lower belly, obeying 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_09",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · chest and ribcage",
+      "text": "Move to the edge of the bed, trade hot breath with trace wet soft, lingering kisss along across chest and ribcage, obeying 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_10",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · collarbone",
+      "text": "Move to in front of a mirror, trade hot breath with soft kiss across collarbone, obeying 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_11",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · spine 2",
+      "text": "Move to the couch corner, trade hot breath with tease with alternating lips and fingertips over across spine, obeying 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_12",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · nape of the neck 2",
+      "text": "Move to the kitchen counter, trade hot breath with press lightly, then soothe with a kiss across nape of the neck, obeying 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_13",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · neck 2",
+      "text": "Move to a dim hallway doorway, trade hot breath with slowly warming across neck, obeying 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_d3_14",
+      "category": "DARE",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Deep Heat · inner thigh 2",
+      "text": "Move to the candlelit bedroom rug, trade hot breath with resting soft, unhurried kisses near across inner thigh, obeying 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_d4_01",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · hollow of the spine",
+      "text": "beside the closet mirror, set Hold both wrists gently above their head with one hand, slip ultra-slow fingertips past one accessory plus one layer, and focus press lightly, then soothe with a kiss with a kiss on hollow of the spine (55s)."
+    },
+    {
+      "id": "sc_v21_d4_02",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · small of the waist",
+      "text": "At a pile of plush floor pillows, set Hold their chin gently tilted up so they can only watch, slip the back of your knuckles first, then your mouth past a zipper or waistband edge, and focus slowly warming on small of the waist (55s)."
+    },
+    {
+      "id": "sc_v21_d4_03",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · lower belly",
+      "text": "behind the sheer curtains, set Let your fingers rest behind their neck, both of you still, slip your partner's own guided hand past the hem of their top, and focus resting soft, unhurried kisses near on lower belly (55s)."
+    },
+    {
+      "id": "sc_v21_d4_04",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · curve of the hip",
+      "text": "At the softly lit vanity, set Keep their hands flat against the headboard, slip warm breath and lips alone past one garment of your choice, and focus tracing a slow line of warmth along curve of the hip (55s)."
+    },
+    {
+      "id": "sc_v21_d4_05",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · inner thigh",
+      "text": "At the bedroom wall, set stand close together, unhurried, by the wall, slip one hand only while holding eye contact past two shirt buttons, and focus leave unhurried, lingering kisses across inner thigh (55s)."
+    },
+    {
+      "id": "sc_v21_d4_06",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · sensitive collarbone",
+      "text": "At the edge of the bed, set Hold their resting quietly at their sides their back, slip your lips and teeth only (no hands) past a shoulder strap or outer layer, and focus trace wet soft, lingering kisss along sensitive collarbone (55s)."
+    },
+    {
+      "id": "sc_v21_d4_07",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · chest and ribcage",
+      "text": "in front of a mirror, set Hold both wrists gently above their head with one hand, slip ultra-slow fingertips past one accessory plus one layer, and focus soft kiss on chest and ribcage (55s)."
+    },
+    {
+      "id": "sc_v21_d4_08",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · hip bone line",
+      "text": "At the couch corner, set Hold their chin gently tilted up so they can only watch, slip the back of your knuckles first, then your mouth past a zipper or waistband edge, and focus tease with alternating lips and fingertips over hip bone line (55s)."
+    },
+    {
+      "id": "sc_v21_d4_09",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · hollow of the spine 2",
+      "text": "At the kitchen counter, set Let your fingers rest behind their neck, both of you still, slip your partner's own guided hand past the hem of their top, and focus press lightly, then soothe with a kiss with a kiss on hollow of the spine (55s)."
+    },
+    {
+      "id": "sc_v21_d4_10",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · small of the waist 2",
+      "text": "At a dim hallway doorway, set Keep their hands flat against the headboard, slip warm breath and lips alone past one garment of your choice, and focus slowly warming on small of the waist (55s)."
+    },
+    {
+      "id": "sc_v21_d4_11",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · lower belly 2",
+      "text": "At the candlelit bedroom rug, set stand close together, unhurried, by the wall, slip one hand only while holding eye contact past two shirt buttons, and focus resting soft, unhurried kisses near on lower belly (55s)."
+    },
+    {
+      "id": "sc_v21_d4_12",
+      "category": "DARE",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Midnight Rule · curve of the hip 2",
+      "text": "beside the bed with lights dimmed, set Hold their resting quietly at their sides their back, slip your lips and teeth only (no hands) past a shoulder strap or outer layer, and focus tracing a slow line of warmth along curve of the hip (55s)."
+    },
+    {
+      "id": "sc_v21_l1_01",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · beside the closet mirror",
+      "text": "Turn beside the closet mirror into a dim boutique hotel bar: while staying completely silent while giving slow leave lingering kisses along palm and fingertips (30s)."
+    },
+    {
+      "id": "sc_v21_l1_02",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · a pile of plush floor pillows",
+      "text": "Turn a pile of plush floor pillows into a private hot-spring terrace: while letting your lips hover 1 cm away between moves while giving slow trace slow warm circles over to inner forearm (30s)."
+    },
+    {
+      "id": "sc_v21_l1_03",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · behind the sheer curtains",
+      "text": "Turn behind the sheer curtains into a candlelit warm bath: while whispering their pet name softly while giving slow feather-trace with your fingertips along behind the ear (30s)."
+    },
+    {
+      "id": "sc_v21_l1_04",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · the softly lit vanity",
+      "text": "Turn the softly lit vanity into a rain-tapped attic bed: while holding a shy teasing smile while giving slow graze your lips shyly across to tip of the chin (30s)."
+    },
+    {
+      "id": "sc_v21_l1_05",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · the bedroom wall",
+      "text": "Turn the bedroom wall into a midnight ocean balcony: while staying completely silent while giving slow press slow soft, lingering kisses over to collarbone (30s)."
+    },
+    {
+      "id": "sc_v21_l1_06",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · the edge of the bed",
+      "text": "Turn the edge of the bed into a secret jazz lounge: while letting your lips hover 1 cm away between moves while giving slow softly caress to knuckles and thumb (30s)."
+    },
+    {
+      "id": "sc_v21_l1_07",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · in front of a mirror",
+      "text": "Turn in front of a mirror into a starlit private courtyard: while whispering their pet name softly while giving slow leave feather-light kisses across to neck (30s)."
+    },
+    {
+      "id": "sc_v21_l1_08",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · the couch corner",
+      "text": "Turn the couch corner into a cozy dim home cinema: while holding a shy teasing smile while giving slow warmly massage to temple and brow (30s)."
+    },
+    {
+      "id": "sc_v21_l1_09",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · the kitchen counter",
+      "text": "Turn the kitchen counter into a moonlit window seat: while staying completely silent while giving slow brush lingering warm breath along corner of the mouth (30s)."
+    },
+    {
+      "id": "sc_v21_l1_10",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · a dim hallway doorway",
+      "text": "Turn a dim hallway doorway into a fireside mountain cabin: while letting your lips hover 1 cm away between moves while giving slow brush warm breath across to upper back (30s)."
+    },
+    {
+      "id": "sc_v21_l1_11",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · the candlelit bedroom rug",
+      "text": "Turn the candlelit bedroom rug into a rain-streaked penthouse suite: while whispering their pet name softly while giving slow smooth warm palms slowly down to nape hairline (30s)."
+    },
+    {
+      "id": "sc_v21_l1_12",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · beside the bed with lights dimmed",
+      "text": "Turn beside the bed with lights dimmed into a sheer-curtained afternoon window: while holding a shy teasing smile while giving slow nuzzle softly with your nose along cheek & jawline (30s)."
+    },
+    {
+      "id": "sc_v21_l1_13",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · the lamp-lit window seat",
+      "text": "Turn the lamp-lit window seat into a breezy seaside camper: while staying completely silent while giving slow leave lingering kisses along outer collarbone (30s)."
+    },
+    {
+      "id": "sc_v21_l1_14",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · the couch armrest",
+      "text": "Turn the couch armrest into a candlelit rooftop: while letting your lips hover 1 cm away between moves while giving slow trace slow warm circles over to shoulder (30s)."
+    },
+    {
+      "id": "sc_v21_l1_15",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · the foot of the bed",
+      "text": "Turn the foot of the bed into a dim boutique hotel bar: while whispering their pet name softly while giving slow feather-trace with your fingertips along outer curve of the ear (30s)."
+    },
+    {
+      "id": "sc_v21_l1_16",
+      "category": "LOCATION",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Cozy Spot · the dim entryway",
+      "text": "Turn the dim entryway into a private hot-spring terrace: while holding a shy teasing smile while giving slow graze your lips shyly across to inner wrist (30s)."
+    },
+    {
+      "id": "sc_v21_l2_01",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · the softly lit vanity",
+      "text": "Claim the softly lit vanity for two: trace a steady hand held, then fingertips as light as a breath from inner wrist right up to tip of the chin (35s)."
+    },
+    {
+      "id": "sc_v21_l2_02",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · the bedroom wall",
+      "text": "Claim the bedroom wall for two: trace a shy brush of noses, then a slow, soft kiss from shoulder blades right up to collarbone (35s)."
+    },
+    {
+      "id": "sc_v21_l2_03",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · the edge of the bed",
+      "text": "Claim the edge of the bed for two: trace pausing a breath away, then a soft kiss from nape of the neck right up to knuckles and thumb (35s)."
+    },
+    {
+      "id": "sc_v21_l2_04",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · in front of a mirror",
+      "text": "Claim in front of a mirror for two: trace a light fingertip brush, then a soft kiss from behind the ear right up to neck (35s)."
+    },
+    {
+      "id": "sc_v21_l2_05",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · the couch corner",
+      "text": "Claim the couch corner for two: trace warm breath that lingers, then a soft kiss from side ribs right up to temple and brow (35s)."
+    },
+    {
+      "id": "sc_v21_l2_06",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · the kitchen counter",
+      "text": "Claim the kitchen counter for two: trace one soft kiss, then a slow breath together from base of the throat right up to corner of the mouth (35s)."
+    },
+    {
+      "id": "sc_v21_l2_07",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · a dim hallway doorway",
+      "text": "Claim a dim hallway doorway for two: trace a feather-light touch, then fingers intertwined from lower back dimples right up to upper back (35s)."
+    },
+    {
+      "id": "sc_v21_l2_08",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · the candlelit bedroom rug",
+      "text": "Claim the candlelit bedroom rug for two: trace cool breath followed immediately by hot soft, lingering kisses from collarbone hollow right up to nape hairline (35s)."
+    },
+    {
+      "id": "sc_v21_l2_09",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · beside the bed with lights dimmed",
+      "text": "Claim beside the bed with lights dimmed for two: trace a gentle squeeze of the hand, then unhurried soft kisses from inner wrist right up to cheek & jawline (35s)."
+    },
+    {
+      "id": "sc_v21_l2_10",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · the lamp-lit window seat",
+      "text": "Claim the lamp-lit window seat for two: trace fingers through hair pulling you gently closer from shoulder blades right up to outer collarbone (35s)."
+    },
+    {
+      "id": "sc_v21_l2_11",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · the couch armrest",
+      "text": "Claim the couch armrest for two: trace slow warm palms gliding into a sudden close pull from nape of the neck right up to shoulder (35s)."
+    },
+    {
+      "id": "sc_v21_l2_12",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · the foot of the bed",
+      "text": "Claim the foot of the bed for two: trace warm palms resting lightly, unhurried from behind the ear right up to outer curve of the ear (35s)."
+    },
+    {
+      "id": "sc_v21_l2_13",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · the dim entryway",
+      "text": "Claim the dim entryway for two: trace a steady hand held, then fingertips as light as a breath from side ribs right up to inner wrist (35s)."
+    },
+    {
+      "id": "sc_v21_l2_14",
+      "category": "LOCATION",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Secret Corner · beside the closet mirror",
+      "text": "Claim beside the closet mirror for two: trace a shy brush of noses, then a slow, soft kiss from base of the throat right up to palm and fingertips (35s)."
+    },
+    {
+      "id": "sc_v21_l3_01",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · in front of a mirror",
+      "text": "Lock in in front of a mirror: follow 'alternate feather-light strokes with firm pressure' while pulling them close to soft kiss their nape of the neck (45s)."
+    },
+    {
+      "id": "sc_v21_l3_02",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · the couch corner",
+      "text": "Lock in at the couch corner: follow 'whisper their name right before each new spot' while pulling them close to tease with alternating lips and fingertips over their neck (45s)."
+    },
+    {
+      "id": "sc_v21_l3_03",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · the kitchen counter",
+      "text": "Lock in at the kitchen counter: follow 'alternate feather-light strokes with firm pressure' while pulling them close to press lightly, then soothe with a kiss their inner thigh (45s)."
+    },
+    {
+      "id": "sc_v21_l3_04",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · a dim hallway doorway",
+      "text": "Lock in at a dim hallway doorway: follow 'whisper their name right before each new spot' while pulling them close to slowly warming their hip bone (45s)."
+    },
+    {
+      "id": "sc_v21_l3_05",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · the candlelit bedroom rug",
+      "text": "Lock in at the candlelit bedroom rug: follow 'alternate feather-light strokes with firm pressure' while pulling them close to resting soft, unhurried kisses near their earlobe (45s)."
+    },
+    {
+      "id": "sc_v21_l3_06",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · beside the bed with lights dimmed",
+      "text": "Lock in beside the bed with lights dimmed: follow 'whisper their name right before each new spot' while pulling them close to tracing a slow line of warmth along their waistline (45s)."
+    },
+    {
+      "id": "sc_v21_l3_07",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · the lamp-lit window seat",
+      "text": "Lock in at the lamp-lit window seat: follow 'alternate feather-light strokes with firm pressure' while pulling them close to leave unhurried, lingering kisses across their lower belly (45s)."
+    },
+    {
+      "id": "sc_v21_l3_08",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · the couch armrest",
+      "text": "Lock in at the couch armrest: follow 'whisper their name right before each new spot' while pulling them close to trace wet soft, lingering kisss along their chest and ribcage (45s)."
+    },
+    {
+      "id": "sc_v21_l3_09",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · the foot of the bed",
+      "text": "Lock in at the foot of the bed: follow 'alternate feather-light strokes with firm pressure' while pulling them close to soft kiss their collarbone (45s)."
+    },
+    {
+      "id": "sc_v21_l3_10",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · the dim entryway",
+      "text": "Lock in at the dim entryway: follow 'whisper their name right before each new spot' while pulling them close to tease with alternating lips and fingertips over their spine (45s)."
+    },
+    {
+      "id": "sc_v21_l3_11",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · beside the closet mirror",
+      "text": "Lock in beside the closet mirror: follow 'alternate feather-light strokes with firm pressure' while pulling them close to press lightly, then soothe with a kiss their nape of the neck (45s)."
+    },
+    {
+      "id": "sc_v21_l3_12",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · a pile of plush floor pillows",
+      "text": "Lock in at a pile of plush floor pillows: follow 'whisper their name right before each new spot' while pulling them close to slowly warming their neck (45s)."
+    },
+    {
+      "id": "sc_v21_l3_13",
+      "category": "LOCATION",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Private Stage · behind the sheer curtains",
+      "text": "Lock in behind the sheer curtains: follow 'alternate feather-light strokes with firm pressure' while pulling them close to resting soft, unhurried kisses near their inner thigh (45s)."
+    },
+    {
+      "id": "sc_v21_l4_01",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · a dim hallway doorway",
+      "text": "Right at a dim hallway doorway, take 'pressed softly against the bedroom wall' with Hold their resting quietly at their sides their back and explore small of the waist nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_02",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · the candlelit bedroom rug",
+      "text": "Right at the candlelit bedroom rug, take 'sitting close, face to face' with Hold both wrists gently above their head with one hand and explore lower belly nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_03",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · beside the bed with lights dimmed",
+      "text": "Right beside the bed with lights dimmed, take 'arched gently over a pillow' with Hold their chin gently tilted up so they can only watch and explore curve of the hip nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_04",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · the lamp-lit window seat",
+      "text": "Right at the lamp-lit window seat, take 'lying back, eyes closed, letting go completely' with Let your fingers rest behind their neck, both of you still and explore inner thigh nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_05",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · the couch armrest",
+      "text": "Right at the couch armrest, take 'reclined at the edge of the bed' with Keep their hands flat against the headboard and explore sensitive collarbone nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_06",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · the foot of the bed",
+      "text": "Right at the foot of the bed, take 'standing close in front of a mirror' with stand close together, unhurried, by the wall and explore chest and ribcage nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_07",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · the dim entryway",
+      "text": "Right at the dim entryway, take 'kneeling face-to-face on the bed' with Hold their resting quietly at their sides their back and explore hip bone line nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_08",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · beside the closet mirror",
+      "text": "Right beside the closet mirror, take 'pressed softly against the bedroom wall' with Hold both wrists gently above their head with one hand and explore hollow of the spine nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_09",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · a pile of plush floor pillows",
+      "text": "Right at a pile of plush floor pillows, take 'sitting close, face to face' with Hold their chin gently tilted up so they can only watch and explore small of the waist nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_10",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · behind the sheer curtains",
+      "text": "Right behind the sheer curtains, take 'arched gently over a pillow' with Let your fingers rest behind their neck, both of you still and explore lower belly nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_11",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · the softly lit vanity",
+      "text": "Right at the softly lit vanity, take 'lying back, eyes closed, letting go completely' with Keep their hands flat against the headboard and explore curve of the hip nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_12",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · the bedroom wall",
+      "text": "Right at the bedroom wall, take 'reclined at the edge of the bed' with stand close together, unhurried, by the wall and explore inner thigh nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_l4_13",
+      "category": "LOCATION",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Bold Venue · the edge of the bed",
+      "text": "Right at the edge of the bed, take 'standing close in front of a mirror' with Hold their resting quietly at their sides their back and explore sensitive collarbone nonstop (55s)."
+    },
+    {
+      "id": "sc_v21_f1_01",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a candlelit rooftop",
+      "text": "Imagine a candlelit rooftop: whisper about one tiny detail about me that still makes you blush at a dim hallway doorway while offering slow softly caress on upper back (30s)."
+    },
+    {
+      "id": "sc_v21_f1_02",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a dim boutique hotel bar",
+      "text": "Imagine a dim boutique hotel bar: whisper about what sound of theirs drives you completely wild at the candlelit bedroom rug while offering slow leave feather-light kisses across nape hairline (30s)."
+    },
+    {
+      "id": "sc_v21_f1_03",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a private hot-spring terrace",
+      "text": "Imagine a private hot-spring terrace: whisper about what you crave first once every light goes out beside the bed with lights dimmed while offering slow warmly massage on cheek & jawline (30s)."
+    },
+    {
+      "id": "sc_v21_f1_04",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a candlelit warm bath",
+      "text": "Imagine a candlelit warm bath: whisper about which clingy habit of mine melts you fastest at the lamp-lit window seat while offering slow brush lingering warm breath along outer collarbone (30s)."
+    },
+    {
+      "id": "sc_v21_f1_05",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a rain-tapped attic bed",
+      "text": "Imagine a rain-tapped attic bed: whisper about the boldest place you want to pull them into at the couch armrest while offering slow brush warm breath across shoulder (30s)."
+    },
+    {
+      "id": "sc_v21_f1_06",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a midnight ocean balcony",
+      "text": "Imagine a midnight ocean balcony: whisper about the hug you never wanted to end at the foot of the bed while offering slow smooth warm palms slowly down outer curve of the ear (30s)."
+    },
+    {
+      "id": "sc_v21_f1_07",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a secret jazz lounge",
+      "text": "Imagine a secret jazz lounge: whisper about how you secretly want to be held before sleep at the dim entryway while offering slow nuzzle softly with your nose along inner wrist (30s)."
+    },
+    {
+      "id": "sc_v21_f1_08",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a starlit private courtyard",
+      "text": "Imagine a starlit private courtyard: whisper about what you want them to wear — or take off — tonight beside the closet mirror while offering slow leave lingering kisses along palm and fingertips (30s)."
+    },
+    {
+      "id": "sc_v21_f1_09",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a cozy dim home cinema",
+      "text": "Imagine a cozy dim home cinema: whisper about one naughty thought you had about them today at a pile of plush floor pillows while offering slow trace slow warm circles over inner forearm (30s)."
+    },
+    {
+      "id": "sc_v21_f1_10",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a moonlit window seat",
+      "text": "Imagine a moonlit window seat: whisper about a shy thought you had while holding my hand behind the sheer curtains while offering slow feather-trace with your fingertips along behind the ear (30s)."
+    },
+    {
+      "id": "sc_v21_f1_11",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a fireside mountain cabin",
+      "text": "Imagine a fireside mountain cabin: whisper about how you want to be touched when the lights go out at the softly lit vanity while offering slow graze your lips shyly across tip of the chin (30s)."
+    },
+    {
+      "id": "sc_v21_f1_12",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a rain-streaked penthouse suite",
+      "text": "Imagine a rain-streaked penthouse suite: whisper about the exact body part you want to kiss next at the bedroom wall while offering slow press slow soft, lingering kisses over collarbone (30s)."
+    },
+    {
+      "id": "sc_v21_f1_13",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a sheer-curtained afternoon window",
+      "text": "Imagine a sheer-curtained afternoon window: whisper about your favorite tiny habit when I kiss you at the edge of the bed while offering slow softly caress on knuckles and thumb (30s)."
+    },
+    {
+      "id": "sc_v21_f1_14",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a breezy seaside camper",
+      "text": "Imagine a breezy seaside camper: whisper about the exact moment tonight you stopped thinking straight in front of a mirror while offering slow leave feather-light kisses across neck (30s)."
+    },
+    {
+      "id": "sc_v21_f1_15",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a candlelit rooftop 2",
+      "text": "Imagine a candlelit rooftop: whisper about a secret fantasy you want to try before sunrise at the couch corner while offering slow warmly massage on temple and brow (30s)."
+    },
+    {
+      "id": "sc_v21_f1_16",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a dim boutique hotel bar 2",
+      "text": "Imagine a dim boutique hotel bar: whisper about the first compliment in your head looking at me now at the kitchen counter while offering slow brush lingering warm breath along corner of the mouth (30s)."
+    },
+    {
+      "id": "sc_v21_f1_17",
+      "category": "FANTASY",
+      "tier": 1,
+      "durationSec": 30,
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "Soft Scene · a private hot-spring terrace 2",
+      "text": "Imagine a private hot-spring terrace: whisper about one tiny detail about me that still makes you blush at a dim hallway doorway while offering slow brush warm breath across upper back (30s)."
+    },
+    {
+      "id": "sc_v21_f2_01",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a midnight ocean balcony",
+      "text": "Act out checking into a penthouse suite under fake names at the lamp-lit window seat: tease outer collarbone with one soft kiss, then a slow breath together and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_02",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a secret jazz lounge",
+      "text": "Act out checking into a penthouse suite under fake names at the couch armrest: tease shoulder with a feather-light touch, then fingers intertwined and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_03",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a starlit private courtyard",
+      "text": "Act out checking into a penthouse suite under fake names at the foot of the bed: tease outer curve of the ear with cool breath followed immediately by hot soft, lingering kisses and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_04",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a cozy dim home cinema",
+      "text": "Act out checking into a penthouse suite under fake names at the dim entryway: tease inner wrist with a gentle squeeze of the hand, then unhurried soft kisses and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_05",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a moonlit window seat",
+      "text": "Act out checking into a penthouse suite under fake names beside the closet mirror: tease palm and fingertips with fingers through hair pulling you gently closer and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_06",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a fireside mountain cabin",
+      "text": "Act out checking into a penthouse suite under fake names at a pile of plush floor pillows: tease inner forearm with slow warm palms gliding into a sudden close pull and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_07",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a rain-streaked penthouse suite",
+      "text": "Act out checking into a penthouse suite under fake names behind the sheer curtains: tease behind the ear with warm palms resting lightly, unhurried and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_08",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a sheer-curtained afternoon window",
+      "text": "Act out checking into a penthouse suite under fake names at the softly lit vanity: tease tip of the chin with a steady hand held, then fingertips as light as a breath and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_09",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a breezy seaside camper",
+      "text": "Act out checking into a penthouse suite under fake names at the bedroom wall: tease collarbone with a shy brush of noses, then a slow, soft kiss and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_10",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a candlelit rooftop",
+      "text": "Act out checking into a penthouse suite under fake names at the edge of the bed: tease knuckles and thumb with pausing a breath away, then a soft kiss and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_11",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a dim boutique hotel bar",
+      "text": "Act out checking into a penthouse suite under fake names in front of a mirror: tease neck with a light fingertip brush, then a soft kiss and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_12",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a private hot-spring terrace",
+      "text": "Act out checking into a penthouse suite under fake names at the couch corner: tease temple and brow with warm breath that lingers, then a soft kiss and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_13",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a candlelit warm bath",
+      "text": "Act out checking into a penthouse suite under fake names at the kitchen counter: tease corner of the mouth with one soft kiss, then a slow breath together and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f2_14",
+      "category": "FANTASY",
+      "tier": 2,
+      "durationSec": 35,
+      "tags": [
+        "physical_light",
+        "playful",
+        "indoor"
+      ],
+      "title": "Flirty Script · a rain-tapped attic bed",
+      "text": "Act out checking into a penthouse suite under fake names at a dim hallway doorway: tease upper back with a feather-light touch, then fingers intertwined and see who blushes first (35s)."
+    },
+    {
+      "id": "sc_v21_f3_01",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · neck",
+      "text": "Dive into checking into a penthouse suite under fake names at the dim entryway: the lead enjoys tease with alternating lips and fingertips over neck under 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_02",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · inner thigh",
+      "text": "Dive into checking into a penthouse suite under fake names beside the closet mirror: the lead enjoys press lightly, then soothe with a kiss with a kiss on inner thigh under 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_03",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · hip bone",
+      "text": "Dive into checking into a penthouse suite under fake names at a pile of plush floor pillows: the lead enjoys slowly warming on hip bone under 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_04",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · earlobe",
+      "text": "Dive into checking into a penthouse suite under fake names behind the sheer curtains: the lead enjoys resting soft, unhurried kisses near on earlobe under 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_05",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · waistline",
+      "text": "Dive into checking into a penthouse suite under fake names at the softly lit vanity: the lead enjoys tracing a slow line of warmth along waistline under 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_06",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · lower belly",
+      "text": "Dive into checking into a penthouse suite under fake names at the bedroom wall: the lead enjoys leave unhurried, lingering kisses across lower belly under 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_07",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · chest and ribcage",
+      "text": "Dive into checking into a penthouse suite under fake names at the edge of the bed: the lead enjoys trace wet soft, lingering kisss along chest and ribcage under 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_08",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · collarbone",
+      "text": "Dive into checking into a penthouse suite under fake names in front of a mirror: the lead enjoys soft kiss on collarbone under 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_09",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · spine",
+      "text": "Dive into checking into a penthouse suite under fake names at the couch corner: the lead enjoys tease with alternating lips and fingertips over spine under 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_10",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · nape of the neck",
+      "text": "Dive into checking into a penthouse suite under fake names at the kitchen counter: the lead enjoys press lightly, then soothe with a kiss with a kiss on nape of the neck under 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_11",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · neck 2",
+      "text": "Dive into checking into a penthouse suite under fake names at a dim hallway doorway: the lead enjoys slowly warming on neck under 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_12",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · inner thigh 2",
+      "text": "Dive into checking into a penthouse suite under fake names at the candlelit bedroom rug: the lead enjoys resting soft, unhurried kisses near on inner thigh under 'alternate feather-light strokes with firm pressure' (45s)."
+    },
+    {
+      "id": "sc_v21_f3_13",
+      "category": "FANTASY",
+      "tier": 3,
+      "durationSec": 45,
+      "tags": [
+        "bite_lick",
+        "roleplay",
+        "indoor"
+      ],
+      "title": "Bold Fantasy · hip bone 2",
+      "text": "Dive into checking into a penthouse suite under fake names beside the bed with lights dimmed: the lead enjoys tracing a slow line of warmth along hip bone under 'whisper their name right before each new spot' (45s)."
+    },
+    {
+      "id": "sc_v21_f4_01",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · lower belly",
+      "text": "Unlock checking into a penthouse suite under fake names behind the sheer curtains with stand close together, unhurried, by the wall, guiding one hand only while holding eye contact past two shirt buttons to lower belly (55s)."
+    },
+    {
+      "id": "sc_v21_f4_02",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · curve of the hip",
+      "text": "Unlock checking into a penthouse suite under fake names at the softly lit vanity with Hold their resting quietly at their sides their back, guiding your lips and teeth only (no hands) past a shoulder strap or outer layer to curve of the hip (55s)."
+    },
+    {
+      "id": "sc_v21_f4_03",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · inner thigh",
+      "text": "Unlock checking into a penthouse suite under fake names at the bedroom wall with Hold both wrists gently above their head with one hand, guiding ultra-slow fingertips past one accessory plus one layer to inner thigh (55s)."
+    },
+    {
+      "id": "sc_v21_f4_04",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · sensitive collarbone",
+      "text": "Unlock checking into a penthouse suite under fake names at the edge of the bed with Hold their chin gently tilted up so they can only watch, guiding the back of your knuckles first, then your mouth past a zipper or waistband edge to sensitive collarbone (55s)."
+    },
+    {
+      "id": "sc_v21_f4_05",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · chest and ribcage",
+      "text": "Unlock checking into a penthouse suite under fake names in front of a mirror with Let your fingers rest behind their neck, both of you still, guiding your partner's own guided hand past the hem of their top to chest and ribcage (55s)."
+    },
+    {
+      "id": "sc_v21_f4_06",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · hip bone line",
+      "text": "Unlock checking into a penthouse suite under fake names at the couch corner with Keep their hands flat against the headboard, guiding warm breath and lips alone past one garment of your choice to hip bone line (55s)."
+    },
+    {
+      "id": "sc_v21_f4_07",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · hollow of the spine",
+      "text": "Unlock checking into a penthouse suite under fake names at the kitchen counter with stand close together, unhurried, by the wall, guiding one hand only while holding eye contact past two shirt buttons to hollow of the spine (55s)."
+    },
+    {
+      "id": "sc_v21_f4_08",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · small of the waist",
+      "text": "Unlock checking into a penthouse suite under fake names at a dim hallway doorway with Hold their resting quietly at their sides their back, guiding your lips and teeth only (no hands) past a shoulder strap or outer layer to small of the waist (55s)."
+    },
+    {
+      "id": "sc_v21_f4_09",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · lower belly 2",
+      "text": "Unlock checking into a penthouse suite under fake names at the candlelit bedroom rug with Hold both wrists gently above their head with one hand, guiding ultra-slow fingertips past one accessory plus one layer to lower belly (55s)."
+    },
+    {
+      "id": "sc_v21_f4_10",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · curve of the hip 2",
+      "text": "Unlock checking into a penthouse suite under fake names beside the bed with lights dimmed with Hold their chin gently tilted up so they can only watch, guiding the back of your knuckles first, then your mouth past a zipper or waistband edge to curve of the hip (55s)."
+    },
+    {
+      "id": "sc_v21_f4_11",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · inner thigh 2",
+      "text": "Unlock checking into a penthouse suite under fake names at the lamp-lit window seat with Let your fingers rest behind their neck, both of you still, guiding your partner's own guided hand past the hem of their top to inner thigh (55s)."
+    },
+    {
+      "id": "sc_v21_f4_12",
+      "category": "FANTASY",
+      "tier": 4,
+      "durationSec": 55,
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "Peak Fantasy · sensitive collarbone 2",
+      "text": "Unlock checking into a penthouse suite under fake names at the couch armrest with Keep their hands flat against the headboard, guiding warm breath and lips alone past one garment of your choice to sensitive collarbone (55s)."
+    }
+  ]
+}

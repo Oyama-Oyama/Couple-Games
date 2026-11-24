@@ -1,0 +1,1562 @@
+{
+  "scenarios": [
+    {
+      "id": "rp_strangers",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "자정의 호텔 라운지",
+      "subtitle": "어두운 조명 아래 눈이 마주친 두 낯선 여행자",
+      "leadRole": "매혹적인 이방인",
+      "partnerRole": "혼자 온 여행자",
+      "acts": [
+        {
+          "actTitle": "1막 · 첫눈에 끌림",
+          "durationSec": 45,
+          "direction": "{lead}님이 여유로운 미소로 {partner}님 옆에 다가가 합석해도 될지 묻습니다.",
+          "whisperLine": "「저쪽에서 한참 봤어요 — 혹시 오늘 밤 누군가를 기다리는 중인가요?」"
+        },
+        {
+          "actTitle": "2막 · 좁혀지는 거리",
+          "durationSec": 45,
+          "direction": "{lead}님이 몸을 기울이며 손끝으로 {partner}님의 손등을 스치고 시선을 고정합니다.",
+          "whisperLine": "「무슨 말을 해야 내일 아침 비행기를 미루게 할 수 있을까요?」"
+        },
+        {
+          "actTitle": "3막 · 룸키의 유혹",
+          "durationSec": 30,
+          "direction": "{partner}님이 {lead}님의 매력에 넘어갈지 결정하고 길고 느린 키스로 답합니다.",
+          "whisperLine": "「같이 올라가요. 이 밤을 여기서 끝내고 싶지 않아요.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_spa",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "프라이빗 벨벳 스파",
+      "subtitle": "영업 종료 후 VIP 전용 아로마 테라피",
+      "leadRole": "전담 테라피스트",
+      "partnerRole": "VIP 고객",
+      "acts": [
+        {
+          "actTitle": "1막 · 긴장 풀기",
+          "durationSec": 45,
+          "direction": "{partner}님이 눈을 감고 편안히 기대면 {lead}님이 따뜻한 손으로 어깨와 목을 풀어줍니다.",
+          "whisperLine": "「많이 뭉치셨네요 — 숨을 깊게 쉬고 전부 저한테 맡기세요.」"
+        },
+        {
+          "actTitle": "2막 · 높아지는 체온",
+          "durationSec": 45,
+          "direction": "{lead}님이 뒷목과 등줄기를 느리게 쓸어내리며 귓가에 낮게 속삭입니다.",
+          "whisperLine": "「어디에 손이 머물 때 제일 심장이 빨리 뛰는지 말해줄래요?」"
+        },
+        {
+          "actTitle": "3막 · 히든 코스",
+          "durationSec": 30,
+          "direction": "{lead}님이 {partner}님의 턱을 부드럽게 돌려 턱선과 입술에 부드럽게 가까이를 남깁니다.",
+          "whisperLine": "「지금부터는 메뉴판에 없는 시크릿 코스예요.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_office",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "야근하는 임원실",
+      "subtitle": "모두 퇴근한 밤, 둘만 남은 사무실의 텐션",
+      "leadRole": "카리스마 디렉터",
+      "partnerRole": "대담한 비서",
+      "acts": [
+        {
+          "actTitle": "1막 · 문 잠그기",
+          "durationSec": 40,
+          "direction": "{lead}님이 {partner}님에게 사무실 문을 잠그고 책상 앞으로 가까이 오라고 지시합니다.",
+          "whisperLine": "「오늘 오후 내내 나한테 집중을 못 하게 만들었잖아. 이리 와.」"
+        },
+        {
+          "actTitle": "2막 · 선 넘는 밀당",
+          "durationSec": 45,
+          "direction": "{partner}님이 가까이 와 {lead}님의 옷깃을 정리하고, {lead}님이 허리를 확 당겨 안습니다.",
+          "whisperLine": "「계속 지시만 할 거예요, 아니면 진짜 원하는 걸 말할 거예요?」"
+        },
+        {
+          "actTitle": "3막 · 야근 보너스",
+          "durationSec": 30,
+          "direction": "{lead}님이 목선과 입술에 강렬한 키스를 퍼부으며 오늘 밤 보너스를 챙깁니다.",
+          "whisperLine": "「오늘 남은 야근 일정은 전부 내 마음대로야.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_blindfold_chef",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "blindfold",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "자정의 안대 테이스팅",
+      "subtitle": "시각을 가린 채 숨결·터치·감각만으로 느끼는 밤",
+      "leadRole": "심야 소믈리에",
+      "partnerRole": "블라인드 게스트",
+      "acts": [
+        {
+          "actTitle": "1막 · 시선 맡기기",
+          "durationSec": 30,
+          "direction": "{partner}님이 눈을 감으면 {lead}님이 상대의 양손을 부드럽게 내려놓게 합니다.",
+          "whisperLine": "「엿보기 금지 — 오늘 밤은 오직 피부와 숨결로만 느끼는 거예요.」"
+        },
+        {
+          "actTitle": "2막 · 아찔한 시음",
+          "durationSec": 45,
+          "direction": "{lead}님이 손끝으로 입술을 스치고 귓불을 살짝 부드러운 입맞춤며 뜨거운 숨결을 불어넣습니다.",
+          "whisperLine": "「눈 뜨지 말고 말해봐요. 지금 어디에 키스받고 싶어요?」"
+        },
+        {
+          "actTitle": "3막 · 시크릿 디저트",
+          "durationSec": 30,
+          "direction": "{lead}님이 목덜미에서 입술까지 천천히 키스해 올라오며 {partner}님을 무장해제시킵니다.",
+          "whisperLine": "「자, 이제 오늘 밤 진짜 디저트를 맛볼 시간이에요.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_stylist",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "프라이빗 피팅룸",
+      "subtitle": "벨벳 커튼 뒤에서 한 겹씩 느슨하게지는 긴장감",
+      "leadRole": "전속 스타일리스트",
+      "partnerRole": "뮤즈",
+      "acts": [
+        {
+          "actTitle": "1막 · 밀착 치수 재기",
+          "durationSec": 40,
+          "direction": "{lead}님이 바짝 다가가 어깨선과 허리선을 손끝으로 훑으며 핏을 확인하는 척합니다.",
+          "whisperLine": "「가만히 서 있어요 — 라인이 얼마나 잘 맞는지 확인해야 하니까.」"
+        },
+        {
+          "actTitle": "2막 · 천천히 벗기기",
+          "durationSec": 45,
+          "direction": "{lead}님이 한쪽 옷깃이나 소매를 살짝 내리고 드러난 어깨와 목선에 입술을 머뭅니다.",
+          "whisperLine": "「솔직히 이건 안 입는 편이 훨씬 더 치명적이네요.」"
+        },
+        {
+          "actTitle": "3막 · 커튼 뒤의 밤",
+          "durationSec": 30,
+          "direction": "{lead}님이 뒤에서 {partner}님을 깊게 끌어안고 목덜미에 키스하며 속삭입니다.",
+          "whisperLine": "「파티 따윈 잊어버려요. 오늘 밤은 여기서 나가지 말자.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_velvet_ruler",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "벨벳 소버린",
+      "subtitle": "달콤한 지배, 귓가의 복종, 그리고 기다림 끝의 보상",
+      "leadRole": "지배자",
+      "partnerRole": "순종하는 연인",
+      "acts": [
+        {
+          "actTitle": "1막 · 규칙 선포",
+          "durationSec": 35,
+          "direction": "{lead}님이 {partner}님에게 손을 등 뒤로 숨기고 고개를 들어 눈을 맞추라고 합니다.",
+          "whisperLine": "「앞으로 3분 동안 내 허락 없이는 손가락 하나도 움직이지 마.」"
+        },
+        {
+          "actTitle": "2막 · 인내심 테스트",
+          "durationSec": 45,
+          "direction": "{lead}님이 천천히 곁을 맴돌며 깃털 같은 터치, 뜨거운 숨결, 귓불 부드러운 입맞춤기로 목선을 애태웁니다.",
+          "whisperLine": "「착하지, 그대로 있어 — 키스하고 싶어서 얼마나 버틸 수 있나 보자.」"
+        },
+        {
+          "actTitle": "3막 · 완벽한 보상",
+          "durationSec": 30,
+          "direction": "{lead}님이 가벼운 스팽킹으로 신호를 준 뒤 {partner}님을 끌어당겨 숨 막히는 천천히 스며드는 입맞춤를 나눕니다.",
+          "whisperLine": "「완벽했어 — 이제 말해봐, 이 키스가 얼마나 간절했는지.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_01",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "비 오는 밤의 수줍은 유혹",
+      "subtitle": "수줍음과 대담함이 교차하는 3막 밀착 시나리오",
+      "leadRole": "리드 역",
+      "partnerRole": "파트너 역",
+      "acts": [
+        {
+          "actTitle": "1막 · 좁혀지는 거리",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}의 턱선과 손목을 부드럽게 잡으며 눈을 맞춘 채 한 걸음 다가갑니다.",
+          "whisperLine": "\"있잖아… 조금만 더 가까이 와도 돼?\""
+        },
+        {
+          "actTitle": "2막 · 숨결의 애태우기",
+          "durationSec": 50,
+          "direction": "{lead}이(가) {partner}의 귓가와 목덜미에 뜨거운 숨결을 불며 입술 1cm 앞에서 3초 멈춥니다.",
+          "whisperLine": "\"귀가 빨개졌네… 지금 무슨 생각 중이야?\""
+        },
+        {
+          "actTitle": "3막 · 녹아내리는 피날레",
+          "durationSec": 55,
+          "direction": "{partner}이(가) 수줍게 웃으며 {lead}을(를) 끌어당겨 숨 막히는 부드럽게 가까이로 마무리합니다.",
+          "whisperLine": "\"오늘 밤은 절대 못 도망가…\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_02",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "alcohol",
+        "indoor"
+      ],
+      "title": "심야 재즈바의 취기 어린 만남",
+      "subtitle": "수줍음과 대담함이 교차하는 3막 밀착 시나리오",
+      "leadRole": "리드 역",
+      "partnerRole": "파트너 역",
+      "acts": [
+        {
+          "actTitle": "1막 · 좁혀지는 거리",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}의 턱선과 손목을 부드럽게 잡으며 눈을 맞춘 채 한 걸음 다가갑니다.",
+          "whisperLine": "\"있잖아… 조금만 더 가까이 와도 돼?\""
+        },
+        {
+          "actTitle": "2막 · 숨결의 애태우기",
+          "durationSec": 50,
+          "direction": "{lead}이(가) {partner}의 귓가와 목덜미에 뜨거운 숨결을 불며 입술 1cm 앞에서 3초 멈춥니다.",
+          "whisperLine": "\"귀가 빨개졌네… 지금 무슨 생각 중이야?\""
+        },
+        {
+          "actTitle": "3막 · 녹아내리는 피날레",
+          "durationSec": 55,
+          "direction": "{partner}이(가) 수줍게 웃으며 {lead}을(를) 끌어당겨 숨 막히는 부드럽게 가까이로 마무리합니다.",
+          "whisperLine": "\"오늘 밤은 절대 못 도망가…\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_03",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "파티장 몰래 빠져나온 밀실",
+      "subtitle": "수줍음과 대담함이 교차하는 3막 밀착 시나리오",
+      "leadRole": "리드 역",
+      "partnerRole": "파트너 역",
+      "acts": [
+        {
+          "actTitle": "1막 · 좁혀지는 거리",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}의 턱선과 손목을 부드럽게 잡으며 눈을 맞춘 채 한 걸음 다가갑니다.",
+          "whisperLine": "\"있잖아… 조금만 더 가까이 와도 돼?\""
+        },
+        {
+          "actTitle": "2막 · 숨결의 애태우기",
+          "durationSec": 50,
+          "direction": "{lead}이(가) {partner}의 귓가와 목덜미에 뜨거운 숨결을 불며 입술 1cm 앞에서 3초 멈춥니다.",
+          "whisperLine": "\"귀가 빨개졌네… 지금 무슨 생각 중이야?\""
+        },
+        {
+          "actTitle": "3막 · 녹아내리는 피날레",
+          "durationSec": 55,
+          "direction": "{partner}이(가) 수줍게 웃으며 {lead}을(를) 끌어당겨 숨 막히는 부드럽게 가까이로 마무리합니다.",
+          "whisperLine": "\"오늘 밤은 절대 못 도망가…\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_04",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "eye_contact",
+        "indoor"
+      ],
+      "title": "비밀 아틀리에의 손끝 스케치",
+      "subtitle": "수줍음과 대담함이 교차하는 3막 밀착 시나리오",
+      "leadRole": "리드 역",
+      "partnerRole": "파트너 역",
+      "acts": [
+        {
+          "actTitle": "1막 · 좁혀지는 거리",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}의 턱선과 손목을 부드럽게 잡으며 눈을 맞춘 채 한 걸음 다가갑니다.",
+          "whisperLine": "\"있잖아… 조금만 더 가까이 와도 돼?\""
+        },
+        {
+          "actTitle": "2막 · 숨결의 애태우기",
+          "durationSec": 50,
+          "direction": "{lead}이(가) {partner}의 귓가와 목덜미에 뜨거운 숨결을 불며 입술 1cm 앞에서 3초 멈춥니다.",
+          "whisperLine": "\"귀가 빨개졌네… 지금 무슨 생각 중이야?\""
+        },
+        {
+          "actTitle": "3막 · 녹아내리는 피날레",
+          "durationSec": 55,
+          "direction": "{partner}이(가) 수줍게 웃으며 {lead}을(를) 끌어당겨 숨 막히는 부드럽게 가까이로 마무리합니다.",
+          "whisperLine": "\"오늘 밤은 절대 못 도망가…\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_05",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "벨벳 피팅룸 커튼 뒤에서",
+      "subtitle": "수줍음과 대담함이 교차하는 3막 밀착 시나리오",
+      "leadRole": "리드 역",
+      "partnerRole": "파트너 역",
+      "acts": [
+        {
+          "actTitle": "1막 · 좁혀지는 거리",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}의 턱선과 손목을 부드럽게 잡으며 눈을 맞춘 채 한 걸음 다가갑니다.",
+          "whisperLine": "\"있잖아… 조금만 더 가까이 와도 돼?\""
+        },
+        {
+          "actTitle": "2막 · 숨결의 애태우기",
+          "durationSec": 50,
+          "direction": "{lead}이(가) {partner}의 귓가와 목덜미에 뜨거운 숨결을 불며 입술 1cm 앞에서 3초 멈춥니다.",
+          "whisperLine": "\"귀가 빨개졌네… 지금 무슨 생각 중이야?\""
+        },
+        {
+          "actTitle": "3막 · 녹아내리는 피날레",
+          "durationSec": 55,
+          "direction": "{partner}이(가) 수줍게 웃으며 {lead}을(를) 끌어당겨 숨 막히는 부드럽게 가까이로 마무리합니다.",
+          "whisperLine": "\"오늘 밤은 절대 못 도망가…\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_06",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "blindfold"
+      ],
+      "title": "자정의 3분 달콤한 복종 계약",
+      "subtitle": "수줍음과 대담함이 교차하는 3막 밀착 시나리오",
+      "leadRole": "리드 역",
+      "partnerRole": "파트너 역",
+      "acts": [
+        {
+          "actTitle": "1막 · 좁혀지는 거리",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}의 턱선과 손목을 부드럽게 잡으며 눈을 맞춘 채 한 걸음 다가갑니다.",
+          "whisperLine": "\"있잖아… 조금만 더 가까이 와도 돼?\""
+        },
+        {
+          "actTitle": "2막 · 숨결의 애태우기",
+          "durationSec": 50,
+          "direction": "{lead}이(가) {partner}의 귓가와 목덜미에 뜨거운 숨결을 불며 입술 1cm 앞에서 3초 멈춥니다.",
+          "whisperLine": "\"귀가 빨개졌네… 지금 무슨 생각 중이야?\""
+        },
+        {
+          "actTitle": "3막 · 녹아내리는 피날레",
+          "durationSec": 55,
+          "direction": "{partner}이(가) 수줍게 웃으며 {lead}을(를) 끌어당겨 숨 막히는 부드럽게 가까이로 마무리합니다.",
+          "whisperLine": "\"오늘 밤은 절대 못 도망가…\""
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "커튼 너머 노을 진 창가 · 쿠션 가득한 러그 위의 만남",
+      "subtitle": "커튼 너머 노을 진 창가 감성으로 시작되는 설레는 첫 만남",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 쿠션 가득한 러그 위에서 {partner}에게 다가가 입술 1cm 앞에서 매번 멈칫하며 상태로 '오늘 문득 떠올렸던 가장 야릇한 상상'을(를) 건넨다.",
+          "whisperLine": "「오늘 밤 조명 너무 좋다… 조금 더 가까이 가도 될까?」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '따뜻한 손바닥으로 천천히 쓸다 갑자기 품에 끌어당기기'로 {partner}의 팔 안쪽을(를) 천천히 어루만진다.",
+          "whisperLine": "「눈 피하지 않아도 돼, 지금 심장 소리 들리는 것 같아.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "쿠션 가득한 러그 위에서 포근히 안긴 채 {lead}이(가) 팔 안쪽을(를) 손끝으로 천천히 어루만져 주세요하며 마무리.",
+          "whisperLine": "「이 순간 시간이 멈췄으면 좋겠어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "바닷바람 부는 캠핑카 · 커튼 뒤 아늑한 공간의 만남",
+      "subtitle": "바닷바람 부는 캠핑카 감성으로 시작되는 설레는 첫 만남",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 커튼 뒤 아늑한 공간에서 {partner}에게 다가가 귓가에 애칭을 낮게 부르며 상태로 '손 잡았을 때 속으로 떠올린 상상'을(를) 건넨다.",
+          "whisperLine": "「오늘 밤 조명 너무 좋다… 조금 더 가까이 가도 될까?」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '옷 위로 따뜻하게 감싸며 천천히'로 {partner}의 귀 뒤쪽을(를) 천천히 어루만진다.",
+          "whisperLine": "「눈 피하지 않아도 돼, 지금 심장 소리 들리는 것 같아.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "커튼 뒤 아늑한 공간에서 포근히 안긴 채 {lead}이(가) 귀 뒤쪽을(를) 깃털처럼 가벼운 키스를 남기며하며 마무리.",
+          "whisperLine": "「이 순간 시간이 멈췄으면 좋겠어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "촛불 켜진 루프탑 바 · 화장대 조명 앞의 만남",
+      "subtitle": "촛불 켜진 루프탑 바 감성으로 시작되는 설레는 첫 만남",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 화장대 조명 앞에서 {partner}에게 다가가 장난기 어린 미소를 머금은 채 상태로 '불을 끈 뒤 가장 바라는 스킨십 방식'을(를) 건넨다.",
+          "whisperLine": "「오늘 밤 조명 너무 좋다… 조금 더 가까이 가도 될까?」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '손을 단단히 잡은 뒤, 숨처럼 가벼운 손끝으로'로 {partner}의 턱끝을(를) 천천히 어루만진다.",
+          "whisperLine": "「눈 피하지 않아도 돼, 지금 심장 소리 들리는 것 같아.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "화장대 조명 앞에서 포근히 안긴 채 {lead}이(가) 턱끝을(를) 따뜻하게 마사지해 주세요하며 마무리.",
+          "whisperLine": "「이 순간 시간이 멈췄으면 좋겠어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "벨벳 조명의 부티크 호텔 라운지 · 침실 벽 앞의 만남",
+      "subtitle": "벨벳 조명의 부티크 호텔 라운지 감성으로 시작되는 설레는 첫 만남",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 침실 벽 앞에서 {partner}에게 다가가 완전한 침묵 속에서 상태로 '지금 당장 가장 키스하고 싶은 부위'을(를) 건넨다.",
+          "whisperLine": "「오늘 밤 조명 너무 좋다… 조금 더 가까이 가도 될까?」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '코끝을 맞댄 직후 녹아내리는 슬로우 키스'로 {partner}의 쇄골을(를) 천천히 어루만진다.",
+          "whisperLine": "「눈 피하지 않아도 돼, 지금 심장 소리 들리는 것 같아.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "침실 벽 앞에서 포근히 안긴 채 {lead}이(가) 쇄골을(를) 따뜻한 숨결을 가만히 불어넣으며하며 마무리.",
+          "whisperLine": "「이 순간 시간이 멈췄으면 좋겠어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "둘만의 프라이빗 노천 스파 · 침대 가장자리의 만남",
+      "subtitle": "둘만의 프라이빗 노천 스파 감성으로 시작되는 설레는 첫 만남",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 침대 가장자리에서 {partner}에게 다가가 입술 1cm 앞에서 매번 멈칫하며 상태로 '내 키스 습관 중 제일 좋은 점'을(를) 건넨다.",
+          "whisperLine": "「오늘 밤 조명 너무 좋다… 조금 더 가까이 가도 될까?」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '숨이 닿는 거리에서 멈칫한 뒤, 다가가기'로 {partner}의 손가락 마디을(를) 천천히 어루만진다.",
+          "whisperLine": "「눈 피하지 않아도 돼, 지금 심장 소리 들리는 것 같아.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "침대 가장자리에서 포근히 안긴 채 {lead}이(가) 손가락 마디을(를) 뜨거운 숨결을 천천히 불어넣어 주세요하며 마무리.",
+          "whisperLine": "「이 순간 시간이 멈췄으면 좋겠어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "촛불 켠 따뜻한 욕실 · 전신 거울 앞의 만남",
+      "subtitle": "촛불 켠 따뜻한 욕실 감성으로 시작되는 설레는 첫 만남",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 전신 거울 앞에서 {partner}에게 다가가 귓가에 애칭을 낮게 부르며 상태로 '오늘 밤 정확히 어느 순간에 이성이 흔들렸는지'을(를) 건넨다.",
+          "whisperLine": "「오늘 밤 조명 너무 좋다… 조금 더 가까이 가도 될까?」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '손끝으로 가볍게 스친 뒤, 부드러운 입맞춤'로 {partner}의 목선을(를) 천천히 어루만진다.",
+          "whisperLine": "「눈 피하지 않아도 돼, 지금 심장 소리 들리는 것 같아.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "전신 거울 앞에서 포근히 안긴 채 {lead}이(가) 목선을(를) 따뜻한 손바닥으로 감싸 안으며하며 마무리.",
+          "whisperLine": "「이 순간 시간이 멈췄으면 좋겠어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "빗소리 들리는 다락방 침대 · 소파 구석의 만남",
+      "subtitle": "빗소리 들리는 다락방 침대 감성으로 시작되는 설레는 첫 만남",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 소파 구석에서 {partner}에게 다가가 장난기 어린 미소를 머금은 채 상태로 '아침이 오기 전에 꼭 해보고 싶은 비밀 판타지'을(를) 건넨다.",
+          "whisperLine": "「오늘 밤 조명 너무 좋다… 조금 더 가까이 가도 될까?」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '따뜻한 숨결 직후 포개는 입술'로 {partner}의 관자놀이와 미간을(를) 천천히 어루만진다.",
+          "whisperLine": "「눈 피하지 않아도 돼, 지금 심장 소리 들리는 것 같아.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "소파 구석에서 포근히 안긴 채 {lead}이(가) 관자놀이와 미간을(를) 코끝으로 살며시 비비며하며 마무리.",
+          "whisperLine": "「이 순간 시간이 멈췄으면 좋겠어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "한밤중 오션뷰 발코니 · 주방 카운터의 만남",
+      "subtitle": "한밤중 오션뷰 발코니 감성으로 시작되는 설레는 첫 만남",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 주방 카운터에서 {partner}에게 다가가 완전한 침묵 속에서 상태로 '지금 눈을 보며 떠오른 칭찬'을(를) 건넨다.",
+          "whisperLine": "「오늘 밤 조명 너무 좋다… 조금 더 가까이 가도 될까?」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '살짝 깨문 직후 숨결을 따라 부드럽게 달래기'로 {partner}의 입꼬리 옆을(를) 천천히 어루만진다.",
+          "whisperLine": "「눈 피하지 않아도 돼, 지금 심장 소리 들리는 것 같아.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "주방 카운터에서 포근히 안긴 채 {lead}이(가) 입꼬리 옆을(를) 깊고 느린 키스를 남겨주세요하며 마무리.",
+          "whisperLine": "「이 순간 시간이 멈췄으면 좋겠어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "비밀 심야 재즈바 · 어두운 복도 문틀의 만남",
+      "subtitle": "비밀 심야 재즈바 감성으로 시작되는 설레는 첫 만남",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 어두운 복도 문틀에서 {partner}에게 다가가 입술 1cm 앞에서 매번 멈칫하며 상태로 '오늘 나를 보고 몰래 설렜던 디테일'을(를) 건넨다.",
+          "whisperLine": "「오늘 밤 조명 너무 좋다… 조금 더 가까이 가도 될까?」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '손바닥을 가볍게 쓴 뒤, 손가락을 맞잡기'로 {partner}의 어깨뼈 라인을(를) 천천히 어루만진다.",
+          "whisperLine": "「눈 피하지 않아도 돼, 지금 심장 소리 들리는 것 같아.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "어두운 복도 문틀에서 포근히 안긴 채 {lead}이(가) 어깨뼈 라인을(를) 손끝으로 천천히 원을 그리며하며 마무리.",
+          "whisperLine": "「이 순간 시간이 멈췄으면 좋겠어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "프라이빗 극장 · 바닷바람 부는 캠핑카",
+      "subtitle": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 테마로 포근한 침대 끝에서 펼치는 밀당 로맨스",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 포근한 침대 끝(으)로 이끌며 '가명으로 펜트하우스에 체크인한 비밀 일탈' 상황을 시작한다.",
+          "whisperLine": "「문 닫았으니까 이제 오늘 밤 규칙은 우리 마음대로야.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 귀 뒤 민감 스팟부터 귓바퀴 테두리까지 따뜻한 손바닥으로 감싸 안으며.",
+          "whisperLine": "「참고 있을수록 더 애태우고 싶어지는데 어떡하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "{partner}이(가) 주도권을 되찾아 포근한 침대 끝에서 '손끝으로 가볍게 스친 뒤, 부드러운 입맞춤'로 분위기를 절정으로 끌어올린다.",
+          "whisperLine": "「이제 내 호흡에 맞춰 따라와.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "프라이빗 극장 · 촛불 켜진 루프탑 바",
+      "subtitle": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 테마로 어둑한 현관 앞에서 펼치는 밀당 로맨스",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 어둑한 현관 앞(으)로 이끌며 '가명으로 펜트하우스에 체크인한 비밀 일탈' 상황을 시작한다.",
+          "whisperLine": "「문 닫았으니까 이제 오늘 밤 규칙은 우리 마음대로야.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 옆구리 라인부터 손목 안쪽까지 코끝으로 살며시 비비며.",
+          "whisperLine": "「참고 있을수록 더 애태우고 싶어지는데 어떡하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "{partner}이(가) 주도권을 되찾아 어둑한 현관 앞에서 '따뜻한 숨결 직후 포개는 입술'로 분위기를 절정으로 끌어올린다.",
+          "whisperLine": "「이제 내 호흡에 맞춰 따라와.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "프라이빗 극장 · 벨벳 조명의 부티크 호텔 라운지",
+      "subtitle": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 테마로 드레스룸 거울 앞에서 펼치는 밀당 로맨스",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 드레스룸 거울 앞(으)로 이끌며 '가명으로 펜트하우스에 체크인한 비밀 일탈' 상황을 시작한다.",
+          "whisperLine": "「문 닫았으니까 이제 오늘 밤 규칙은 우리 마음대로야.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 목젖 아래선부터 손바닥과 손끝까지 깊고 느린 키스를 남겨주세요.",
+          "whisperLine": "「참고 있을수록 더 애태우고 싶어지는데 어떡하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "{partner}이(가) 주도권을 되찾아 드레스룸 거울 앞에서 '살짝 깨문 직후 숨결을 따라 부드럽게 달래기'로 분위기를 절정으로 끌어올린다.",
+          "whisperLine": "「이제 내 호흡에 맞춰 따라와.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "프라이빗 극장 · 둘만의 프라이빗 노천 스파",
+      "subtitle": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 테마로 쿠션 가득한 러그 위에서 펼치는 밀당 로맨스",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 쿠션 가득한 러그 위(으)로 이끌며 '가명으로 펜트하우스에 체크인한 비밀 일탈' 상황을 시작한다.",
+          "whisperLine": "「문 닫았으니까 이제 오늘 밤 규칙은 우리 마음대로야.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 허리 뒤쪽부터 팔 안쪽까지 손끝으로 천천히 원을 그리며.",
+          "whisperLine": "「참고 있을수록 더 애태우고 싶어지는데 어떡하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "{partner}이(가) 주도권을 되찾아 쿠션 가득한 러그 위에서 '손바닥을 가볍게 쓴 뒤, 손가락을 맞잡기'로 분위기를 절정으로 끌어올린다.",
+          "whisperLine": "「이제 내 호흡에 맞춰 따라와.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "프라이빗 극장 · 촛불 켠 따뜻한 욕실",
+      "subtitle": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 테마로 커튼 뒤 아늑한 공간에서 펼치는 밀당 로맨스",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 커튼 뒤 아늑한 공간(으)로 이끌며 '가명으로 펜트하우스에 체크인한 비밀 일탈' 상황을 시작한다.",
+          "whisperLine": "「문 닫았으니까 이제 오늘 밤 규칙은 우리 마음대로야.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 쇄골 움푹한 곳부터 귀 뒤쪽까지 깃털처럼 부드럽게 스쳐주세요.",
+          "whisperLine": "「참고 있을수록 더 애태우고 싶어지는데 어떡하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "{partner}이(가) 주도권을 되찾아 커튼 뒤 아늑한 공간에서 '시원한 숨결 직후 쏟아지는 뜨거운 습식 키스'로 분위기를 절정으로 끌어올린다.",
+          "whisperLine": "「이제 내 호흡에 맞춰 따라와.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "프라이빗 극장 · 빗소리 들리는 다락방 침대",
+      "subtitle": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 테마로 화장대 조명 앞에서 펼치는 밀당 로맨스",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 화장대 조명 앞(으)로 이끌며 '가명으로 펜트하우스에 체크인한 비밀 일탈' 상황을 시작한다.",
+          "whisperLine": "「문 닫았으니까 이제 오늘 밤 규칙은 우리 마음대로야.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 손목 맥박 부위부터 턱끝까지 입술로 스치듯 애태우며.",
+          "whisperLine": "「참고 있을수록 더 애태우고 싶어지는데 어떡하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "{partner}이(가) 주도권을 되찾아 화장대 조명 앞에서 '손을 살짝 감싼 뒤, 천천히 스며드는 입맞춤'로 분위기를 절정으로 끌어올린다.",
+          "whisperLine": "「이제 내 호흡에 맞춰 따라와.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "프라이빗 극장 · 한밤중 오션뷰 발코니",
+      "subtitle": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 테마로 침실 벽 앞에서 펼치는 밀당 로맨스",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 침실 벽 앞(으)로 이끌며 '가명으로 펜트하우스에 체크인한 비밀 일탈' 상황을 시작한다.",
+          "whisperLine": "「문 닫았으니까 이제 오늘 밤 규칙은 우리 마음대로야.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 어깨뼈부터 쇄골까지 입술로 스치듯 반복해 애태워 주세요.",
+          "whisperLine": "「참고 있을수록 더 애태우고 싶어지는데 어떡하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "{partner}이(가) 주도권을 되찾아 침실 벽 앞에서 '머리카락을 쓸다 목선을 당겨오는 포옹'로 분위기를 절정으로 끌어올린다.",
+          "whisperLine": "「이제 내 호흡에 맞춰 따라와.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "프라이빗 극장 · 비밀 심야 재즈바",
+      "subtitle": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 테마로 침대 가장자리에서 펼치는 밀당 로맨스",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 침대 가장자리(으)로 이끌며 '가명으로 펜트하우스에 체크인한 비밀 일탈' 상황을 시작한다.",
+          "whisperLine": "「문 닫았으니까 이제 오늘 밤 규칙은 우리 마음대로야.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '부위를 옮기기 직전 낮게 이름 속삭이기'을(를) 지키며 뒷목 헤어라인부터 손가락 마디까지 손끝으로 천천히 어루만져 주세요.",
+          "whisperLine": "「참고 있을수록 더 애태우고 싶어지는데 어떡하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "{partner}이(가) 주도권을 되찾아 침대 가장자리에서 '따뜻한 손바닥으로 천천히 쓸다 갑자기 품에 끌어당기기'로 분위기를 절정으로 끌어올린다.",
+          "whisperLine": "「이제 내 호흡에 맞춰 따라와.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "프라이빗 극장 · 별빛 가득한 비밀 정원",
+      "subtitle": "'가명으로 펜트하우스에 체크인한 비밀 일탈' 테마로 전신 거울 앞에서 펼치는 밀당 로맨스",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 전신 거울 앞(으)로 이끌며 '가명으로 펜트하우스에 체크인한 비밀 일탈' 상황을 시작한다.",
+          "whisperLine": "「문 닫았으니까 이제 오늘 밤 규칙은 우리 마음대로야.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) '깃털 같은 터치와 단단한 그립을 번갈아 쓰기'을(를) 지키며 귀 뒤 민감 스팟부터 목선까지 깃털처럼 가벼운 키스를 남기며.",
+          "whisperLine": "「참고 있을수록 더 애태우고 싶어지는데 어떡하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "{partner}이(가) 주도권을 되찾아 전신 거울 앞에서 '옷 위로 따뜻하게 감싸며 천천히'로 분위기를 절정으로 끌어올린다.",
+          "whisperLine": "「이제 내 호흡에 맞춰 따라와.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "금지된 밤 · 작은 스탠드만 켠 침대 머리맡",
+      "subtitle": "단둘만의 공간에서 열리는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 3막극",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 작은 스탠드만 켠 침대 머리맡(으)로 끌어당겨 귓가에 '불을 끄면 가장 먼저 하고 싶은 일'을(를) 속삭인다.",
+          "whisperLine": "「태연한 척해도 거칠어진 숨소리가 다 들려.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 뜨거운 숨결과 뜨거운 숨결과 습식 키스를 이어가세요을(를) {partner}의 등줄기에 번갈아 전한다(부위를 옮기기 직전 낮게 이름 속삭이기).",
+          "whisperLine": "「솔직히 말해, 여기가 제일 약하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "작은 스탠드만 켠 침대 머리맡에서 초밀착해 손목 맥박 부위와 등줄기을(를) 뜨거운 숨결과 습식 키스를 이어가세요하며 피날레.",
+          "whisperLine": "「오늘 밤은 망설이지 말고 그대로 빠져들어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "금지된 밤 · 무드등 아래 창가",
+      "subtitle": "단둘만의 공간에서 열리는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 3막극",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 무드등 아래 창가(으)로 끌어당겨 귓가에 '가장 약한 나의 애교'을(를) 속삭인다.",
+          "whisperLine": "「태연한 척해도 거칠어진 숨소리가 다 들려.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 뜨거운 숨결과 숨 막히는 키스를 퍼부어 주세요을(를) {partner}의 뒷목 헤어라인에 번갈아 전한다(깃털 같은 터치와 단단한 그립을 번갈아 쓰기).",
+          "whisperLine": "「솔직히 말해, 여기가 제일 약하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "무드등 아래 창가에서 초밀착해 어깨뼈와 뒷목 헤어라인을(를) 숨 막히는 키스를 퍼부어 주세요하며 피날레.",
+          "whisperLine": "「오늘 밤은 망설이지 말고 그대로 빠져들어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "금지된 밤 · 소파 팔걸이 옆",
+      "subtitle": "단둘만의 공간에서 열리는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 3막극",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 소파 팔걸이 옆(으)로 끌어당겨 귓가에 '몰래 데려가 키스하고 싶은 아찔한 장소'을(를) 속삭인다.",
+          "whisperLine": "「태연한 척해도 거칠어진 숨소리가 다 들려.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 뜨거운 숨결과 촉촉한 숨결을 따라 선을 그려주세요을(를) {partner}의 목덜미에 번갈아 전한다(부위를 옮기기 직전 낮게 이름 속삭이기).",
+          "whisperLine": "「솔직히 말해, 여기가 제일 약하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "소파 팔걸이 옆에서 초밀착해 뒷목 헤어라인와 목덜미을(를) 촉촉한 숨결을 따라 선을 그려주세요하며 피날레.",
+          "whisperLine": "「오늘 밤은 망설이지 말고 그대로 빠져들어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "금지된 밤 · 포근한 침대 끝",
+      "subtitle": "단둘만의 공간에서 열리는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 3막극",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 포근한 침대 끝(으)로 끌어당겨 귓가에 '놓기 싫었던 그날의 포옹'을(를) 속삭인다.",
+          "whisperLine": "「태연한 척해도 거칠어진 숨소리가 다 들려.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 뜨거운 숨결과 부드럽게 부드러운 입맞춤어 주세요을(를) {partner}의 허벅지 안쪽에 번갈아 전한다(깃털 같은 터치와 단단한 그립을 번갈아 쓰기).",
+          "whisperLine": "「솔직히 말해, 여기가 제일 약하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "포근한 침대 끝에서 초밀착해 귀 뒤 민감 스팟와 허벅지 안쪽을(를) 부드럽게 부드러운 입맞춤어 주세요하며 피날레.",
+          "whisperLine": "「오늘 밤은 망설이지 말고 그대로 빠져들어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "금지된 밤 · 어둑한 현관 앞",
+      "subtitle": "단둘만의 공간에서 열리는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 3막극",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 어둑한 현관 앞(으)로 끌어당겨 귓가에 '잠들기 전 몰래 바라는 스킨십'을(를) 속삭인다.",
+          "whisperLine": "「태연한 척해도 거칠어진 숨소리가 다 들려.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 뜨거운 숨결과 입술과 손끝으로 번갈아 애태워 주세요을(를) {partner}의 골반선에 번갈아 전한다(부위를 옮기기 직전 낮게 이름 속삭이기).",
+          "whisperLine": "「솔직히 말해, 여기가 제일 약하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "어둑한 현관 앞에서 초밀착해 옆구리 라인와 골반선을(를) 입술과 손끝으로 번갈아 애태워 주세요하며 피날레.",
+          "whisperLine": "「오늘 밤은 망설이지 말고 그대로 빠져들어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "금지된 밤 · 드레스룸 거울 앞",
+      "subtitle": "단둘만의 공간에서 열리는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 3막극",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 드레스룸 거울 앞(으)로 끌어당겨 귓가에 '오늘 밤 입어줬으면 — 혹은 벗어줬으면 — 하는 옷'을(를) 속삭인다.",
+          "whisperLine": "「태연한 척해도 거칠어진 숨소리가 다 들려.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 뜨거운 숨결과 장난스럽게 깨문 직후 키스로 달래주세요을(를) {partner}의 귓불에 번갈아 전한다(깃털 같은 터치와 단단한 그립을 번갈아 쓰기).",
+          "whisperLine": "「솔직히 말해, 여기가 제일 약하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "드레스룸 거울 앞에서 초밀착해 목젖 아래선와 귓불을(를) 장난스럽게 깨문 직후 키스로 달래주세요하며 피날레.",
+          "whisperLine": "「오늘 밤은 망설이지 말고 그대로 빠져들어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "금지된 밤 · 쿠션 가득한 러그 위",
+      "subtitle": "단둘만의 공간에서 열리는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 3막극",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 쿠션 가득한 러그 위(으)로 끌어당겨 귓가에 '오늘 문득 떠올렸던 가장 야릇한 상상'을(를) 속삭인다.",
+          "whisperLine": "「태연한 척해도 거칠어진 숨소리가 다 들려.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 뜨거운 숨결과 숨결을 따라 천천히 숨을 살짝 스치게 해주세요을(를) {partner}의 허리라인에 번갈아 전한다(부위를 옮기기 직전 낮게 이름 속삭이기).",
+          "whisperLine": "「솔직히 말해, 여기가 제일 약하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "쿠션 가득한 러그 위에서 초밀착해 허리 뒤쪽와 허리라인을(를) 숨결을 따라 천천히 숨을 살짝 스치게 해주세요하며 피날레.",
+          "whisperLine": "「오늘 밤은 망설이지 말고 그대로 빠져들어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "금지된 밤 · 커튼 뒤 아늑한 공간",
+      "subtitle": "단둘만의 공간에서 열리는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 3막극",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 커튼 뒤 아늑한 공간(으)로 끌어당겨 귓가에 '손 잡았을 때 속으로 떠올린 상상'을(를) 속삭인다.",
+          "whisperLine": "「태연한 척해도 거칠어진 숨소리가 다 들려.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 뜨거운 숨결과 입술로 살짝 빨고 진하게 키스해 주세요을(를) {partner}의 아랫배 라인에 번갈아 전한다(깃털 같은 터치와 단단한 그립을 번갈아 쓰기).",
+          "whisperLine": "「솔직히 말해, 여기가 제일 약하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "커튼 뒤 아늑한 공간에서 초밀착해 쇄골 움푹한 곳와 아랫배 라인을(를) 입술로 살짝 빨고 진하게 키스해 주세요하며 피날레.",
+          "whisperLine": "「오늘 밤은 망설이지 말고 그대로 빠져들어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "금지된 밤 · 화장대 조명 앞",
+      "subtitle": "단둘만의 공간에서 열리는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 3막극",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) {partner}을(를) 화장대 조명 앞(으)로 끌어당겨 귓가에 '불을 끈 뒤 가장 바라는 스킨십 방식'을(를) 속삭인다.",
+          "whisperLine": "「태연한 척해도 거칠어진 숨소리가 다 들려.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 뜨거운 숨결과 뜨거운 숨결과 습식 키스를 이어가세요을(를) {partner}의 가슴과 옆구리에 번갈아 전한다(부위를 옮기기 직전 낮게 이름 속삭이기).",
+          "whisperLine": "「솔직히 말해, 여기가 제일 약하지?」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "화장대 조명 앞에서 초밀착해 손목 맥박 부위와 가슴과 옆구리을(를) 뜨거운 숨결과 습식 키스를 이어가세요하며 피날레.",
+          "whisperLine": "「오늘 밤은 망설이지 말고 그대로 빠져들어.」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "자정의 지배자 · 주방 카운터",
+      "subtitle": "완전한 주도권을 즐기는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 하이텐션 시나리오",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 주방 카운터에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 벽에 등을 살짝 밀어 붙여 밀착한 채을(를) 안내.",
+          "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 눈을 맞춘 채 한 손로 셔츠 단추 두 개을(를) 젖히고 '코끝을 맞댄 직후 녹아내리는 슬로우 키스'로 쇄골을(를) 자극.",
+          "whisperLine": "「소리 참아 봐… 참을수록 더 짜릿해질 거야.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "'침대 위에서 무릎을 맞대고 마주 앉는 자세' 자세로 넘어가 {lead}이(가) {partner}의 등줄기 맨 아래을(를) 집중 장난스럽게 깨문 직후 키스로 달래주세요.",
+          "whisperLine": "「네가 진짜 원하던 게 바로 이거 맞지?」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "자정의 지배자 · 어두운 복도 문틀",
+      "subtitle": "완전한 주도권을 즐기는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 하이텐션 시나리오",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 어두운 복도 문틀에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 양손을 등 뒤로 잡아 반항을 막은 채을(를) 안내.",
+          "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 손 없이 입술과 치아로 어깨끈이나 옷깃을(를) 젖히고 '숨이 닿는 거리에서 멈칫한 뒤, 다가가기'로 등줄기을(를) 자극.",
+          "whisperLine": "「소리 참아 봐… 참을수록 더 짜릿해질 거야.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "'침실 벽에 기대어 천천히 가까이하는 자세' 자세로 넘어가 {lead}이(가) {partner}의 허리 잘록한 곳을(를) 집중 숨결을 따라 천천히 숨을 살짝 스치게 해주세요.",
+          "whisperLine": "「네가 진짜 원하던 게 바로 이거 맞지?」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "자정의 지배자 · 무드등 켜진 러그 위",
+      "subtitle": "완전한 주도권을 즐기는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 하이텐션 시나리오",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 무드등 켜진 러그 위에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고을(를) 안내.",
+          "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 극도로 느린 손끝로 액세서리 1개 + 겉옷 1겹을(를) 젖히고 '손끝으로 가볍게 스친 뒤, 부드러운 입맞춤'로 뒷목 헤어라인을(를) 자극.",
+          "whisperLine": "「소리 참아 봐… 참을수록 더 짜릿해질 거야.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "'마주 보고 가까이 앉기' 자세로 넘어가 {lead}이(가) {partner}의 아랫배 민감 라인을(를) 집중 입술로 살짝 빨고 진하게 키스해 주세요.",
+          "whisperLine": "「네가 진짜 원하던 게 바로 이거 맞지?」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "자정의 지배자 · 작은 스탠드만 켠 침대 머리맡",
+      "subtitle": "완전한 주도권을 즐기는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 하이텐션 시나리오",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 작은 스탠드만 켠 침대 머리맡에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 턱을 부드럽게 들어 올려 시선을 고정한 채을(를) 안내.",
+          "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 먼저 손등으로 스친 뒤 뜨거운 입술로 지퍼나 허리밴드 가장자리을(를) 젖히고 '따뜻한 숨결 직후 포개는 입술'로 목덜미을(를) 자극.",
+          "whisperLine": "「소리 참아 봐… 참을수록 더 짜릿해질 거야.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "'베개를 허리에 받치고 살짝 젖힌 자세' 자세로 넘어가 {lead}이(가) {partner}의 골반 곡선을(를) 집중 뜨거운 숨결과 습식 키스를 이어가세요.",
+          "whisperLine": "「네가 진짜 원하던 게 바로 이거 맞지?」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "자정의 지배자 · 무드등 아래 창가",
+      "subtitle": "완전한 주도권을 즐기는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 하이텐션 시나리오",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 무드등 아래 창가에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 양손을 머리 뒤에 깍지 끼게 해 무방비로 만든 채을(를) 안내.",
+          "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 파트너 본인의 손을 직접 이끌며로 상의 밑단을(를) 젖히고 '살짝 깨문 직후 숨결을 따라 부드럽게 달래기'로 허벅지 안쪽을(를) 자극.",
+          "whisperLine": "「소리 참아 봐… 참을수록 더 짜릿해질 거야.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "'눈을 감고 누워 모든 주도권을 맡기는 자세' 자세로 넘어가 {lead}이(가) {partner}의 허벅지 안쪽을(를) 집중 숨 막히는 키스를 퍼부어 주세요.",
+          "whisperLine": "「네가 진짜 원하던 게 바로 이거 맞지?」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "자정의 지배자 · 소파 팔걸이 옆",
+      "subtitle": "완전한 주도권을 즐기는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 하이텐션 시나리오",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 소파 팔걸이 옆에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 양손을 침대 헤드에 대고 떼지 못하게 한 채을(를) 안내.",
+          "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 뜨거운 숨결과 입술만로 당신이 직접 고른 옷 1작은 도전(를) 젖히고 '손바닥을 가볍게 쓴 뒤, 손가락을 맞잡기'로 골반선을(를) 자극.",
+          "whisperLine": "「소리 참아 봐… 참을수록 더 짜릿해질 거야.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "'침대 가장자리에 살짝 눕는 자세' 자세로 넘어가 {lead}이(가) {partner}의 쇄골 아래 맨살을(를) 집중 촉촉한 숨결을 따라 선을 그려주세요.",
+          "whisperLine": "「네가 진짜 원하던 게 바로 이거 맞지?」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "자정의 지배자 · 포근한 침대 끝",
+      "subtitle": "완전한 주도권을 즐기는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 하이텐션 시나리오",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 포근한 침대 끝에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 벽에 등을 살짝 밀어 붙여 밀착한 채을(를) 안내.",
+          "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 눈을 맞춘 채 한 손로 셔츠 단추 두 개을(를) 젖히고 '시원한 숨결 직후 쏟아지는 뜨거운 습식 키스'로 귓불을(를) 자극.",
+          "whisperLine": "「소리 참아 봐… 참을수록 더 짜릿해질 거야.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "'거울 앞에서 뒤로 바짝 안긴 자세' 자세로 넘어가 {lead}이(가) {partner}의 가슴과 갈비뼈 라인을(를) 집중 부드럽게 부드러운 입맞춤어 주세요.",
+          "whisperLine": "「네가 진짜 원하던 게 바로 이거 맞지?」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "자정의 지배자 · 어둑한 현관 앞",
+      "subtitle": "완전한 주도권을 즐기는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 하이텐션 시나리오",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 어둑한 현관 앞에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 양손을 등 뒤로 잡아 반항을 막은 채을(를) 안내.",
+          "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 손 없이 입술과 치아로 어깨끈이나 옷깃을(를) 젖히고 '손을 살짝 감싼 뒤, 천천히 스며드는 입맞춤'로 허리라인을(를) 자극.",
+          "whisperLine": "「소리 참아 봐… 참을수록 더 짜릿해질 거야.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "'침대 위에서 무릎을 맞대고 마주 앉는 자세' 자세로 넘어가 {lead}이(가) {partner}의 힙과 골반선을(를) 집중 입술과 손끝으로 번갈아 애태워 주세요.",
+          "whisperLine": "「네가 진짜 원하던 게 바로 이거 맞지?」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "자정의 지배자 · 드레스룸 거울 앞",
+      "subtitle": "완전한 주도권을 즐기는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 하이텐션 시나리오",
+      "leadRole": "리드 역할",
+      "partnerRole": "파트너 역할",
+      "acts": [
+        {
+          "actTitle": "1막 · 설레는 시작",
+          "durationSec": 45,
+          "direction": "{lead}이(가) 드레스룸 거울 앞에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고을(를) 안내.",
+          "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
+        },
+        {
+          "actTitle": "2막 · 고조되는 긴장",
+          "durationSec": 55,
+          "direction": "{lead}이(가) 극도로 느린 손끝로 액세서리 1개 + 겉옷 1겹을(를) 젖히고 '머리카락을 쓸다 목선을 당겨오는 포옹'로 아랫배 라인을(를) 자극.",
+          "whisperLine": "「소리 참아 봐… 참을수록 더 짜릿해질 거야.」"
+        },
+        {
+          "actTitle": "3막 · 자정의 피날레",
+          "durationSec": 65,
+          "direction": "'침실 벽에 기대어 천천히 가까이하는 자세' 자세로 넘어가 {lead}이(가) {partner}의 등줄기 맨 아래을(를) 집중 장난스럽게 깨문 직후 키스로 달래주세요.",
+          "whisperLine": "「네가 진짜 원하던 게 바로 이거 맞지?」"
+        }
+      ]
+    }
+  ]
+}

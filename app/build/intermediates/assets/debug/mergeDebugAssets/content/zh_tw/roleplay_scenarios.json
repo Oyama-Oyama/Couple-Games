@@ -1,0 +1,1562 @@
+{
+  "scenarios": [
+    {
+      "id": "rp_strangers",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "午夜酒店酒廊",
+      "subtitle": "兩個素未謀面的旅人在微醺燈光下四目相對",
+      "leadRole": "神秘搭訕者",
+      "partnerRole": "獨行旅人",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 初次落座",
+          "durationSec": 45,
+          "direction": "{lead} 帶著從容的笑意走到 {partner} 身旁，禮貌詢問能否拼桌小酌。",
+          "whisperLine": "「我在對面看了你很久——告訴我，今晚你不是在等別人吧？」"
+        },
+        {
+          "actTitle": "第二幕 · 距離拉近",
+          "durationSec": 45,
+          "direction": "{lead} 微微傾身，指尖似有若無地擦過 {partner} 的手背，眼神絲毫不閃躲。",
+          "whisperLine": "「我要怎麼說，才能讓你把明早的航班改簽？」"
+        },
+        {
+          "actTitle": "第三幕 · 交換房卡",
+          "durationSec": 30,
+          "direction": "{partner} 決定 {lead} 是否撩動了自己，並獻上一個綿長的慢吻。",
+          "whisperLine": "「跟我上樓吧，我不想讓今晚就這麼結束。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_spa",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "私密絲絨 SPA",
+      "subtitle": "打烊後的 VIP 專屬芳療，掌心溫度漸漸失控",
+      "leadRole": "專屬理療師",
+      "partnerRole": "VIP 貴賓",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 卸下緊繃",
+          "durationSec": 45,
+          "direction": "{partner} 閉眼放鬆，{lead} 搓熱掌心從肩頸開始緩慢推拿。",
+          "whisperLine": "「你繃得太緊了——深呼吸，接下來全部交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 45,
+          "direction": "{lead} 放慢手速滑過 {partner} 的後頸與脊背，湊近耳邊壓低聲音。",
+          "whisperLine": "「告訴我，我的手停在哪裡最讓你心跳加速？」"
+        },
+        {
+          "actTitle": "第三幕 · 隱藏項目",
+          "durationSec": 30,
+          "direction": "{lead} 輕輕轉過 {partner} 的下巴，沿著下頷線與嘴唇落下纏綿一吻。",
+          "whisperLine": "「接下來這一項，可不在價目表上。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_office",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "深夜總裁只有我們兩個人的地方",
+      "subtitle": "整棟樓都下班了，只剩你們兩人的加班時間",
+      "leadRole": "冷面總監",
+      "partnerRole": "大膽助理",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 單獨留下",
+          "durationSec": 40,
+          "direction": "{lead} 示意 {partner} 鎖上只有我們兩個人的地方的門，走到自己面前進行「一對一複盤」。",
+          "whisperLine": "「你整個下午都在讓我分心，過來。」"
+        },
+        {
+          "actTitle": "第二幕 · 越界試探",
+          "durationSec": 45,
+          "direction": "{partner} 靠近整理 {lead} 的衣領，{lead} 順勢單手扣住對方的腰身。",
+          "whisperLine": "「你打算繼續發號施令，還是直接告訴我你真正想要的？」"
+        },
+        {
+          "actTitle": "第三幕 · 加班獎勵",
+          "durationSec": 30,
+          "direction": "{lead} 強勢吻上對方脖頸與唇瓣，兌現今晚的專屬「加班獎金」。",
+          "whisperLine": "「今晚剩下的時間，歸我全權安排。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_blindfold_chef",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "blindfold",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "午夜蒙眼品鑑室",
+      "subtitle": "剝奪視覺後，用呼吸、觸碰與輕吻放大感官",
+      "leadRole": "午夜侍酒師",
+      "partnerRole": "蒙眼品鑑官",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 交出視線",
+          "durationSec": 30,
+          "direction": "{partner} 徹底閉上眼睛，{lead} 輕柔安放好對方的雙手。",
+          "whisperLine": "「不准偷看——今晚你只需要用皮膚和呼吸去感受。」"
+        },
+        {
+          "actTitle": "第二幕 · 唇齒試探",
+          "durationSec": 45,
+          "direction": "{lead} 用指尖輕拂 {partner} 的嘴唇，再湊近耳垂輕吻並哈出熱氣。",
+          "whisperLine": "「別睜眼，告訴我你現在最想被我吻哪裡。」"
+        },
+        {
+          "actTitle": "第三幕 · 壓軸甜點",
+          "durationSec": 30,
+          "direction": "{lead} 從頸側一路緩慢吻回嘴唇，直到 {partner} 忍不住主動環抱上來。",
+          "whisperLine": "「現在，嚐嚐今晚真正的隱藏甜點。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_stylist",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "私人試衣間",
+      "subtitle": "絲絨簾幕之後，一層一層卸下防備",
+      "leadRole": "私人造型師",
+      "partnerRole": "靈感繆斯",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 貼身量體",
+          "durationSec": 40,
+          "direction": "{lead} 貼近 {partner}，指腹沿著肩線與腰線緩慢游走，假裝核對尺寸。",
+          "whisperLine": "「站好別動——我得確認它是不是足夠貼合你的曲線。」"
+        },
+        {
+          "actTitle": "第二幕 · 順勢鬆開",
+          "durationSec": 45,
+          "direction": "{lead} 輕輕撥開一側衣領或袖口，讓唇與指尖在裸露的肩頸流連。",
+          "whisperLine": "「說實話，我覺得不穿這一件會更迷人。」"
+        },
+        {
+          "actTitle": "第三幕 · 簾後失控",
+          "durationSec": 30,
+          "direction": "{lead} 從背後將 {partner} 緊緊擁入懷中，吻著脖頸低聲耳語。",
+          "whisperLine": "「別管什麼派對了，今晚我們就留在這裡。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_velvet_ruler",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "絲絨支配者",
+      "subtitle": "俏皮掌控、耳邊服從與克製後的炙熱獎勵",
+      "leadRole": "主導者",
+      "partnerRole": "順從者",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 發出指令",
+          "durationSec": 35,
+          "direction": "{lead} 要求 {partner} 雙手輕輕交握放在身前，抬頭鎖住自己的眼睛。",
+          "whisperLine": "「接下來三分鐘，沒有我的允許，你不准主動動一下。」"
+        },
+        {
+          "actTitle": "第二幕 · 耐心考驗",
+          "durationSec": 45,
+          "direction": "{lead} 緩步繞到身側，用羽毛般的觸碰、熱氣與輕吻反覆挑逗 {partner} 的頸側。",
+          "whisperLine": "「真乖，保持不動——讓我看看你能忍多久不主動吻我。」"
+        },
+        {
+          "actTitle": "第三幕 · 失控獎賞",
+          "durationSec": 30,
+          "direction": "{lead} 俏皮輕拍一下作為釋放信號，一把拉近 {partner} 獻上窒息般的綿長的吻。",
+          "whisperLine": "「表現滿分——現在告訴我，剛才有多想要這個吻。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_01",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "雨夜留宿的害羞心動",
+      "subtitle": "外面暴雨傾盆，借著擦幹頭髮悄悄拉近距離",
+      "leadRole": "留宿客人",
+      "partnerRole": "溫柔房东",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 递上熱毛巾",
+          "durationSec": 45,
+          "direction": "{lead} 假装剛淋濕進門，{partner} 递上毛巾輕輕替對方擦拭發梢與耳後，指尖故意多停兩秒。",
+          "whisperLine": "「雨下得太大了…今晚先別走，好不好？」"
+        },
+        {
+          "actTitle": "第二幕 · 貼近取暖",
+          "durationSec": 45,
+          "direction": "兩人並肩坐到沙發裹進同一條毯子，{lead} 把冰涼的手放進 {partner} 掌心捂熱，額頭輕碰對視。",
+          "whisperLine": "「你的手好暖…我可以再靠過來一點嗎？」"
+        },
+        {
+          "actTitle": "第三幕 · 試探初吻",
+          "durationSec": 45,
+          "direction": "{partner} 輕捧起 {lead} 的臉頰，唇瓣懸在 1 厘米處停顿三秒，在害羞的呼吸裡落下綿長慢吻。",
+          "whisperLine": "「剛才擦頭髮的時候…我就一直想親你了。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_02",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "alcohol",
+        "indoor"
+      ],
+      "title": "深夜爵士吧的微醺偶遇",
+      "subtitle": "一杯特調雞尾酒，兩句試探的眼神交锋",
+      "leadRole": "微醺常客",
+      "partnerRole": "魅力調酒师",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 專屬特調",
+          "durationSec": 40,
+          "direction": "{partner} 递上一杯虚拟或真實的微醺飲品，順手用指尖輕觸 {lead} 的手背並鎖住視線。",
+          "whisperLine": "「這杯不在酒單上，是我特意為你調的。」"
+        },
+        {
+          "actTitle": "第二幕 · 吧台耳語",
+          "durationSec": 45,
+          "direction": "{lead} 抿一口微醺後微微前傾，{partner} 俯身繞過吧台湊到耳邊壓低聲線聊天，唇几乎擦過耳廓。",
+          "whisperLine": "「你一進來，我就沒法專心調下一杯酒了。」"
+        },
+        {
+          "actTitle": "第三幕 · 打烊後的慢吻",
+          "durationSec": 45,
+          "direction": "假装挂上「已打烊」牌子，{partner} 牽住 {lead} 的手拉進懷裡，交換一個帶著酒香的纏綿慢吻。",
+          "whisperLine": "「現在店裡只有我們兩個人了…」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_03",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "躲進暗房間的派對偷溜",
+      "subtitle": "門外喧鬧熱鬧，門內壓低呼吸的悸動",
+      "leadRole": "帶頭偷溜者",
+      "partnerRole": "配合心動者",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 牽手逃離",
+          "durationSec": 40,
+          "direction": "{lead} 悄悄拉起 {partner} 的手腕躲到門邊，回頭比出「嘘」的手勢，将人輕抵在門背上。",
+          "whisperLine": "「嘘，外面太吵了…我只想和你單獨待五分鐘。」"
+        },
+        {
+          "actTitle": "第二幕 · 壓低呼吸的吻",
+          "durationSec": 45,
+          "direction": "假装怕門外聽见，兩人用最輕的呼吸貼近吻過嘴角、下頜與耳垂，手掌緊緊扣住腰線。",
+          "whisperLine": "「別發出聲音哦…不然他們會發現我們躲在這裡。」"
+        },
+        {
+          "actTitle": "第三幕 · 臉紅的約定",
+          "durationSec": 45,
+          "direction": "{partner} 紅著臉輕吻 {lead} 的下唇，貼耳定下散場後回家立刻要兑現的秘密願望。",
+          "whisperLine": "「等會一回家，可就不只是親這麼简單了…」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_04",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "eye_contact",
+        "indoor"
+      ],
+      "title": "私密畫室的人體肖像",
+      "subtitle": "一筆一畫全是指尖的溫柔遊走",
+      "leadRole": "專注畫师",
+      "partnerRole": "害羞模特",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 調整姿勢",
+          "durationSec": 45,
+          "direction": "{lead} 扮演畫师，輕捏 {partner} 的下巴和肩膀調整角度，眼神專注得讓人耳朵發燙。",
+          "whisperLine": "「別動，下巴再抬高一點…你的鎖骨線條太好看了。」"
+        },
+        {
+          "actTitle": "第二幕 · 指尖代筆",
+          "durationSec": 45,
+          "direction": "{lead} 放下畫筆，改用指腹沿著 {partner} 的下頜、頸側和肩頭極慢描摹，感受對方輕顫。",
+          "whisperLine": "「光用畫筆不够…我想用指尖記住你的溫度。」"
+        },
+        {
+          "actTitle": "第三幕 · 落款之吻",
+          "durationSec": 45,
+          "direction": "{lead} 俯身順著剛才畫過的線條一一落下輕吻，最後停在唇瓣綿長的吻收尾。",
+          "whisperLine": "「最後一道落款，只準印在你的嘴唇上。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_05",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "絲絨試衣間的秘密試装",
+      "subtitle": "拉上簾子，一件件慢動作驗收",
+      "leadRole": "專屬造型师",
+      "partnerRole": "試装嘉宾",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 拉上絲絨簾",
+          "durationSec": 45,
+          "direction": "{lead} 帮 {partner} 整理衣領或拉鏈，從背後站在鏡子前貼緊耳後低聲點评。",
+          "whisperLine": "「這件很襯你…不過拉鏈好像卡住了，我帮你。」"
+        },
+        {
+          "actTitle": "第二幕 · 慢動作褪去",
+          "durationSec": 50,
+          "direction": "{lead} 單手緩緩鬆開兩顆扣子或滑下一側肩帶，唇瓣順勢貼上露出的肩頸與鎖骨輕輕停住，留下一個吻。",
+          "whisperLine": "「別急著換下一件…先讓我多看兩眼。」"
+        },
+        {
+          "actTitle": "第三幕 · 鏡前失控",
+          "durationSec": 50,
+          "direction": "兩人緊貼著看著鏡子裡的倒影，{partner} 轉過身環住 {lead} 的脖子獻上滾燙綿長的吻。",
+          "whisperLine": "「其實不管穿什麼，你最想看的都是鬆開之後吧？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_06",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "blindfold"
+      ],
+      "title": "午夜總裁的 3 分鐘聽話契約",
+      "subtitle": "蒙上絲巾，交付全部信任與心跳",
+      "leadRole": "午夜掌權者",
+      "partnerRole": "乖巧赴約者",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 签订聽話令",
+          "durationSec": 50,
+          "direction": "{lead} 輕柔蒙住 {partner} 的雙眼並扣住手腕，用低沉溫柔的嗓音定下規則：只準回答「好的」。",
+          "whisperLine": "「今晚不用想任何事，閉上眼，把心跳交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 感官寸止",
+          "durationSec": 55,
+          "direction": "{lead} 交替用指尖、熱氣和濕吻遊走於 {partner} 的耳垂、頸側與腰窩，每當對方輕顫就故意停顿三秒。",
+          "whisperLine": "「抖得這麼厉害…是怕癢，還是太想要我了？」"
+        },
+        {
+          "actTitle": "第三幕 · 摘下眼罩綿長的吻",
+          "durationSec": 60,
+          "direction": "{lead} 摘下眼罩，捧住 {partner} 發燙的臉頰落滿綿長的吻，隨後互換身份開啟下一輪寵愛。",
+          "whisperLine": "「表現得太乖了…這是給你的獎勵。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "拉上紗簾的午後落地窗 · 铺滿抱枕的榻榻米奇遇",
+      "subtitle": "在拉上紗簾的午後落地窗的柔光下，兩人假装初次心動彼此靠近",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}輕輕走近铺滿抱枕的榻榻米，保持每次停顿都把唇懸在 1 厘米外並向{partner}聊起「今天在心裡偷偷想過的一個壞念頭」。",
+          "whisperLine": "「今晚的燈光很溫柔，我可以離你再近一點嗎？」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}用「先溫熱掌心慢滑再突然拉進懷裡綿長的吻」輕觸{partner}的前臂內側，節奏放慢。",
+          "whisperLine": "「別移開視線，告诉我你現在的心跳快了嗎？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "兩人在铺滿抱枕的榻榻米相擁，{lead}溫柔指尖輕柔撫過{partner}的前臂內側收尾。",
+          "whisperLine": "「這一刻，我只想時間停在只有我們的世界。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "微風吹過的海邊露营车 · 落地窗簾後奇遇",
+      "subtitle": "在微風吹過的海邊露营车的柔光下，兩人假装初次心動彼此靠近",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}輕輕走近落地窗簾後，保持只用氣音在耳邊喚對方名字並向{partner}聊起「平時牽手時你悄悄藏在心底的小念頭」。",
+          "whisperLine": "「今晚的燈光很溫柔，我可以離你再近一點嗎？」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}用「隔著衣料先暖暖地貼一會兒，再輕輕牽住手」輕觸{partner}的耳後敏感處，節奏放慢。",
+          "whisperLine": "「別移開視線，告诉我你現在的心跳快了嗎？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "兩人在落地窗簾後相擁，{lead}溫柔用溫熱嘴唇細碎點吻{partner}的耳後敏感處收尾。",
+          "whisperLine": "「這一刻，我只想時間停在只有我們的世界。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "燭光搖曳的露台 · 暖光梳妝台前奇遇",
+      "subtitle": "在燭光搖曳的露台的柔光下，兩人假装初次心動彼此靠近",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}輕輕走近暖光梳妝台前，保持唇角始終藏著一點壞笑並向{partner}聊起「關燈之後你最渴望被觸碰的方式」。",
+          "whisperLine": "「今晚的燈光很溫柔，我可以離你再近一點嗎？」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}用「先穩穩牽住手，再換成羽毛般輕的觸碰」輕觸{partner}的下巴尖，節奏放慢。",
+          "whisperLine": "「別移開視線，告诉我你現在的心跳快了嗎？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "兩人在暖光梳妝台前相擁，{lead}溫柔用溫熱掌心慢慢揉捏{partner}的下巴尖收尾。",
+          "whisperLine": "「這一刻，我只想時間停在只有我們的世界。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "燈光昏暗的精品飯店酒吧 · 臥室牆邊奇遇",
+      "subtitle": "在燈光昏暗的精品飯店酒吧的柔光下，兩人假装初次心動彼此靠近",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}輕輕走近臥室牆邊，保持保持彻底安靜只聽呼吸並向{partner}聊起「接下來最想吻遍的那個身體角落」。",
+          "whisperLine": "「今晚的燈光很溫柔，我可以離你再近一點嗎？」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}用「先輕蹭鼻尖再突然落下一記慢吻」輕觸{partner}的鎖骨窩，節奏放慢。",
+          "whisperLine": "「別移開視線，告诉我你現在的心跳快了嗎？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "兩人在臥室牆邊相擁，{lead}溫柔貼近皮膚緩緩吹拂暖氣於{partner}的鎖骨窩收尾。",
+          "whisperLine": "「這一刻，我只想時間停在只有我們的世界。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "私密溫泉露台 · 床沿邊上奇遇",
+      "subtitle": "在私密溫泉露台的柔光下，兩人假装初次心動彼此靠近",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}輕輕走近床沿邊上，保持每次停顿都把唇懸在 1 厘米外並向{partner}聊起「你最迷戀我吻你時的哪一個小習惯」。",
+          "whisperLine": "「今晚的燈光很溫柔，我可以離你再近一點嗎？」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}用「先在呼吸可及處停住，再溫柔地靠近」輕觸{partner}的指節與虎口，節奏放慢。",
+          "whisperLine": "「別移開視線，告诉我你現在的心跳快了嗎？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "兩人在床沿邊上相擁，{lead}溫柔湊近吹拂灼熱氣音於{partner}的指節與虎口收尾。",
+          "whisperLine": "「這一刻，我只想時間停在只有我們的世界。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "飄著香薰的溫水浴缸旁 · 全身鏡前奇遇",
+      "subtitle": "在飄著香薰的溫水浴缸旁的柔光下，兩人假装初次心動彼此靠近",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}輕輕走近全身鏡前，保持只用氣音在耳邊喚對方名字並向{partner}聊起「今晚究竟是哪一秒讓你彻底沒法冷靜」。",
+          "whisperLine": "「今晚的燈光很溫柔，我可以離你再近一點嗎？」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}用「指尖輕輕劃過，再落下一個軟軟的吻」輕觸{partner}的頸側線條，節奏放慢。",
+          "whisperLine": "「別移開視線，告诉我你現在的心跳快了嗎？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "兩人在全身鏡前相擁，{lead}溫柔十指輕柔梳過並貼近吻{partner}的頸側線條收尾。",
+          "whisperLine": "「這一刻，我只想時間停在只有我們的世界。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "只有雨聲的阁楼小床 · 沙發角落奇遇",
+      "subtitle": "在只有雨聲的阁楼小床的柔光下，兩人假装初次心動彼此靠近",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}輕輕走近沙發角落，保持唇角始終藏著一點壞笑並向{partner}聊起「天亮前最想一起解鎖的一場私密幻想」。",
+          "whisperLine": "「今晚的燈光很溫柔，我可以離你再近一點嗎？」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}用「先輕吹一口暖氣再極慢吻上去」輕觸{partner}的眉心與眼角，節奏放慢。",
+          "whisperLine": "「別移開視線，告诉我你現在的心跳快了嗎？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "兩人在沙發角落相擁，{lead}溫柔用鼻尖輕輕蹭過{partner}的眉心與眼角收尾。",
+          "whisperLine": "「這一刻，我只想時間停在只有我們的世界。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "午夜聽海的陽台 · 廚房吧台邊奇遇",
+      "subtitle": "在午夜聽海的陽台的柔光下，兩人假装初次心動彼此靠近",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}輕輕走近廚房吧台邊，保持保持彻底安靜只聽呼吸並向{partner}聊起「此刻看著我的眼睛心裡冒出的第一句話」。",
+          "whisperLine": "「今晚的燈光很溫柔，我可以離你再近一點嗎？」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}用「先俏皮輕吻一口再立刻用呼吸沿著溫柔安撫」輕觸{partner}的鼻尖與唇角，節奏放慢。",
+          "whisperLine": "「別移開視線，告诉我你現在的心跳快了嗎？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "兩人在廚房吧台邊相擁，{lead}溫柔落下綿長濕潤的慢吻於{partner}的鼻尖與唇角收尾。",
+          "whisperLine": "「這一刻，我只想時間停在只有我們的世界。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "隱秘的深夜爵士吧 · 昏暗的門框旁奇遇",
+      "subtitle": "在隱秘的深夜爵士吧的柔光下，兩人假装初次心動彼此靠近",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}輕輕走近昏暗的門框旁，保持每次停顿都把唇懸在 1 厘米外並向{partner}聊起「第一次见我就讓你臉紅的小細節」。",
+          "whisperLine": "「今晚的燈光很溫柔，我可以離你再近一點嗎？」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}用「指腹輕輕劃過手心，再慢慢握緊十指」輕觸{partner}的上背肩胛，節奏放慢。",
+          "whisperLine": "「別移開視線，告诉我你現在的心跳快了嗎？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "兩人在昏暗的門框旁相擁，{lead}溫柔用指腹打著圈輕撫{partner}的上背肩胛收尾。",
+          "whisperLine": "「這一刻，我只想時間停在只有我們的世界。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "私密劇場 · 微風吹過的海邊露营车",
+      "subtitle": "围繞「用假名溜進頂層套房的秘密私奔」在軟軟的床尾展開的心跳對戲",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}将{partner}引向軟軟的床尾，借「用假名溜進頂層套房的秘密私奔」開啟試探對白。",
+          "whisperLine": "「既然門已經關上了，今晚的規則由我們重新定。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}遵守「在羽毛般輕撫與用力抓握之間切換」，從耳後敏感處緩緩十指輕柔梳過並貼近吻至耳廓邊緣。",
+          "whisperLine": "「你越是忍住不動，我就越想繼續試探你。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "{partner}順勢反客為主，兩人在軟軟的床尾用「指尖輕輕劃過，再落下一個軟軟的吻」将氛围推向頂點。",
+          "whisperLine": "「現在輪到你聽我的呼吸節奏了。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "私密劇場 · 燭光搖曳的露台",
+      "subtitle": "围繞「用假名溜進頂層套房的秘密私奔」在柔和燈光下的玄關展開的心跳對戲",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}将{partner}引向柔和燈光下的玄關，借「用假名溜進頂層套房的秘密私奔」開啟試探對白。",
+          "whisperLine": "「既然門已經關上了，今晚的規則由我們重新定。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}遵守「每換一個部位前先低聲喚對方名字」，從側腰肋骨緩緩用鼻尖輕輕蹭過至手腕內側。",
+          "whisperLine": "「你越是忍住不動，我就越想繼續試探你。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "{partner}順勢反客為主，兩人在柔和燈光下的玄關用「先輕吹一口暖氣再極慢吻上去」将氛围推向頂點。",
+          "whisperLine": "「現在輪到你聽我的呼吸節奏了。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "私密劇場 · 燈光昏暗的精品飯店酒吧",
+      "subtitle": "围繞「用假名溜進頂層套房的秘密私奔」在微暗的衣帽間門旁展開的心跳對戲",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}将{partner}引向微暗的衣帽間門旁，借「用假名溜進頂層套房的秘密私奔」開啟試探對白。",
+          "whisperLine": "「既然門已經關上了，今晚的規則由我們重新定。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}遵守「在羽毛般輕撫與用力抓握之間切換」，從喉結下方緩緩落下綿長濕潤的慢吻於至掌心與指尖。",
+          "whisperLine": "「你越是忍住不動，我就越想繼續試探你。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "{partner}順勢反客為主，兩人在微暗的衣帽間門旁用「先俏皮輕吻一口再立刻用呼吸沿著溫柔安撫」将氛围推向頂點。",
+          "whisperLine": "「現在輪到你聽我的呼吸節奏了。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "私密劇場 · 私密溫泉露台",
+      "subtitle": "围繞「用假名溜進頂層套房的秘密私奔」在铺滿抱枕的榻榻米展開的心跳對戲",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}将{partner}引向铺滿抱枕的榻榻米，借「用假名溜進頂層套房的秘密私奔」開啟試探對白。",
+          "whisperLine": "「既然門已經關上了，今晚的規則由我們重新定。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}遵守「每換一個部位前先低聲喚對方名字」，從腰窩下方緩緩用指腹打著圈輕撫至前臂內側。",
+          "whisperLine": "「你越是忍住不動，我就越想繼續試探你。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "{partner}順勢反客為主，兩人在铺滿抱枕的榻榻米用「指腹輕輕劃過手心，再慢慢握緊十指」将氛围推向頂點。",
+          "whisperLine": "「現在輪到你聽我的呼吸節奏了。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "私密劇場 · 飄著香薰的溫水浴缸旁",
+      "subtitle": "围繞「用假名溜進頂層套房的秘密私奔」在落地窗簾後展開的心跳對戲",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}将{partner}引向落地窗簾後，借「用假名溜進頂層套房的秘密私奔」開啟試探對白。",
+          "whisperLine": "「既然門已經關上了，今晚的規則由我們重新定。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}遵守「在羽毛般輕撫與用力抓握之間切換」，從鎖骨凹陷處緩緩像羽毛一樣輕劃過至耳後敏感處。",
+          "whisperLine": "「你越是忍住不動，我就越想繼續試探你。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "{partner}順勢反客為主，兩人在落地窗簾後用「先輕吹微涼氣息再立刻覆上滾燙濕吻」将氛围推向頂點。",
+          "whisperLine": "「現在輪到你聽我的呼吸節奏了。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "私密劇場 · 只有雨聲的阁楼小床",
+      "subtitle": "围繞「用假名溜進頂層套房的秘密私奔」在暖光梳妝台前展開的心跳對戲",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}将{partner}引向暖光梳妝台前，借「用假名溜進頂層套房的秘密私奔」開啟試探對白。",
+          "whisperLine": "「既然門已經關上了，今晚的規則由我們重新定。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}遵守「每換一個部位前先低聲喚對方名字」，從手腕脈搏處緩緩用唇瓣極輕地厮磨至下巴尖。",
+          "whisperLine": "「你越是忍住不動，我就越想繼續試探你。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "{partner}順勢反客為主，兩人在暖光梳妝台前用「先輕輕握住手，再慢慢落下一個溫柔的吻」将氛围推向頂點。",
+          "whisperLine": "「現在輪到你聽我的呼吸節奏了。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "私密劇場 · 午夜聽海的陽台",
+      "subtitle": "围繞「用假名溜進頂層套房的秘密私奔」在臥室牆邊展開的心跳對戲",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}将{partner}引向臥室牆邊，借「用假名溜進頂層套房的秘密私奔」開啟試探對白。",
+          "whisperLine": "「既然門已經關上了，今晚的規則由我們重新定。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}遵守「在羽毛般輕撫與用力抓握之間切換」，從肩胛骨緩緩用唇瓣反複摩挲至鎖骨窩。",
+          "whisperLine": "「你越是忍住不動，我就越想繼續試探你。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "{partner}順勢反客為主，兩人在臥室牆邊用「先輕撫發絲再扣住後腦勺拉近」将氛围推向頂點。",
+          "whisperLine": "「現在輪到你聽我的呼吸節奏了。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "私密劇場 · 隱秘的深夜爵士吧",
+      "subtitle": "围繞「用假名溜進頂層套房的秘密私奔」在床沿邊上展開的心跳對戲",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}将{partner}引向床沿邊上，借「用假名溜進頂層套房的秘密私奔」開啟試探對白。",
+          "whisperLine": "「既然門已經關上了，今晚的規則由我們重新定。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}遵守「每換一個部位前先低聲喚對方名字」，從後頸髮際線緩緩指尖輕柔撫過至指節與虎口。",
+          "whisperLine": "「你越是忍住不動，我就越想繼續試探你。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "{partner}順勢反客為主，兩人在床沿邊上用「先溫熱掌心慢滑再突然拉進懷裡綿長的吻」将氛围推向頂點。",
+          "whisperLine": "「現在輪到你聽我的呼吸節奏了。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "私密劇場 · 挂滿星星的私密小院",
+      "subtitle": "围繞「用假名溜進頂層套房的秘密私奔」在全身鏡前展開的心跳對戲",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}将{partner}引向全身鏡前，借「用假名溜進頂層套房的秘密私奔」開啟試探對白。",
+          "whisperLine": "「既然門已經關上了，今晚的規則由我們重新定。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}遵守「在羽毛般輕撫與用力抓握之間切換」，從耳後敏感處緩緩用溫熱嘴唇細碎點吻至頸側線條。",
+          "whisperLine": "「你越是忍住不動，我就越想繼續試探你。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "{partner}順勢反客為主，兩人在全身鏡前用「隔著衣料先暖暖地貼一會兒，再輕輕牽住手」将氛围推向頂點。",
+          "whisperLine": "「現在輪到你聽我的呼吸節奏了。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越界之夜 · 只留一盞暖燈的床頭",
+      "subtitle": "深夜禁區裡的「用假名溜進頂層套房的秘密私奔」沉浸戲碼",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}把{partner}拉入只留一盞暖燈的床頭，貼耳低語「如果現在關掉所有燈你最想先做什麼」打破理智防線。",
+          "whisperLine": "「別假装鎮定了，你的呼吸早就出卖你了。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}交替吹熱氣並張唇貼膚落滿灼熱濕吻於{partner}的後背脊柱，严格遵守每換一個部位前先低聲喚對方名字。",
+          "whisperLine": "「告诉我，這裡是不是最讓你招架不住？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "在只留一盞暖燈的床頭彻底貼合，{lead}專注張唇貼膚落滿灼熱濕吻於手腕脈搏處與後背脊柱完成終章。",
+          "whisperLine": "「今晚不準說停，只管彻底沉淪。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越界之夜 · 暖燈下的飄窗邊",
+      "subtitle": "深夜禁區裡的「用假名溜進頂層套房的秘密私奔」沉浸戲碼",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}把{partner}拉入暖燈下的飄窗邊，貼耳低語「我哪一種撒娇最讓你毫無招架之力」打破理智防線。",
+          "whisperLine": "「別假装鎮定了，你的呼吸早就出卖你了。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}交替吹熱氣並落下讓人喘不過氣的綿長的吻於{partner}的後頸髮際線，严格遵守在羽毛般輕撫與用力抓握之間切換。",
+          "whisperLine": "「告诉我，這裡是不是最讓你招架不住？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "在暖燈下的飄窗邊彻底貼合，{lead}專注落下讓人喘不過氣的綿長的吻於肩胛骨與後頸髮際線完成終章。",
+          "whisperLine": "「今晚不準說停，只管彻底沉淪。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越界之夜 · 沙發扶手旁",
+      "subtitle": "深夜禁區裡的「用假名溜進頂層套房的秘密私奔」沉浸戲碼",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}把{partner}拉入沙發扶手旁，貼耳低語「最想把伴侶拉去偷吻的危險角落」打破理智防線。",
+          "whisperLine": "「別假装鎮定了，你的呼吸早就出卖你了。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}交替吹熱氣並用濕潤舌尖一路描摹{partner}的頸側，严格遵守每換一個部位前先低聲喚對方名字。",
+          "whisperLine": "「告诉我，這裡是不是最讓你招架不住？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "在沙發扶手旁彻底貼合，{lead}專注用濕潤舌尖一路描摹後頸髮際線與頸側完成終章。",
+          "whisperLine": "「今晚不準說停，只管彻底沉淪。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越界之夜 · 軟軟的床尾",
+      "subtitle": "深夜禁區裡的「用假名溜進頂層套房的秘密私奔」沉浸戲碼",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}把{partner}拉入軟軟的床尾，貼耳低語「哪一次擁抱讓你久久不願鬆手」打破理智防線。",
+          "whisperLine": "「別假装鎮定了，你的呼吸早就出卖你了。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}交替吹熱氣並溫柔輕吻{partner}的大腿內側，严格遵守在羽毛般輕撫與用力抓握之間切換。",
+          "whisperLine": "「告诉我，這裡是不是最讓你招架不住？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "在軟軟的床尾彻底貼合，{lead}專注溫柔輕吻耳後敏感處與大腿內側完成終章。",
+          "whisperLine": "「今晚不準說停，只管彻底沉淪。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越界之夜 · 柔和燈光下的玄關",
+      "subtitle": "深夜禁區裡的「用假名溜進頂層套房的秘密私奔」沉浸戲碼",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}把{partner}拉入柔和燈光下的玄關，貼耳低語「今晚睡前你最想被我怎麼哄」打破理智防線。",
+          "whisperLine": "「別假装鎮定了，你的呼吸早就出卖你了。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}交替吹熱氣並用唇舌與指尖交替挑逗{partner}的胯骨邊緣，严格遵守每換一個部位前先低聲喚對方名字。",
+          "whisperLine": "「告诉我，這裡是不是最讓你招架不住？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "在柔和燈光下的玄關彻底貼合，{lead}專注用唇舌與指尖交替挑逗側腰肋骨與胯骨邊緣完成終章。",
+          "whisperLine": "「今晚不準說停，只管彻底沉淪。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越界之夜 · 微暗的衣帽間門旁",
+      "subtitle": "深夜禁區裡的「用假名溜進頂層套房的秘密私奔」沉浸戲碼",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}把{partner}拉入微暗的衣帽間門旁，貼耳低語「今晚最想看對方穿上——或鬆開——的衣服」打破理智防線。",
+          "whisperLine": "「別假装鎮定了，你的呼吸早就出卖你了。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}交替吹熱氣並俏皮輕吻後再溫柔吻平{partner}的耳垂，严格遵守在羽毛般輕撫與用力抓握之間切換。",
+          "whisperLine": "「告诉我，這裡是不是最讓你招架不住？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "在微暗的衣帽間門旁彻底貼合，{lead}專注俏皮輕吻後再溫柔吻平喉結下方與耳垂完成終章。",
+          "whisperLine": "「今晚不準說停，只管彻底沉淪。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越界之夜 · 铺滿抱枕的榻榻米",
+      "subtitle": "深夜禁區裡的「用假名溜進頂層套房的秘密私奔」沉浸戲碼",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}把{partner}拉入铺滿抱枕的榻榻米，貼耳低語「今天在心裡偷偷想過的一個壞念頭」打破理智防線。",
+          "whisperLine": "「別假装鎮定了，你的呼吸早就出卖你了。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}交替吹熱氣並用呼吸沿著極慢地氣息輕輕拂過{partner}的腰窩，严格遵守每換一個部位前先低聲喚對方名字。",
+          "whisperLine": "「告诉我，這裡是不是最讓你招架不住？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "在铺滿抱枕的榻榻米彻底貼合，{lead}專注用呼吸沿著極慢地氣息輕輕拂過腰窩下方與腰窩完成終章。",
+          "whisperLine": "「今晚不準說停，只管彻底沉淪。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越界之夜 · 落地窗簾後",
+      "subtitle": "深夜禁區裡的「用假名溜進頂層套房的秘密私奔」沉浸戲碼",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}把{partner}拉入落地窗簾後，貼耳低語「平時牽手時你悄悄藏在心底的小念頭」打破理智防線。",
+          "whisperLine": "「別假装鎮定了，你的呼吸早就出卖你了。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}交替吹熱氣並輕溫柔的吻後再綿長綿長的吻{partner}的小腹線條，严格遵守在羽毛般輕撫與用力抓握之間切換。",
+          "whisperLine": "「告诉我，這裡是不是最讓你招架不住？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "在落地窗簾後彻底貼合，{lead}專注輕溫柔的吻後再綿長綿長的吻鎖骨凹陷處與小腹線條完成終章。",
+          "whisperLine": "「今晚不準說停，只管彻底沉淪。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越界之夜 · 暖光梳妝台前",
+      "subtitle": "深夜禁區裡的「用假名溜進頂層套房的秘密私奔」沉浸戲碼",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}把{partner}拉入暖光梳妝台前，貼耳低語「關燈之後你最渴望被觸碰的方式」打破理智防線。",
+          "whisperLine": "「別假装鎮定了，你的呼吸早就出卖你了。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}交替吹熱氣並張唇貼膚落滿灼熱濕吻於{partner}的胸口與側肋，严格遵守每換一個部位前先低聲喚對方名字。",
+          "whisperLine": "「告诉我，這裡是不是最讓你招架不住？」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "在暖光梳妝台前彻底貼合，{lead}專注張唇貼膚落滿灼熱濕吻於手腕脈搏處與胸口與側肋完成終章。",
+          "whisperLine": "「今晚不準說停，只管彻底沉淪。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "午夜主宰 · 廚房吧台邊",
+      "subtitle": "交出主導權的「用假名溜進頂層套房的秘密私奔」高能三幕劇",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}在廚房吧台邊宣布今晚劇本主題「用假名溜進頂層套房的秘密私奔」，要求{partner}配合把伴侶輕輕抵在牆面扶住腰胯。",
+          "whisperLine": "「從現在起，閉上眼睛把一切交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}借用單手且保持眼神對視緩緩撥開襯衫的兩顆扣子，用「先輕蹭鼻尖再突然落下一記慢吻」挑逗鎖骨。",
+          "whisperLine": "「忍住別出聲，越克制越讓人上癮。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "進入「在床上膝蓋相抵面對面跪坐」，{lead}集中俏皮輕吻後再溫柔吻平{partner}的脊柱最深處引爆終幕。",
+          "whisperLine": "「這就是你心裡一直想要的，對不對？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "午夜主宰 · 昏暗的門框旁",
+      "subtitle": "交出主導權的「用假名溜進頂層套房的秘密私奔」高能三幕劇",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}在昏暗的門框旁宣布今晚劇本主題「用假名溜進頂層套房的秘密私奔」，要求{partner}配合把伴侶雙手反扣在背後不準反抗。",
+          "whisperLine": "「從現在起，閉上眼睛把一切交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}借用不許用手只靠嘴唇與牙齒緩緩撥開一側肩帶或外衣，用「先在呼吸可及處停住，再溫柔地靠近」挑逗後背脊柱。",
+          "whisperLine": "「忍住別出聲，越克制越讓人上癮。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "進入「在臥室牆邊輕輕相依的姿勢」，{lead}集中用呼吸沿著極慢地氣息輕輕拂過{partner}的腰側凹陷處引爆終幕。",
+          "whisperLine": "「這就是你心裡一直想要的，對不對？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "午夜主宰 · 點著夜燈的地毯上",
+      "subtitle": "交出主導權的「用假名溜進頂層套房的秘密私奔」高能三幕劇",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}在點著夜燈的地毯上宣布今晚劇本主題「用假名溜進頂層套房的秘密私奔」，要求{partner}配合單手把伴侶雙手輕按在頭頂。",
+          "whisperLine": "「從現在起，閉上眼睛把一切交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}借用極慢的指尖緩緩撥開一件配飾加一層外衣，用「指尖輕輕劃過，再落下一個軟軟的吻」挑逗後頸髮際線。",
+          "whisperLine": "「忍住別出聲，越克制越讓人上癮。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "進入「面對面靠近坐著面對面貼緊的姿勢」，{lead}集中輕溫柔的吻後再綿長綿長的吻{partner}的小腹敏感線引爆終幕。",
+          "whisperLine": "「這就是你心裡一直想要的，對不對？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "午夜主宰 · 只留一盞暖燈的床頭",
+      "subtitle": "交出主導權的「用假名溜進頂層套房的秘密私奔」高能三幕劇",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}在只留一盞暖燈的床頭宣布今晚劇本主題「用假名溜進頂層套房的秘密私奔」，要求{partner}配合輕捏下巴抬起讓對方只能看著你。",
+          "whisperLine": "「從現在起，閉上眼睛把一切交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}借用先用手背輕擦再換滾燙嘴唇緩緩撥開拉鏈或腰線邊緣，用「先輕吹一口暖氣再極慢吻上去」挑逗頸側。",
+          "whisperLine": "「忍住別出聲，越克制越讓人上癮。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "進入「墊著枕頭微微弓背的姿勢」，{lead}集中張唇貼膚落滿灼熱濕吻於{partner}的胯部弧線引爆終幕。",
+          "whisperLine": "「這就是你心裡一直想要的，對不對？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "午夜主宰 · 暖燈下的飄窗邊",
+      "subtitle": "交出主導權的「用假名溜進頂層套房的秘密私奔」高能三幕劇",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}在暖燈下的飄窗邊宣布今晚劇本主題「用假名溜進頂層套房的秘密私奔」，要求{partner}配合讓伴侶十指交叉扣在腦後敞開身體。",
+          "whisperLine": "「從現在起，閉上眼睛把一切交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}借用握著伴侶自己的手去引導緩緩撥開上衣的衣擺，用「先俏皮輕吻一口再立刻用呼吸沿著溫柔安撫」挑逗大腿內側。",
+          "whisperLine": "「忍住別出聲，越克制越讓人上癮。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "進入「閉眼平躺交出掌控權的姿勢」，{lead}集中落下讓人喘不過氣的綿長的吻於{partner}的大腿內側引爆終幕。",
+          "whisperLine": "「這就是你心裡一直想要的，對不對？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "午夜主宰 · 沙發扶手旁",
+      "subtitle": "交出主導權的「用假名溜進頂層套房的秘密私奔」高能三幕劇",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}在沙發扶手旁宣布今晚劇本主題「用假名溜進頂層套房的秘密私奔」，要求{partner}配合讓伴侶雙手貼住床頭板不許放下。",
+          "whisperLine": "「從現在起，閉上眼睛把一切交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}借用只靠灼熱吐息與唇瓣緩緩撥開你親自挑選的一件衣物，用「指腹輕輕劃過手心，再慢慢握緊十指」挑逗胯骨邊緣。",
+          "whisperLine": "「忍住別出聲，越克制越讓人上癮。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "進入「半仰在床邊的姿勢」，{lead}集中用濕潤舌尖一路描摹{partner}的鎖骨下方引爆終幕。",
+          "whisperLine": "「這就是你心裡一直想要的，對不對？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "午夜主宰 · 軟軟的床尾",
+      "subtitle": "交出主導權的「用假名溜進頂層套房的秘密私奔」高能三幕劇",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}在軟軟的床尾宣布今晚劇本主題「用假名溜進頂層套房的秘密私奔」，要求{partner}配合把伴侶輕輕抵在牆面扶住腰胯。",
+          "whisperLine": "「從現在起，閉上眼睛把一切交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}借用單手且保持眼神對視緩緩撥開襯衫的兩顆扣子，用「先輕吹微涼氣息再立刻覆上滾燙濕吻」挑逗耳垂。",
+          "whisperLine": "「忍住別出聲，越克制越讓人上癮。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "進入「站在鏡子前背後相擁的姿勢」，{lead}集中溫柔輕吻{partner}的胸口與肋骨線條引爆終幕。",
+          "whisperLine": "「這就是你心裡一直想要的，對不對？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "午夜主宰 · 柔和燈光下的玄關",
+      "subtitle": "交出主導權的「用假名溜進頂層套房的秘密私奔」高能三幕劇",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}在柔和燈光下的玄關宣布今晚劇本主題「用假名溜進頂層套房的秘密私奔」，要求{partner}配合把伴侶雙手反扣在背後不準反抗。",
+          "whisperLine": "「從現在起，閉上眼睛把一切交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}借用不許用手只靠嘴唇與牙齒緩緩撥開一側肩帶或外衣，用「先輕輕握住手，再慢慢落下一個溫柔的吻」挑逗腰窩。",
+          "whisperLine": "「忍住別出聲，越克制越讓人上癮。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "進入「在床上膝蓋相抵面對面跪坐」，{lead}集中用唇舌與指尖交替挑逗{partner}的臀線與胯骨引爆終幕。",
+          "whisperLine": "「這就是你心裡一直想要的，對不對？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "午夜主宰 · 微暗的衣帽間門旁",
+      "subtitle": "交出主導權的「用假名溜進頂層套房的秘密私奔」高能三幕劇",
+      "leadRole": "主導演绎者",
+      "partnerRole": "心動搭档",
+      "acts": [
+        {
+          "actTitle": "第一幕 · 微光試探",
+          "durationSec": 45,
+          "direction": "{lead}在微暗的衣帽間門旁宣布今晚劇本主題「用假名溜進頂層套房的秘密私奔」，要求{partner}配合單手把伴侶雙手輕按在頭頂。",
+          "whisperLine": "「從現在起，閉上眼睛把一切交願意的話就。」"
+        },
+        {
+          "actTitle": "第二幕 · 呼吸升溫",
+          "durationSec": 55,
+          "direction": "{lead}借用極慢的指尖緩緩撥開一件配飾加一層外衣，用「先輕撫發絲再扣住後腦勺拉近」挑逗小腹線條。",
+          "whisperLine": "「忍住別出聲，越克制越讓人上癮。」"
+        },
+        {
+          "actTitle": "第三幕 · 沉淪終章",
+          "durationSec": 65,
+          "direction": "進入「在臥室牆邊輕輕相依的姿勢」，{lead}集中俏皮輕吻後再溫柔吻平{partner}的脊柱最深處引爆終幕。",
+          "whisperLine": "「這就是你心裡一直想要的，對不對？」"
+        }
+      ]
+    }
+  ]
+}

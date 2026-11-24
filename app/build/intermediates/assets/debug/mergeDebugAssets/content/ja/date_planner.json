@@ -1,0 +1,445 @@
+{
+  "version": 1,
+  "categories": [
+    "dining",
+    "outdoor",
+    "indoor",
+    "culture",
+    "getaway",
+    "ritual"
+  ],
+  "activities": [
+    {
+      "id": "dp_dining_01",
+      "category": "dining",
+      "tier": 1,
+      "durationMin": 90,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "ゼロから一緒に料理をする",
+      "detail": "役割を分担して、塩の加減で少し揉めて、そのまま鍋から食べよう。"
+    },
+    {
+      "id": "dp_dining_02",
+      "category": "dining",
+      "tier": 1,
+      "durationMin": 120,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "初めてデートした夜の料理を再現する",
+      "detail": "同じ注文、同じプレイリスト、同じ席。始まりを思い出しながら話そう。"
+    },
+    {
+      "id": "dp_dining_03",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 100,
+      "tags": [
+        "indoor",
+        "eye_contact"
+      ],
+      "title": "何も見ずに三品を選ぶ、目隠しテイスティング",
+      "detail": "片方が二人分を注文。覗き見なし、交換なし、不満なし。"
+    },
+    {
+      "id": "dp_dining_04",
+      "category": "dining",
+      "tier": 1,
+      "durationMin": 75,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "ピクニックかご、座るクッション、毛布一枚",
+      "detail": "天井の灯りを消して、ランプだけ。今日はそれだけでいい夜。"
+    },
+    {
+      "id": "dp_dining_05",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 90,
+      "tags": [
+        "indoor",
+        "deep_talk"
+      ],
+      "title": "近くの人のために料理して届ける",
+      "detail": "隣人、夜勤の人、あるいは野良猫の飼い主。誰かを選んで。"
+    },
+    {
+      "id": "dp_dining_06",
+      "category": "dining",
+      "tier": 1,
+      "durationMin": 60,
+      "tags": [
+        "indoor",
+        "eye_contact"
+      ],
+      "title": "ベッドで朝食、会話なしで",
+      "detail": "トレーひとつ、スプーンふたつ、スマホなし。お互いにニュースを読み上げて。"
+    },
+    {
+      "id": "dp_outdoor_01",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 75,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "行き先なしの夕日ウォーク",
+      "detail": "通りで一番高い場所を見つけて、暖かくできるものを持って、空の色が変わるのを見よう。"
+    },
+    {
+      "id": "dp_outdoor_02",
+      "category": "outdoor",
+      "tier": 2,
+      "durationMin": 120,
+      "tags": [
+        "deep_talk",
+        "playful"
+      ],
+      "title": "一時間何も言わない夜の散歩",
+      "detail": "沈黙がルール。一時間が終わったら、心浮いたことを最初に一つずつ話そう。"
+    },
+    {
+      "id": "dp_outdoor_03",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 180,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "title": "一日遊の唯一のルール：スマホなし",
+      "detail": "写真は互いの瞳にだけ。残りは全部、記憶で。"
+    },
+    {
+      "id": "dp_outdoor_04",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 90,
+      "tags": [
+        "playful",
+        "deep_talk"
+      ],
+      "title": "マーケットへ、食材は一人ひとつ",
+      "detail": "両方が一度も作っていない食材を選ぶこと。その夜に調理しよう。"
+    },
+    {
+      "id": "dp_outdoor_05",
+      "category": "outdoor",
+      "tier": 2,
+      "durationMin": 100,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ],
+      "title": "海まで車で、波の音の中で言いたいことを",
+      "detail": "ずっと言いたいことがあるなら、海は判断しない。"
+    },
+    {
+      "id": "dp_outdoor_06",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 60,
+      "tags": [
+        "playful",
+        "public_space"
+      ],
+      "title": "撮影チャレンジ：二人だけがいる場所で5つのポーズ",
+      "detail": "二人でやったことのないポーズを5つ。通行人が笑ってもいい。"
+    },
+    {
+      "id": "dp_indoor_01",
+      "category": "indoor",
+      "tier": 1,
+      "durationMin": 120,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "毛布の要塞を作って一晩中籠る",
+      "detail": "椅子、衣桁、小さな fairy lights、そして最初に分け合えない毛布一枚。"
+    },
+    {
+      "id": "dp_indoor_02",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 150,
+      "tags": [
+        "roleplay",
+        "indoor"
+      ],
+      "title": "出会った日を、シーンごとに再現する",
+      "detail": "それぞれ役になって、台詞はすべて即興で。結末は円満でなくてもいい。"
+    },
+    {
+      "id": "dp_indoor_03",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 100,
+      "tags": [
+        "physical_light",
+        "indoor"
+      ],
+      "title": "スローダンスのプレイリスト、会話は禁止",
+      "detail": "12曲選んで、同じ部屋で全部踊る。最後の1曲なら変えてもいい。"
+    },
+    {
+      "id": "dp_indoor_04",
+      "category": "indoor",
+      "tier": 1,
+      "durationMin": 90,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "質問瓶：書いて、折って、無作為に",
+      "detail": "聞いたことがないことを書く。小さすぎる質問も、大きすぎる質問も、気まずい質問もない。"
+    },
+    {
+      "id": "dp_indoor_05",
+      "category": "indoor",
+      "tier": 1,
+      "durationMin": 75,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "title": "料理番組の夜、外国のレシピで",
+      "detail": "国をランダムに選んで、その国で本当に有名な料理を作って、自信を持って出す。"
+    },
+    {
+      "id": "dp_indoor_06",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 120,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "テーマナイト：色ひとつ、部屋ひとつ、気分ひとつ",
+      "detail": "赤、青、金、濃い緑。着て、灯して、その色で話す。"
+    },
+    {
+      "id": "dp_culture_01",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 120,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "二人で美術館、各々一つの展示室へ",
+      "detail": "別々のものを見て、待ち合わせ場所で出会い、見たものを互いに説明しよう。"
+    },
+    {
+      "id": "dp_culture_02",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 100,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "title": "まだ聴いたことのないライブ音楽",
+      "detail": "小さな会場、安いチケット、公演中は無言。終了後に話そう。"
+    },
+    {
+      "id": "dp_culture_03",
+      "category": "culture",
+      "tier": 2,
+      "durationMin": 90,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "詩の夜：お互いに書いたものを読み上げる",
+      "detail": "朝に何行か書いて隠оров、今夜読み上げよう。"
+    },
+    {
+      "id": "dp_culture_04",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 90,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "title": "肩を並べて料理教室、、一人一つ買い物籠",
+      "detail": "二人とも作れない料理を学ぶ。课后はワインで。"
+    },
+    {
+      "id": "dp_culture_05",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 75,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "本棚でデート：互いに一冊選ぶ",
+      "detail": "何も言わずに買う。家で交換して、最初の一頁を一緒に読む。"
+    },
+    {
+      "id": "dp_culture_06",
+      "category": "culture",
+      "tier": 2,
+      "durationMin": 120,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "夢について話す、ひとり一つ質問",
+      "detail": "助言も解決もしない。質問だけして、5分はちゃんと聞く。"
+    },
+    {
+      "id": "dp_getaway_01",
+      "category": "getaway",
+      "tier": 2,
+      "durationMin": 300,
+      "tags": [
+        "playful",
+        "deep_talk"
+      ],
+      "title": "一晩の逃避、20分先の街へ",
+      "detail": "十分钟の距離でも、ホテルに一泊しよう。"
+    },
+    {
+      "id": "dp_getaway_02",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 240,
+      "tags": [
+        "indoor",
+        "playful"
+      ],
+      "title": "名前のいい町まで電車で",
+      "detail": "名前だけで目的地を決める。歩いて、現地のものを食べ、帰る。"
+    },
+    {
+      "id": "dp_getaway_03",
+      "category": "getaway",
+      "tier": 2,
+      "durationMin": 360,
+      "tags": [
+        "physical_light",
+        "playful"
+      ],
+      "title": "ステイケーション：ホテル一泊、一日、計画なし",
+      "detail": "部屋を予約して、その日の気分で決める。スケジュールは禁止。"
+    },
+    {
+      "id": "dp_getaway_04",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 180,
+      "tags": [
+        "deep_talk",
+        "eye_contact"
+      ],
+      "title": "行き先を決めないまま海までドライブ",
+      "detail": "気持ちのいい道を選んで。どちらかが「止まれ」と言ったら止まる。"
+    },
+    {
+      "id": "dp_getaway_05",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 150,
+      "tags": [
+        "playful",
+        "indoor"
+      ],
+      "title": "新しい街で、一人一つ住所選んで",
+      "detail": "それぞれ行ったことのないカフェを選んで、1時間後に中間地点で会う。"
+    },
+    {
+      "id": "dp_getaway_06",
+      "category": "getaway",
+      "tier": 2,
+      "durationMin": 240,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "一日中まるごとサプライズを送る",
+      "detail": "内緒で計画する。唯一のルール：会う瞬間まで一切ヒントなし。"
+    },
+    {
+      "id": "dp_ritual_01",
+      "category": "ritual",
+      "tier": 2,
+      "durationMin": 60,
+      "tags": [
+        "physical_light",
+        "eye_contact"
+      ],
+      "title": "急がず一時間、スクリーンなし",
+      "detail": "スマホは別の部屋へ。残りは二人で決めて。"
+    },
+    {
+      "id": "dp_ritual_02",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 45,
+      "tags": [
+        "deep_talk",
+        "playful"
+      ],
+      "title": "今週の小さな良いこと10個",
+      "detail": "それぞれ10個。繰り返しなし。小さいことも数える。"
+    },
+    {
+      "id": "dp_ritual_03",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 30,
+      "tags": [
+        "playful",
+        "eye_contact"
+      ],
+      "title": "具体で本当のお褒めを一つずつ",
+      "detail": "「綺麗だね」以外を。実際に今週気づいたことを。"
+    },
+    {
+      "id": "dp_ritual_04",
+      "category": "ritual",
+      "tier": 2,
+      "durationMin": 90,
+      "tags": [
+        "physical_light",
+        "roleplay"
+      ],
+      "title": "ゆっくりシャワー、交互に",
+      "detail": "片方が洗い、もう片方が休む。争わずに交代する。"
+    },
+    {
+      "id": "dp_ritual_05",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 60,
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "本を一ページずつ読み合う",
+      "detail": "交代で読み上げて、辞めたくなったら止めて話そう。"
+    },
+    {
+      "id": "dp_ritual_06",
+      "category": "ritual",
+      "tier": 2,
+      "durationMin": 120,
+      "tags": [
+        "roleplay",
+        "eye_contact"
+      ],
+      "title": "ルールはひとつ：勝者が今夜を決める",
+      "detail": "早めのゲームを一戦。勝者が訊かずに今夜を決める。"
+    }
+  ]
+}

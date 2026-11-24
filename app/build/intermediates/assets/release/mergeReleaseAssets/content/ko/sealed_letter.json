@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "seals": [
+    {
+      "id": "seal_crimson",
+      "symbol": "❤",
+      "label": "진홍 밀랍"
+    },
+    {
+      "id": "seal_rose",
+      "symbol": "❀",
+      "label": "장미빛 밀랍"
+    },
+    {
+      "id": "seal_gold",
+      "symbol": "✦",
+      "label": "황금 밀랍"
+    },
+    {
+      "id": "seal_midnight",
+      "symbol": "☾",
+      "label": "한밤중 밀랍"
+    },
+    {
+      "id": "seal_lavender",
+      "symbol": "❁",
+      "label": "라벤더 밀랍"
+    },
+    {
+      "id": "seal_ember",
+      "symbol": "✧",
+      "label": "불씨 밀랍"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "prompt_today",
+      "text": "오늘 네게서 발견했지만 말하지 못한 것."
+    },
+    {
+      "id": "prompt_thankyou",
+      "text": "아무도 몰랐다고 생각한 네 작은 다정함, 고마워."
+    },
+    {
+      "id": "prompt_first",
+      "text": "처음 네를 봤을 때 느낀 것. 꾸미지 말고 사실만."
+    },
+    {
+      "id": "prompt_future",
+      "text": "언젠가 너와 함께 살고 싶은 하루에 대한 약속."
+    },
+    {
+      "id": "prompt_quarrel",
+      "text": "마지막으로 다툰 뒤에 말하고 싶었던 것."
+    },
+    {
+      "id": "prompt_fear",
+      "text": "말하지 못했던 걸 대신 적어둡니다."
+    },
+    {
+      "id": "prompt_favourite",
+      "text": "다른 누구도 보지 못하는 네 모습."
+    },
+    {
+      "id": "prompt_ridiculous",
+      "text": "우리 사이에서 제일 엉뚱하면서도 좋아하는 것."
+    },
+    {
+      "id": "prompt_letter_you",
+      "text": "아직 만나지 못한 나에게서, 너에게 쓰는 편지."
+    },
+    {
+      "id": "prompt_forgiven",
+      "text": "용서해줬으면 하는 것."
+    }
+  ],
+  "delays": [
+    {
+      "id": "delay_1d",
+      "days": 1,
+      "label": "내일"
+    },
+    {
+      "id": "delay_3d",
+      "days": 3,
+      "label": "3일 후"
+    },
+    {
+      "id": "delay_7d",
+      "days": 7,
+      "label": "일주일 후"
+    },
+    {
+      "id": "delay_14d",
+      "days": 14,
+      "label": "2주 후"
+    },
+    {
+      "id": "delay_30d",
+      "days": 30,
+      "label": "한 달 후"
+    },
+    {
+      "id": "delay_100d",
+      "days": 100,
+      "label": "100일 후"
+    }
+  ]
+}

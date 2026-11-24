@@ -1,0 +1,539 @@
+--------- beginning of main
+11-23 18:11:26.908  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:26.947  1565  1565 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+11-23 18:11:26.943  1565  1565 I cmd     : type=1400 audit(0.0:145264): avc: denied { transfer } for scontext=u:r:adbd:s0 tcontext=u:r:system_server:s0 tclass=binder permissive=1
+--------- beginning of system
+11-23 18:11:26.949  1293  6367 I ActivityManager: Force stopping com.velvet.couplesgame appid=10088 user=0: clear data
+11-23 18:11:26.946  1043  1043 I lmkd    : type=1400 audit(0.0:145265): avc: denied { write } for name="oom_score_adj" dev="proc" ino=1534584 scontext=u:r:init:s0 tcontext=u:r:platform_app:s0:c512,c768 tclass=file permissive=1
+11-23 18:11:26.946  1043  1043 I lmkd    : type=1400 audit(0.0:145266): avc: denied { write } for name="oom_score_adj" dev="proc" ino=1621734 scontext=u:r:init:s0 tcontext=u:r:isolated_app:s0:c512,c768 tclass=file permissive=1
+11-23 18:11:26.946  1043  1043 I lmkd    : type=1400 audit(0.0:145267): avc: denied { write } for name="oom_score_adj" dev="proc" ino=1621722 scontext=u:r:init:s0 tcontext=u:r:untrusted_app:s0:c75,c256,c512,c768 tclass=file permissive=1
+11-23 18:11:26.957  1293  1325 I ActivityManager: Force stopping com.velvet.couplesgame appid=10088 user=-1: clearApplicationUserData
+11-23 18:11:26.990  1293  1345 W ActivityManager: remove ResolveInfo{653567 com.android.vending/com.google.android.finsky.appcontentservice.engage.broadcastreceiver.EngagePackageActionReceiver m=0x208000}
+11-23 18:11:26.996  1293  1325 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10032; state: DISABLED
+11-23 18:11:26.996  1293  1326 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10032; state: ENABLED
+11-23 18:11:27.001  1126  1126 D Zygote  : Forked child process 1572
+11-23 18:11:27.002  1293  1326 I ActivityManager: Start proc 1572:com.android.chromium/u0a32 for broadcast {com.android.chromium/org.chromium.chrome.browser.browserservices.InstalledWebappBroadcastReceiver}
+11-23 18:11:27.003  1572  1572 I Zygote  : fakeProductInfoIfNeed callded! com.android.chromium
+11-23 18:11:27.005  1572  1572 I Zygote  : fake Product info com.android.chromium not matched any pattern
+11-23 18:11:27.005  1572  1572 I Zygote  : fakeProductInfoFromProperties callded! com.android.chromium
+11-23 18:11:27.005  1572  1572 I Zygote  : fakeProductInfoFromProperties disable for uid ! com.android.chromium
+11-23 18:11:27.007  1572  1572 E NemuAppNameUtil: save data success
+11-23 18:11:27.010  1572  1572 E linker  : do_dlopen failed
+11-23 18:11:27.010  1572  1572 E linker  : load selected hp /system/etc/mumu-configs/shared_libs/libhp12_x86_64.so failed
+11-23 18:11:27.010  1572  1572 E linker  : library "/system/etc/mumu-configs/shared_libs/libhp12_x86_64.so" ("/system/etc/mumu-configs/shared_libs/libhp12_x86_64.so") needed or dlopened by "/apex/com.android.art/lib64/libnativebridge.so" is not accessible for the namespace: [name="com_android_art", ld_library_paths="", default_library_paths="/apex/com.android.art/lib64", permitted_paths="/apex/com.android.art/lib64:/system/lib64:/data:/apex/com.android.art/javalib"]
+11-23 18:11:27.010  1572  1572 E linker  : do_dlopen failed
+11-23 18:11:27.010  1572  1572 E linker  : load origin hp /system/etc/mumu-configs/shared_libs/libhp12_x86_64.so failed
+11-23 18:11:27.012  1572  1572 E linker  : hp entrace has not been loaded, ignored
+11-23 18:11:27.018  1572  1572 W nativebridge: LLLog DoRedirectTranslator not is_gte
+11-23 18:11:27.019  1572  1572 W nativebridge: Failed to bind-mount /system/etc/cpuinfo.x86_64.txt as /proc/cpuinfo: No such file or directory
+11-23 18:11:27.019  1572  1572 W nativebridge: Failed to bind-mount /system/lib64/x86_64/cpuinfo as /proc/cpuinfo: No such file or directory
+11-23 18:11:27.019  1572  1572 I Zygote  : seccomp disabled by setenforce 0
+11-23 18:11:27.027  1572  1572 W ndroid.chromiu: Unexpected CPU variant for X86 using defaults: x86_64
+11-23 18:11:27.027  1572  1572 V libnb   : enter native_bridge2_initialize /data/user/0/com.android.chromium/code_cache arm64
+11-23 18:11:27.028  1572  1572 E libnb   : The translator implementation library has not been set.
+11-23 18:11:27.036  1572  1572 E libnb   : get_callbacks native_handle 0x8ec578662f1d798b: 1 libnb:/system/lib64/libhoudini.so
+11-23 18:11:27.036  1572  1572 I libnb   : Found /system/lib64/libhoudini.so version 6
+11-23 18:11:27.037  1572  1572 D houdini : [1572] Intel Bridge Technology for Netease internal evaluation only, Copyright(C) Intel Corp. 2012-2025.
+11-23 18:11:27.037  1572  1572 D houdini : [1572] Use permitted only under a valid evaluation software license agreement - all other rights reserved.
+11-23 18:11:27.037  1572  1572 D houdini : [1572] Initialize library(version: 12.0.1_z.Netease_ev4 RELEASE)... successfully.
+11-23 18:11:27.037  1572  1572 W HP      : x_initialize private_dir:/data/user/0/com.android.chromium/code_cache instruction_set:arm64 getMethodShorty:0x7a9fb793c340 ret:1
+11-23 18:11:27.040  1572  1572 E ndroid.chromiu: Not starting debugger since process cannot load the jdwp agent.
+11-23 18:11:27.042  1572  1572 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+11-23 18:11:27.048  1572  1596 E ashmem  : memfd: ro.vndk.version not defined or invalid (), this is mandated since P.
+11-23 18:11:27.049  1572  1572 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10032; state: ENABLED
+11-23 18:11:27.072  1572  1572 I Typeface: Preloading /system/fonts/Roboto-Regular.ttf
+11-23 18:11:27.074  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:27.086  1572  1572 W ndroid.chromiu: Entry not found
+11-23 18:11:27.181  1572  1572 V GraphicsEnvironment: ANGLE Developer option for 'com.android.chromium' set to: 'default'
+11-23 18:11:27.182  1572  1572 V GraphicsEnvironment: ANGLE GameManagerService for com.android.chromium: false
+11-23 18:11:27.182  1572  1572 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+11-23 18:11:27.185  1572  1572 I LoadedApk: No resource references to update in package com.android.trichromelibrary
+11-23 18:11:27.186  1572  1572 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+11-23 18:11:27.187  1572  1572 D NetworkSecurityConfig: Using Network Security Config from resource network_security_config debugBuild: false
+11-23 18:11:27.205  1572  1572 I cr_SplitCompatApp: Launched version=110.0.5481.154 minSdkVersion=29 isBundle=false processName=com.android.chromium isIsolated=false
+11-23 18:11:27.241  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:27.251  1572  1572 W FirebaseApp: Default FirebaseApp failed to initialize because no default options were found. This usually means that com.google.gms:google-services was not applied to your gradle project.
+11-23 18:11:27.252  1572  1572 I FirebaseInitProvider: FirebaseApp initialization unsuccessful
+11-23 18:11:27.272  7326  8032 I FontLog : (REDACTED) Received query %s, URI %s
+11-23 18:11:27.272  7326  8032 I FontLog : (REDACTED) Query [%s] resolved to %s
+11-23 18:11:27.277  7326  8032 I FontLog : (REDACTED) Font PFD returned from cache for %s
+11-23 18:11:27.277  7326  8032 I FontLog : (REDACTED) Fetch %s end status %s
+11-23 18:11:27.279  7326  8032 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+11-23 18:11:27.285  7326  8032 I FontLog : (REDACTED) Received query %s, URI %s
+11-23 18:11:27.286  7326  8032 I FontLog : (REDACTED) Query [%s] resolved to %s
+11-23 18:11:27.287  7326  8032 I FontLog : (REDACTED) Font PFD returned from cache for %s
+11-23 18:11:27.287  7326  8032 I FontLog : (REDACTED) Fetch %s end status %s
+11-23 18:11:27.288  7326  8032 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+11-23 18:11:27.290  7326  8032 I FontLog : (REDACTED) Received query %s, URI %s
+11-23 18:11:27.290  7326  8032 I FontLog : (REDACTED) Query [%s] resolved to %s
+11-23 18:11:27.291  7326  8032 I FontLog : (REDACTED) Font PFD returned from cache for %s
+11-23 18:11:27.291  7326  8032 I FontLog : (REDACTED) Fetch %s end status %s
+11-23 18:11:27.291  7326  8032 I FontLog : (REDACTED) Pulling font file for id = %d, cache size = %d
+11-23 18:11:27.296  1572  1572 D cr_IWBroadcastReceiver: [InstalledWebappBroadcastReceiver.java:125] Chrome holds no data for package.
+11-23 18:11:27.298  1293  3581 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10017; state: DISABLED
+11-23 18:11:27.298  1293  3581 D CompatibilityChangeReporter: Compat change id reported: 177438394; UID 10017; state: DISABLED
+11-23 18:11:27.298  1293  3581 D CompatibilityChangeReporter: Compat change id reported: 135772972; UID 10017; state: DISABLED
+11-23 18:11:27.298  1293  3581 D CompatibilityChangeReporter: Compat change id reported: 135754954; UID 10017; state: ENABLED
+11-23 18:11:27.298  1293  1326 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10017; state: ENABLED
+11-23 18:11:27.304  1126  1126 D Zygote  : Forked child process 1617
+11-23 18:11:27.304  1293  1326 I ActivityManager: Start proc 1617:com.android.documentsui/u0a17 for broadcast {com.android.documentsui/com.android.documentsui.PackageReceiver}
+11-23 18:11:27.305  1617  1617 I Zygote  : fakeProductInfoIfNeed callded! com.android.documentsui
+11-23 18:11:27.308  1617  1617 I Zygote  : fake Product info com.android.documentsui not matched any pattern
+11-23 18:11:27.308  1617  1617 I Zygote  : fakeProductInfoFromProperties callded! com.android.documentsui
+11-23 18:11:27.308  1617  1617 I Zygote  : fakeProductInfoFromProperties disable for uid ! com.android.documentsui
+11-23 18:11:27.309  1617  1617 E NemuAppNameUtil: save data success
+11-23 18:11:27.313  1617  1617 I Zygote  : seccomp disabled by setenforce 0
+11-23 18:11:27.320  1617  1617 W oid.documentsu: Unexpected CPU variant for X86 using defaults: x86_64
+11-23 18:11:27.323  1617  1617 E oid.documentsu: Not starting debugger since process cannot load the jdwp agent.
+11-23 18:11:27.327  1617  1617 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+11-23 18:11:27.333  1293  3581 D CompatibilityChangeReporter: Compat change id reported: 168419799; UID 10017; state: DISABLED
+11-23 18:11:27.334  1617  1661 E ashmem  : memfd: ro.vndk.version not defined or invalid (), this is mandated since P.
+11-23 18:11:27.336  1617  1617 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10017; state: DISABLED
+11-23 18:11:27.355  1617  1617 I Typeface: Preloading /system/fonts/Roboto-Regular.ttf
+11-23 18:11:27.396  1617  1617 V GraphicsEnvironment: ANGLE Developer option for 'com.android.documentsui' set to: 'default'
+11-23 18:11:27.397  1617  1617 V GraphicsEnvironment: ANGLE GameManagerService for com.android.documentsui: false
+11-23 18:11:27.398  1617  1617 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+11-23 18:11:27.400  1617  1617 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-23 18:11:27.400  1617  1617 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-23 18:11:27.424  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:27.449  1617  1617 D DocumentsApplication: OverlayManager.setEnabled() result: true
+11-23 18:11:27.468  2363  2650 I MediaProvider: Begin Intent { act=android.intent.action.PACKAGE_DATA_CLEARED dat=package:com.velvet.couplesgame flg=0x1000010 cmp=com.android.providers.media.module/com.android.providers.media.MediaService (has extras) }
+11-23 18:11:27.470  2363  2650 D MediaProvider: Deleted 0 Android/media items belonging to com.velvet.couplesgame on /data/user/0/com.android.providers.media.module/databases/external.db
+11-23 18:11:27.472  2363  2650 I MediaProvider: End Intent { act=android.intent.action.PACKAGE_DATA_CLEARED dat=package:com.velvet.couplesgame flg=0x1000010 cmp=com.android.providers.media.module/com.android.providers.media.MediaService (has extras) }
+11-23 18:11:27.477  7326  1211 I Fitness : (REDACTED) FitCleanupIntentOperation received Intent %s
+11-23 18:11:27.487  7326  1244 I AppBackupStateCleanupIO: Backup state cleanup on uninstall is disabled. [CONTEXT service_id=229 ]
+11-23 18:11:27.492  7326  1244 I NearbyDiscovery: (REDACTED) processGrantSlicePermission: %s
+11-23 18:11:27.495  7326  1260 I Blockstore: [PackageIntentOperation] Checking the restore timespan. [CONTEXT service_id=258 ]
+11-23 18:11:27.501  7326  7326 D BoundBrokerSvc: onBind: Intent { act=com.google.android.gms.backup.GMS_MODULE_RESTORE dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsInternalBoundBrokerService }
+11-23 18:11:27.501  7326  7326 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.gms.backup.GMS_MODULE_RESTORE dat=chimera-action: cmp=com.google.android.gms/.chimera.GmsInternalBoundBrokerService }
+11-23 18:11:27.503  7326  1251 I Icing   : doRemovePackageData com.velvet.couplesgame
+11-23 18:11:27.516  7326   694 I AndroidBackupEventsLogg: (REDACTED) Logging without sampling %s
+11-23 18:11:27.517  7326  1260 I Blockstore: [PackageIntentOperation] Received broadcast before a restore was started. [CONTEXT service_id=258 ]
+11-23 18:11:27.591  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:27.758  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:27.925  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.109  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.275  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.391  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.408  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.425  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.441  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.458  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.475  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.491  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.508  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.525  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.541  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.558  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.570 16249 16257 W android.vendin: Reducing the number of considered missed Gc histogram windows from 355 to 100
+11-23 18:11:28.574  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.591  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.608  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.625  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.641  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.658  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.675  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.691  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.708  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.725  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.758  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.775  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.791  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.800  1034  1034 I com.android.keychain: type=1400 audit(0.0:145344): avc: denied { search } for comm=50726F66696C65205361766572 name="/" dev="sda6" ino=2 scontext=u:r:system_app:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=1
+11-23 18:11:28.800  1034  1034 I com.android.keychain: type=1400 audit(0.0:145345): avc: denied { getattr } for comm=50726F66696C65205361766572 path="/system/app/KeyChain/KeyChain.apk" dev="sda6" ino=586 scontext=u:r:system_app:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+11-23 18:11:28.841  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.858  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.875  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.925  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.941  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.958  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:28.991  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.025  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.042  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.075  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.108  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.125  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.126  1145  1145 I wifi@1.0-servic: type=1400 audit(0.0:145346): avc: denied { write } for scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=netlink_route_socket permissive=1
+11-23 18:11:29.126  1145  1145 I wifi@1.0-servic: type=1400 audit(0.0:145347): avc: denied { nlmsg_readpriv } for scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=netlink_route_socket permissive=1
+11-23 18:11:29.135  1008  1290 W AdBannerWidgetManager: formatCurrentWidgetUIByData: widgetDataIndex = 1, widgetFlipperIndex = 1, preWidgetDataIndex = 0, preWidgetFlipperIndex = 0
+11-23 18:11:29.137  1008  1290 W AdBannerWidgetManager: updateAppWidget: partiallyUpdated = true
+11-23 18:11:29.137  1008  1347 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1181 android.content.ContextWrapper.sendBroadcast:479 U0.c.a:95 com.mumu.store.widget.manager.k.f0:182 com.mumu.store.widget.manager.k.g0:10 
+11-23 18:11:29.139  1444  2693 D Watchdog: upload event: {"architecture":"x86_64","channel":"nochannel-mumu12","country":"zh-CN","engine":"NEMUX","fchannel":"nochannel-mumu12","language":"zh-Hans","mpid":"1","package":"mumu","product":"MuMu5.0","product_version":"5.30.1.3586","usage":"0","uuid":"cb0ba437-4057-4fdd-bdd9-ab2b850fffb5","version":"5.30.1.3586","x":{"token":"bc4d13fc-dbf5-4973-828b-3fc2686af769","tool":{"at":"桌面banner","campaign_id":"hERUZr","conversion_type":1,"details_id":"hERUZr","launcher_package":"app.lawnchair","launcher_version":"12.1.0.34","link":"mumu://store/appdetail/29876?mumuresourcename=烈焰觉醒&from=桌面banner&tab=2&download=1&fromid=hERUZr","link_type":"store","name":"ShowLauncherCampaignV2","position":2,"resource":"桌面banner","store_app_name":"烈焰觉醒","version_code":"9.2.25","version_name":1225}}}	type: ClickTool	sign: 5x3pNIpCl/rcfKyZ71uZJGZm0NI=	uid: 1000	json:{"token":"bc4d13fc-dbf5-4973-828b-3fc2686af769","tool":{"at":"桌面banner","campaign_id":"hERUZr","conversion_type":1,"details_id":"hERUZr","launcher_package":"app.lawnchair","launcher_version":"12.1.0.34","link":"mumu://store/appdetail/29876?mumuresourcename=烈焰觉醒&from=桌面banner&tab=2&download=1&fromid=hERUZr","link_type":"store","name":"ShowLauncherCampaignV2","position":2,"resource":"桌面banner","store_app_name":"烈焰觉醒","version_code":"9.2.25","version_name":1225}}
+11-23 18:11:29.126  1145  1145 I wifi@1.0-servic: type=1400 audit(0.0:145348): avc: denied { read } for scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=netlink_route_socket permissive=1
+11-23 18:11:29.143  1008  1279 I FCountTrackHelper: track event=ResourceExposure
+11-23 18:11:29.175  1577  1577 W Bitmap  : Called hasAlpha() on a recycle()'d bitmap! This is undefined behavior!
+11-23 18:11:29.175  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.175  1577  1577 W Bitmap  : Called hasAlpha() on a recycle()'d bitmap! This is undefined behavior!
+11-23 18:11:29.175  1577  1577 W Bitmap  : Called hasAlpha() on a recycle()'d bitmap! This is undefined behavior!
+11-23 18:11:29.191  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.208  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.225  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.241  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.243  1444  2693 D Watchdog: upload server response: {"errcode": 100, "errmsg": "ok"}
+11-23 18:11:29.243  1444  2693 D Watchdog: upload result: true
+11-23 18:11:29.258  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.275  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.291  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.308  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.324  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.341  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.358  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.375  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.391  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.405  1008  1679 D ProfileInstaller: Skipping profile installation for com.mumu.store
+11-23 18:11:29.408  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.425  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.441  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.458  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.475  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.491  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.508  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.525  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.541  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.558  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.575  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.592  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.608  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.626  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.642  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.658  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.675  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.692  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.725  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.759  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.775  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.809  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.842  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.859  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.891  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.925  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.942  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:29.975  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.008  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.025  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.058  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.075  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.091  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.141  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.158  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.174  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.183  1125  1125 I TlsListen_100: type=1400 audit(0.0:145351): avc: denied { read } for path="socket:[1624244]" dev="sockfs" ino=1624244 scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=tcp_socket permissive=1
+11-23 18:11:30.183  1125  1125 I TlsListen_100: type=1400 audit(0.0:145352): avc: denied { write } for path="socket:[1624244]" dev="sockfs" ino=1624244 scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=tcp_socket permissive=1
+11-23 18:11:30.183  1125  1125 I SkDestroyListen: type=1400 audit(0.0:145353): avc: denied { read } for scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=netlink_tcpdiag_socket permissive=1
+11-23 18:11:30.225  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.223  1008  1008 I DefaultDispatch: type=1400 audit(0.0:145354): avc: denied { search } for name="/" dev="mumuvmmsf" ino=1 scontext=u:r:system_app:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=1
+11-23 18:11:30.241  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.258  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.291  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.324  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.341  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.374  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.408  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.425  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.458  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.491  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.508  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.541  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.558  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.574  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.625  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.641  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.658  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.708  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.725  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.741  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.774  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.808  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.825  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.858  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.891  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.908  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.941  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.958  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:30.975  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.025  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.041  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.058  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.108  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.125  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.141  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.191  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.208  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.225  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.258  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.291  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.308  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.313  1683  1683 I adbd    : type=1400 audit(0.0:145355): avc: denied { search } for name="/" dev="sda6" ino=2 scontext=u:r:adbd:s0 tcontext=u:object_r:unlabeled:s0 tclass=dir permissive=1
+11-23 18:11:31.313  1683  1683 I adbd    : type=1400 audit(0.0:145356): avc: denied { execute } for name="sh" dev="sda6" ino=847 scontext=u:r:adbd:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+11-23 18:11:31.313  1683  1683 I adbd    : type=1400 audit(0.0:145357): avc: denied { read open } for path="/system/bin/sh" dev="sda6" ino=847 scontext=u:r:adbd:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+11-23 18:11:31.313  1683  1683 I adbd    : type=1400 audit(0.0:145358): avc: denied { execute_no_trans } for path="/system/bin/sh" dev="sda6" ino=847 scontext=u:r:adbd:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+11-23 18:11:31.313  1683  1683 I adbd    : type=1400 audit(0.0:145359): avc: denied { read } for name="linker64" dev="sda6" ino=733 scontext=u:r:adbd:s0 tcontext=u:object_r:unlabeled:s0 tclass=lnk_file permissive=1
+11-23 18:11:31.313  1683  1683 I sh      : type=1400 audit(0.0:145360): avc: denied { map } for path="/system/bin/sh" dev="sda6" ino=847 scontext=u:r:adbd:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+11-23 18:11:31.341  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.358  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.391  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.425  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.442  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.458  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.508  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.525  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.542  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.592  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.608  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.625  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.675  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.692  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.708  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.742  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.758  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.791  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.825  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.841  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.875  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.908  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.925  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.958  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:31.991  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.008  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.025  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.075  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.091  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.108  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.158  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.175  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.191  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.225  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.241  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.274  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.308  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.325  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.358  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.391  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.409  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.425  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.442  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.458  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.474  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.492  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.508  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.525  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.541  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.558  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.575  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.591  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.608  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.625  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.641  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.658  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.675  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.691  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.708  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.724  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.741  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.809  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.891  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:32.975  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.041  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.126  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.139  1008  1290 W AdBannerWidgetManager: formatCurrentWidgetUIByData: widgetDataIndex = 2, widgetFlipperIndex = 0, preWidgetDataIndex = 1, preWidgetFlipperIndex = 1
+11-23 18:11:33.140  1008  1290 W AdBannerWidgetManager: updateAppWidget: partiallyUpdated = true
+11-23 18:11:33.140  1008  1289 W ContextImpl: Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1181 android.content.ContextWrapper.sendBroadcast:479 U0.c.a:95 com.mumu.store.widget.manager.k.f0:182 com.mumu.store.widget.manager.k.g0:10 
+11-23 18:11:33.143  1444  2693 D Watchdog: upload event: {"architecture":"x86_64","channel":"nochannel-mumu12","country":"zh-CN","engine":"NEMUX","fchannel":"nochannel-mumu12","language":"zh-Hans","mpid":"1","package":"mumu","product":"MuMu5.0","product_version":"5.30.1.3586","usage":"0","uuid":"cb0ba437-4057-4fdd-bdd9-ab2b850fffb5","version":"5.30.1.3586","x":{"token":"bc4d13fc-dbf5-4973-828b-3fc2686af769","tool":{"at":"桌面banner","campaign_id":"3ZYTXr","conversion_type":1,"details_id":"3ZYTXr","launcher_package":"app.lawnchair","launcher_version":"12.1.0.34","link":"mumu://store/appdetail/52303?mumuresourcename=我在古代有座城&from=桌面banner&tab=2&download=1&fromid=3ZYTXr","link_type":"store","name":"ShowLauncherCampaignV2","position":3,"resource":"桌面banner","store_app_name":"我在古代有座城","version_code":"9.2.25","version_name":1225}}}	type: ClickTool	sign: rntL10VtT+dgNlPnLQmajRdNx/4=	uid: 1000	json:{"token":"bc4d13fc-dbf5-4973-828b-3fc2686af769","tool":{"at":"桌面banner","campaign_id":"3ZYTXr","conversion_type":1,"details_id":"3ZYTXr","launcher_package":"app.lawnchair","launcher_version":"12.1.0.34","link":"mumu://store/appdetail/52303?mumuresourcename=我在古代有座城&from=桌面banner&tab=2&download=1&fromid=3ZYTXr","link_type":"store","name":"ShowLauncherCampaignV2","position":3,"resource":"桌面banner","store_app_name":"我在古代有座城","version_code":"9.2.25","version_name":1225}}
+11-23 18:11:33.145  1008  1279 I FCountTrackHelper: track event=ResourceExposure
+11-23 18:11:33.175  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.192  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.208  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.225  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.241  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.258  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.275  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.292  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.294  1444  2693 D Watchdog: upload server response: {"errcode": 100, "errmsg": "ok"}
+11-23 18:11:33.294  1444  2693 D Watchdog: upload result: true
+11-23 18:11:33.310  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.325  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.342  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.358  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.376  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.392  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.408  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.425  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.442  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.458  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.475  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.492  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.508  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.525  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.542  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.558  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.575  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.591  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.608  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.625  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.708  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.703  1043  1043 I lmkd    : type=1400 audit(0.0:145366): avc: denied { write } for name="oom_score_adj" dev="proc" ino=1532427 scontext=u:r:init:s0 tcontext=u:r:permissioncontroller_app:s0:c38,c256,c512,c768 tclass=file permissive=1
+11-23 18:11:33.792  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.875  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.958  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:33.953  1043  1043 I lmkd    : type=1400 audit(0.0:145367): avc: denied { write } for name="oom_score_adj" dev="proc" ino=1375002 scontext=u:r:init:s0 tcontext=u:r:gmscore_app:s0:c512,c768 tclass=file permissive=1
+11-23 18:11:33.997  7326  1251 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+11-23 18:11:34.003  7326   694 I PlayGamesServices[GamesSyncAdapter]: Starting sync for 4eb86ff7
+11-23 18:11:34.006  7326   694 I PlayGamesServices[GamesSyncAdapter]: Sync duration for 4eb86ff7: 2
+11-23 18:11:34.011  7326   954 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+11-23 18:11:34.024  7326  7326 D BoundBrokerSvc: onBind: Intent { act=com.google.android.contextmanager.service.ContextManagerLogsUploadBoundService.ACTION_TASK_READY dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentInternalBoundBrokerService }
+11-23 18:11:34.024  7326  7326 D BoundBrokerSvc: Loading bound service for intent: Intent { act=com.google.android.contextmanager.service.ContextManagerLogsUploadBoundService.ACTION_TASK_READY dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentInternalBoundBrokerService }
+11-23 18:11:34.026  7326   694 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+11-23 18:11:34.027  7326  8505 I GetServiceValidatorImpl: (REDACTED) onGetService() from Client SDK version [%s], Module version [%s], PGA version [%s], Account [%s], Calling package [%s], Game package [%s]
+11-23 18:11:34.028  7326  8505 I GetGamesServiceReqFacto: (REDACTED) Parsing request with ignored arguments. signInOptionsBundle [%s], isRetryingSignIn [%s], skipWelcomePopup [%s], requireGooglePlus [%s]
+11-23 18:11:34.028  7326  8505 I GetGamesServiceReqFacto: Replacing request for `games` scope with `games_lite`
+11-23 18:11:34.034  7326  1692 I SignInPerformer-12: (REDACTED) Handling request [%s], isFirstPartyCaller [%s]
+11-23 18:11:34.035  7326  1692 I SignInPerformer-12: Successfully brokered first-party unauthenticated GamesService [CONTEXT service_id=1 ]
+11-23 18:11:34.036  7326  1692 I GetGamesServiceV2Op: (REDACTED) Successfully brokered GamesService for request %s
+11-23 18:11:34.041  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.042  7326  7326 D BoundBrokerSvc: onUnbind: Intent { act=com.google.android.contextmanager.service.ContextManagerLogsUploadBoundService.ACTION_TASK_READY dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentInternalBoundBrokerService }
+11-23 18:11:34.043  7326   694 I NetworkScheduler.Stats: (REDACTED) Task %s/%s finished executing. cause:%s result: %s elapsed_millis: %s uptime_millis: %s exec_start_elapsed_seconds: %s
+11-23 18:11:34.047  7326  7326 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.presencemanager.service.START dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+11-23 18:11:34.040  1125  1125 I Dns_100_1000: type=1400 audit(0.0:145368): avc: denied { setopt } for scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=udp_socket permissive=1
+11-23 18:11:34.040  1125  1125 I Dns_100_1000: type=1400 audit(0.0:145369): avc: denied { setattr } for name="UDPv6" dev="sockfs" ino=1625203 scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=udp_socket permissive=1
+11-23 18:11:34.054  7326  7326 D BoundBrokerSvc: onRebind: Intent { act=com.google.android.gms.presencemanager.service.INTERNAL_IDENTITY dat=chimera-action: cmp=com.google.android.gms/.chimera.PersistentApiService }
+11-23 18:11:34.040  1125  1125 I Dns_100_1000: type=1400 audit(0.0:145370): avc: denied { connect } for scontext=u:r:init:s0 tcontext=u:r:init:s0 tclass=udp_socket permissive=1
+11-23 18:11:34.061  7326   694 I NetworkScheduler.Stats: (REDACTED) Task %s/%s started execution. cause:%s exec_start_elapsed_seconds: %s
+11-23 18:11:34.108  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.192  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.227  1008  1290 W PreInstallManager: onCreate: preInstallIOScope end
+11-23 18:11:34.275  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.359  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.442  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.526  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.592  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.675  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.759  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.841  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.836  1008  1008 I pool-5-thread-1: type=1400 audit(0.0:145391): avc: denied { read } for name="ed39abd0.0" dev="sda6" ino=2006 scontext=u:r:system_app:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+11-23 18:11:34.836  1008  1008 I pool-5-thread-1: type=1400 audit(0.0:145392): avc: denied { open } for path="/system/etc/security/cacerts/ed39abd0.0" dev="sda6" ino=2006 scontext=u:r:system_app:s0 tcontext=u:object_r:unlabeled:s0 tclass=file permissive=1
+11-23 18:11:34.925  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:34.992  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:35.076  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:35.158  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:35.241  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:35.304  1707  1707 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+11-23 18:11:35.300  1707  1707 I cmd     : type=1400 audit(0.0:145393): avc: denied { sendto } for path="/dev/socket/logdw" scontext=u:r:adbd:s0 tcontext=u:r:init:s0 tclass=unix_dgram_socket permissive=1
+11-23 18:11:35.300  1707  1707 I cmd     : type=1400 audit(0.0:145394): avc: denied { call } for scontext=u:r:adbd:s0 tcontext=u:r:init:s0 tclass=binder permissive=1
+11-23 18:11:35.300  1044  1044 I servicemanager: type=1400 audit(0.0:145395): avc: denied { transfer } for scontext=u:r:init:s0 tcontext=u:r:adbd:s0 tclass=binder permissive=1
+11-23 18:11:35.320  1293  2042 I ActivityTaskManager: START u0 {flg=0x10000000 cmp=com.velvet.couplesgame/.MainActivity} from uid 2000, pid 1707
+11-23 18:11:35.325  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:35.328  1293  2042 I ActivityTaskManager: [KeepAlive] disabled for com.velvet.couplesgame
+11-23 18:11:35.332  1293  2042 W ActivityTaskManager: Can't find TaskDisplayArea to determine support for multi window. Task id=274 attached=false
+11-23 18:11:35.335  1293  2042 D CompatibilityChangeReporter: Compat change id reported: 174042980; UID 10088; state: DISABLED
+11-23 18:11:35.336  1293  2042 D CompatibilityChangeReporter: Compat change id reported: 184838306; UID 10088; state: DISABLED
+11-23 18:11:35.336  1293  2042 D CompatibilityChangeReporter: Compat change id reported: 185004937; UID 10088; state: DISABLED
+11-23 18:11:35.342  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:35.344  1293  1316 D CompatibilityChangeReporter: Compat change id reported: 135634846; UID 10088; state: DISABLED
+11-23 18:11:35.347  1293  1316 D CompatibilityChangeReporter: Compat change id reported: 177438394; UID 10088; state: DISABLED
+11-23 18:11:35.347  1293  1316 D CompatibilityChangeReporter: Compat change id reported: 135772972; UID 10088; state: DISABLED
+11-23 18:11:35.347  1293  1316 D CompatibilityChangeReporter: Compat change id reported: 135754954; UID 10088; state: ENABLED
+11-23 18:11:35.349  1293  1326 D CompatibilityChangeReporter: Compat change id reported: 143937733; UID 10088; state: ENABLED
+11-23 18:11:35.361  1126  1126 D Zygote  : Forked child process 1713
+11-23 18:11:35.361  1293  1326 I ActivityManager: Start proc 1713:com.velvet.couplesgame/u0a88 for pre-top-activity {com.velvet.couplesgame/com.velvet.couplesgame.MainActivity}
+11-23 18:11:35.362  1713  1713 I Zygote  : fakeProductInfoIfNeed callded! com.velvet.couplesgame
+11-23 18:11:35.363  1713  1713 I Zygote  : fake Product info com.velvet.couplesgame not matched any pattern
+11-23 18:11:35.363  1713  1713 I Zygote  : fakeProductInfoFromProperties callded! com.velvet.couplesgame
+11-23 18:11:35.364  1713  1713 E NemuAppNameUtil: save data success
+11-23 18:11:35.367  1713  1713 I Zygote  : seccomp disabled by setenforce 0
+11-23 18:11:35.371  1713  1713 I vet.couplesgam: Late-enabling -Xcheck:jni
+11-23 18:11:35.383  1008  1008 W WidgetOperateReceiver: onReceive: intent = Intent { act=com.mumu.LAUNCHER_LIFECYCLE flg=0x10 pkg=com.mumu.store cmp=com.mumu.store/.widget.receiver.WidgetOperateReceiver (has extras) } action = com.mumu.LAUNCHER_LIFECYCLE
+11-23 18:11:35.384  1008  1008 W WidgetOperateReceiver: onLauncherLifecycle: launcherLifecycle = ON_PAUSE
+11-23 18:11:35.385  1008  1008 W WidgetManager: updateLauncherLifecycle: launcherLifecycleName = ON_PAUSE
+11-23 18:11:35.394  1477  1677 D gralloc_x86: gralloc_alloc: Creating ashmem region of size 5763072
+11-23 18:11:35.403  1477  1717 D ndroid.systemu: Features: 0 0 0
+11-23 18:11:35.403  1477  1717 E ndroid.systemu: vulkan version is 4211029
+11-23 18:11:35.404  1713  1713 W vet.couplesgam: Unexpected CPU variant for X86 using defaults: x86_64
+11-23 18:11:35.404  1477  1717 D gralloc_x86: gralloc_alloc: Creating ashmem region of size 5763072
+11-23 18:11:35.405  1477  1717 D gralloc_x86: gralloc_alloc: Creating ashmem region of size 5763072
+11-23 18:11:35.421  1152  1209 I adbd    : jdwp connection from 1713
+11-23 18:11:35.423  1713  1713 D ProcessState: Binder ioctl to enable oneway spam detection failed: Invalid argument
+11-23 18:11:35.425  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:35.431  1293  6558 W OomAdjuster: Fallback pre-set sched group to default: not expected top priority
+11-23 18:11:35.434  1293  6558 D RecentTaskMonitor: onTaskFocusChanged [FALSE] 2
+11-23 18:11:35.434  1293  6558 D RecentTaskMonitor: onTaskFocusChanged [TRUE] 274 ignoreTFC false
+11-23 18:11:35.435  1713  1731 E ashmem  : memfd: ro.vndk.version not defined or invalid (), this is mandated since P.
+11-23 18:11:35.440  1293  1316 D RecentTaskMonitor: task null or not sub display in notifyDisplayOpened
+11-23 18:11:35.440  1293  1316 D RecentTaskMonitor: VAddressShellNotifier#notifyOpenTab :{"uri":"player\/tab","need_response":false,"params":{"id":"task:274","displayId":0,"userId":0,"name":"丝绒约会夜","originName":"丝绒约会夜","packageName":"com.velvet.couplesgame","launcher":false,"newTask":true,"icon":"iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARzQklUCAgICHwIZIgAAARySURBVEiJbZXPb1RVFMc\/59z3hum0M9OGQqEUqC0VQgoRi2GhC9SoC6OJS1yZoJGV7lz7N7hyLXGjbkQhgFFUgoZIIIRfGqFUfhQo2HZaO52Z9+69Lt5786Ytk7y8d+\/c+z3nfO4558pYZeCAokdFZUwQFEjend+gQKCCIOCSeQG0452tF8B4nnjv3pOd1U1TIrpd079WL+7pEoa3h1R6DDb2gBAqNBueO1MxjXruUKfBxIg8ll29g04RUYC2t8LmAUOgEDWF+TkHfmVkKkJfr7KuAEaVmQeuvRfAJIZ8IIhIh3igwuhwyNys48m8R\/DIqvCTrTA\/51GgUnaM7gi4N2WxcQc2EdEMjSKEKhyYKPLPVExt3q\/BpU9hrghLi3DnluW5iZBCkEYpKbbx3iGfLRwbCbl7N8ZG0FNSDh4ssXHAsLzkuX61xd\/XYwQYGQ3Z+3yB7h6lNmv5\/acWS4ueQIRtI4Z7ky51QJC9vVu9Als2GZoNqM07tg2FfPRxL+v7Azp\/Z07XaTU9r71ZQlXa87U5yxefLTE95ShXhHJFeTydEsjCD1RSLMLhD6prxAFefr3EG291rxAHqPYZDn3YTaEg1BcB6zEqGIRAEEoFodUkZQuDg7n49AXl4SWDd0L\/bktQ9Dy6nIw37LZsfdEiAn39ShgIPoJmQyhXYGleCBR4dizgzxtxXiQmEXcxXPuqgG0kHj++pqnZZPzvX8rGPZZiFdQkqSviqS\/A2LhhsuZRRegqJh5luKxNZOqztMVz4XzsImFuMjHqXVpcqZtGwIiggYJz2dbEyJ3bEQBdfaChX3MWbXPG0zvskuimHS7KizGKhMCAqqzN69PHl7Gxx4Sw7aUYeLqRwf0xxSpY6zl3ooWP8\/w3PkGm3kKgrCiia5cjTh2r471n1zsxfaN2jZHyFsv4uzGicP6HiOt\/WESyIoNwnYATVBBaDc\/qSH4+2eDH48sA7DscsXGPbYtXhmImjrQQgcvnWpz9rpVXuqSO+qSdmO3Fvk+XFjzVitJYpn3Q3sGtG5aeHmF4p2FwwtGYF0obHBNHIsISXPy1xYmjLVwseeWKUK4IjUWIm0KgCM0mbOgXavg1bffYl8s0ljyvvF1k\/FDUjuLcySZnvonyDiuJYwah1C3UZmjPJy3WC5XySvG05fLLiRanvm4Qxx5rPWe\/b3L22yjHQiYOXd0QBIBLcAUZ80fTjpFRw726w9lEPAkZXAS\/nYyIG1DsEs6fjsF33HqSeG4U1g8oM1PZmQryau8On3ltFPbtD7lyIRHID07aHmbfq7EYFXa9INy8CNiUgLQRJY93cOVCzNCwoVxe2f8N2YWTZ0snls3PwK1LgO2saAjaN1Qq5h3cv+0YHDJUq7D8H9QXQHxeRJnhnqrQVYJCqMzc7uwGCVpFCNT5B6KyOeshWR7P3E9ad3cpaVzFohK3EpEwBG+VBzcdtYdpF5YcS8fh1wKHfz\/08rkIWzPxTizNujB51WPEEpgUkk946gpcOZY0qxa895\/8D3ZxkmNGoVdyAAAAAElFTkSuQmCC","canChangeAppOrientation":false,"canReceiveFile":false,"pid":1713,"uid":10088,"action":"open"}}
+11-23 18:11:35.442  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/cmd","method":"POST","params":{"action":"switch_fps_mode","packageName":""}}, id: 3035
+11-23 18:11:35.442  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:35.445  1713  1713 D CompatibilityChangeReporter: Compat change id reported: 171979766; UID 10088; state: ENABLED
+11-23 18:11:35.446  1060  1734 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/cmd","method":"POST","params":{"action":"switch_fps_mode","packageName":""}}, res: 
+11-23 18:11:35.446  1060  1734 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.450  1060  1734 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/cmd","method":"POST","params":{"action":"switch_fps_mode","packageName":""}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.450  1060  1734 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.460  1151  1151 E TimeStats: RenderEngineTimes are already at its maximum size[64]
+11-23 18:11:35.513  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, id: 3036
+11-23 18:11:35.513  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/cmd","method":"POST","params":{"action":"switch_fps_mode","packageName":""}}, id: 3037
+11-23 18:11:35.513  1060  1735 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: 
+11-23 18:11:35.513  1060  1736 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/cmd","method":"POST","params":{"action":"switch_fps_mode","packageName":""}}, res: 
+11-23 18:11:35.513  1060  1736 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.513  1060  1735 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.514  1060  1736 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/cmd","method":"POST","params":{"action":"switch_fps_mode","packageName":""}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.514  1060  1736 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.514  1060  1735 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.514  1060  1735 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.515  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, id: 3038
+11-23 18:11:35.515  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, id: 3039
+11-23 18:11:35.515  1060  1737 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: 
+11-23 18:11:35.515  1060  1737 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.515  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/cmd","method":"POST","params":{"action":"switch_fps_mode","packageName":""}}, id: 3040
+11-23 18:11:35.515  1060  1738 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: 
+11-23 18:11:35.515  1060  1738 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.516  1060  1737 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.516  1060  1737 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.516  1060  1738 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.516  1060  1738 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.516  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, id: 3041
+11-23 18:11:35.516  1060  1739 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/cmd","method":"POST","params":{"action":"switch_fps_mode","packageName":""}}, res: 
+11-23 18:11:35.516  1060  1739 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.516  1060  1740 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: 
+11-23 18:11:35.516  1060  1740 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.516  1060  1740 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.517  1060  1739 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/cmd","method":"POST","params":{"action":"switch_fps_mode","packageName":""}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.517  1060  1740 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.517  1060  1739 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.517  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_gamepad_guid","guid":"off","name":"off","type":"off"}}, id: 3042
+11-23 18:11:35.517  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, id: 3043
+11-23 18:11:35.518  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_gamepad_guid","guid":"off","name":"off","type":"off"}}, id: 3044
+11-23 18:11:35.518  1060  1741 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_gamepad_guid","guid":"off","name":"off","type":"off"}}, res: 
+11-23 18:11:35.518  1060  1741 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.518  1060  1742 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: 
+11-23 18:11:35.518  1060  1742 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.518  1060  1741 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_gamepad_guid","guid":"off","name":"off","type":"off"}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.518  1060  1741 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.518  1060  1742 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.518  1060  1742 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.518  1060  1075 D nemuinit: start name: vapi, operation: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, id: 3045
+11-23 18:11:35.518  1060  1744 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: 
+11-23 18:11:35.518  1060  1744 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.519  1060  1743 D nemuinit: Proxy: use callback: 1293, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_gamepad_guid","guid":"off","name":"off","type":"off"}}, res: 
+11-23 18:11:35.519  1060  1743 D nemuinit: Proxy: not handleNemuInitMessage, use next callback
+11-23 18:11:35.519  1060  1744 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_input_device_list","device":8,"packageName":"com.velvet.couplesgame","pid":1713,"uid":10088}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.519  1060  1744 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.520  1060  1743 D nemuinit: Proxy: use callback: 1444, handleNemuInitMessage, name: vapi, params: {"uri":"/tools/inputdevice","method":"POST","params":{"action":"set_gamepad_guid","guid":"off","name":"off","type":"off"}}, res: {"errcode":0,"message":"OK"}
+11-23 18:11:35.520  1060  1743 D nemuinit: Proxy: finish handleNemuInitMessage
+11-23 18:11:35.688  1713  1713 I Typeface: Preloading /system/fonts/Roboto-Regular.ttf
+11-23 18:11:35.837  1713  1713 V GraphicsEnvironment: ANGLE Developer option for 'com.velvet.couplesgame' set to: 'default'
+11-23 18:11:35.838  1713  1713 V GraphicsEnvironment: ANGLE GameManagerService for com.velvet.couplesgame: false
+11-23 18:11:35.838  1713  1713 V GraphicsEnvironment: Neither updatable production driver nor prerelease driver is supported.
+11-23 18:11:35.840  1713  1713 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-23 18:11:35.841  1713  1713 D NetworkSecurityConfig: No Network Security Config specified, using platform default
+11-23 18:11:35.843  1151  1151 I Binder:1151_4: type=1400 audit(0.0:145466): avc: denied { read write } for path="socket:[1624499]" dev="sockfs" ino=1624499 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:r:init:s0 tclass=unix_stream_socket permissive=1
+11-23 18:11:35.900  1293  1293 I Binder:1293_20: type=1400 audit(0.0:145467): avc: denied { connectto } for path="/dev/socket/property_service" scontext=u:r:system_server:s0 tcontext=u:r:kernel:s0 tclass=unix_stream_socket permissive=1
+11-23 18:11:35.944  1713  1759 D libEGL  : loaded /system/lib64/egl/libEGL_emulation.so
+11-23 18:11:35.946  1713  1713 I RenderThread: type=1400 audit(0.0:145468): avc: denied { open } for path="/data/system/etc/mumu-configs/renderer.config" dev="sdc3" ino=4850732 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:system_data_file:s0 tclass=file permissive=1 app=com.velvet.couplesgame
+11-23 18:11:35.950  1713  1713 I RenderThread: type=1400 audit(0.0:145469): avc: denied { read write } for name="vaddress" dev="tmpfs" ino=10510 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1 app=com.velvet.couplesgame
+11-23 18:11:35.950  1713  1713 I RenderThread: type=1400 audit(0.0:145470): avc: denied { open } for path="/dev/vaddress" dev="tmpfs" ino=10510 scontext=u:r:untrusted_app:s0:c88,c256,c512,c768 tcontext=u:object_r:device:s0 tclass=chr_file permissive=1 app=com.velvet.couplesgame
+11-23 18:11:35.957  1713  1759 D vet.couplesgam: Features: 0 0 0
+11-23 18:11:35.958  1713  1759 E vet.couplesgam: vulkan version is 4211029
+11-23 18:11:35.961  1713  1759 D libEGL  : loaded /system/lib64/egl/libGLESv1_CM_emulation.so
+11-23 18:11:35.963  1713  1759 D libEGL  : loaded /system/lib64/egl/libGLESv2_emulation.so
+11-23 18:11:35.974  1293  6558 W ActivityManager: callingPackage: com.velvet.couplesgame,packageName: com.android.vending,serviceName: com.google.android.finsky.billing.iab.InAppBillingService
+11-23 18:11:35.980  1713  1759 E GraphicsEnv: Failed to get gpu service
+11-23 18:11:36.075  1713  1713 W vet.couplesgam: Accessing hidden method Landroid/view/ViewGroup;->makeOptionalFitsSystemWindows()V (unsupported, reflection, allowed)
+11-23 18:11:36.082  1713  1713 D CompatibilityChangeReporter: Compat change id reported: 171228096; UID 10088; state: ENABLED

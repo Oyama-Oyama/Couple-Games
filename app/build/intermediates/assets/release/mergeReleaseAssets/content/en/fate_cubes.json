@@ -1,0 +1,3971 @@
+{
+  "actions": [
+    {
+      "id": "act_caress",
+      "label": "Caress Slowly",
+      "icon": "✋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_kiss",
+      "label": "Soft Kiss",
+      "icon": "💋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_whisper",
+      "label": "Whisper Close",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "act_massage",
+      "label": "Warm Massage",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_breath",
+      "label": "Blow Warm Breath",
+      "icon": "🌬",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_trace",
+      "label": "Fingertip Trail",
+      "icon": "〰",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_lick",
+      "label": "soft kiss Softly",
+      "icon": "👅",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_nibble",
+      "label": "Gentle soft kiss",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_lingering_kiss",
+      "label": "Lingering Kiss",
+      "icon": "❤",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_lick_bite",
+      "label": "soft kiss & Soft soft kiss",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_spank",
+      "label": "Playful caress",
+      "icon": "💥",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_suck_tease",
+      "label": "Kiss & Tease",
+      "icon": "🍷",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_ice_trace",
+      "label": "Glide Ice Cube",
+      "icon": "🧊",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_undress_slow",
+      "label": "Slowly loosen / Slip Off",
+      "icon": "🎀",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "act_pin_kiss",
+      "label": "Pin Wrists & Kiss Deep",
+      "icon": "⛓",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_slow_lick",
+      "label": "soft kiss Slowly & Wetly",
+      "icon": "👅",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_gentle_suck",
+      "label": "soft kiss Softly",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_soft_bite",
+      "label": "Teasing Soft soft kiss",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_wet_kiss",
+      "label": "Deep soft, lingering kiss",
+      "icon": "💦",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_deep_suck_mark",
+      "label": "soft kiss Hard & Leave a Mark",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_lip_nibble_pull",
+      "label": "soft kiss & Tug Gently",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_pinch_tease",
+      "label": "Pinch & Caress",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_warm_oil_glide",
+      "label": "Warm Oil / Palm Glide",
+      "icon": "💧",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_tongue_circle",
+      "label": "Slow soft kiss Circles",
+      "icon": "🌀",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_bite_then_soothe",
+      "label": "soft kiss Then Soothe with soft kiss",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_breath_stop_kiss",
+      "label": "Hot Breath + Sudden Kiss",
+      "icon": "🌬",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_01",
+      "label": "Feather-soft stroke",
+      "icon": "🪶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_02",
+      "label": "Three shy pecks",
+      "icon": "💋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_03",
+      "label": "Brush warm breath",
+      "icon": "🌬",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_04",
+      "label": "Slow fingertip circles",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_05",
+      "label": "Shy nuzzle & hover",
+      "icon": "💕",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_06",
+      "label": "Tipsy lingering kiss",
+      "icon": "🥂",
+      "tier": 1,
+      "tags": [
+        "alcohol",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_07",
+      "label": "Cup warmly with palm",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_08",
+      "label": "Whisper shy praise on skin",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "deep_talk",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_09",
+      "label": "Teasing nose brush",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_10",
+      "label": "Gentle squeeze over fabric",
+      "icon": "🤍",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_11",
+      "label": "Hover 1 cm without kissing",
+      "icon": "🌹",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_01",
+      "label": "Brush lips back & forth",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_02",
+      "label": "Shy little love-nip",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t2_03",
+      "label": "Light nail-tip shiver trace",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_04",
+      "label": "Trail of fluttery hot kisses",
+      "icon": "💓",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_05",
+      "label": "Taste a drop of drink on skin",
+      "icon": "🍷",
+      "tier": 2,
+      "tags": [
+        "alcohol",
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t2_06",
+      "label": "Surprise kiss while eyes shut",
+      "icon": "🙈",
+      "tier": 2,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_07",
+      "label": "Pull close & coax a kiss",
+      "icon": "🎭",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_01",
+      "label": "Trace slowly with wet soft kiss",
+      "icon": "👅",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_02",
+      "label": "Soft soft kiss till you gasp",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_03",
+      "label": "Slip hands under clothes",
+      "icon": "✋",
+      "tier": 3,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_04",
+      "label": "Cool breath then hot soft, lingering kiss",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_05",
+      "label": "Firm possessive grip & knead",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "restraint_light",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_06",
+      "label": "Linger with open hot mouth",
+      "icon": "💧",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_07",
+      "label": "Part collar & kiss bare skin",
+      "icon": "🎀",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "act_v2_t4_01",
+      "label": "Pin & soft kiss-soft kiss nonstop",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "bite_lick",
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t4_02",
+      "label": "Shift cloth with lips & kiss",
+      "icon": "💋",
+      "tier": 4,
+      "tags": [
+        "clothing_dare",
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t4_03",
+      "label": "Two playful caress then kiss",
+      "icon": "💥",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t4_04",
+      "label": "Tease with soft kiss circles till beg",
+      "icon": "🌀",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t4_05",
+      "label": "Blindfold edge-tease till shiver",
+      "icon": "⛓",
+      "tier": 4,
+      "tags": [
+        "blindfold",
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v21_001",
+      "label": "Ultra-Slow Kiss",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_002",
+      "label": "Ultra-Slow Caress",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_003",
+      "label": "Ultra-Slow Trace",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_004",
+      "label": "Ultra-Slow Nuzzle",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_005",
+      "label": "Ultra-Slow Massage",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_006",
+      "label": "Ultra-Slow Brush",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_007",
+      "label": "Ultra-Slow Glide Over",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_008",
+      "label": "Ultra-Slow Hold Warmly",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_009",
+      "label": "Ultra-Slow Feather-Tap",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_010",
+      "label": "Ultra-Slow Softly Press",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_011",
+      "label": "Ultra-Slow Sweep Across",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_012",
+      "label": "Ultra-Slow Soothe",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_013",
+      "label": "Ultra-Slow Graze",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_014",
+      "label": "Feather-Light Kiss",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_015",
+      "label": "Feather-Light Caress",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_016",
+      "label": "Feather-Light Trace",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_017",
+      "label": "Feather-Light Nuzzle",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_018",
+      "label": "Feather-Light Massage",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_019",
+      "label": "Feather-Light Brush",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_020",
+      "label": "Feather-Light Glide Over",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_021",
+      "label": "Feather-Light Hold Warmly",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_022",
+      "label": "Feather-Light Feather-Tap",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_023",
+      "label": "Feather-Light Softly Press",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_024",
+      "label": "Feather-Light Sweep Across",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_025",
+      "label": "Feather-Light Soothe",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_026",
+      "label": "Feather-Light Graze",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_027",
+      "label": "Eyes-Closed Kiss",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_028",
+      "label": "Eyes-Closed Caress",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_029",
+      "label": "Eyes-Closed Trace",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_030",
+      "label": "Eyes-Closed Nuzzle",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_031",
+      "label": "Eyes-Closed Massage",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_032",
+      "label": "Eyes-Closed Brush",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_033",
+      "label": "Eyes-Closed Glide Over",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_034",
+      "label": "Eyes-Closed Hold Warmly",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_035",
+      "label": "Eyes-Closed Feather-Tap",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_036",
+      "label": "Eyes-Closed Softly Press",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_037",
+      "label": "Eyes-Closed Sweep Across",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_038",
+      "label": "Eyes-Closed Soothe",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_039",
+      "label": "Eyes-Closed Graze",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_040",
+      "label": "Warm-Breath Kiss",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_041",
+      "label": "Warm-Breath Caress",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_042",
+      "label": "Warm-Breath Trace",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_043",
+      "label": "Warm-Breath Nuzzle",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_044",
+      "label": "Warm-Breath Massage",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_045",
+      "label": "Warm-Breath Brush",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_046",
+      "label": "Warm-Breath Glide Over",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_047",
+      "label": "Warm-Breath Hold Warmly",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_048",
+      "label": "Warm-Breath Feather-Tap",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_049",
+      "label": "Warm-Breath Softly Press",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_050",
+      "label": "Warm-Breath Sweep Across",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_051",
+      "label": "Warm-Breath Soothe",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_052",
+      "label": "Warm-Breath Graze",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_053",
+      "label": "Smiling Kiss",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_054",
+      "label": "Smiling Caress",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_055",
+      "label": "Smiling Trace",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_056",
+      "label": "Smiling Nuzzle",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_057",
+      "label": "Smiling Massage",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_058",
+      "label": "Smiling Brush",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_059",
+      "label": "Smiling Glide Over",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_060",
+      "label": "Smiling Hold Warmly",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_061",
+      "label": "Smiling Feather-Tap",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_062",
+      "label": "Smiling Softly Press",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_063",
+      "label": "Smiling Sweep Across",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_064",
+      "label": "Smiling Soothe",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_065",
+      "label": "Smiling Graze",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_066",
+      "label": "Whispered Kiss",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_067",
+      "label": "Whispered Caress",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_068",
+      "label": "Whispered Trace",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_069",
+      "label": "Whispered Nuzzle",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_070",
+      "label": "Whispered Massage",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_071",
+      "label": "Whispered Brush",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_072",
+      "label": "Whispered Glide Over",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_073",
+      "label": "Whispered Hold Warmly",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_074",
+      "label": "Whispered Feather-Tap",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_075",
+      "label": "Whispered Softly Press",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_076",
+      "label": "Whispered Sweep Across",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_077",
+      "label": "Whispered Soothe",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_078",
+      "label": "Whispered Graze",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_079",
+      "label": "Circular Kiss",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_080",
+      "label": "Circular Caress",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_081",
+      "label": "Circular Trace",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_082",
+      "label": "Circular Nuzzle",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_083",
+      "label": "Circular Massage",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_084",
+      "label": "Circular Brush",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_085",
+      "label": "Circular Glide Over",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_086",
+      "label": "Circular Hold Warmly",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_087",
+      "label": "Circular Feather-Tap",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_088",
+      "label": "Circular Softly Press",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_089",
+      "label": "Circular Sweep Across",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_090",
+      "label": "Circular Soothe",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_091",
+      "label": "Circular Graze",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_092",
+      "label": "Lingering Caress",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_093",
+      "label": "Lingering Trace",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_094",
+      "label": "Lingering Nuzzle",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_095",
+      "label": "Lingering Massage",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_096",
+      "label": "Lingering Brush",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_097",
+      "label": "Lingering Glide Over",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_098",
+      "label": "Lingering Hold Warmly",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_099",
+      "label": "Lingering Feather-Tap",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_100",
+      "label": "Lingering Softly Press",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_101",
+      "label": "Lingering Sweep Across",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_102",
+      "label": "Lingering Soothe",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_103",
+      "label": "Lingering Graze",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ],
+  "spots": [
+    {
+      "id": "spot_hand",
+      "label": "Hand & Fingers",
+      "icon": "🤲",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_cheek",
+      "label": "Cheek & Jawline",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_shoulder",
+      "label": "Shoulder",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lips",
+      "label": "Lips",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_earlobe",
+      "label": "Earlobe",
+      "icon": "🎧",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_neck",
+      "label": "Side of Neck",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_collarbone",
+      "label": "Collarbone",
+      "icon": "💎",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_wrist",
+      "label": "Inner Wrist",
+      "icon": "🕊",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_waist",
+      "label": "Waist",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_spine",
+      "label": "Back & Spine",
+      "icon": "🌊",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_hip",
+      "label": "Hip & Lower Back",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_thigh",
+      "label": "Inner Thigh",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lower_belly",
+      "label": "Lower Belly",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_chest",
+      "label": "Chest & Ribcage",
+      "icon": "❤",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_nape",
+      "label": "Nape of Neck",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_behind_ear",
+      "label": "Behind the Ear",
+      "icon": "🎧",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_throat",
+      "label": "Throat & Hollow",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_under_collar",
+      "label": "Under the Collarbone",
+      "icon": "💎",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_side_ribs",
+      "label": "Side Ribs",
+      "icon": "〰",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lower_back",
+      "label": "Lower Back Dimples",
+      "icon": "🌙",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_navel_line",
+      "label": "Navel & Lower Belly",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_hip_bone",
+      "label": "Hip Bone Edge",
+      "icon": "🌹",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_glutes_curve",
+      "label": "Glutes & Lower Curve",
+      "icon": "🍑",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_upper_inner_thigh",
+      "label": "Upper Inner Thigh",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_chest_hollow",
+      "label": "Chest & Under-Shirt",
+      "icon": "❤️‍🔥",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_behind_knee",
+      "label": "Behind the Knee",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_01",
+      "label": "Fingertips & knuckles",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_02",
+      "label": "Forehead & brow",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_03",
+      "label": "Outer edge of ear",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_04",
+      "label": "Curve of the jawline",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_05",
+      "label": "Hollow of collarbone",
+      "icon": "🤍",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_06",
+      "label": "Corner of the lips",
+      "icon": "🌹",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_07",
+      "label": "Center of the palm",
+      "icon": "🤲",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_08",
+      "label": "Shoulder blades",
+      "icon": "🦋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_09",
+      "label": "Inner elbow crease",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_10",
+      "label": "Temples & hairline",
+      "icon": "💕",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_11",
+      "label": "Ankle & instep",
+      "icon": "🕊",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_01",
+      "label": "Center of lower lip",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_02",
+      "label": "Pulse point on neck",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_03",
+      "label": "Soft inner forearm",
+      "icon": "🌊",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_04",
+      "label": "Small of the back",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_05",
+      "label": "Curve of neck & shoulder",
+      "icon": "💎",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_06",
+      "label": "Upper back under collar",
+      "icon": "🌙",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_01",
+      "label": "Circle around navel",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_02",
+      "label": "Ticklish side waist",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_03",
+      "label": "Outer thigh curve",
+      "icon": "🌹",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_04",
+      "label": "All the way down spine",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_05",
+      "label": "Bare belly under hem",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_01",
+      "label": "Very top of inner thigh",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_02",
+      "label": "Most sensitive chest spot",
+      "icon": "❤️‍🔥",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_03",
+      "label": "Lower curve of glutes",
+      "icon": "🍑",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_04",
+      "label": "Edge of underwear line",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_05",
+      "label": "Lower V-line / hip dip",
+      "icon": "🍷",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_06",
+      "label": "Hollow of the hip bone",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_07",
+      "label": "Bare back skin-to-skin",
+      "icon": "💫",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_08",
+      "label": "Trail from ear down chest",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_001",
+      "label": "Left Temple",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_002",
+      "label": "Left Cheekbone",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_003",
+      "label": "Left Ear Rim",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_004",
+      "label": "Left Behind Ear",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_005",
+      "label": "Left Jawline",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_006",
+      "label": "Left Mouth Corner",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_007",
+      "label": "Left Chin",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_008",
+      "label": "Left Nape",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_009",
+      "label": "Left Collarbone",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_010",
+      "label": "Left Shoulder",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_011",
+      "label": "Left Upper Arm",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_012",
+      "label": "Left Forearm",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_013",
+      "label": "Left Wrist",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_014",
+      "label": "Left Palm",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_015",
+      "label": "Left Knuckles",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_016",
+      "label": "Left Shoulder Blade",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_017",
+      "label": "Left Mid Back",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_018",
+      "label": "Left Waistline",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_019",
+      "label": "Left Ankle",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_020",
+      "label": "Left Foot Arch",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_021",
+      "label": "Right Temple",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_022",
+      "label": "Right Cheekbone",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_023",
+      "label": "Right Ear Rim",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_024",
+      "label": "Right Behind Ear",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_025",
+      "label": "Right Jawline",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_026",
+      "label": "Right Mouth Corner",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_027",
+      "label": "Right Chin",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_028",
+      "label": "Right Nape",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_029",
+      "label": "Right Collarbone",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_030",
+      "label": "Right Shoulder",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_031",
+      "label": "Right Upper Arm",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_032",
+      "label": "Right Forearm",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_033",
+      "label": "Right Wrist",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_034",
+      "label": "Right Palm",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_035",
+      "label": "Right Knuckles",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_036",
+      "label": "Right Shoulder Blade",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_037",
+      "label": "Right Mid Back",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_038",
+      "label": "Right Waistline",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_039",
+      "label": "Right Ankle",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_040",
+      "label": "Right Foot Arch",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_041",
+      "label": "Outer Temple",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_042",
+      "label": "Outer Cheekbone",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_043",
+      "label": "Outer Ear Rim",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_044",
+      "label": "Outer Behind Ear",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_045",
+      "label": "Outer Jawline",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_046",
+      "label": "Outer Mouth Corner",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_047",
+      "label": "Outer Chin",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_048",
+      "label": "Outer Nape",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_049",
+      "label": "Outer Collarbone",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_050",
+      "label": "Outer Shoulder",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_051",
+      "label": "Outer Upper Arm",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_052",
+      "label": "Outer Forearm",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_053",
+      "label": "Outer Wrist",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_054",
+      "label": "Outer Palm",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_055",
+      "label": "Outer Knuckles",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_056",
+      "label": "Outer Shoulder Blade",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_057",
+      "label": "Outer Mid Back",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_058",
+      "label": "Outer Waistline",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_059",
+      "label": "Outer Ankle",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_060",
+      "label": "Outer Foot Arch",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_061",
+      "label": "Inner Temple",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_062",
+      "label": "Inner Cheekbone",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_063",
+      "label": "Inner Ear Rim",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_064",
+      "label": "Inner Behind Ear",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_065",
+      "label": "Inner Jawline",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_066",
+      "label": "Inner Mouth Corner",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_067",
+      "label": "Inner Chin",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_068",
+      "label": "Inner Nape",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_069",
+      "label": "Inner Collarbone",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_070",
+      "label": "Inner Shoulder",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_071",
+      "label": "Inner Upper Arm",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_072",
+      "label": "Inner Forearm",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_073",
+      "label": "Inner Palm",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_074",
+      "label": "Inner Knuckles",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_075",
+      "label": "Inner Shoulder Blade",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_076",
+      "label": "Inner Mid Back",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_077",
+      "label": "Inner Waistline",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_078",
+      "label": "Inner Ankle",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_079",
+      "label": "Inner Foot Arch",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_080",
+      "label": "Upper Temple",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_081",
+      "label": "Upper Cheekbone",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_082",
+      "label": "Upper Ear Rim",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_083",
+      "label": "Upper Behind Ear",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_084",
+      "label": "Upper Jawline",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_085",
+      "label": "Upper Mouth Corner",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_086",
+      "label": "Upper Chin",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_087",
+      "label": "Upper Nape",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_088",
+      "label": "Upper Collarbone",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_089",
+      "label": "Upper Shoulder",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_090",
+      "label": "Upper Upper Arm",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_091",
+      "label": "Upper Forearm",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_092",
+      "label": "Upper Wrist",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_093",
+      "label": "Upper Palm",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_094",
+      "label": "Upper Knuckles",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_095",
+      "label": "Upper Shoulder Blade",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_096",
+      "label": "Upper Mid Back",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_097",
+      "label": "Upper Waistline",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_098",
+      "label": "Upper Ankle",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_099",
+      "label": "Upper Foot Arch",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_100",
+      "label": "Lower Temple",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_101",
+      "label": "Lower Cheekbone",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_102",
+      "label": "Lower Ear Rim",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_103",
+      "label": "Lower Behind Ear",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_104",
+      "label": "Lower Jawline",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ],
+  "modifiers": [
+    {
+      "id": "mod_eye",
+      "label": "Hold steady eye contact the whole time",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_slow",
+      "label": "Ultra slow motion — no rushing",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_no_hands",
+      "label": "No hands allowed — lips & breath only",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_whisper_name",
+      "label": "Whisper their name right before & after",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_blindfold",
+      "label": "Receiver keeps eyes closed in total silence",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ]
+    },
+    {
+      "id": "mod_pin_hands",
+      "label": "Gently pin receiver's hands overhead",
+      "durationSec": 25,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_clothing",
+      "label": "Slide one layer aside first",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_freeze_gasp",
+      "label": "Freeze 3s every time they gasp",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_hands_behind",
+      "label": "Receiver keeps hands locked behind back",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_mirror_watch",
+      "label": "Do it in front of a mirror watching each other",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_dirty_praise",
+      "label": "Whisper dirty praise the entire time",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_hot_cold",
+      "label": "Cool breath first, then burning wet mouth",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_under_shirt",
+      "label": "Reach or kiss directly underneath their clothes",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_no_sound",
+      "label": "Receiver must stay silent — one gasp adds 15s",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_01",
+      "label": "Stay close — see who blushes first",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_02",
+      "label": "Whisper 'do you like this?' halfway",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_03",
+      "label": "Ultra-shy, feather-slow pace",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_04",
+      "label": "Keep fingers tightly interlaced",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_05",
+      "label": "Take a tiny sip before leaning in",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "alcohol"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_01",
+      "label": "Hover 5 full seconds before landing",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_02",
+      "label": "Breathe their pet name in their ear",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_03",
+      "label": "Do it sitting close, face to face their lap up close",
+      "durationSec": 30,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_01",
+      "label": "Eyes shut — guess wrong & double time",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_02",
+      "label": "Warm breath first, feel every shiver",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_03",
+      "label": "Whisper like you might get caught",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_04",
+      "label": "Receiver guides giver's wrist & pace",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t4_01",
+      "label": "Pin gently against wall or headboard",
+      "durationSec": 35,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t4_02",
+      "label": "Slide fabric aside, kiss, tease back",
+      "durationSec": 35,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_v21_001",
+      "label": "Hold eye contact — for 15 seconds",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_002",
+      "label": "Hold eye contact — for 20 seconds",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_003",
+      "label": "Hold eye contact — for 25 seconds",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_004",
+      "label": "Hold eye contact — for 30 seconds",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_005",
+      "label": "Hold eye contact — in 3 ultra-slow reps",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_006",
+      "label": "Hold eye contact — ending with a tight hug",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_007",
+      "label": "Hold eye contact — ending with a forehead kiss",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_008",
+      "label": "Hold eye contact — keeping a warm smile",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_009",
+      "label": "Hold eye contact — to a slow song rhythm",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_010",
+      "label": "Hold eye contact — until they blush",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_011",
+      "label": "Eyes gently closed — for 15 seconds",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_012",
+      "label": "Eyes gently closed — for 20 seconds",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_013",
+      "label": "Eyes gently closed — for 25 seconds",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_014",
+      "label": "Eyes gently closed — for 30 seconds",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_015",
+      "label": "Eyes gently closed — in 3 ultra-slow reps",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_016",
+      "label": "Eyes gently closed — ending with a tight hug",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_017",
+      "label": "Eyes gently closed — ending with a forehead kiss",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_018",
+      "label": "Eyes gently closed — keeping a warm smile",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_019",
+      "label": "Eyes gently closed — to a slow song rhythm",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_020",
+      "label": "Eyes gently closed — until they blush",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_021",
+      "label": "Fingers interlocked — for 15 seconds",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_022",
+      "label": "Fingers interlocked — for 20 seconds",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_023",
+      "label": "Fingers interlocked — for 25 seconds",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_024",
+      "label": "Fingers interlocked — for 30 seconds",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_025",
+      "label": "Fingers interlocked — in 3 ultra-slow reps",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_026",
+      "label": "Fingers interlocked — ending with a tight hug",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_027",
+      "label": "Fingers interlocked — ending with a forehead kiss",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_028",
+      "label": "Fingers interlocked — keeping a warm smile",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_029",
+      "label": "Fingers interlocked — to a slow song rhythm",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_030",
+      "label": "Fingers interlocked — until they blush",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_031",
+      "label": "Match slow breaths — for 15 seconds",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_032",
+      "label": "Match slow breaths — for 20 seconds",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_033",
+      "label": "Match slow breaths — for 25 seconds",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_034",
+      "label": "Match slow breaths — for 30 seconds",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_035",
+      "label": "Match slow breaths — in 3 ultra-slow reps",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_036",
+      "label": "Match slow breaths — ending with a tight hug",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_037",
+      "label": "Match slow breaths — ending with a forehead kiss",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_038",
+      "label": "Match slow breaths — keeping a warm smile",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_039",
+      "label": "Match slow breaths — to a slow song rhythm",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_040",
+      "label": "Match slow breaths — until they blush",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_041",
+      "label": "Whisper a compliment — for 15 seconds",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_042",
+      "label": "Whisper a compliment — for 20 seconds",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_043",
+      "label": "Whisper a compliment — for 25 seconds",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_044",
+      "label": "Whisper a compliment — for 30 seconds",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_045",
+      "label": "Whisper a compliment — in 3 ultra-slow reps",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_046",
+      "label": "Whisper a compliment — ending with a tight hug",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_047",
+      "label": "Whisper a compliment — ending with a forehead kiss",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_048",
+      "label": "Whisper a compliment — keeping a warm smile",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_049",
+      "label": "Whisper a compliment — to a slow song rhythm",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_050",
+      "label": "Whisper a compliment — until they blush",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_051",
+      "label": "Foreheads touching — for 15 seconds",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_052",
+      "label": "Foreheads touching — for 20 seconds",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_053",
+      "label": "Foreheads touching — for 25 seconds",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_054",
+      "label": "Foreheads touching — for 30 seconds",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_055",
+      "label": "Foreheads touching — in 3 ultra-slow reps",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_056",
+      "label": "Foreheads touching — ending with a tight hug",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_057",
+      "label": "Foreheads touching — ending with a forehead kiss",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_058",
+      "label": "Foreheads touching — keeping a warm smile",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_059",
+      "label": "Foreheads touching — to a slow song rhythm",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_060",
+      "label": "Foreheads touching — until they blush",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_061",
+      "label": "Try not to giggle — for 15 seconds",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_062",
+      "label": "Try not to giggle — for 20 seconds",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_063",
+      "label": "Try not to giggle — for 25 seconds",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_064",
+      "label": "Try not to giggle — for 30 seconds",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_065",
+      "label": "Try not to giggle — in 3 ultra-slow reps",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_066",
+      "label": "Try not to giggle — ending with a tight hug",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_067",
+      "label": "Try not to giggle — ending with a forehead kiss",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_068",
+      "label": "Try not to giggle — keeping a warm smile",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_069",
+      "label": "Try not to giggle — to a slow song rhythm",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_070",
+      "label": "Try not to giggle — until they blush",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_071",
+      "label": "Use non-dominant hand — for 15 seconds",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_072",
+      "label": "Use non-dominant hand — for 20 seconds",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_073",
+      "label": "Use non-dominant hand — for 25 seconds",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_074",
+      "label": "Use non-dominant hand — for 30 seconds",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_075",
+      "label": "Use non-dominant hand — in 3 ultra-slow reps",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_076",
+      "label": "Use non-dominant hand — ending with a tight hug",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_077",
+      "label": "Use non-dominant hand — ending with a forehead kiss",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_078",
+      "label": "Use non-dominant hand — keeping a warm smile",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_079",
+      "label": "Use non-dominant hand — to a slow song rhythm",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_080",
+      "label": "Use non-dominant hand — until they blush",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_081",
+      "label": "Pause 3s mid-way — for 15 seconds",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_082",
+      "label": "Pause 3s mid-way — for 20 seconds",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_083",
+      "label": "Pause 3s mid-way — for 25 seconds",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_084",
+      "label": "Pause 3s mid-way — for 30 seconds",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_085",
+      "label": "Pause 3s mid-way — in 3 ultra-slow reps",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_086",
+      "label": "Pause 3s mid-way — ending with a tight hug",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_087",
+      "label": "Pause 3s mid-way — ending with a forehead kiss",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_088",
+      "label": "Pause 3s mid-way — keeping a warm smile",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_089",
+      "label": "Pause 3s mid-way — to a slow song rhythm",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_090",
+      "label": "Pause 3s mid-way — until they blush",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_091",
+      "label": "Whisper their pet name — for 15 seconds",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_092",
+      "label": "Whisper their pet name — for 20 seconds",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ]
+}

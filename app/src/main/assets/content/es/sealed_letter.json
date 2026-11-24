@@ -1,0 +1,109 @@
+{
+  "version": 1,
+  "seals": [
+    {
+      "id": "seal_crimson",
+      "symbol": "❤",
+      "label": "Lacre carmesí"
+    },
+    {
+      "id": "seal_rose",
+      "symbol": "❀",
+      "label": "Lacre de rosa"
+    },
+    {
+      "id": "seal_gold",
+      "symbol": "✦",
+      "label": "Lacre dorado"
+    },
+    {
+      "id": "seal_midnight",
+      "symbol": "☾",
+      "label": "Lacre de medianoche"
+    },
+    {
+      "id": "seal_lavender",
+      "symbol": "❁",
+      "label": "Lacre de lavanda"
+    },
+    {
+      "id": "seal_ember",
+      "symbol": "✧",
+      "label": "Lacre de brasa"
+    }
+  ],
+  "prompts": [
+    {
+      "id": "prompt_today",
+      "text": "Algo que noté de ti hoy y nunca dije en voz alta."
+    },
+    {
+      "id": "prompt_thankyou",
+      "text": "Gracias por ese gesto pequeño que creíste que nadie notó."
+    },
+    {
+      "id": "prompt_first",
+      "text": "Lo primero que sentí al verte. Sin editar, solo la verdad."
+    },
+    {
+      "id": "prompt_future",
+      "text": "Una promesa sobre un día que algún día quiero vivir contigo."
+    },
+    {
+      "id": "prompt_quarrel",
+      "text": "Lo que quise decir después de nuestra última discusión."
+    },
+    {
+      "id": "prompt_fear",
+      "text": "Algo que me daba miedo decir, así que lo escribo aquí."
+    },
+    {
+      "id": "prompt_favourite",
+      "text": "La versión de ti que nadie más llega a ver."
+    },
+    {
+      "id": "prompt_ridiculous",
+      "text": "Lo más absurdo de nosotros y que aun así amo."
+    },
+    {
+      "id": "prompt_letter_you",
+      "text": "Una carta para ti, de la versión de mí que todavía no conoces."
+    },
+    {
+      "id": "prompt_forgiven",
+      "text": "Algo que me gustaría que me perdonaras."
+    }
+  ],
+  "delays": [
+    {
+      "id": "delay_1d",
+      "days": 1,
+      "label": "Mañana"
+    },
+    {
+      "id": "delay_3d",
+      "days": 3,
+      "label": "En 3 días"
+    },
+    {
+      "id": "delay_7d",
+      "days": 7,
+      "label": "En una semana"
+    },
+    {
+      "id": "delay_14d",
+      "days": 14,
+      "label": "En 2 semanas"
+    },
+    {
+      "id": "delay_30d",
+      "days": 30,
+      "label": "En un mes"
+    },
+    {
+      "id": "delay_100d",
+      "days": 100,
+      "label": "En 100 días"
+    }
+  ]
+}

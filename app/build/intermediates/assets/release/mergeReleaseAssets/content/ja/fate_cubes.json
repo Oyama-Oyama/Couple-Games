@@ -1,0 +1,3980 @@
+{
+  "actions": [
+    {
+      "id": "act_caress",
+      "label": "優しく撫でる",
+      "icon": "✋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_kiss",
+      "label": "ソフトキス",
+      "icon": "💋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_whisper",
+      "label": "そっとささやく",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "act_massage",
+      "label": "ゆっくり揉む",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_breath",
+      "label": "熱い吐息を吹きかける",
+      "icon": "🌬",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_trace",
+      "label": "指先でなぞる",
+      "icon": "〰",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_lick",
+      "label": "息を沿わせてそっと息をそっと寄せてる",
+      "icon": "👅",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_nibble",
+      "label": "甘く息む",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_lingering_kiss",
+      "label": "濃密スローキス",
+      "icon": "❤",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_lick_bite",
+      "label": "息をそっと寄せてからやさしいキス",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_spank",
+      "label": "軽くスパンキング",
+      "icon": "💥",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_suck_tease",
+      "label": "唇で焦らす",
+      "icon": "🍷",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_ice_trace",
+      "label": "氷でゆっくりなぞる",
+      "icon": "🧊",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_undress_slow",
+      "label": "ゆっくり服を脱がす",
+      "icon": "🎀",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "act_pin_kiss",
+      "label": "手首をそっと包みてディープキス",
+      "icon": "⛓",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_slow_lick",
+      "label": "息を沿わせてねっとり息をそっと寄せてる",
+      "icon": "👅",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_gentle_suck",
+      "label": "優しく吸い上げる",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_soft_bite",
+      "label": "意地悪にやさしいキス",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_wet_kiss",
+      "label": "濃密ウェットキス",
+      "icon": "💦",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_deep_suck_mark",
+      "label": "強くそっと寄り添い印を残す",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_lip_nibble_pull",
+      "label": "触れ軽く引っ張る",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_pinch_tease",
+      "label": "指先で軽く摘んで焦らす",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_warm_oil_glide",
+      "label": "温かい掌/オイルで滑らせる",
+      "icon": "💧",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_tongue_circle",
+      "label": "息を沿わせて円を描いて責める",
+      "icon": "🌀",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_bite_then_soothe",
+      "label": "やさしいキス直後に息で癒やす",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_breath_stop_kiss",
+      "label": "熱い吐息からの不意打ちキス",
+      "icon": "🌬",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_01",
+      "label": "羽のように優しく撫でる",
+      "icon": "🪶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_02",
+      "label": "照れながら3回そっとキス",
+      "icon": "💋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_03",
+      "label": "そっと温かい息を吹きかける",
+      "icon": "🌬",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_04",
+      "label": "指の腹でゆっくり円を描く",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_05",
+      "label": "見つめ合いながらそっと頬ずり",
+      "icon": "💕",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_06",
+      "label": "ほろ酔い気分のスローキス",
+      "icon": "🥂",
+      "tier": 1,
+      "tags": [
+        "alcohol",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_07",
+      "label": "温かい手のひらで包み込む",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_08",
+      "label": "肌に唇を近づけて甘く褒める",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "deep_talk",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_09",
+      "label": "鼻先をそっと擦り寄せる",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_10",
+      "label": "服の上から優しく揉みほぐす",
+      "icon": "🤍",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t1_11",
+      "label": "唇1cm手前でじらす",
+      "icon": "🌹",
+      "tier": 1,
+      "tags": [
+        "eye_contact",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_01",
+      "label": "唇を何度も行ったり来たり",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_02",
+      "label": "照れながらそっとやさしいキス",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t2_03",
+      "label": "指先を軽く立ててゾクッとさせる",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_04",
+      "label": "細かく熱いキスを連ねる",
+      "icon": "💓",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_05",
+      "label": "お酒を一滴のせて味わう",
+      "icon": "🍷",
+      "tier": 2,
+      "tags": [
+        "alcohol",
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t2_06",
+      "label": "目を閉じた隙に不意打ちキス",
+      "icon": "🙈",
+      "tier": 2,
+      "tags": [
+        "blindfold",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t2_07",
+      "label": "強引に引き寄せて甘くキス",
+      "icon": "🎭",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_01",
+      "label": "息を沿わせてじっくりなぞる",
+      "icon": "👅",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_02",
+      "label": "そっと吸い上げて吐息を聴く",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_03",
+      "label": "服の下へ手を滑り込ませる",
+      "icon": "✋",
+      "tier": 3,
+      "tags": [
+        "clothing_dare",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_04",
+      "label": "冷たい息の直後に熱いキス",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t3_05",
+      "label": "しっかり掴んで強めに愛撫",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "restraint_light",
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_06",
+      "label": "唇を半開きにして熱く這わせる",
+      "icon": "💧",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v2_t3_07",
+      "label": "襟元をずらして素肌にキス",
+      "icon": "🎀",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "act_v2_t4_01",
+      "label": "そっと包みて動かせずやさしいキス＆吸引",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "bite_lick",
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t4_02",
+      "label": "唇と歯だけでずらしてキス",
+      "icon": "💋",
+      "tier": 4,
+      "tags": [
+        "clothing_dare",
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t4_03",
+      "label": "軽く2回触れるすぐキスで癒やす",
+      "icon": "💥",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v2_t4_04",
+      "label": "息で円を描いておねだりさせる",
+      "icon": "🌀",
+      "tier": 4,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "act_v2_t4_05",
+      "label": "目隠し寸止めで震わせる",
+      "icon": "⛓",
+      "tier": 4,
+      "tags": [
+        "blindfold",
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "act_v21_001",
+      "label": "ゆっくりキスする",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_002",
+      "label": "ゆっくり撫でる",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_003",
+      "label": "ゆっくりなぞる",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_004",
+      "label": "ゆっくり擦り寄る",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_005",
+      "label": "ゆっくり揉みほぐす",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_006",
+      "label": "ゆっくりそっと触れる",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_007",
+      "label": "ゆっくり滑らせる",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_008",
+      "label": "ゆっくり包み込む",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_009",
+      "label": "ゆっくり軽く触れる",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_010",
+      "label": "ゆっくり唇を添える",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_011",
+      "label": "ゆっくり流す",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_012",
+      "label": "ゆっくり癒やす",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_013",
+      "label": "ゆっくり掠める",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_014",
+      "label": "羽のようにキスする",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_015",
+      "label": "羽のように撫でる",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_016",
+      "label": "羽のようになぞる",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_017",
+      "label": "羽のように擦り寄る",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_018",
+      "label": "羽のように揉みほぐす",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_019",
+      "label": "羽のようにそっと触れる",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_020",
+      "label": "羽のように滑らせる",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_021",
+      "label": "羽のように包み込む",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_022",
+      "label": "羽のように軽く触れる",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_023",
+      "label": "羽のように唇を添える",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_024",
+      "label": "羽のように流す",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_025",
+      "label": "羽のように癒やす",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_026",
+      "label": "羽のように掠める",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_027",
+      "label": "目を閉じてキスする",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_028",
+      "label": "目を閉じて撫でる",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_029",
+      "label": "目を閉じてなぞる",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_030",
+      "label": "目を閉じて擦り寄る",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_031",
+      "label": "目を閉じて揉みほぐす",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_032",
+      "label": "目を閉じてそっと触れる",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_033",
+      "label": "目を閉じて滑らせる",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_034",
+      "label": "目を閉じて包み込む",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_035",
+      "label": "目を閉じて軽く触れる",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_036",
+      "label": "目を閉じて唇を添える",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_037",
+      "label": "目を閉じて流す",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_038",
+      "label": "目を閉じて癒やす",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_039",
+      "label": "目を閉じて掠める",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_040",
+      "label": "温かい息でキスする",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_041",
+      "label": "温かい息で撫でる",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_042",
+      "label": "温かい息でなぞる",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_043",
+      "label": "温かい息で擦り寄る",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_044",
+      "label": "温かい息で揉みほぐす",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_045",
+      "label": "温かい息でそっと触れる",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_046",
+      "label": "温かい息で滑らせる",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_047",
+      "label": "温かい息で包み込む",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_048",
+      "label": "温かい息で軽く触れる",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_049",
+      "label": "温かい息で唇を添える",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_050",
+      "label": "温かい息で流す",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_051",
+      "label": "温かい息で癒やす",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_052",
+      "label": "温かい息で掠める",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_053",
+      "label": "微笑みながらキスする",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_054",
+      "label": "微笑みながら撫でる",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_055",
+      "label": "微笑みながらなぞる",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_056",
+      "label": "微笑みながら擦り寄る",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_057",
+      "label": "微笑みながら揉みほぐす",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_058",
+      "label": "微笑みながらそっと触れる",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_059",
+      "label": "微笑みながら滑らせる",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_060",
+      "label": "微笑みながら包み込む",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_061",
+      "label": "微笑みながら軽く触れる",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_062",
+      "label": "微笑みながら唇を添える",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_063",
+      "label": "微笑みながら流す",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_064",
+      "label": "微笑みながら癒やす",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_065",
+      "label": "微笑みながら掠める",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_066",
+      "label": "囁きながらキスする",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_067",
+      "label": "囁きながら撫でる",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_068",
+      "label": "囁きながらなぞる",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_069",
+      "label": "囁きながら擦り寄る",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_070",
+      "label": "囁きながら揉みほぐす",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_071",
+      "label": "囁きながらそっと触れる",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_072",
+      "label": "囁きながら滑らせる",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_073",
+      "label": "囁きながら包み込む",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_074",
+      "label": "囁きながら軽く触れる",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_075",
+      "label": "囁きながら唇を添える",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_076",
+      "label": "囁きながら流す",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_077",
+      "label": "囁きながら癒やす",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_078",
+      "label": "囁きながら掠める",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_079",
+      "label": "円を描いてキスする",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_080",
+      "label": "円を描いて撫でる",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_081",
+      "label": "円を描いてなぞる",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_082",
+      "label": "円を描いて擦り寄る",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_083",
+      "label": "円を描いて揉みほぐす",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_084",
+      "label": "円を描いてそっと触れる",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_085",
+      "label": "円を描いて滑らせる",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_086",
+      "label": "円を描いて包み込む",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_087",
+      "label": "円を描いて軽く触れる",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_088",
+      "label": "円を描いて唇を添える",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_089",
+      "label": "円を描いて流す",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_090",
+      "label": "円を描いて癒やす",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_091",
+      "label": "円を描いて掠める",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_092",
+      "label": "じっくりキスする",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_093",
+      "label": "じっくり撫でる",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_094",
+      "label": "じっくりなぞる",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_095",
+      "label": "じっくり擦り寄る",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_096",
+      "label": "じっくり揉みほぐす",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_097",
+      "label": "じっくりそっと触れる",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_098",
+      "label": "じっくり滑らせる",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_099",
+      "label": "じっくり包み込む",
+      "icon": "🫶",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_100",
+      "label": "じっくり軽く触れる",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_101",
+      "label": "じっくり唇を添える",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_102",
+      "label": "じっくり流す",
+      "icon": "🕊️",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_103",
+      "label": "じっくり癒やす",
+      "icon": "💛",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "act_v21_104",
+      "label": "じっくり掠める",
+      "icon": "🌙",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ],
+  "spots": [
+    {
+      "id": "spot_hand",
+      "label": "手の甲・指先",
+      "icon": "🤲",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_cheek",
+      "label": "頬・顎のライン",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_shoulder",
+      "label": "肩",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lips",
+      "label": "唇",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_earlobe",
+      "label": "耳たぶ",
+      "icon": "🎧",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_neck",
+      "label": "首筋",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_collarbone",
+      "label": "鎖骨",
+      "icon": "💎",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_wrist",
+      "label": "手首の内側",
+      "icon": "🕊",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_waist",
+      "label": "腰のくびれ",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_spine",
+      "label": "背筋",
+      "icon": "🌊",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_hip",
+      "label": "ヒップライン",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_thigh",
+      "label": "内もも",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lower_belly",
+      "label": "下腹部ライン",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_chest",
+      "label": "胸元・脇腹",
+      "icon": "❤",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_nape",
+      "label": "うなじ",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_behind_ear",
+      "label": "耳の後ろのくぼみ",
+      "icon": "🎧",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_throat",
+      "label": "喉元とくぼみ",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_under_collar",
+      "label": "鎖骨の下の素肌",
+      "icon": "💎",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_side_ribs",
+      "label": "脇腹と肋骨のライン",
+      "icon": "〰",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_lower_back",
+      "label": "腰のくぼみと尾てい骨",
+      "icon": "🌙",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_navel_line",
+      "label": "へそ周りと下腹部",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_hip_bone",
+      "label": "腰骨のキワ",
+      "icon": "🌹",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_glutes_curve",
+      "label": "ヒップの丸みと下ライン",
+      "icon": "🍑",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_upper_inner_thigh",
+      "label": "太ももの付け根内側",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_chest_hollow",
+      "label": "胸元と服の襟の内側",
+      "icon": "❤️‍🔥",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_behind_knee",
+      "label": "膝の裏側",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_01",
+      "label": "指先と指のすき間",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_02",
+      "label": "おでこと眉間",
+      "icon": "✨",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_03",
+      "label": "耳のふち",
+      "icon": "🌙",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_04",
+      "label": "顎のライン",
+      "icon": "💫",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_05",
+      "label": "鎖骨のくぼみ",
+      "icon": "🤍",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_06",
+      "label": "口角のすぐ横",
+      "icon": "🌹",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_07",
+      "label": "手のひらの真ん中",
+      "icon": "🤲",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_08",
+      "label": "肩甲骨のライン",
+      "icon": "🦋",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_09",
+      "label": "肘の内側",
+      "icon": "🫧",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_10",
+      "label": "こめかみと生え際",
+      "icon": "💕",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t1_11",
+      "label": "足首と足の甲",
+      "icon": "🕊",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_01",
+      "label": "下唇の真ん中",
+      "icon": "💋",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_02",
+      "label": "首筋の脈打つところ",
+      "icon": "✨",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_03",
+      "label": "前腕の内側",
+      "icon": "🌊",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_04",
+      "label": "背中のくぼみ",
+      "icon": "🔥",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_05",
+      "label": "首と肩のつなぎ目",
+      "icon": "💎",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t2_06",
+      "label": "襟下の背中",
+      "icon": "🌙",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_01",
+      "label": "おへその周り",
+      "icon": "🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_02",
+      "label": "脇腹のくすぐったい所",
+      "icon": "❤️‍🔥",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_03",
+      "label": "太ももの外側",
+      "icon": "🌹",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_04",
+      "label": "背骨に沿って下まで",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t3_05",
+      "label": "服の裾の下のお腹",
+      "icon": "⚡",
+      "tier": 3,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_01",
+      "label": "内もものいちばん上",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_02",
+      "label": "胸元の最も敏感な場所",
+      "icon": "❤️‍🔥",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_03",
+      "label": "ヒップの下ライン",
+      "icon": "🍑",
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_04",
+      "label": "下着のフチ沿い",
+      "icon": "⚡",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_05",
+      "label": "下腹部のVライン",
+      "icon": "🍷",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_06",
+      "label": "腰骨のくぼみ",
+      "icon": "🌹",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_07",
+      "label": "服を脱いだ素肌の背中",
+      "icon": "💫",
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "spot_v2_t4_08",
+      "label": "耳たぶから胸元まで一気に",
+      "icon": "🔥",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_001",
+      "label": "左のこめかみ",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_002",
+      "label": "左の頬骨",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_003",
+      "label": "左の耳のふち",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_004",
+      "label": "左の耳の後ろ",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_005",
+      "label": "左の顎ライン",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_006",
+      "label": "左の口角",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_007",
+      "label": "左のあご先",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_008",
+      "label": "左のうなじ",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_009",
+      "label": "左の鎖骨",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_010",
+      "label": "左の肩先",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_011",
+      "label": "左の二の腕",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_012",
+      "label": "左の前腕",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_013",
+      "label": "左の手首",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_014",
+      "label": "左の手のひら",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_015",
+      "label": "左の指関節",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_016",
+      "label": "左の肩甲骨",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_017",
+      "label": "左の背中",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_018",
+      "label": "左の腰サイド",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_019",
+      "label": "左の足首",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_020",
+      "label": "左の土踏まず",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_021",
+      "label": "右のこめかみ",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_022",
+      "label": "右の頬骨",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_023",
+      "label": "右の耳のふち",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_024",
+      "label": "右の耳の後ろ",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_025",
+      "label": "右の顎ライン",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_026",
+      "label": "右の口角",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_027",
+      "label": "右のあご先",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_028",
+      "label": "右のうなじ",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_029",
+      "label": "右の鎖骨",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_030",
+      "label": "右の肩先",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_031",
+      "label": "右の二の腕",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_032",
+      "label": "右の前腕",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_033",
+      "label": "右の手首",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_034",
+      "label": "右の手のひら",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_035",
+      "label": "右の指関節",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_036",
+      "label": "右の肩甲骨",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_037",
+      "label": "右の背中",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_038",
+      "label": "右の腰サイド",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_039",
+      "label": "右の足首",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_040",
+      "label": "右の土踏まず",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_041",
+      "label": "外側のこめかみ",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_042",
+      "label": "外側の頬骨",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_043",
+      "label": "外側の耳のふち",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_044",
+      "label": "外側の耳の後ろ",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_045",
+      "label": "外側の顎ライン",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_046",
+      "label": "外側の口角",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_047",
+      "label": "外側のあご先",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_048",
+      "label": "外側のうなじ",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_049",
+      "label": "外側の鎖骨",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_050",
+      "label": "外側の肩先",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_051",
+      "label": "外側の二の腕",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_052",
+      "label": "外側の前腕",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_053",
+      "label": "外側の手首",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_054",
+      "label": "外側の手のひら",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_055",
+      "label": "外側の指関節",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_056",
+      "label": "外側の肩甲骨",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_057",
+      "label": "外側の背中",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_058",
+      "label": "外側の腰サイド",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_059",
+      "label": "外側の足首",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_060",
+      "label": "外側の土踏まず",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_061",
+      "label": "内側のこめかみ",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_062",
+      "label": "内側の頬骨",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_063",
+      "label": "内側の耳のふち",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_064",
+      "label": "内側の耳の後ろ",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_065",
+      "label": "内側の顎ライン",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_066",
+      "label": "内側の口角",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_067",
+      "label": "内側のあご先",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_068",
+      "label": "内側のうなじ",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_069",
+      "label": "内側の鎖骨",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_070",
+      "label": "内側の肩先",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_071",
+      "label": "内側の二の腕",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_072",
+      "label": "内側の前腕",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_073",
+      "label": "内側の手首",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_074",
+      "label": "内側の手のひら",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_075",
+      "label": "内側の指関節",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_076",
+      "label": "内側の肩甲骨",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_077",
+      "label": "内側の背中",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_078",
+      "label": "内側の腰サイド",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_079",
+      "label": "内側の足首",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_080",
+      "label": "内側の土踏まず",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_081",
+      "label": "上のこめかみ",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_082",
+      "label": "上の頬骨",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_083",
+      "label": "上の耳のふち",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_084",
+      "label": "上の耳の後ろ",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_085",
+      "label": "上の顎ライン",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_086",
+      "label": "上の口角",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_087",
+      "label": "上のあご先",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_088",
+      "label": "上のうなじ",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_089",
+      "label": "上の鎖骨",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_090",
+      "label": "上の肩先",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_091",
+      "label": "上の二の腕",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_092",
+      "label": "上の前腕",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_093",
+      "label": "上の手首",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_094",
+      "label": "上の手のひら",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_095",
+      "label": "上の指関節",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_096",
+      "label": "上の肩甲骨",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_097",
+      "label": "上の背中",
+      "icon": "🌸",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_098",
+      "label": "上の腰サイド",
+      "icon": "💫",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_099",
+      "label": "上の足首",
+      "icon": "✨",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_100",
+      "label": "上の土踏まず",
+      "icon": "💛",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_101",
+      "label": "下のこめかみ",
+      "icon": "🫶",
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_102",
+      "label": "下の頬骨",
+      "icon": "🌷",
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_103",
+      "label": "下の耳のふち",
+      "icon": "🌙",
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "spot_v21_104",
+      "label": "下の耳の後ろ",
+      "icon": "💎",
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ],
+  "modifiers": [
+    {
+      "id": "mod_eye",
+      "label": "ずっと目をそらさず見つめ合う",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_slow",
+      "label": "焦らすように超スローモーションで",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_no_hands",
+      "label": "手は使わず唇と吐息だけで",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_whisper_name",
+      "label": "前後で相手の名前をささやく",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_blindfold",
+      "label": "受け手は目を閉じて無言で委ねる",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ]
+    },
+    {
+      "id": "mod_pin_hands",
+      "label": "相手の両手を頭上にそっとそっと包みて",
+      "durationSec": 25,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_clothing",
+      "label": "服を1枚少しだけずらしてから",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_freeze_gasp",
+      "label": "息を呑むたび3秒ピタッと止める",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_hands_behind",
+      "label": "受け手は両手を背中で固定",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_mirror_watch",
+      "label": "鏡の前で2人の姿を見ながら実行",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_dirty_praise",
+      "label": "ずっと耳元で艶やかな褒め言葉を囁く",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_hot_cold",
+      "label": "冷たい息の直後に熱い唇と息で攻める",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_under_shirt",
+      "label": "服の中へ直接手や唇を滑り込ませる",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_no_sound",
+      "label": "受け手は声出し禁止——漏れたら+15秒",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_01",
+      "label": "至近距離で、先に照れたら負け",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_02",
+      "label": "途中で「これ好き？」と小声で聞く",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_03",
+      "label": "壊れ物に触れるように超スローで",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_04",
+      "label": "ずっと指を絡めたまま離さない",
+      "durationSec": 20,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t1_05",
+      "label": "お酒を一口含んでから近づく",
+      "durationSec": 25,
+      "tier": 1,
+      "tags": [
+        "alcohol"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_01",
+      "label": "5秒焦らしてからゆっくり落とす",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "playful"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_02",
+      "label": "耳元で特別な呼び名を吐息で呼ぶ",
+      "durationSec": 25,
+      "tier": 2,
+      "tags": [
+        "deep_talk"
+      ]
+    },
+    {
+      "id": "mod_v2_t2_03",
+      "label": "膝の上に跨がった至近距離で",
+      "durationSec": 30,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_01",
+      "label": "目を閉じて部位を当てられなければ延長",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "blindfold"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_02",
+      "label": "熱い吐息を先にかけて震えを感じて",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "bite_lick"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_03",
+      "label": "見つかりそうなスリルで小声のまま",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "roleplay"
+      ]
+    },
+    {
+      "id": "mod_v2_t3_04",
+      "label": "受け手が相手の手首を握って強弱を操作",
+      "durationSec": 30,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t4_01",
+      "label": "壁かベッドボードにそっと押し付けて",
+      "durationSec": 35,
+      "tier": 4,
+      "tags": [
+        "restraint_light"
+      ]
+    },
+    {
+      "id": "mod_v2_t4_02",
+      "label": "少しだけ服をずらしてキスして焦らす",
+      "durationSec": 35,
+      "tier": 4,
+      "tags": [
+        "clothing_dare"
+      ]
+    },
+    {
+      "id": "mod_v21_001",
+      "label": "目を合わせたまま，15秒キープ",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_002",
+      "label": "目を合わせたまま，20秒キープ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_003",
+      "label": "目を合わせたまま，25秒キープ",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_004",
+      "label": "目を合わせたまま，30秒キープ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_005",
+      "label": "目を合わせたまま，ゆっくり3回",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_006",
+      "label": "目を合わせたまま，最後はぎゅっとハグ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_007",
+      "label": "目を合わせたまま，おでこにキスで締め",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_008",
+      "label": "目を合わせたまま，優しい笑顔のまま",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_009",
+      "label": "目を合わせたまま，スローテンポで",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_010",
+      "label": "目を合わせたまま，照れるまで続ける",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "eye_contact"
+      ]
+    },
+    {
+      "id": "mod_v21_011",
+      "label": "目を閉じたまま，15秒キープ",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_012",
+      "label": "目を閉じたまま，20秒キープ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_013",
+      "label": "目を閉じたまま，25秒キープ",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_014",
+      "label": "目を閉じたまま，30秒キープ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_015",
+      "label": "目を閉じたまま，ゆっくり3回",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_016",
+      "label": "目を閉じたまま，最後はぎゅっとハグ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_017",
+      "label": "目を閉じたまま，おでこにキスで締め",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_018",
+      "label": "目を閉じたまま，優しい笑顔のまま",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_019",
+      "label": "目を閉じたまま，スローテンポで",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_020",
+      "label": "目を閉じたまま，照れるまで続ける",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_021",
+      "label": "指を絡めて，15秒キープ",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_022",
+      "label": "指を絡めて，20秒キープ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_023",
+      "label": "指を絡めて，25秒キープ",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_024",
+      "label": "指を絡めて，30秒キープ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_025",
+      "label": "指を絡めて，ゆっくり3回",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_026",
+      "label": "指を絡めて，最後はぎゅっとハグ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_027",
+      "label": "指を絡めて，おでこにキスで締め",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_028",
+      "label": "指を絡めて，優しい笑顔のまま",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_029",
+      "label": "指を絡めて，スローテンポで",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_030",
+      "label": "指を絡めて，照れるまで続ける",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_031",
+      "label": "呼吸を合わせて，15秒キープ",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_032",
+      "label": "呼吸を合わせて，20秒キープ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_033",
+      "label": "呼吸を合わせて，25秒キープ",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_034",
+      "label": "呼吸を合わせて，30秒キープ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_035",
+      "label": "呼吸を合わせて，ゆっくり3回",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_036",
+      "label": "呼吸を合わせて，最後はぎゅっとハグ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_037",
+      "label": "呼吸を合わせて，おでこにキスで締め",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_038",
+      "label": "呼吸を合わせて，優しい笑顔のまま",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_039",
+      "label": "呼吸を合わせて，スローテンポで",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_040",
+      "label": "呼吸を合わせて，照れるまで続ける",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_041",
+      "label": "褒め言葉を囁き，15秒キープ",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_042",
+      "label": "褒め言葉を囁き，20秒キープ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_043",
+      "label": "褒め言葉を囁き，25秒キープ",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_044",
+      "label": "褒め言葉を囁き，30秒キープ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_045",
+      "label": "褒め言葉を囁き，ゆっくり3回",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_046",
+      "label": "褒め言葉を囁き，最後はぎゅっとハグ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_047",
+      "label": "褒め言葉を囁き，おでこにキスで締め",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_048",
+      "label": "褒め言葉を囁き，優しい笑顔のまま",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_049",
+      "label": "褒め言葉を囁き，スローテンポで",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_050",
+      "label": "褒め言葉を囁き，照れるまで続ける",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_051",
+      "label": "おでこを当てて，15秒キープ",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_052",
+      "label": "おでこを当てて，20秒キープ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_053",
+      "label": "おでこを当てて，25秒キープ",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_054",
+      "label": "おでこを当てて，30秒キープ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_055",
+      "label": "おでこを当てて，ゆっくり3回",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_056",
+      "label": "おでこを当てて，最後はぎゅっとハグ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_057",
+      "label": "おでこを当てて，おでこにキスで締め",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_058",
+      "label": "おでこを当てて，優しい笑顔のまま",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_059",
+      "label": "おでこを当てて，スローテンポで",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_060",
+      "label": "おでこを当てて，照れるまで続ける",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_061",
+      "label": "笑わずに，15秒キープ",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_062",
+      "label": "笑わずに，20秒キープ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_063",
+      "label": "笑わずに，25秒キープ",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_064",
+      "label": "笑わずに，30秒キープ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_065",
+      "label": "笑わずに，ゆっくり3回",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_066",
+      "label": "笑わずに，最後はぎゅっとハグ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_067",
+      "label": "笑わずに，おでこにキスで締め",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_068",
+      "label": "笑わずに，優しい笑顔のまま",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_069",
+      "label": "笑わずに，スローテンポで",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_070",
+      "label": "笑わずに，照れるまで続ける",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_071",
+      "label": "利き手と逆で，15秒キープ",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_072",
+      "label": "利き手と逆で，20秒キープ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_073",
+      "label": "利き手と逆で，25秒キープ",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_074",
+      "label": "利き手と逆で，30秒キープ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_075",
+      "label": "利き手と逆で，ゆっくり3回",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_076",
+      "label": "利き手と逆で，最後はぎゅっとハグ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_077",
+      "label": "利き手と逆で，おでこにキスで締め",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_078",
+      "label": "利き手と逆で，優しい笑顔のまま",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_079",
+      "label": "利き手と逆で，スローテンポで",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_080",
+      "label": "利き手と逆で，照れるまで続ける",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_081",
+      "label": "途中で3秒止めて，15秒キープ",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_082",
+      "label": "途中で3秒止めて，20秒キープ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_083",
+      "label": "途中で3秒止めて，25秒キープ",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_084",
+      "label": "途中で3秒止めて，30秒キープ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_085",
+      "label": "途中で3秒止めて，ゆっくり3回",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_086",
+      "label": "途中で3秒止めて，最後はぎゅっとハグ",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_087",
+      "label": "途中で3秒止めて，おでこにキスで締め",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_088",
+      "label": "途中で3秒止めて，優しい笑顔のまま",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_089",
+      "label": "途中で3秒止めて，スローテンポで",
+      "durationSec": 15,
+      "tier": 1,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_090",
+      "label": "途中で3秒止めて，照れるまで続ける",
+      "durationSec": 20,
+      "tier": 2,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_091",
+      "label": "愛称を呼びながら，15秒キープ",
+      "durationSec": 25,
+      "tier": 3,
+      "tags": [
+        "physical_light"
+      ]
+    },
+    {
+      "id": "mod_v21_092",
+      "label": "愛称を呼びながら，20秒キープ",
+      "durationSec": 30,
+      "tier": 4,
+      "tags": [
+        "physical_light"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1562 @@
+{
+  "scenarios": [
+    {
+      "id": "rp_strangers",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "深夜のホテルラウンジ",
+      "subtitle": "グラス越しに視線が交わる見知らぬ2人",
+      "leadRole": "ミステリアスな誘い手",
+      "partnerRole": "ひとり旅のゲスト",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 視線の合図",
+          "durationSec": 45,
+          "direction": "{lead} が余裕のある微笑みで {partner} に近づき、相席を申し込みます。",
+          "whisperLine": "「ずっと向こうから見ていました。今夜、誰かを待っているわけじゃないですよね？」"
+        },
+        {
+          "actTitle": "第2幕 · 縮まる距離",
+          "durationSec": 45,
+          "direction": "{lead} がそっと身を乗り出し、視線を外さず {partner} の指先に触れます。",
+          "whisperLine": "「明日の予定を全部忘れるには、あと何杯必要ですか？」"
+        },
+        {
+          "actTitle": "第3幕 · ルームキー",
+          "durationSec": 30,
+          "direction": "{partner} が心奪われたなら、夜を約束するスローキスで応えます。",
+          "whisperLine": "「部屋へ行こう。今夜をここで終わらせたくない。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_spa",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "プライベート・ベルベットスパ",
+      "subtitle": "閉店後のVIPルーム、温かな手のひらが距離を溶かす",
+      "leadRole": "専属セラピスト",
+      "partnerRole": "VIPゲスト",
+      "acts": [
+        {
+          "actTitle": "第1幕 · ほぐす時間",
+          "durationSec": 45,
+          "direction": "{partner} が目を閉じてリラックスし、{lead} が温かい手で肩からゆっくりほぐします。",
+          "whisperLine": "「力が入りすぎていますよ。深呼吸して、すべて任せてください。」"
+        },
+        {
+          "actTitle": "第2幕 · 吐息の距離",
+          "durationSec": 45,
+          "direction": "{lead} の指先が首筋から背筋へゆっくり滑り、耳元でささやきます。",
+          "whisperLine": "「どこに触れられるのが一番心地いいか、遠慮せず教えて。」"
+        },
+        {
+          "actTitle": "第3幕 · メニュー外のサービス",
+          "durationSec": 30,
+          "direction": "{lead} が {partner} の顎をそっと上げ、顎のラインから唇へキスを落とします。",
+          "whisperLine": "「ここから先は、秘密の特別メニューです。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_office",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "indoor"
+      ],
+      "title": "残業のコーナーオフィス",
+      "subtitle": "誰もいない夜のフロア、2人だけの秘密の面談",
+      "leadRole": "クールな上司",
+      "partnerRole": "大胆なアシスタント",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 居残り指示",
+          "durationSec": 40,
+          "direction": "{lead} がドアを閉めるよう促し、{partner} をすぐ近くへ呼び寄せます。",
+          "whisperLine": "「午後ずっと集中できなかったのは君のせいだ。こっちへ来て。」"
+        },
+        {
+          "actTitle": "第2幕 · ルール違反",
+          "durationSec": 45,
+          "direction": "{partner} が {lead} の襟元に触れ、{lead} が腰をしっかり引き寄せます。",
+          "whisperLine": "「命令ばかりじゃなくて、本当にしてほしいことを言ってください。」"
+        },
+        {
+          "actTitle": "第3幕 · 特別なボーナス",
+          "durationSec": 30,
+          "direction": "{lead} が首筋と唇に情熱的なキスを落とし、今夜の予定を独占します。",
+          "whisperLine": "「今夜の残りの時間は、全部俺のものだ。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_blindfold_chef",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "blindfold",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "真夜中のテイスティングルーム",
+      "subtitle": "視界を閉じて、温度と吐息とやさしいキスだけに集中する夜",
+      "leadRole": "ソムリエ",
+      "partnerRole": "目隠しのゲスト",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 視界を委ねる",
+          "durationSec": 30,
+          "direction": "{partner} が完全に目を閉じ、{lead} が優しく両手を導きます。",
+          "whisperLine": "「覗き見は禁止。今夜は肌と呼吸だけで感じて。」"
+        },
+        {
+          "actTitle": "第2幕 · 焦らしのひと口",
+          "durationSec": 45,
+          "direction": "{lead} が指先で唇をなぞり、耳たぶを甘く触れ熱い吐息を吹きかけます。",
+          "whisperLine": "「目を開けずに、次にどこへキスしてほしいか教えて。」"
+        },
+        {
+          "actTitle": "第3幕 · 秘密のデザート",
+          "durationSec": 30,
+          "direction": "{lead} が首筋から唇へゆっくりキスを繋ぎ、{partner} を抱き寄せます。",
+          "whisperLine": "「さあ、今夜いちばん甘いデザートの時間です。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_stylist",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "秘密のフィッティングルーム",
+      "subtitle": "ベルベットカーテンの向こう、1枚ずつほどける距離",
+      "leadRole": "専属スタイリスト",
+      "partnerRole": "ミューズ",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 採寸",
+          "durationSec": 40,
+          "direction": "{lead} がサイズを確かめるように {partner} の肩から腰のラインをゆっくりたどります。",
+          "whisperLine": "「動かないで。肌にどう馴染むか確かめないと。」"
+        },
+        {
+          "actTitle": "第2幕 · ずれる襟元",
+          "durationSec": 45,
+          "direction": "{lead} が襟元や袖をそっとずらし、現れた素肌へ指先と唇を這わせます。",
+          "whisperLine": "「正直に言っていい？これは脱いだ方がずっと綺麗だ。」"
+        },
+        {
+          "actTitle": "第3幕 · 鏡の余韻",
+          "durationSec": 30,
+          "direction": "{lead} が後ろから抱きしめ、首筋にキスしながら耳元でささやきます。",
+          "whisperLine": "「パーティーなんて行かなくていい。今夜はこのままここにいよう。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_velvet_ruler",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "bite_lick",
+        "indoor"
+      ],
+      "title": "ベルベットの支配者",
+      "subtitle": "甘い主導権、静かな服従、そして我慢の果てのご褒美",
+      "leadRole": "リード役",
+      "partnerRole": "委ねる役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · ルール宣言",
+          "durationSec": 35,
+          "direction": "{lead} が {partner} に手を後ろで組ませ、まっすぐ目を見つめさせます。",
+          "whisperLine": "「これから3分間、私が許すまで自分からは動かないこと。」"
+        },
+        {
+          "actTitle": "第2幕 · 我慢比べ",
+          "durationSec": 45,
+          "direction": "{lead} がゆっくり回り込み、首筋へ吐息・指先・やさしいキスで焦らし続けます。",
+          "whisperLine": "「いい子だ。いつまで我慢できるか見せて。」"
+        },
+        {
+          "actTitle": "第3幕 · 解放のご褒美",
+          "durationSec": 30,
+          "direction": "{lead} が合図の軽いタップで手を解放し、息が止まるほどのディープキスを贈ります。",
+          "whisperLine": "「よく我慢したね。ほら、欲しかった分だけ応えて。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_01",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk",
+        "indoor"
+      ],
+      "title": "雨夜の甘えお泊まり",
+      "subtitle": "照れとドキドキが交差する3幕の親密ストーリー",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 近づく距離",
+          "durationSec": 45,
+          "direction": "{lead}がそっと{partner}の頬や手首に触れ、視線を絡めながら一歩近づきます。",
+          "whisperLine": "「ねえ…もう少しだけ近くにいていい？」"
+        },
+        {
+          "actTitle": "第2幕 · 吐息の焦らし",
+          "durationSec": 50,
+          "direction": "{lead}が{partner}の耳元と首筋に熱い吐息を吹きかけ、唇1cm手前で3秒じらします。",
+          "whisperLine": "「顔が赤くなってる…今、どんな気持ち？」"
+        },
+        {
+          "actTitle": "第3幕 · とろける結末",
+          "durationSec": 55,
+          "direction": "{partner}が照れながら{lead}を引き寄せ、息が上がるほどそっと寄り添いで幕を閉じます。",
+          "whisperLine": "「今夜はもう、どこにも行かないよ…」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_02",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "alcohol",
+        "indoor"
+      ],
+      "title": "深夜バーのほろ酔い出会い",
+      "subtitle": "照れとドキドキが交差する3幕の親密ストーリー",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 近づく距離",
+          "durationSec": 45,
+          "direction": "{lead}がそっと{partner}の頬や手首に触れ、視線を絡めながら一歩近づきます。",
+          "whisperLine": "「ねえ…もう少しだけ近くにいていい？」"
+        },
+        {
+          "actTitle": "第2幕 · 吐息の焦らし",
+          "durationSec": 50,
+          "direction": "{lead}が{partner}の耳元と首筋に熱い吐息を吹きかけ、唇1cm手前で3秒じらします。",
+          "whisperLine": "「顔が赤くなってる…今、どんな気持ち？」"
+        },
+        {
+          "actTitle": "第3幕 · とろける結末",
+          "durationSec": 55,
+          "direction": "{partner}が照れながら{lead}を引き寄せ、息が上がるほどそっと寄り添いで幕を閉じます。",
+          "whisperLine": "「今夜はもう、どこにも行かないよ…」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_03",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light",
+        "indoor"
+      ],
+      "title": "パーティー抜け出し密室キス",
+      "subtitle": "照れとドキドキが交差する3幕の親密ストーリー",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 近づく距離",
+          "durationSec": 45,
+          "direction": "{lead}がそっと{partner}の頬や手首に触れ、視線を絡めながら一歩近づきます。",
+          "whisperLine": "「ねえ…もう少しだけ近くにいていい？」"
+        },
+        {
+          "actTitle": "第2幕 · 吐息の焦らし",
+          "durationSec": 50,
+          "direction": "{lead}が{partner}の耳元と首筋に熱い吐息を吹きかけ、唇1cm手前で3秒じらします。",
+          "whisperLine": "「顔が赤くなってる…今、どんな気持ち？」"
+        },
+        {
+          "actTitle": "第3幕 · とろける結末",
+          "durationSec": 55,
+          "direction": "{partner}が照れながら{lead}を引き寄せ、息が上がるほどそっと寄り添いで幕を閉じます。",
+          "whisperLine": "「今夜はもう、どこにも行かないよ…」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_04",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "eye_contact",
+        "indoor"
+      ],
+      "title": "秘密アトリエの指先デッサン",
+      "subtitle": "照れとドキドキが交差する3幕の親密ストーリー",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 近づく距離",
+          "durationSec": 45,
+          "direction": "{lead}がそっと{partner}の頬や手首に触れ、視線を絡めながら一歩近づきます。",
+          "whisperLine": "「ねえ…もう少しだけ近くにいていい？」"
+        },
+        {
+          "actTitle": "第2幕 · 吐息の焦らし",
+          "durationSec": 50,
+          "direction": "{lead}が{partner}の耳元と首筋に熱い吐息を吹きかけ、唇1cm手前で3秒じらします。",
+          "whisperLine": "「顔が赤くなってる…今、どんな気持ち？」"
+        },
+        {
+          "actTitle": "第3幕 · とろける結末",
+          "durationSec": 55,
+          "direction": "{partner}が照れながら{lead}を引き寄せ、息が上がるほどそっと寄り添いで幕を閉じます。",
+          "whisperLine": "「今夜はもう、どこにも行かないよ…」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_05",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "clothing_dare",
+        "indoor"
+      ],
+      "title": "試着室カーテンの裏で",
+      "subtitle": "照れとドキドキが交差する3幕の親密ストーリー",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 近づく距離",
+          "durationSec": 45,
+          "direction": "{lead}がそっと{partner}の頬や手首に触れ、視線を絡めながら一歩近づきます。",
+          "whisperLine": "「ねえ…もう少しだけ近くにいていい？」"
+        },
+        {
+          "actTitle": "第2幕 · 吐息の焦らし",
+          "durationSec": 50,
+          "direction": "{lead}が{partner}の耳元と首筋に熱い吐息を吹きかけ、唇1cm手前で3秒じらします。",
+          "whisperLine": "「顔が赤くなってる…今、どんな気持ち？」"
+        },
+        {
+          "actTitle": "第3幕 · とろける結末",
+          "durationSec": 55,
+          "direction": "{partner}が照れながら{lead}を引き寄せ、息が上がるほどそっと寄り添いで幕を閉じます。",
+          "whisperLine": "「今夜はもう、どこにも行かないよ…」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v2_06",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "blindfold"
+      ],
+      "title": "真夜中の3分間甘い服従",
+      "subtitle": "照れとドキドキが交差する3幕の親密ストーリー",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 近づく距離",
+          "durationSec": 45,
+          "direction": "{lead}がそっと{partner}の頬や手首に触れ、視線を絡めながら一歩近づきます。",
+          "whisperLine": "「ねえ…もう少しだけ近くにいていい？」"
+        },
+        {
+          "actTitle": "第2幕 · 吐息の焦らし",
+          "durationSec": 50,
+          "direction": "{lead}が{partner}の耳元と首筋に熱い吐息を吹きかけ、唇1cm手前で3秒じらします。",
+          "whisperLine": "「顔が赤くなってる…今、どんな気持ち？」"
+        },
+        {
+          "actTitle": "第3幕 · とろける結末",
+          "durationSec": 55,
+          "direction": "{partner}が照れながら{lead}を引き寄せ、息が上がるほどそっと寄り添いで幕を閉じます。",
+          "whisperLine": "「今夜はもう、どこにも行かないよ…」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_01",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "レースカーテンの窓辺 · クッションの山の上の出会い",
+      "subtitle": "レースカーテンの窓辺のような柔らかな灯りで始まる甘い恋物語",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}がクッションの山の上で{partner}に近づき、毎回唇1cm手前で焦らしながらのまま「今日ふと頭をよぎった一番えっちな妄想」を囁く。",
+          "whisperLine": "「今夜の空気、すごく綺麗だね…もう少し近づいてもいい？」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「温かな掌のゆっくりした滑りから突然の引き寄せ」で{partner}の前腕の内側をゆっくり焦らす。",
+          "whisperLine": "「目を逸らさないで、鼓動が速くなった？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "クッションの山の上で抱き合い、{lead}が前腕の内側を優しく指先でゆっくり撫でてして締めくくる。",
+          "whisperLine": "「このまま2人だけの時間が止まればいいのに。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_02",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "潮風の海辺バン · カーテンの裏側の出会い",
+      "subtitle": "潮風の海辺バンのような柔らかな灯りで始まる甘い恋物語",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}がカーテンの裏側で{partner}に近づき、耳元で甘い愛称を囁きながらのまま「手を繋いだ時こっそり考えたこと」を囁く。",
+          "whisperLine": "「今夜の空気、すごく綺麗だね…もう少し近づいてもいい？」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「衣類の上から、あたたかさをそっと」で{partner}の耳の後ろをゆっくり焦らす。",
+          "whisperLine": "「目を逸らさないで、鼓動が速くなった？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "カーテンの裏側で抱き合い、{lead}が耳の後ろを優しく羽のようなキスを落としてして締めくくる。",
+          "whisperLine": "「このまま2人だけの時間が止まればいいのに。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_03",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "キャンドルの灯るルーフトップ · 柔らかな灯りのドレッサー前の出会い",
+      "subtitle": "キャンドルの灯るルーフトップのような柔らかな灯りで始まる甘い恋物語",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が柔らかな灯りのドレッサー前で{partner}に近づき、少し悪戯な微笑みを浮かべてのまま「電気を消したあと一番してほしい触れ方」を囁く。",
+          "whisperLine": "「今夜の空気、すごく綺麗だね…もう少し近づいてもいい？」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「しっかり手を握ってから、息のような指先へ」で{partner}のあご先をゆっくり焦らす。",
+          "whisperLine": "「目を逸らさないで、鼓動が速くなった？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "柔らかな灯りのドレッサー前で抱き合い、{lead}があご先を優しく温かな手でじっくりほぐしてして締めくくる。",
+          "whisperLine": "「このまま2人だけの時間が止まればいいのに。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_04",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "薄暗いホテルのバー · 寝室の壁際の出会い",
+      "subtitle": "薄暗いホテルのバーのような柔らかな灯りで始まる甘い恋物語",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が寝室の壁際で{partner}に近づき、吐息以外まったく声を出さずにのまま「今すぐ一番キスしたい相手の体の場所」を囁く。",
+          "whisperLine": "「今夜の空気、すごく綺麗だね…もう少し近づいてもいい？」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「鼻先を合わせた直後のスローキス」で{partner}の鎖骨のくぼみをゆっくり焦らす。",
+          "whisperLine": "「目を逸らさないで、鼓動が速くなった？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "寝室の壁際で抱き合い、{lead}が鎖骨のくぼみを優しく温かい吐息をそっと吹きかけてして締めくくる。",
+          "whisperLine": "「このまま2人だけの時間が止まればいいのに。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_05",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "2人だけの露天テラス · ベッドの端の出会い",
+      "subtitle": "2人だけの露天テラスのような柔らかな灯りで始まる甘い恋物語",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}がベッドの端で{partner}に近づき、毎回唇1cm手前で焦らしながらのまま「キスする時の大好きな癖」を囁く。",
+          "whisperLine": "「今夜の空気、すごく綺麗だね…もう少し近づいてもいい？」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「息の届く距離で一度止まり、やさしく寄り添う」で{partner}の指の関節と親指をゆっくり焦らす。",
+          "whisperLine": "「目を逸らさないで、鼓動が速くなった？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "ベッドの端で抱き合い、{lead}が指の関節と親指を優しく熱い吐息をゆっくり吹きかけてして締めくくる。",
+          "whisperLine": "「このまま2人だけの時間が止まればいいのに。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_06",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "キャンドル香るバスルーム · 全身鏡の前の出会い",
+      "subtitle": "キャンドル香るバスルームのような柔らかな灯りで始まる甘い恋物語",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が全身鏡の前で{partner}に近づき、耳元で甘い愛称を囁きながらのまま「今夜どの瞬間に一番理性が揺らいだか」を囁く。",
+          "whisperLine": "「今夜の空気、すごく綺麗だね…もう少し近づいてもいい？」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「指先をそっと滑らせて、やさしいキスへ」で{partner}の首筋のラインをゆっくり焦らす。",
+          "whisperLine": "「目を逸らさないで、鼓動が速くなった？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "全身鏡の前で抱き合い、{lead}が首筋のラインを優しく温かい掌でゆっくり包んでして締めくくる。",
+          "whisperLine": "「このまま2人だけの時間が止まればいいのに。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_07",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "雨音の響く屋根裏ベッド · ソファの隅の出会い",
+      "subtitle": "雨音の響く屋根裏ベッドのような柔らかな灯りで始まる甘い恋物語",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}がソファの隅で{partner}に近づき、少し悪戯な微笑みを浮かべてのまま「朝までに2人で試してみたい秘密のプレイ」を囁く。",
+          "whisperLine": "「今夜の空気、すごく綺麗だね…もう少し近づいてもいい？」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「熱い吐息の直後にそっと唇を重ねて」で{partner}のこめかみと眉間をゆっくり焦らす。",
+          "whisperLine": "「目を逸らさないで、鼓動が速くなった？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "ソファの隅で抱き合い、{lead}がこめかみと眉間を優しく鼻先でそっと擦り寄ってして締めくくる。",
+          "whisperLine": "「このまま2人だけの時間が止まればいいのに。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_08",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "真夜中の海辺バルコニー · キッチンカウンターの出会い",
+      "subtitle": "真夜中の海辺バルコニーのような柔らかな灯りで始まる甘い恋物語",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}がキッチンカウンターで{partner}に近づき、吐息以外まったく声を出さずにのまま「今目を見て浮かんだ褒め言葉」を囁く。",
+          "whisperLine": "「今夜の空気、すごく綺麗だね…もう少し近づいてもいい？」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「やさしいキスのあと、ゆっくり息を合わせて」で{partner}の口角のそばをゆっくり焦らす。",
+          "whisperLine": "「目を逸らさないで、鼓動が速くなった？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "キッチンカウンターで抱き合い、{lead}が口角のそばを優しく長いスローキスを重ねてして締めくくる。",
+          "whisperLine": "「このまま2人だけの時間が止まればいいのに。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t1_09",
+      "tier": 1,
+      "tags": [
+        "roleplay",
+        "deep_talk"
+      ],
+      "title": "秘密の深夜ジャズバー · 薄暗い廊下のドア枠の出会い",
+      "subtitle": "秘密の深夜ジャズバーのような柔らかな灯りで始まる甘い恋物語",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が薄暗い廊下のドア枠で{partner}に近づき、毎回唇1cm手前で焦らしながらのまま「会った瞬間に照れた小さな魅力」を囁く。",
+          "whisperLine": "「今夜の空気、すごく綺麗だね…もう少し近づいてもいい？」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「手のひらをやさしくなぞって、指を絡めて」で{partner}の肩甲骨まわりをゆっくり焦らす。",
+          "whisperLine": "「目を逸らさないで、鼓動が速くなった？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "薄暗い廊下のドア枠で抱き合い、{lead}が肩甲骨まわりを優しく指腹で小さく円を描いてして締めくくる。",
+          "whisperLine": "「このまま2人だけの時間が止まればいいのに。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_01",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "秘密の劇場 · 潮風の海辺バン",
+      "subtitle": "「偽名でペントハウスにチェックインする逃避行」をテーマにベッドの足元で演じる駆け引き",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}をベッドの足元へ招き、「偽名でペントハウスにチェックインする逃避行」の幕を開ける。",
+          "whisperLine": "「ドアを閉めたら、今夜のルールは2人だけのもの。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「羽のような優しいタッチと強いホールドを切り替える」を守りながら耳の後ろから耳のふちへ温かい掌でゆっくり包んで。",
+          "whisperLine": "「我慢すればするほど、もっと焦らしたくなるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "{partner}が攻守逆転し、ベッドの足元で「指先をそっと滑らせて、やさしいキスへ」を使って一気に距離を詰める。",
+          "whisperLine": "「今度は私のペースに合わせてね。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_02",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "秘密の劇場 · キャンドルの灯るルーフトップ",
+      "subtitle": "「偽名でペントハウスにチェックインする逃避行」をテーマに薄暗い玄関で演じる駆け引き",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}を薄暗い玄関へ招き、「偽名でペントハウスにチェックインする逃避行」の幕を開ける。",
+          "whisperLine": "「ドアを閉めたら、今夜のルールは2人だけのもの。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「次の場所へ移る直前に低く名前を呼ぶ」を守りながら脇腹のラインから手首の内側へ鼻先でそっと擦り寄って。",
+          "whisperLine": "「我慢すればするほど、もっと焦らしたくなるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "{partner}が攻守逆転し、薄暗い玄関で「熱い吐息の直後にそっと唇を重ねて」を使って一気に距離を詰める。",
+          "whisperLine": "「今度は私のペースに合わせてね。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_03",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "秘密の劇場 · 薄暗いホテルのバー",
+      "subtitle": "「偽名でペントハウスにチェックインする逃避行」をテーマにクローゼットの鏡前で演じる駆け引き",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}をクローゼットの鏡前へ招き、「偽名でペントハウスにチェックインする逃避行」の幕を開ける。",
+          "whisperLine": "「ドアを閉めたら、今夜のルールは2人だけのもの。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「羽のような優しいタッチと強いホールドを切り替える」を守りながら喉元のくぼみから手のひらと指先へ長いスローキスを重ねて。",
+          "whisperLine": "「我慢すればするほど、もっと焦らしたくなるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "{partner}が攻守逆転し、クローゼットの鏡前で「やさしいキスのあと、ゆっくり息を合わせて」を使って一気に距離を詰める。",
+          "whisperLine": "「今度は私のペースに合わせてね。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_04",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "秘密の劇場 · 2人だけの露天テラス",
+      "subtitle": "「偽名でペントハウスにチェックインする逃避行」をテーマにクッションの山の上で演じる駆け引き",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}をクッションの山の上へ招き、「偽名でペントハウスにチェックインする逃避行」の幕を開ける。",
+          "whisperLine": "「ドアを閉めたら、今夜のルールは2人だけのもの。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「次の場所へ移る直前に低く名前を呼ぶ」を守りながら腰のくぼみから前腕の内側へ指腹で小さく円を描いて。",
+          "whisperLine": "「我慢すればするほど、もっと焦らしたくなるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "{partner}が攻守逆転し、クッションの山の上で「手のひらをやさしくなぞって、指を絡めて」を使って一気に距離を詰める。",
+          "whisperLine": "「今度は私のペースに合わせてね。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_05",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "秘密の劇場 · キャンドル香るバスルーム",
+      "subtitle": "「偽名でペントハウスにチェックインする逃避行」をテーマにカーテンの裏側で演じる駆け引き",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}をカーテンの裏側へ招き、「偽名でペントハウスにチェックインする逃避行」の幕を開ける。",
+          "whisperLine": "「ドアを閉めたら、今夜のルールは2人だけのもの。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「羽のような優しいタッチと強いホールドを切り替える」を守りながら鎖骨のくぼみから耳の後ろへ羽のようにそっと触れて。",
+          "whisperLine": "「我慢すればするほど、もっと焦らしたくなるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "{partner}が攻守逆転し、カーテンの裏側で「冷たい吐息の直後に灼熱の湿ったキス」を使って一気に距離を詰める。",
+          "whisperLine": "「今度は私のペースに合わせてね。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_06",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "秘密の劇場 · 雨音の響く屋根裏ベッド",
+      "subtitle": "「偽名でペントハウスにチェックインする逃避行」をテーマに柔らかな灯りのドレッサー前で演じる駆け引き",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}を柔らかな灯りのドレッサー前へ招き、「偽名でペントハウスにチェックインする逃避行」の幕を開ける。",
+          "whisperLine": "「ドアを閉めたら、今夜のルールは2人だけのもの。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「次の場所へ移る直前に低く名前を呼ぶ」を守りながら手首の脈拍からあご先へ唇でじらすように触れて。",
+          "whisperLine": "「我慢すればするほど、もっと焦らしたくなるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "{partner}が攻守逆転し、柔らかな灯りのドレッサー前で「軽いスパンキング2回の直後にとろけるそっと寄り添い」を使って一気に距離を詰める。",
+          "whisperLine": "「今度は私のペースに合わせてね。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_07",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "秘密の劇場 · 真夜中の海辺バルコニー",
+      "subtitle": "「偽名でペントハウスにチェックインする逃避行」をテーマに寝室の壁際で演じる駆け引き",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}を寝室の壁際へ招き、「偽名でペントハウスにチェックインする逃避行」の幕を開ける。",
+          "whisperLine": "「ドアを閉めたら、今夜のルールは2人だけのもの。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「羽のような優しいタッチと強いホールドを切り替える」を守りながら肩甲骨から鎖骨のくぼみへ唇で何度も焦らすように触れて。",
+          "whisperLine": "「我慢すればするほど、もっと焦らしたくなるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "{partner}が攻守逆転し、寝室の壁際で「髪を撫でてから首筋を引き寄せて」を使って一気に距離を詰める。",
+          "whisperLine": "「今度は私のペースに合わせてね。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_08",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "秘密の劇場 · 秘密の深夜ジャズバー",
+      "subtitle": "「偽名でペントハウスにチェックインする逃避行」をテーマにベッドの端で演じる駆け引き",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}をベッドの端へ招き、「偽名でペントハウスにチェックインする逃避行」の幕を開ける。",
+          "whisperLine": "「ドアを閉めたら、今夜のルールは2人だけのもの。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「次の場所へ移る直前に低く名前を呼ぶ」を守りながらうなじの生え際から指の関節と親指へ指先でゆっくり撫でて。",
+          "whisperLine": "「我慢すればするほど、もっと焦らしたくなるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "{partner}が攻守逆転し、ベッドの端で「温かな掌のゆっくりした滑りから突然の引き寄せ」を使って一気に距離を詰める。",
+          "whisperLine": "「今度は私のペースに合わせてね。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t2_09",
+      "tier": 2,
+      "tags": [
+        "roleplay",
+        "physical_light"
+      ],
+      "title": "秘密の劇場 · 星降る秘密の中庭",
+      "subtitle": "「偽名でペントハウスにチェックインする逃避行」をテーマに全身鏡の前で演じる駆け引き",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}を全身鏡の前へ招き、「偽名でペントハウスにチェックインする逃避行」の幕を開ける。",
+          "whisperLine": "「ドアを閉めたら、今夜のルールは2人だけのもの。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は「羽のような優しいタッチと強いホールドを切り替える」を守りながら耳の後ろから首筋のラインへ羽のようなキスを落として。",
+          "whisperLine": "「我慢すればするほど、もっと焦らしたくなるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "{partner}が攻守逆転し、全身鏡の前で「衣類の上から、あたたかさをそっと」を使って一気に距離を詰める。",
+          "whisperLine": "「今度は私のペースに合わせてね。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_01",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越境の夜 · 小さな灯りだけのベッドサイド",
+      "subtitle": "深夜にだけ許される「偽名でペントハウスにチェックインする逃避行」の濃密な3幕",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}を小さな灯りだけのベッドサイドへ引き寄せ、耳元で「明かりを消したら最初にしたいこと」と囁く。",
+          "whisperLine": "「平気なふりしても、吐息が全部教えてくれてるよ。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}が熱い息と熱い吐息とキスを連続で落としてを交互に{partner}の背骨のラインへ。「次の場所へ移る直前に低く名前を呼ぶ」厳守。",
+          "whisperLine": "「ここが一番弱いって、本当は気づいてるんでしょ？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "小さな灯りだけのベッドサイドで完全に密着し、手首の脈拍から背骨のラインへ熱い吐息とキスを連続で落としてでクライマックスへ。",
+          "whisperLine": "「今夜は遠慮しないで、全部委ねて。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_02",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越境の夜 · 暖色ライトの窓辺",
+      "subtitle": "深夜にだけ許される「偽名でペントハウスにチェックインする逃避行」の濃密な3幕",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}を暖色ライトの窓辺へ引き寄せ、耳元で「一番弱い私の甘え方」と囁く。",
+          "whisperLine": "「平気なふりしても、吐息が全部教えてくれてるよ。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}が熱い息と息が上がるほど深くキスしてを交互に{partner}のうなじの生え際へ。「羽のような優しいタッチと強いホールドを切り替える」厳守。",
+          "whisperLine": "「ここが一番弱いって、本当は気づいてるんでしょ？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "暖色ライトの窓辺で完全に密着し、肩甲骨からうなじの生え際へ息が上がるほど深くキスしてでクライマックスへ。",
+          "whisperLine": "「今夜は遠慮しないで、全部委ねて。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_03",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越境の夜 · ソファの肘掛け",
+      "subtitle": "深夜にだけ許される「偽名でペントハウスにチェックインする逃避行」の濃密な3幕",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}をソファの肘掛けへ引き寄せ、耳元で「こっそり連れ込んでキスしてみたい危険な場所」と囁く。",
+          "whisperLine": "「平気なふりしても、吐息が全部教えてくれてるよ。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}が熱い息と湿った息を沿わせてゆっくりなぞってを交互に{partner}の首筋へ。「次の場所へ移る直前に低く名前を呼ぶ」厳守。",
+          "whisperLine": "「ここが一番弱いって、本当は気づいてるんでしょ？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "ソファの肘掛けで完全に密着し、うなじの生え際から首筋へ湿った息を沿わせてゆっくりなぞってでクライマックスへ。",
+          "whisperLine": "「今夜は遠慮しないで、全部委ねて。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_04",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越境の夜 · ベッドの足元",
+      "subtitle": "深夜にだけ許される「偽名でペントハウスにチェックインする逃避行」の濃密な3幕",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}をベッドの足元へ引き寄せ、耳元で「ずっと離したくなかったハグ」と囁く。",
+          "whisperLine": "「平気なふりしても、吐息が全部教えてくれてるよ。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}が熱い息と優しくやさしいキスしてを交互に{partner}の太ももの内側へ。「羽のような優しいタッチと強いホールドを切り替える」厳守。",
+          "whisperLine": "「ここが一番弱いって、本当は気づいてるんでしょ？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "ベッドの足元で完全に密着し、耳の後ろから太ももの内側へ優しくやさしいキスしてでクライマックスへ。",
+          "whisperLine": "「今夜は遠慮しないで、全部委ねて。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_05",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越境の夜 · 薄暗い玄関",
+      "subtitle": "深夜にだけ許される「偽名でペントハウスにチェックインする逃避行」の濃密な3幕",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}を薄暗い玄関へ引き寄せ、耳元で「眠る前に本当にしてほしいこと」と囁く。",
+          "whisperLine": "「平気なふりしても、吐息が全部教えてくれてるよ。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}が熱い息と唇と指先を交互に使って焦らしてを交互に{partner}の腰骨のあたりへ。「次の場所へ移る直前に低く名前を呼ぶ」厳守。",
+          "whisperLine": "「ここが一番弱いって、本当は気づいてるんでしょ？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "薄暗い玄関で完全に密着し、脇腹のラインから腰骨のあたりへ唇と指先を交互に使って焦らしてでクライマックスへ。",
+          "whisperLine": "「今夜は遠慮しないで、全部委ねて。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_06",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越境の夜 · クローゼットの鏡前",
+      "subtitle": "深夜にだけ許される「偽名でペントハウスにチェックインする逃避行」の濃密な3幕",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}をクローゼットの鏡前へ引き寄せ、耳元で「今夜相手に着てほしい——あるいは脱いでほしい服」と囁く。",
+          "whisperLine": "「平気なふりしても、吐息が全部教えてくれてるよ。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}が熱い息とやさしいキスの直後に優しくキスで癒やしてを交互に{partner}の耳たぶへ。「羽のような優しいタッチと強いホールドを切り替える」厳守。",
+          "whisperLine": "「ここが一番弱いって、本当は気づいてるんでしょ？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "クローゼットの鏡前で完全に密着し、喉元のくぼみから耳たぶへやさしいキスの直後に優しくキスで癒やしてでクライマックスへ。",
+          "whisperLine": "「今夜は遠慮しないで、全部委ねて。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_07",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越境の夜 · クッションの山の上",
+      "subtitle": "深夜にだけ許される「偽名でペントハウスにチェックインする逃避行」の濃密な3幕",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}をクッションの山の上へ引き寄せ、耳元で「今日ふと頭をよぎった一番えっちな妄想」と囁く。",
+          "whisperLine": "「平気なふりしても、吐息が全部教えてくれてるよ。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}が熱い息と息を沿わせてじらすように息をそっと寄せてを交互に{partner}の腰のくびれへ。「次の場所へ移る直前に低く名前を呼ぶ」厳守。",
+          "whisperLine": "「ここが一番弱いって、本当は気づいてるんでしょ？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "クッションの山の上で完全に密着し、腰のくぼみから腰のくびれへ息を沿わせてじらすように息をそっと寄せてでクライマックスへ。",
+          "whisperLine": "「今夜は遠慮しないで、全部委ねて。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_08",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越境の夜 · カーテンの裏側",
+      "subtitle": "深夜にだけ許される「偽名でペントハウスにチェックインする逃避行」の濃密な3幕",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}をカーテンの裏側へ引き寄せ、耳元で「手を繋いだ時こっそり考えたこと」と囁く。",
+          "whisperLine": "「平気なふりしても、吐息が全部教えてくれてるよ。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}が熱い息とそっと吸い上げてから深くキスしてを交互に{partner}の下腹部へ。「羽のような優しいタッチと強いホールドを切り替える」厳守。",
+          "whisperLine": "「ここが一番弱いって、本当は気づいてるんでしょ？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "カーテンの裏側で完全に密着し、鎖骨のくぼみから下腹部へそっと吸い上げてから深くキスしてでクライマックスへ。",
+          "whisperLine": "「今夜は遠慮しないで、全部委ねて。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t3_09",
+      "tier": 3,
+      "tags": [
+        "roleplay",
+        "bite_lick"
+      ],
+      "title": "越境の夜 · 柔らかな灯りのドレッサー前",
+      "subtitle": "深夜にだけ許される「偽名でペントハウスにチェックインする逃避行」の濃密な3幕",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が{partner}を柔らかな灯りのドレッサー前へ引き寄せ、耳元で「電気を消したあと一番してほしい触れ方」と囁く。",
+          "whisperLine": "「平気なふりしても、吐息が全部教えてくれてるよ。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}が熱い息と熱い吐息とキスを連続で落としてを交互に{partner}の胸元と脇腹へ。「次の場所へ移る直前に低く名前を呼ぶ」厳守。",
+          "whisperLine": "「ここが一番弱いって、本当は気づいてるんでしょ？」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "柔らかな灯りのドレッサー前で完全に密着し、手首の脈拍から胸元と脇腹へ熱い吐息とキスを連続で落としてでクライマックスへ。",
+          "whisperLine": "「今夜は遠慮しないで、全部委ねて。」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_01",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "真夜中の支配者 · キッチンカウンター",
+      "subtitle": "主導権を委ねる「偽名でペントハウスにチェックインする逃避行」の極上ロールプレイ",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}がキッチンカウンターで「偽名でペントハウスにチェックインする逃避行」を宣言し、{partner}に腰を抱えて壁にそっと密着させを指示。",
+          "whisperLine": "「ここからは目を閉じて、全部僕に任せて。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は視線を外さず片手だけでシャツのボタン2つをずらし、「鼻先を合わせた直後のスローキス」で鎖骨を責める。",
+          "whisperLine": "「声を出さないで…我慢するほど敏感になるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "「ベッドの上で膝を合わせて向き合う体勢」へ移行し、{lead}が{partner}の背骨の一番下を集中やさしいキスの直後に優しくキスで癒やしてして終幕。",
+          "whisperLine": "「ずっとこうしてほしかったんでしょ？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_02",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "真夜中の支配者 · 薄暗い廊下のドア枠",
+      "subtitle": "主導権を委ねる「偽名でペントハウスにチェックインする逃避行」の極上ロールプレイ",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が薄暗い廊下のドア枠で「偽名でペントハウスにチェックインする逃避行」を宣言し、{partner}に相手の両手を背中の後ろで軽くロックしを指示。",
+          "whisperLine": "「ここからは目を閉じて、全部僕に任せて。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は手を使わず唇と歯だけで肩紐または上着の襟をずらし、「息の届く距離で一度止まり、やさしく寄り添う」で背骨のラインを責める。",
+          "whisperLine": "「声を出さないで…我慢するほど敏感になるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "「寝室の壁にもたれて、ゆっくり寄り添う体勢」へ移行し、{lead}が{partner}のくびれの奥を集中息を沿わせてじらすように息をそっと寄せてして終幕。",
+          "whisperLine": "「ずっとこうしてほしかったんでしょ？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_03",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "真夜中の支配者 · 間接照明のラグの上",
+      "subtitle": "主導権を委ねる「偽名でペントハウスにチェックインする逃避行」の極上ロールプレイ",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が間接照明のラグの上で「偽名でペントハウスにチェックインする逃避行」を宣言し、{partner}に片手で相手の両手首を頭上にそっとそっと包みを指示。",
+          "whisperLine": "「ここからは目を閉じて、全部僕に任せて。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は極限まで遅い指先でアクセサリー1点＋上の1枚をずらし、「指先をそっと滑らせて、やさしいキスへ」でうなじの生え際を責める。",
+          "whisperLine": "「声を出さないで…我慢するほど敏感になるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "「向かい合わせで膝に向かい合わせで寄り添う体勢」へ移行し、{lead}が{partner}の下腹部の敏感ラインを集中そっと吸い上げてから深くキスしてして終幕。",
+          "whisperLine": "「ずっとこうしてほしかったんでしょ？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_04",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "真夜中の支配者 · 小さな灯りだけのベッドサイド",
+      "subtitle": "主導権を委ねる「偽名でペントハウスにチェックインする逃避行」の極上ロールプレイ",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が小さな灯りだけのベッドサイドで「偽名でペントハウスにチェックインする逃避行」を宣言し、{partner}に顎をそっと持ち上げて視線を逃がさずを指示。",
+          "whisperLine": "「ここからは目を閉じて、全部僕に任せて。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}はまず手の甲でなぞってから熱い唇でファスナーまたはウエストの縁をずらし、「熱い吐息の直後にそっと唇を重ねて」で首筋を責める。",
+          "whisperLine": "「声を出さないで…我慢するほど敏感になるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "「枕に腰を預けて軽く反らす体勢」へ移行し、{lead}が{partner}の腰のカーブを集中熱い吐息とキスを連続で落としてして終幕。",
+          "whisperLine": "「ずっとこうしてほしかったんでしょ？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_05",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "真夜中の支配者 · 暖色ライトの窓辺",
+      "subtitle": "主導権を委ねる「偽名でペントハウスにチェックインする逃避行」の極上ロールプレイ",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が暖色ライトの窓辺で「偽名でペントハウスにチェックインする逃避行」を宣言し、{partner}に頭の後ろで指を組ませて無防備にさせを指示。",
+          "whisperLine": "「ここからは目を閉じて、全部僕に任せて。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は相手自身の手を導きながらでトップスの裾をずらし、「やさしいキスのあと、ゆっくり息を合わせて」で太ももの内側を責める。",
+          "whisperLine": "「声を出さないで…我慢するほど敏感になるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "「目を閉じて横になり完全に委ねる体勢」へ移行し、{lead}が{partner}の太ももの内側を集中息が上がるほど深くキスしてして終幕。",
+          "whisperLine": "「ずっとこうしてほしかったんでしょ？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_06",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "真夜中の支配者 · ソファの肘掛け",
+      "subtitle": "主導権を委ねる「偽名でペントハウスにチェックインする逃避行」の極上ロールプレイ",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}がソファの肘掛けで「偽名でペントハウスにチェックインする逃避行」を宣言し、{partner}に両手をベッドボードにつけたまま動かさずを指示。",
+          "whisperLine": "「ここからは目を閉じて、全部僕に任せて。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は熱い吐息と唇だけであなたが選んだ服1枚をずらし、「手のひらをやさしくなぞって、指を絡めて」で腰骨のあたりを責める。",
+          "whisperLine": "「声を出さないで…我慢するほど敏感になるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "「ベッドの端に浅く仰向けになる体勢」へ移行し、{lead}が{partner}の鎖骨の下を集中湿った息を沿わせてゆっくりなぞってして終幕。",
+          "whisperLine": "「ずっとこうしてほしかったんでしょ？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_07",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "真夜中の支配者 · ベッドの足元",
+      "subtitle": "主導権を委ねる「偽名でペントハウスにチェックインする逃避行」の極上ロールプレイ",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}がベッドの足元で「偽名でペントハウスにチェックインする逃避行」を宣言し、{partner}に腰を抱えて壁にそっと密着させを指示。",
+          "whisperLine": "「ここからは目を閉じて、全部僕に任せて。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は視線を外さず片手だけでシャツのボタン2つをずらし、「冷たい吐息の直後に灼熱の湿ったキス」で耳たぶを責める。",
+          "whisperLine": "「声を出さないで…我慢するほど敏感になるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "「鏡の前で後ろから深く抱き合う体勢」へ移行し、{lead}が{partner}の胸元と肋骨のラインを集中優しくやさしいキスしてして終幕。",
+          "whisperLine": "「ずっとこうしてほしかったんでしょ？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_08",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "真夜中の支配者 · 薄暗い玄関",
+      "subtitle": "主導権を委ねる「偽名でペントハウスにチェックインする逃避行」の極上ロールプレイ",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}が薄暗い玄関で「偽名でペントハウスにチェックインする逃避行」を宣言し、{partner}に相手の両手を背中の後ろで軽くロックしを指示。",
+          "whisperLine": "「ここからは目を閉じて、全部僕に任せて。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は手を使わず唇と歯だけで肩紐または上着の襟をずらし、「軽いスパンキング2回の直後にとろけるそっと寄り添い」で腰のくびれを責める。",
+          "whisperLine": "「声を出さないで…我慢するほど敏感になるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "「ベッドの上で膝を合わせて向き合う体勢」へ移行し、{lead}が{partner}のヒップと腰骨の境目を集中唇と指先を交互に使って焦らしてして終幕。",
+          "whisperLine": "「ずっとこうしてほしかったんでしょ？」"
+        }
+      ]
+    },
+    {
+      "id": "rp_v21_t4_09",
+      "tier": 4,
+      "tags": [
+        "roleplay",
+        "restraint_light",
+        "clothing_dare"
+      ],
+      "title": "真夜中の支配者 · クローゼットの鏡前",
+      "subtitle": "主導権を委ねる「偽名でペントハウスにチェックインする逃避行」の極上ロールプレイ",
+      "leadRole": "リード役",
+      "partnerRole": "パートナー役",
+      "acts": [
+        {
+          "actTitle": "第1幕 · 甘い出会い",
+          "durationSec": 45,
+          "direction": "{lead}がクローゼットの鏡前で「偽名でペントハウスにチェックインする逃避行」を宣言し、{partner}に片手で相手の両手首を頭上にそっとそっと包みを指示。",
+          "whisperLine": "「ここからは目を閉じて、全部僕に任せて。」"
+        },
+        {
+          "actTitle": "第2幕 · 高まる鼓動",
+          "durationSec": 55,
+          "direction": "{lead}は極限まで遅い指先でアクセサリー1点＋上の1枚をずらし、「髪を撫でてから首筋を引き寄せて」で下腹部を責める。",
+          "whisperLine": "「声を出さないで…我慢するほど敏感になるよ。」"
+        },
+        {
+          "actTitle": "第3幕 · 深夜のクライマックス",
+          "durationSec": 65,
+          "direction": "「寝室の壁にもたれて、ゆっくり寄り添う体勢」へ移行し、{lead}が{partner}の背骨の一番下を集中やさしいキスの直後に優しくキスで癒やしてして終幕。",
+          "whisperLine": "「ずっとこうしてほしかったんでしょ？」"
+        }
+      ]
+    }
+  ]
+}

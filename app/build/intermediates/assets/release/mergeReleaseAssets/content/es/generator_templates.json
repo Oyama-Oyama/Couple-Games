@@ -1,0 +1,1901 @@
+{
+  "templates": [
+    {
+      "id": "gen_spark_01",
+      "tier": 1,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "Recuerda un momento especial de {timeframe} y dile a tu pareja por qué aún se siente {feeling}."
+    },
+    {
+      "id": "gen_spark_02",
+      "tier": 1,
+      "type": "CONNECTION",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "Toma las manos de tu pareja y comparte dos razones por las que {timeframe} os unió aún más."
+    },
+    {
+      "id": "gen_playful_01",
+      "tier": 2,
+      "type": "DARE",
+      "tags": [
+        "playful",
+        "timed"
+      ],
+      "durationSec": 30,
+      "pattern": "Recrea sin hablar nuestra cita ideal en {date_setting} durante {duration} segundos; si acierta, ganas un beso lento."
+    },
+    {
+      "id": "gen_playful_02",
+      "tier": 2,
+      "type": "TRUTH",
+      "tags": [
+        "playful"
+      ],
+      "durationSec": 0,
+      "pattern": "Si nos escapáramos hoy a {date_setting}, ¿qué canción pondrías al bajar las luces?"
+    },
+    {
+      "id": "gen_flirty_01",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "{action_gentle} {safe_zone} de tu pareja durante {duration} segundos mientras {constraint}."
+    },
+    {
+      "id": "gen_flirty_02",
+      "tier": 3,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "physical_light"
+      ],
+      "durationSec": 0,
+      "pattern": "Susurra cómo marcarías el ritmo en {date_setting} para que el aire se vuelva {feeling} desde el primer cruce de miradas."
+    },
+    {
+      "id": "gen_bold_01",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "timed"
+      ],
+      "durationSec": 60,
+      "pattern": "Pide a tu pareja que cierre los ojos sin moverse mientras {action_gentle} su {safe_zone} durante {duration} segundos sin prisa."
+    },
+    {
+      "id": "gen_bold_02",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "roleplay",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Fingid ser desconocidos en {date_setting}: sedúcela durante {duration} segundos mientras {constraint}."
+    },
+    {
+      "id": "gen_hot_01",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "bite_lick",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 30,
+      "pattern": "{action_bold} {intimate_zone} de tu pareja durante {duration} segundos mientras {constraint}."
+    },
+    {
+      "id": "gen_hot_02",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "restraint_light",
+        "bite_lick",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 30,
+      "pattern": "Ronda de reto divertido: sujeta sus manos detrás de la espalda y {action_bold} su {intimate_zone} durante {duration} segundos."
+    },
+    {
+      "id": "gen_hot_03",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "clothing_dare",
+        "indoor"
+      ],
+      "durationSec": 0,
+      "pattern": "Elección atrevida: {playful dare_twist} — o deja que tu pareja {action_bold} tu {intimate_zone} durante 30 segundos."
+    },
+    {
+      "id": "gen_hot_04",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "blindfold",
+        "bite_lick",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Con tu pareja con los ojos cerrados, alterna aliento cálido y {action_bold} por su {intimate_zone} durante {duration} segundos."
+    },
+    {
+      "id": "gen_explore_01",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Desliza tus palmas tibias bajo la camisa de tu pareja y recorre despacio desde {explore_start} hasta {explore_end} durante {duration}s mientras {constraint}."
+    },
+    {
+      "id": "gen_explore_02",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "bite_lick",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Alterna aliento caliente y {action_bold} desde {intimate_zone} hasta {explore_end} durante {duration}s — detente 3 segundos cada vez que se estremezca."
+    },
+    {
+      "id": "gen_explore_03",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "restraint_light",
+        "bite_lick",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "{restraint_pose} y prohíbele devolver el beso mientras {action_bold} su {intimate_zone} y {explore_end} durante {duration} segundos."
+    },
+    {
+      "id": "gen_explore_04",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "clothing_dare",
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Aparta o retira lentamente {garment_piece} usando solo {tease_tool}, y luego cubre su {explore_end} de besos intensos durante {duration}s."
+    },
+    {
+      "id": "gen_explore_05",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 60,
+      "pattern": "Exploración a ciegas: desliza {sensory_item} desde {explore_start} hasta {explore_end} y persigue el frío de inmediato con besos ardientes ({duration}s)."
+    },
+    {
+      "id": "gen_explore_06",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "restraint_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Guía a tu pareja a «{intimate_pose}», acércala por las caderas y {action_bold} su {intimate_zone} durante {duration}s susurrando lo que viene después."
+    },
+    {
+      "id": "gen_explore_07",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Poneos frente a un espejo o luz tenue: abrázala por detrás y explora despacio desde {explore_start} hasta {explore_end} durante {duration}s sin romper contacto visual."
+    },
+    {
+      "id": "gen_explore_08",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "bite_lick",
+        "clothing_dare",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Reto al límite: {action_bold} su {intimate_zone} y {explore_end} durante {duration}s — si pierde el control o te agarra las manos, debe cumplir: {playful dare_twist}."
+    },
+    {
+      "id": "gen_spark_03",
+      "tier": 1,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "Susurra «{whisper_topic}» sin apartar la mirada y séllalo con un beso lento en su {safe_zone}."
+    },
+    {
+      "id": "gen_spark_04",
+      "tier": 1,
+      "type": "CONNECTION",
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "timed"
+      ],
+      "durationSec": 40,
+      "pattern": "Id a {room_spot} durante {duration}s: {action_gentle} su {safe_zone} mientras {constraint}."
+    },
+    {
+      "id": "gen_spark_05",
+      "tier": 1,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "indoor"
+      ],
+      "durationSec": 0,
+      "pattern": "Verdad íntima de medianoche: {secret_question}"
+    },
+    {
+      "id": "gen_spark_06",
+      "tier": 1,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 35,
+      "pattern": "Usando {touch_contrast}, recorre su {safe_zone} durante {duration}s hasta que su respiración se profundice."
+    },
+    {
+      "id": "gen_spark_07",
+      "tier": 1,
+      "type": "CONNECTION",
+      "tags": [
+        "deep_talk",
+        "physical_light"
+      ],
+      "durationSec": 0,
+      "pattern": "Cuenta qué instante de {timeframe} te aceleró el pulso y deja dos besos lentos en su {safe_zone}."
+    },
+    {
+      "id": "gen_playful_03",
+      "tier": 2,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 35,
+      "pattern": "Lleva a tu pareja a {room_spot} y {action_gentle} su {safe_zone} durante {duration}s — regla: {tempo_rule}."
+    },
+    {
+      "id": "gen_playful_04",
+      "tier": 2,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "playful"
+      ],
+      "durationSec": 0,
+      "pattern": "Sin rodeos: {secret_question} — si se sonroja, reclama un beso lento en su {intimate_zone}."
+    },
+    {
+      "id": "gen_playful_05",
+      "tier": 2,
+      "type": "DARE",
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 40,
+      "pattern": "Que tu pareja cierre los ojos en {room_spot} ({duration}s) mientras sorprendes su {safe_zone} con {touch_contrast}."
+    },
+    {
+      "id": "gen_playful_06",
+      "tier": 2,
+      "type": "DARE",
+      "tags": [
+        "roleplay",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Juego de rol exprés ({duration}s): {fantasy_hook} — mantén el papel mientras {constraint}."
+    },
+    {
+      "id": "gen_playful_07",
+      "tier": 2,
+      "type": "DARE",
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 35,
+      "pattern": "Atráela en {room_spot}: dedica {duration}s a provocar su {intimate_zone} cumpliendo: {tempo_rule}."
+    },
+    {
+      "id": "gen_playful_08",
+      "tier": 2,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "playful"
+      ],
+      "durationSec": 0,
+      "pattern": "Susurra «{whisper_topic}» pegado/a a su oreja — tus labios pueden rozar, pero prohibido besar hasta terminar."
+    },
+    {
+      "id": "gen_playful_09",
+      "tier": 2,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 40,
+      "pattern": "Olvida el reloj durante {duration}s: {action_gentle} desde {explore_start} hasta {safe_zone} mientras {constraint}."
+    },
+    {
+      "id": "gen_flirty_03",
+      "tier": 3,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "physical_light"
+      ],
+      "durationSec": 0,
+      "pattern": "Sin escapar: {secret_question} — y enseguida dale un adelanto de {duration}s en su {intimate_zone}."
+    },
+    {
+      "id": "gen_flirty_04",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "bite_lick",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 40,
+      "pattern": "En {room_spot}, aplica {touch_contrast} desde {explore_start} hasta {explore_end} ({duration}s) siguiendo: {tempo_rule}."
+    },
+    {
+      "id": "gen_flirty_05",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Guía a tu pareja a «{intimate_pose}» y {action_bold} su {intimate_zone} ({duration}s) susurrando «{whisper_topic}»."
+    },
+    {
+      "id": "gen_flirty_06",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "clothing_dare",
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 45,
+      "pattern": "Aparta despacio {garment_piece} con {tease_tool} y explora su {explore_end} durante {duration}s ({tempo_rule})."
+    },
+    {
+      "id": "gen_flirty_07",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "blindfold",
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 50,
+      "pattern": "Venda sus ojos en {room_spot}: desliza {sensory_item} por su {intimate_zone} y {explore_end} durante {duration}s."
+    },
+    {
+      "id": "gen_flirty_08",
+      "tier": 3,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "roleplay"
+      ],
+      "durationSec": 0,
+      "pattern": "Propuesta secreta: {fantasy_hook} — describe al oído qué harías en su {explore_end} en los primeros 60s."
+    },
+    {
+      "id": "gen_flirty_09",
+      "tier": 3,
+      "type": "DARE",
+      "tags": [
+        "eye_contact",
+        "bite_lick",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 40,
+      "pattern": "Mirada fija sin parpadear: {action_bold} su {intimate_zone} ({duration}s) — quien aparte la vista cumple: {playful dare_twist}."
+    },
+    {
+      "id": "gen_explore_09",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "restraint_light",
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 50,
+      "pattern": "En {room_spot}, {restraint_pose} y alterna {touch_contrast} entre {explore_start} y {explore_end} durante {duration}s."
+    },
+    {
+      "id": "gen_explore_10",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "bite_lick",
+        "clothing_dare",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 50,
+      "pattern": "Retira o aparta {garment_piece} usando {tease_tool}, colócala en «{intimate_pose}» y {action_bold} su {explore_end} ({duration}s)."
+    },
+    {
+      "id": "gen_explore_11",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "blindfold",
+        "bite_lick",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 60,
+      "pattern": "Sobrecarga sensorial ({duration}s): con ojos vendados, desliza {sensory_item} de {explore_start} a {explore_end} y al instante {action_bold} ({tempo_rule})."
+    },
+    {
+      "id": "gen_explore_12",
+      "tier": 4,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "restraint_light"
+      ],
+      "durationSec": 0,
+      "pattern": "Confesión extrema: {secret_question} — luego entrégate {duration}s mientras tu pareja aplica: {playful dare_twist}."
+    },
+    {
+      "id": "gen_explore_13",
+      "tier": 4,
+      "type": "DARE",
+      "tags": [
+        "restraint_light",
+        "clothing_dare",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 60,
+      "pattern": "Dominio total en {room_spot}: {restraint_pose}, susurra «{whisper_topic}» y explora de {intimate_zone} a {explore_end} ({duration}s) — si rompe el silencio: {playful dare_twist}."
+    },
+    {
+      "id": "gen_v2_t1_tr1",
+      "tier": 1,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "«Sin sonrojarte…» En {timeframe}, ¿por qué verme cerca de {room_spot} te pareció tan {feeling}?"
+    },
+    {
+      "id": "gen_v2_t1_tr2",
+      "tier": 1,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "«Susúrramelo…» Si pasáramos la noche en {date_setting}, ¿cómo me confesarías {whisper_topic}?"
+    },
+    {
+      "id": "gen_v2_t1_tr3",
+      "tier": 1,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk"
+      ],
+      "durationSec": 0,
+      "pattern": "«Dime la verdad…» Recordando {timeframe} y mi {safe_zone}, ¿qué idea tan {feeling} cruzó tu mente?"
+    },
+    {
+      "id": "gen_v2_t1_da1",
+      "tier": 1,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 30,
+      "pattern": "«Acércate…» En {room_spot} durante {duration}s, mientras {constraint}, {action_gentle} mi {safe_zone}."
+    },
+    {
+      "id": "gen_v2_t1_da2",
+      "tier": 1,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 30,
+      "pattern": "«Cierra los ojos…» Aplica {touch_contrast} en mi {safe_zone} ({duration}s) y termina susurrando {whisper_topic}."
+    },
+    {
+      "id": "gen_v2_t1_da3",
+      "tier": 1,
+      "type": "DARE",
+      "tags": [
+        "eye_contact",
+        "physical_light",
+        "timed"
+      ],
+      "durationSec": 35,
+      "pattern": "«deja que la mirada dure lo que quieras…» {duration}s mientras {constraint}: {action_gentle} mi {safe_zone} y roba un beso dulce."
+    },
+    {
+      "id": "gen_v2_t2_tr1",
+      "tier": 2,
+      "type": "TRUTH",
+      "tags": [
+        "deep_talk",
+        "playful"
+      ],
+      "durationSec": 0,
+      "pattern": "«Aunque te sonrojes…» En {date_setting}, ¿qué caricia en tu {safe_zone} se siente más {feeling}?"
+    },
+    {
+      "id": "gen_v2_t2_da1",
+      "tier": 2,
+      "type": "DARE",
+      "tags": [
+        "physical_light",
+        "timed",
+        "indoor"
+      ],
+      "durationSec": 35,
+      "pattern": "«Ven a {room_spot}…» Durante {duration}s mientras {constraint}, despierta mi {safe_zone} con {touch_contrast}."
+    }
+  ],
+  "slots": {
+    "timeframe": [
+      "este último mes",
+      "nuestro primer verano",
+      "un viaje nocturno en coche",
+      "una mañana lenta de domingo",
+      "una noche lluviosa en casa",
+      "nuestra última escapada",
+      "una medianoche tras una fiesta",
+      "la noche que amanecimos despiertos",
+      "el pasado fin de semana de madrugada",
+      "nuestra primera noche fría",
+      "una noche tras dos copas de vino",
+      "una tarde lluviosa en casa",
+      "una llamada a las 2 AM sin colgar",
+      "nuestra última noche de cine en el sofá",
+      "la noche que volvimos de viaje",
+      "un aniversario con luz tenue"
+    ],
+    "feeling": [
+      "eléctrico",
+      "inolvidable",
+      "embriagador",
+      "magnético",
+      "irresistible",
+      "adictivo",
+      "peligrosamente cercano",
+      "ardiente como terciopelo",
+      "vertiginoso",
+      "capaz de sonrojarme",
+      "cálido como miel",
+      "dulcemente embriagador",
+      "imposible de contener",
+      "eléctrico hasta los dedos",
+      "demasiado dulce para callarlo",
+      "tierno y arrollador"
+    ],
+    "date_setting": [
+      "una reto divertidoa con velas",
+      "un balcón frente al mar de noche",
+      "una cabaña con chimenea",
+      "un bar de hotel con luz tenue",
+      "un club secreto de jazz",
+      "una suite en lo alto bajo la lluvia",
+      "una terraza termal privada",
+      "un patio secreto bajo las estrellas",
+      "un ventanal de cortinas suaves",
+      "un baño tibio con velas",
+      "un cine privado a media luz",
+      "una furgoneta frente al mar",
+      "una cama abuhardillada bajo la lluvia",
+      "un asiento junto a la ventana con luna"
+    ],
+    "action_gentle": [
+      "acaricia suavemente",
+      "deja besos lentos en",
+      "masajea con calor",
+      "roza con las yemas de los dedos",
+      "sopla aliento cálido sobre",
+      "roza lentamente con los labios",
+      "roza suavemente con la nariz",
+      "deja besos como pluma en",
+      "traza círculos tibios con tus dedos en",
+      "sopla aliento cálido sin prisa sobre",
+      "roza tímidamente con los labios",
+      "desliza tus palmas tibias por"
+    ],
+    "safe_zone": [
+      "la muñeca interior",
+      "el cuello",
+      "el hombro",
+      "la clavícula",
+      "la mejilla y mandíbula",
+      "detrás de la oreja",
+      "los omóplatos",
+      "la palma y los dedos",
+      "la sien y entrecejo",
+      "el borde de la oreja",
+      "los nudillos y pulgar",
+      "la clavícula exterior",
+      "la punta del mentón",
+      "la línea de la nuca",
+      "el antebrazo interior",
+      "la comisura de los labios"
+    ],
+    "duration": [
+      "30",
+      "40",
+      "45",
+      "50",
+      "60"
+    ],
+    "constraint": [
+      "dejando que la mirada diga lo que la voz reserva"
+    ],
+    "action_bold": [
+      "beso suave suavemente",
+      "lame muy despacio",
+      "llena de besos intensos",
+      "provoca con labios y dedos",
+      "dejar besos suaves cerca de suave y besa",
+      "traza caminos húmedos el aliento",
+      "muerde suave y calma con besos",
+      "recorre con besos abiertos y calientes"
+    ],
+    "intimate_zone": [
+      "el lóbulo de la oreja",
+      "el cuello",
+      "la clavícula",
+      "la cintura",
+      "el muslo interior",
+      "la espalda",
+      "el bajo vientre",
+      "la cadera",
+      "la nuca",
+      "el pecho y las costillas"
+    ],
+    "explore_start": [
+      "la nuca",
+      "la clavícula",
+      "las costillas",
+      "los omóplatos",
+      "la espalda baja",
+      "detrás de la oreja",
+      "el pulso de la muñeca",
+      "la base de la garganta"
+    ],
+    "explore_end": [
+      "el bajo vientre",
+      "la línea de la cadera",
+      "el muslo interior",
+      "el hueco de la cintura",
+      "el pecho y las costillas",
+      "la curva de la cadera",
+      "el final de la columna",
+      "bajo la clavícula"
+    ],
+    "restraint_pose": [
+      "acercarnos despacio, dejando que el silencio decida"
+    ],
+    "garment_piece": [
+      "un tirante o prenda exterior",
+      "dos botones de su camisa",
+      "una prenda a tu elección",
+      "el borde de su camiseta",
+      "una cremallera o cintura",
+      "un accesorio más una capa"
+    ],
+    "tease_tool": [
+      "una sola mano sin dejar de mirarla",
+      "tus labios y dientes (sin manos)",
+      "las yemas de los dedos ultra despacio",
+      "el dorso de la mano y luego la boca",
+      "guiando la propia mano de tu pareja",
+      "solo aliento caliente y labios"
+    ],
+    "sensory_item": [
+      "un cubito de hielo",
+      "aceite tibio de masaje",
+      "una pluma o pañuelo de seda",
+      "una gota de bebida fría",
+      "una gota de miel o licor dulce",
+      "el borde frío de una copa",
+      "aire fresco seguido de besos ardientes"
+    ],
+    "intimate_pose": [
+      "sentada sentados muy cerca, cara a cara en tu regazo",
+      "recostada al borde de la cama",
+      "de pie, cerca de la pared, sin prisa",
+      "tumbada con los ojos cerrados, dejándose llevar",
+      "de rodillas frente a frente en la cama",
+      "arqueada suavemente sobre una almohada",
+      "de pie pegados frente al espejo"
+    ],
+    "whisper_topic": [
+      "esa pequeña cosa mía que nunca dijiste haber notado"
+    ],
+    "room_spot": [
+      "la pared del dormitorio",
+      "el borde de la cama",
+      "frente al espejo",
+      "el rincón del sofá",
+      "la encimera de la cocina",
+      "el umbral en penumbra",
+      "la alfombra con velas",
+      "junto a la cama a media luz",
+      "el ventanal con lámpara cálida",
+      "el reposabrazos del sofá",
+      "el pie de la cama",
+      "la entrada en penumbra",
+      "junto al espejo del armario",
+      "un rincón lleno de cojines",
+      "detrás de las cortinas",
+      "frente al tocador tenue"
+    ],
+    "tempo_rule": [
+      "pausar un latido cuando se cruzan las respiraciones y decidir juntos"
+    ],
+    "fantasy_hook": [
+      "dos personas que se miran en una sala silenciosa, sin nadie más"
+    ],
+    "touch_contrast": [
+      "el aire fresco cediendo al calor de una respiración compartida"
+    ],
+    "secret_question": [
+      "¿Qué zona olvidada de tu cuerpo te derrite más rápido que ninguna otra?",
+      "¿Qué fantasía de dormitorio ronda tu cabeza últimamente sin atreverte a pedirla?",
+      "¿Prefieres que te inmovilice y provoque suavemente o llevar tú el mando hoy? ¿Cómo?",
+      "¿Cuál es el lugar más arriesgado donde imaginaste escaparte conmigo?",
+      "¿Qué gesto o beso exacto mío te deja sin pensar en nada más?",
+      "Si pudieras guionizar los próximos 15 minutos sin frenos, ¿cuál sería el paso uno?",
+      "¿Qué susurro directo o elogio picante acelera tu pulso al instante?",
+      "¿Qué postura o ángulo conmigo se queda más grabado en tu memoria?"
+    ],
+    "playful dare_twist": [
+      "dime ese pensamiento que guardas para el final",
+      "sostenme la mirada un instante más de lo cómodo",
+      "susurra algo que solo nosotros sepamos",
+      "deja que el silencio se alargue y di mi nombre",
+      "acomoda el ritmo de tu respiración al mío",
+      "si quieres, acércate — dices para y paramos"
+    ]
+  },
+  "modeTemplates": {
+    "scratch": [
+      {
+        "id": "ms_d1",
+        "tier": 1,
+        "durationSec": 35,
+        "tags": [
+          "physical_light",
+          "eye_contact"
+        ],
+        "category": "DARE",
+        "title": "Caricia en {safe_zone}",
+        "pattern": "{action_gentle} {safe_zone} de tu pareja durante {duration}s mientras {constraint}."
+      },
+      {
+        "id": "ms_d2",
+        "tier": 2,
+        "durationSec": 40,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "category": "DARE",
+        "title": "Contraste en {safe_zone}",
+        "pattern": "Usa {touch_contrast} de {explore_start} a {safe_zone} ({duration}s) — regla: {tempo_rule}."
+      },
+      {
+        "id": "ms_d3",
+        "tier": 3,
+        "durationSec": 45,
+        "tags": [
+          "bite_lick",
+          "indoor"
+        ],
+        "category": "DARE",
+        "title": "Ruta {intimate_zone}",
+        "pattern": "{action_bold} {intimate_zone} bajando hasta {explore_end} ({duration}s) cumpliendo: {tempo_rule}."
+      },
+      {
+        "id": "ms_d4",
+        "tier": 4,
+        "durationSec": 50,
+        "tags": [
+          "restraint_light",
+          "bite_lick",
+          "indoor"
+        ],
+        "category": "DARE",
+        "title": "Control de Medianoche",
+        "pattern": "{restraint_pose}, luego {action_bold} su {intimate_zone} y {explore_end} durante {duration}s."
+      },
+      {
+        "id": "ms_l1",
+        "tier": 2,
+        "durationSec": 40,
+        "tags": [
+          "indoor",
+          "physical_light"
+        ],
+        "category": "LOCATION",
+        "title": "En {room_spot}",
+        "pattern": "Id a {room_spot} ({duration}s): {action_gentle} su {safe_zone} susurrando «{whisper_topic}»."
+      },
+      {
+        "id": "ms_l2",
+        "tier": 3,
+        "durationSec": 45,
+        "tags": [
+          "indoor",
+          "bite_lick"
+        ],
+        "category": "LOCATION",
+        "title": "Emboscada en {room_spot}",
+        "pattern": "Llévala a {room_spot} y {action_bold} su {intimate_zone} ({duration}s) siguiendo: {tempo_rule}."
+      },
+      {
+        "id": "ms_l3",
+        "tier": 4,
+        "durationSec": 50,
+        "tags": [
+          "indoor",
+          "clothing_dare"
+        ],
+        "category": "LOCATION",
+        "title": "Desvestir en {room_spot}",
+        "pattern": "En {room_spot}, aparta {garment_piece} con {tease_tool} y besa {explore_end} ({duration}s)."
+      },
+      {
+        "id": "ms_f1",
+        "tier": 2,
+        "durationSec": 45,
+        "tags": [
+          "roleplay",
+          "indoor"
+        ],
+        "category": "FANTASY",
+        "title": "Escena Secreta",
+        "pattern": "Juego de rol de {duration}s: {fantasy_hook} — mantén el papel mientras {constraint}."
+      },
+      {
+        "id": "ms_f2",
+        "tier": 3,
+        "durationSec": 50,
+        "tags": [
+          "blindfold",
+          "physical_light",
+          "indoor"
+        ],
+        "category": "FANTASY",
+        "title": "Caza a Ciegas",
+        "pattern": "Venda sus ojos en {room_spot}: alterna {sensory_item} y besos ardientes en {explore_start} y {explore_end} ({duration}s)."
+      },
+      {
+        "id": "ms_f3",
+        "tier": 4,
+        "durationSec": 60,
+        "tags": [
+          "restraint_light",
+          "clothing_dare",
+          "indoor"
+        ],
+        "category": "FANTASY",
+        "title": "Fantasía Soberana",
+        "pattern": "Guíala a «{intimate_pose}», aparta {garment_piece} con {tease_tool} y {action_bold} {explore_end} ({duration}s)."
+      }
+    ],
+    "bomb": [
+      {
+        "id": "mb_1",
+        "tier": 1,
+        "durationSec": 0,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "¡Deja dos besos rápidos en su {safe_zone} y si quieres Pasar!"
+      },
+      {
+        "id": "mb_2",
+        "tier": 2,
+        "durationSec": 0,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "¡Aplica {touch_contrast} en su {safe_zone} 2s y pasa ya!"
+      },
+      {
+        "id": "mb_3",
+        "tier": 2,
+        "durationSec": 0,
+        "tags": [
+          "deep_talk"
+        ],
+        "pattern": "¡Susurra «{whisper_topic}» rápido y pasa antes de que explote!"
+      },
+      {
+        "id": "mb_4",
+        "tier": 3,
+        "durationSec": 0,
+        "tags": [
+          "bite_lick"
+        ],
+        "pattern": "¡Rápido: {action_bold} su {intimate_zone} 2s y si quieres Pasar!"
+      },
+      {
+        "id": "mb_5",
+        "tier": 3,
+        "durationSec": 0,
+        "tags": [
+          "clothing_dare"
+        ],
+        "pattern": "¡Afloja o aparta {garment_piece} con {tease_tool} y pasa volando!"
+      },
+      {
+        "id": "mb_6",
+        "tier": 4,
+        "durationSec": 0,
+        "tags": [
+          "restraint_light",
+          "bite_lick"
+        ],
+        "pattern": "¡{action_bold} su {explore_end} 3s y pasa antes del BOOM!"
+      },
+      {
+        "id": "mb_v2_1",
+        "tier": 1,
+        "durationSec": 0,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "«¡Rápido!» {action_gentle} mi {safe_zone} 2s ¡y pasa ya!"
+      },
+      {
+        "id": "mb_v2_2",
+        "tier": 1,
+        "durationSec": 0,
+        "tags": [
+          "deep_talk"
+        ],
+        "pattern": "«¡Sin timidez!» Susurra {whisper_topic}, besa mi {safe_zone} ¡y pasa!"
+      },
+      {
+        "id": "mb_v2_3",
+        "tier": 1,
+        "durationSec": 0,
+        "tags": [
+          "eye_contact"
+        ],
+        "pattern": "«¡Mírame!» Mientras {constraint}, besa mi {safe_zone} ¡y pasa!"
+      },
+      {
+        "id": "mb_v2_4",
+        "tier": 2,
+        "durationSec": 0,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "«¡Antes del BOOM!» Aplica {touch_contrast} en mi {safe_zone} ¡y pasa!"
+      }
+    ],
+    "heartbeat": [
+      {
+        "id": "mh_1",
+        "tier": 1,
+        "durationSec": 15,
+        "tags": [
+          "eye_contact",
+          "physical_light"
+        ],
+        "pattern": "¡Sin soltar los dedos! Susurra «{whisper_topic}» a 1 cm de su {safe_zone}."
+      },
+      {
+        "id": "mh_2",
+        "tier": 2,
+        "durationSec": 15,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "¡No sueltes! Con tu mano libre {action_gentle} su {safe_zone} hasta completar el pulso."
+      },
+      {
+        "id": "mh_3",
+        "tier": 3,
+        "durationSec": 15,
+        "tags": [
+          "bite_lick"
+        ],
+        "pattern": "¡Aguanta firme! Inclínate y {action_bold} su {intimate_zone} — ¡quien suelte pierde!"
+      },
+      {
+        "id": "mh_4",
+        "tier": 4,
+        "durationSec": 15,
+        "tags": [
+          "clothing_dare"
+        ],
+        "pattern": "Reto a una mano: aparta {garment_piece} y toca su {explore_end} sin levantar el dedo."
+      },
+      {
+        "id": "mh_5",
+        "tier": 4,
+        "durationSec": 15,
+        "tags": [
+          "restraint_light"
+        ],
+        "pattern": "¡Sin temblar! Provoca su {intimate_zone} con {touch_contrast} hasta llegar al 100%."
+      },
+      {
+        "id": "mh_v2_1",
+        "tier": 1,
+        "durationSec": 15,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "«No sueltes…» Mientras {constraint}, usa tu mano libre para {action_gentle} mi {safe_zone}."
+      },
+      {
+        "id": "mh_v2_2",
+        "tier": 1,
+        "durationSec": 15,
+        "tags": [
+          "eye_contact"
+        ],
+        "pattern": "«Sin parpadear…» A 1 cm de mi {safe_zone}, susurra {whisper_topic} hasta completar."
+      },
+      {
+        "id": "mh_v2_3",
+        "tier": 1,
+        "durationSec": 15,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "«Sin reír…» Siente {touch_contrast} en mi {safe_zone} durante 15s sin soltar."
+      }
+    ],
+    "blackjack": [
+      {
+        "id": "mj_1",
+        "tier": 1,
+        "durationSec": 20,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "{duration}s: {action_gentle} en {safe_zone}"
+      },
+      {
+        "id": "mj_2",
+        "tier": 2,
+        "durationSec": 25,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "{duration}s en {room_spot}: {touch_contrast} en {safe_zone}"
+      },
+      {
+        "id": "mj_3",
+        "tier": 3,
+        "durationSec": 30,
+        "tags": [
+          "bite_lick"
+        ],
+        "pattern": "{duration}s: {action_bold} por {intimate_zone} y {explore_end}"
+      },
+      {
+        "id": "mj_4",
+        "tier": 4,
+        "durationSec": 35,
+        "tags": [
+          "clothing_dare"
+        ],
+        "pattern": "Apartar {garment_piece} con {tease_tool} + {duration}s en {explore_end}"
+      },
+      {
+        "id": "mj_5",
+        "tier": 4,
+        "durationSec": 40,
+        "tags": [
+          "restraint_light"
+        ],
+        "pattern": "{restraint_pose} + {duration}s {action_bold} en {intimate_zone}"
+      }
+    ],
+    "auction": [
+      {
+        "id": "ma_1",
+        "tier": 1,
+        "durationSec": 35,
+        "tags": [
+          "physical_light"
+        ],
+        "title": "Privilegio {safe_zone}",
+        "pattern": "El ganador disfruta {duration}s sin pausa para {action_gentle} su {safe_zone} mientras {constraint}."
+      },
+      {
+        "id": "ma_2",
+        "tier": 2,
+        "durationSec": 40,
+        "tags": [
+          "physical_light"
+        ],
+        "title": "Turno en {room_spot}",
+        "pattern": "El ganador lleva al perdedor a {room_spot} ({duration}s) con {touch_contrast} de {explore_start} a {safe_zone}."
+      },
+      {
+        "id": "ma_3",
+        "tier": 3,
+        "durationSec": 45,
+        "tags": [
+          "bite_lick"
+        ],
+        "title": "Banquete {intimate_zone}",
+        "pattern": "El ganador reclama {duration}s para {action_bold} {intimate_zone} y {explore_end} ({tempo_rule})."
+      },
+      {
+        "id": "ma_4",
+        "tier": 4,
+        "durationSec": 50,
+        "tags": [
+          "clothing_dare"
+        ],
+        "title": "Contrato de Desvestir",
+        "pattern": "El ganador aparta {garment_piece} con {tease_tool} y explora {explore_end} durante {duration}s."
+      },
+      {
+        "id": "ma_5",
+        "tier": 4,
+        "durationSec": 60,
+        "tags": [
+          "restraint_light",
+          "bite_lick"
+        ],
+        "title": "Decreto de Medianoche",
+        "pattern": "{restraint_pose}: explora de {intimate_zone} a {explore_end} ({duration}s) — si habla: {playful dare_twist}."
+      }
+    ],
+    "desire_match": [
+      {
+        "id": "md_1",
+        "tier": 1,
+        "durationSec": 0,
+        "tags": [
+          "deep_talk",
+          "indoor"
+        ],
+        "pattern": "En {date_setting} (o recreándolo en casa), susurrar «{whisper_topic}» y besar despacio {safe_zone}."
+      },
+      {
+        "id": "md_2",
+        "tier": 2,
+        "durationSec": 40,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "pattern": "En {room_spot}, dedicar {duration}s a {touch_contrast} desde {explore_start} hasta {explore_end}."
+      },
+      {
+        "id": "md_3",
+        "tier": 3,
+        "durationSec": 45,
+        "tags": [
+          "bite_lick",
+          "indoor"
+        ],
+        "pattern": "Sesión lenta de {duration}s: {action_bold} por {intimate_zone} y {explore_end} siguiendo: {tempo_rule}."
+      },
+      {
+        "id": "md_4",
+        "tier": 3,
+        "durationSec": 0,
+        "tags": [
+          "roleplay",
+          "indoor"
+        ],
+        "pattern": "Interpretar una escena completa: {fantasy_hook} — terminando sin frenos en {room_spot}."
+      },
+      {
+        "id": "md_5",
+        "tier": 4,
+        "durationSec": 50,
+        "tags": [
+          "blindfold",
+          "physical_light",
+          "indoor"
+        ],
+        "pattern": "Sesión vendada ({duration}s): recorrer de {explore_start} a {explore_end} con {sensory_item} y besos calientes."
+      },
+      {
+        "id": "md_6",
+        "tier": 4,
+        "durationSec": 60,
+        "tags": [
+          "restraint_light",
+          "clothing_dare",
+          "indoor"
+        ],
+        "pattern": "Probar «{intimate_pose}»: apartar {garment_piece} con {tease_tool} y explorar {explore_end} ({duration}s)."
+      }
+    ],
+    "props": [
+      {
+        "id": "mp_ice",
+        "tier": 3,
+        "durationSec": 40,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "category": "ice",
+        "pattern": "Desliza un cubito de hielo de {explore_start} a {explore_end} y persigue el frío enseguida con {action_bold} ({duration}s)."
+      },
+      {
+        "id": "mp_blind",
+        "tier": 3,
+        "durationSec": 50,
+        "tags": [
+          "blindfold",
+          "physical_light",
+          "indoor"
+        ],
+        "category": "blindfold",
+        "pattern": "Venda sus ojos en {room_spot}: sorprende {intimate_zone} y {explore_end} con {touch_contrast} ({duration}s · {tempo_rule})."
+      },
+      {
+        "id": "mp_oil",
+        "tier": 2,
+        "durationSec": 45,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "category": "oil",
+        "pattern": "Calienta aceite en tus palmas y desliza de {explore_start} por {intimate_zone} hasta {explore_end} ({duration}s) mientras {constraint}."
+      },
+      {
+        "id": "mp_tie",
+        "tier": 4,
+        "durationSec": 50,
+        "tags": [
+          "restraint_light",
+          "indoor"
+        ],
+        "category": "tie",
+        "pattern": "Usa una corbata o pañuelo de seda: {restraint_pose} y {action_bold} {intimate_zone} y {explore_end} ({duration}s)."
+      },
+      {
+        "id": "mp_honey",
+        "tier": 3,
+        "durationSec": 40,
+        "tags": [
+          "bite_lick",
+          "indoor"
+        ],
+        "category": "honey",
+        "pattern": "Pon una gota de miel o bebida dulce en {intimate_zone} y {explore_end}, y lámela por completo ({duration}s)."
+      },
+      {
+        "id": "mp_mirror",
+        "tier": 2,
+        "durationSec": 45,
+        "tags": [
+          "eye_contact",
+          "physical_light",
+          "indoor"
+        ],
+        "category": "mirror",
+        "pattern": "Frente al espejo por detrás: susurra «{whisper_topic}» y explora de {explore_start} a {explore_end} ({duration}s)."
+      },
+      {
+        "id": "mp_feather",
+        "tier": 2,
+        "durationSec": 40,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "category": "feather",
+        "pattern": "Roza con pluma de {explore_start} a {explore_end}, alternando enseguida con {action_bold} en {intimate_zone} ({duration}s)."
+      },
+      {
+        "id": "mp_v2_ice_t1",
+        "tier": 1,
+        "durationSec": 30,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "category": "ice",
+        "pattern": "Roza mi {safe_zone} con hielo y derrítelo enseguida con {touch_contrast} ({duration}s)."
+      },
+      {
+        "id": "mp_v2_bf_t1",
+        "tier": 1,
+        "durationSec": 35,
+        "tags": [
+          "blindfold",
+          "indoor"
+        ],
+        "category": "blindfold",
+        "pattern": "Con ojos vendados en {room_spot}, {action_gentle} su {safe_zone} susurrando {whisper_topic} ({duration}s)."
+      },
+      {
+        "id": "mp_v2_oil_t1",
+        "tier": 1,
+        "durationSec": 40,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "category": "oil",
+        "pattern": "Aplica aceite tibio mientras {constraint} y {action_gentle} su {safe_zone} ({duration}s)."
+      },
+      {
+        "id": "mp_v2_tie_t1",
+        "tier": 1,
+        "durationSec": 35,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "category": "tie",
+        "pattern": "Usa una cinta suave para guiarlo a {room_spot} y besar lento su {safe_zone} ({duration}s)."
+      },
+      {
+        "id": "mp_v2_hon_t1",
+        "tier": 1,
+        "durationSec": 30,
+        "tags": [
+          "playful",
+          "indoor"
+        ],
+        "category": "honey",
+        "pattern": "Pon una gota de miel en su {safe_zone} y bésala mientras {constraint} ({duration}s)."
+      },
+      {
+        "id": "mp_v2_mir_t1",
+        "tier": 1,
+        "durationSec": 35,
+        "tags": [
+          "eye_contact",
+          "indoor"
+        ],
+        "category": "mirror",
+        "pattern": "Frente al espejo, {action_gentle} su {safe_zone} susurrando {whisper_topic} ({duration}s)."
+      },
+      {
+        "id": "mp_v2_fea_t1",
+        "tier": 1,
+        "durationSec": 35,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "category": "feather",
+        "pattern": "Pasa una pluma por su {safe_zone} seguida al instante de {touch_contrast} ({duration}s)."
+      }
+    ],
+    "connect4": [
+      {
+        "id": "mc_1",
+        "tier": 1,
+        "durationSec": 20,
+        "tags": [
+          "physical_light"
+        ],
+        "title": "{safe_zone}",
+        "pattern": "{action_gentle} su {safe_zone} ({duration}s) mientras {constraint}."
+      },
+      {
+        "id": "mc_2",
+        "tier": 2,
+        "durationSec": 25,
+        "tags": [
+          "physical_light"
+        ],
+        "title": "{explore_start}",
+        "pattern": "Aplica {touch_contrast} de {explore_start} a {safe_zone} ({duration}s)."
+      },
+      {
+        "id": "mc_3",
+        "tier": 3,
+        "durationSec": 30,
+        "tags": [
+          "bite_lick"
+        ],
+        "title": "{intimate_zone}",
+        "pattern": "{action_bold} su {intimate_zone} ({duration}s · {tempo_rule})."
+      },
+      {
+        "id": "mc_4",
+        "tier": 3,
+        "durationSec": 30,
+        "tags": [
+          "clothing_dare"
+        ],
+        "title": "{explore_end}",
+        "pattern": "Aparta {garment_piece} con {tease_tool} y besa {explore_end} ({duration}s)."
+      },
+      {
+        "id": "mc_5",
+        "tier": 4,
+        "durationSec": 35,
+        "tags": [
+          "restraint_light"
+        ],
+        "title": "{room_spot}",
+        "pattern": "En {room_spot}, {restraint_pose} y provoca {intimate_zone} ({duration}s)."
+      },
+      {
+        "id": "mc_6",
+        "tier": 4,
+        "durationSec": 40,
+        "tags": [
+          "bite_lick",
+          "restraint_light"
+        ],
+        "title": "⚡ {explore_end}",
+        "pattern": "Guíala a «{intimate_pose}» y {action_bold} {explore_end} ({duration}s)."
+      }
+    ],
+    "ladder": [
+      {
+        "id": "ml_1",
+        "tier": 1,
+        "durationSec": 30,
+        "tags": [
+          "physical_light",
+          "deep_talk"
+        ],
+        "pattern": "Durante {duration}s, {action_gentle} su {safe_zone} sin parar mientras {constraint}.",
+        "secondaryPattern": "{secret_question}"
+      },
+      {
+        "id": "ml_2",
+        "tier": 2,
+        "durationSec": 35,
+        "tags": [
+          "physical_light",
+          "deep_talk"
+        ],
+        "pattern": "Durante {duration}s, aplica {touch_contrast} de {explore_start} a {safe_zone} ({tempo_rule}).",
+        "secondaryPattern": "{secret_question}"
+      },
+      {
+        "id": "ml_3",
+        "tier": 3,
+        "durationSec": 40,
+        "tags": [
+          "bite_lick",
+          "deep_talk"
+        ],
+        "pattern": "Durante {duration}s, {action_bold} su {intimate_zone} y {explore_end} sin detenerte ni un segundo.",
+        "secondaryPattern": "{secret_question}"
+      },
+      {
+        "id": "ml_4",
+        "tier": 4,
+        "durationSec": 45,
+        "tags": [
+          "restraint_light",
+          "bite_lick",
+          "deep_talk"
+        ],
+        "pattern": "{restraint_pose} y {action_bold} su {intimate_zone} y {explore_end} sin pausa ({duration}s).",
+        "secondaryPattern": "{secret_question}"
+      }
+    ],
+    "bodymap_normal": [
+      {
+        "id": "mbn_1",
+        "tier": 1,
+        "durationSec": 25,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "Durante {duration}s, {action_gentle} su {zone} mientras {constraint}."
+      },
+      {
+        "id": "mbn_2",
+        "tier": 2,
+        "durationSec": 30,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "Aplica {touch_contrast} despacio sobre su {zone} ({duration}s) — regla: {tempo_rule}."
+      },
+      {
+        "id": "mbn_3",
+        "tier": 3,
+        "durationSec": 30,
+        "tags": [
+          "bite_lick"
+        ],
+        "pattern": "Susurra «{whisper_topic}» mientras {action_bold} su {zone} durante {duration}s."
+      },
+      {
+        "id": "mbn_v2_1",
+        "tier": 1,
+        "durationSec": 25,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "«¿Cosquillas?» Recorre su {zone} con {touch_contrast} ({duration}s) mientras {constraint}."
+      },
+      {
+        "id": "mbn_v2_2",
+        "tier": 1,
+        "durationSec": 25,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "«Quieto/a…» Susurra {whisper_topic} cerca de su {zone} y {action_gentle} despacio ({duration}s)."
+      }
+    ],
+    "bodymap_hot": [
+      {
+        "id": "mbh_1",
+        "tier": 2,
+        "durationSec": 35,
+        "tags": [
+          "bite_lick"
+        ],
+        "pattern": "🔥 ¡ZONA CALIENTE! Dedica {duration}s a {action_bold} su {zone} — regla: {tempo_rule}."
+      },
+      {
+        "id": "mbh_2",
+        "tier": 3,
+        "durationSec": 40,
+        "tags": [
+          "bite_lick",
+          "physical_light"
+        ],
+        "pattern": "🔥 ¡PREMIO DOBLE! Alterna {touch_contrast} y aliento caliente en su {zone} ({duration}s)."
+      },
+      {
+        "id": "mbh_3",
+        "tier": 4,
+        "durationSec": 45,
+        "tags": [
+          "restraint_light",
+          "bite_lick"
+        ],
+        "pattern": "🔥 ¡IMPACTO DE MEDIANOCHE! {restraint_pose} y {action_bold} su {zone} sin parar ({duration}s)."
+      },
+      {
+        "id": "mbh_v2_1",
+        "tier": 1,
+        "durationSec": 30,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "🔥 ¡ZONA CALIENTE! Mientras {constraint}, aplica {touch_contrast} sobre su {zone} ({duration}s)."
+      },
+      {
+        "id": "mbh_v2_2",
+        "tier": 1,
+        "durationSec": 30,
+        "tags": [
+          "eye_contact"
+        ],
+        "pattern": "🔥 ¡TESORO SECRETO! Abrázala fuerte, {action_gentle} su {zone} ({duration}s) y susurra {whisper_topic}."
+      }
+    ],
+    "nhie": [
+      {
+        "id": "nh_t1_1",
+        "tier": 1,
+        "tags": [
+          "deep_talk"
+        ],
+        "durationSec": 0,
+        "pattern": "Yo nunca recordé {timeframe} sintiéndome tan {feeling} que me sonrojé sin decírtelo."
+      },
+      {
+        "id": "nh_t1_2",
+        "tier": 1,
+        "tags": [
+          "playful"
+        ],
+        "durationSec": 0,
+        "pattern": "Yo nunca soñé en secreto con escaparme contigo a {date_setting} toda la noche."
+      },
+      {
+        "id": "nh_t2_1",
+        "tier": 2,
+        "tags": [
+          "physical_light"
+        ],
+        "durationSec": 0,
+        "pattern": "Yo nunca fingí calma cuando rozaste mi {safe_zone} y se me aceleró el pulso."
+      },
+      {
+        "id": "nh_t2_2",
+        "tier": 2,
+        "tags": [
+          "deep_talk"
+        ],
+        "durationSec": 0,
+        "pattern": "Yo nunca te miré cerca de {room_spot} con ganas repentinas de robarte un beso."
+      },
+      {
+        "id": "nh_t3_1",
+        "tier": 3,
+        "tags": [
+          "bite_lick"
+        ],
+        "durationSec": 0,
+        "pattern": "Yo nunca deseé en secreto que volvieras a {action_gentle} mi {safe_zone} sin prisa."
+      },
+      {
+        "id": "nh_t3_2",
+        "tier": 3,
+        "tags": [
+          "roleplay"
+        ],
+        "durationSec": 0,
+        "pattern": "Yo nunca imaginé vivir {fantasy_hook} contigo en {date_setting}."
+      },
+      {
+        "id": "nh_t4_1",
+        "tier": 4,
+        "tags": [
+          "clothing_dare"
+        ],
+        "durationSec": 0,
+        "pattern": "Yo nunca me distraje por completo solo por verte llevar {garment_piece}."
+      },
+      {
+        "id": "nh_t4_2",
+        "tier": 4,
+        "tags": [
+          "restraint_light"
+        ],
+        "durationSec": 0,
+        "pattern": "Yo nunca tuve curiosidad por probar {touch_contrast} contigo junto a {room_spot}."
+      },
+      {
+        "id": "nh_v2_1",
+        "tier": 1,
+        "durationSec": 0,
+        "tags": [
+          "deep_talk"
+        ],
+        "pattern": "Yo nunca miré tu {safe_zone} cerca de {room_spot} sintiéndome tan {feeling}."
+      },
+      {
+        "id": "nh_v2_2",
+        "tier": 1,
+        "durationSec": 0,
+        "tags": [
+          "playful"
+        ],
+        "pattern": "Yo nunca deseé en {timeframe} escaparme contigo a {date_setting} para susurrarte {whisper_topic}."
+      },
+      {
+        "id": "nh_v2_3",
+        "tier": 1,
+        "durationSec": 0,
+        "tags": [
+          "physical_light"
+        ],
+        "pattern": "Yo nunca quise en secreto que en {room_spot} vinieras a {action_gentle} mi {safe_zone} mientras {constraint}."
+      }
+    ],
+    "foreplay": [
+      {
+        "id": "mfp_1",
+        "tier": 1,
+        "durationSec": 60,
+        "tags": [
+          "eye_contact",
+          "physical_light"
+        ],
+        "title": "Acercamiento · {room_spot}",
+        "pattern": "En {room_spot}, mientras {constraint}, {action_gentle} su {safe_zone} ({duration}s)."
+      },
+      {
+        "id": "mfp_2",
+        "tier": 2,
+        "durationSec": 70,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "title": "Aliento Creciente · {safe_zone}",
+        "pattern": "En {room_spot}, usa {touch_contrast} de {explore_start} a {safe_zone} susurrando {whisper_topic} ({duration}s)."
+      },
+      {
+        "id": "mfp_3",
+        "tier": 3,
+        "durationSec": 80,
+        "tags": [
+          "bite_lick",
+          "indoor"
+        ],
+        "title": "Ruta Ardiente · {intimate_zone}",
+        "pattern": "Alterna aliento y {action_bold} de {intimate_zone} a {explore_end} ({tempo_rule} · {duration}s)."
+      },
+      {
+        "id": "mfp_4",
+        "tier": 4,
+        "durationSec": 90,
+        "tags": [
+          "restraint_light",
+          "clothing_dare",
+          "indoor"
+        ],
+        "title": "Entrega Total · {explore_end}",
+        "pattern": "{restraint_pose}, aparta {garment_piece} con {tease_tool} y {action_bold} {explore_end} ({duration}s)."
+      }
+    ],
+    "roleplay": [
+      {
+        "id": "mrp_1",
+        "tier": 1,
+        "durationSec": 45,
+        "tags": [
+          "roleplay",
+          "deep_talk"
+        ],
+        "title": "Chispa en {date_setting}",
+        "pattern": "Imagina {date_setting} desde {room_spot}: mientras {constraint}, confiesa {whisper_topic} y {action_gentle} su {safe_zone}."
+      },
+      {
+        "id": "mrp_2",
+        "tier": 2,
+        "durationSec": 50,
+        "tags": [
+          "roleplay",
+          "physical_light"
+        ],
+        "title": "Escena Privada · {room_spot}",
+        "pattern": "Trama: {fantasy_hook}. En {room_spot}, usa {touch_contrast} en su {safe_zone} ({tempo_rule})."
+      },
+      {
+        "id": "mrp_3",
+        "tier": 3,
+        "durationSec": 55,
+        "tags": [
+          "roleplay",
+          "bite_lick"
+        ],
+        "title": "Cruce de Límites · {date_setting}",
+        "pattern": "Drama nocturno: {fantasy_hook}. En {room_spot}, susurra {whisper_topic} y {action_bold} su {intimate_zone}."
+      },
+      {
+        "id": "mrp_4",
+        "tier": 4,
+        "durationSec": 60,
+        "tags": [
+          "roleplay",
+          "restraint_light",
+          "clothing_dare"
+        ],
+        "title": "Dominio · {room_spot}",
+        "pattern": "Escena audaz: {fantasy_hook}. En {room_spot}, {restraint_pose}, aparta {garment_piece} con {tease_tool} y {action_bold} {explore_end}."
+      }
+    ],
+    "positions": [
+      {
+        "id": "mpos_1",
+        "tier": 1,
+        "durationSec": 50,
+        "tags": [
+          "physical_light",
+          "eye_contact"
+        ],
+        "category": "1",
+        "title": "Abrazo Suave · {room_spot}",
+        "pattern": "Acomodaos pegados en {room_spot}, mientras {constraint}, turnándoos para {action_gentle} su {safe_zone}.",
+        "secondaryPattern": "Añade {touch_contrast} y sincronizad cada respiro."
+      },
+      {
+        "id": "mpos_2",
+        "tier": 2,
+        "durationSec": 55,
+        "tags": [
+          "physical_light",
+          "indoor"
+        ],
+        "category": "2",
+        "title": "Cercanía Tibia · {room_spot}",
+        "pattern": "En {room_spot}, adoptad «{intimate_pose}» explorando de {explore_start} a {safe_zone}.",
+        "secondaryPattern": "Cumple «{tempo_rule}» y susurra {whisper_topic} al oído."
+      },
+      {
+        "id": "mpos_3",
+        "tier": 3,
+        "durationSec": 60,
+        "tags": [
+          "physical_light",
+          "bite_lick"
+        ],
+        "category": "3",
+        "title": "Tensión Profunda · {room_spot}",
+        "pattern": "En {room_spot}, guíala a «{intimate_pose}» mientras {action_bold} {intimate_zone} y {explore_end}.",
+        "secondaryPattern": "Mezcla {touch_contrast} y congela 3s cada vez que suspire."
+      }
+    ]
+  }
+}

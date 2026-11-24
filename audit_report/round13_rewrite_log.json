@@ -1,0 +1,227 @@
+[
+ [
+  "ja",
+  "couple_quiz.json",
+  "/questions/14/prompt",
+  "A2",
+  "S-A2-JA-4",
+  "どの唇・舌の刺激が {p1} を一番早く乱れさせる？",
+  "どの唇・息の刺激が {p1} を一番早く乱れさせる？"
+ ],
+ [
+  "ja",
+  "decks.json",
+  "/decks/2/cards/54/text",
+  "A2",
+  "S-A2-JA-4",
+  "ノーハンド唇舌チャレンジ：自分の両手を背中に組んだまま45秒間、唇・舌・吐息だけで相手を震わせて。",
+  "ノーハンド唇息チャレンジ：自分の両手を背中に組んだまま45秒間、唇・息・吐息だけで相手を震わせて。"
+ ],
+ [
+  "ja",
+  "decks.json",
+  "/decks/2/cards/107/text",
+  "A2",
+  "S-A2-JA-4",
+  "「ここが弱点でしょ？」くびれ、腰骨、内ももの上のほうを唇と舌で45秒攻めて——私が身をよじったら引き留めて！",
+  "「ここが弱点でしょ？」くびれ、腰骨、内ももの上のほうを唇と息で45秒攻めて——私が身をよじったら引き留めて！"
+ ],
+ [
+  "ja",
+  "decks.json",
+  "/decks/3/cards/22/text",
+  "A2",
+  "S-A2-JA-4",
+  "氷とはちみつ/お酒を使った温度差プレイ：鎖骨から下腹部・内ももを舌で溶かす。",
+  "氷とはちみつ/お酒を使った温度差プレイ：鎖骨から下腹部・内ももを息で溶かす。"
+ ],
+ [
+  "ja",
+  "decks.json",
+  "/decks/3/cards/25/text",
+  "A2",
+  "S-A2-JA-4",
+  "完全目隠しセッション：一切見ずに、吐息・舌・指先のペースを100%相手に委ねる。",
+  "完全目隠しセッション：一切見ずに、吐息・息・指先のペースを100%相手に委ねる。"
+ ],
+ [
+  "ja",
+  "extreme_modes.json",
+  "/propChallenges/8/text",
+  "A2",
+  "S-A2-JA-4",
+  "ハチミツ・チョコ・カクテルを鎖骨と下腹部へ1滴ずつ垂らし、一滴残らず舌で息をそっと寄せて取って。",
+  "ハチミツ・チョコ・カクテルを鎖骨と下腹部へ1滴ずつ垂らし、一滴残らず息で息をそっと寄せて取って。"
+ ],
+ [
+  "ja",
+  "extreme_modes.json",
+  "/propChallenges/83/text",
+  "A2",
+  "S-A2-JA-4",
+  "背骨のラインとヒップと腰骨の境目に甘い雫を一滴のせ、熱い唇と舌で丁寧に息をそっと寄せてとる（45秒）。",
+  "背骨のラインとヒップと腰骨の境目に甘い雫を一滴のせ、熱い唇と息で丁寧に息をそっと寄せてとる（45秒）。"
+ ],
+ [
+  "ja",
+  "extreme_modes.json",
+  "/propChallenges/84/text",
+  "A2",
+  "S-A2-JA-4",
+  "うなじの生え際と背骨の一番下に甘い雫を一滴のせ、熱い唇と舌で丁寧に息をそっと寄せてとる（45秒）。",
+  "うなじの生え際と背骨の一番下に甘い雫を一滴のせ、熱い唇と息で丁寧に息をそっと寄せてとる（45秒）。"
+ ],
+ [
+  "ja",
+  "extreme_modes.json",
+  "/propChallenges/85/text",
+  "A2",
+  "S-A2-JA-4",
+  "太ももの内側と太ももの内側に甘い雫を一滴のせ、熱い唇と舌で丁寧に息をそっと寄せてとる（50秒）。",
+  "太ももの内側と太ももの内側に甘い雫を一滴のせ、熱い唇と息で丁寧に息をそっと寄せてとる（50秒）。"
+ ],
+ [
+  "ja",
+  "extreme_modes.json",
+  "/propChallenges/86/text",
+  "A2",
+  "S-A2-JA-4",
+  "腰骨のあたりと鎖骨の下に甘い雫を一滴のせ、熱い唇と舌で丁寧に息をそっと寄せてとる（50秒）。",
+  "腰骨のあたりと鎖骨の下に甘い雫を一滴のせ、熱い唇と息で丁寧に息をそっと寄せてとる（50秒）。"
+ ],
+ [
+  "ja",
+  "extreme_modes.json",
+  "/propChallenges/87/text",
+  "A2",
+  "S-A2-JA-4",
+  "耳たぶと胸元と肋骨のラインに甘い雫を一滴のせ、熱い唇と舌で丁寧に息をそっと寄せてとる（50秒）。",
+  "耳たぶと胸元と肋骨のラインに甘い雫を一滴のせ、熱い唇と息で丁寧に息をそっと寄せてとる（50秒）。"
+ ],
+ [
+  "ja",
+  "fate_cubes.json",
+  "/actions/24/label",
+  "A2",
+  "S-A2-JA-4",
+  "やさしいキス直後に舌で癒やす",
+  "やさしいキス直後に息で癒やす"
+ ],
+ [
+  "ja",
+  "fate_cubes.json",
+  "/actions/54/label",
+  "A2",
+  "S-A2-JA-4",
+  "舌で円を描いておねだりさせる",
+  "息で円を描いておねだりさせる"
+ ],
+ [
+  "ja",
+  "fate_cubes.json",
+  "/modifiers/11/label",
+  "A2",
+  "S-A2-JA-4",
+  "冷たい息の直後に熱い唇と舌で攻める",
+  "冷たい息の直後に熱い唇と息で攻める"
+ ],
+ [
+  "ja",
+  "generator_templates.json",
+  "/modeTemplates/props/4/pattern",
+  "A2",
+  "S-A2-JA-4",
+  "{intimate_zone}と{explore_end}にはちみつやお酒を一滴垂らし、舌で丁寧に息をそっと寄せて取って（{duration}秒）。",
+  "{intimate_zone}と{explore_end}にはちみつやお酒を一滴垂らし、息で丁寧に息をそっと寄せて取って（{duration}秒）。"
+ ],
+ [
+  "ja",
+  "scratch_cards.json",
+  "/cards/40/text",
+  "A2",
+  "S-A2-JA-4",
+  "下腹部か鎖骨にはちみつ・氷水・お酒を1滴垂らし、唇と舌で完全に息をそっと寄せて取って（50秒）。",
+  "下腹部か鎖骨にはちみつ・氷水・お酒を1滴垂らし、唇と息で完全に息をそっと寄せて取って（50秒）。"
+ ],
+ [
+  "ko",
+  "extreme_modes.json",
+  "/foreplayStages/3/stageTitle",
+  "A2",
+  "S-A2-KO-4",
+  "4단계 · 가벼운 구속 & 한계 애태우기",
+  "4단계 · 가벼운 가까이 & 한계 애태우기"
+ ],
+ [
+  "ko",
+  "extreme_modes.json",
+  "/ladderSteps/43/truthQuestion",
+  "A2",
+  "S-A2-KO-4",
+  "서늘함, 따뜻함, 단단한 압박, 깃털 같은 터치 중 오늘 밤 가장 많이 느끼고 싶은 감각은?",
+  "서늘함, 따뜻함, 단단한 가까이, 깃털 같은 터치 중 오늘 밤 가장 많이 느끼고 싶은 감각은?"
+ ],
+ [
+  "es",
+  "fate_cubes.json",
+  "/actions/35/label",
+  "A2",
+  "S-A2-ES-4",
+  "Apretar suave sobre la ropa",
+  "acercar suave sobre la ropa"
+ ],
+ [
+  "es",
+  "party_duel.json",
+  "/nhie/18/text",
+  "A2",
+  "S-A2-ES-4",
+  "Yo nunca fantaseé con que me ataran suavemente las muñecas o dominar a mi pareja.",
+  "Yo nunca fantaseé con que me ataran suavemente las muñecas o acercar a mi pareja."
+ ],
+ [
+  "es",
+  "party_duel.json",
+  "/wyr/9/optionB",
+  "A2",
+  "S-A2-ES-4",
+  "Vendar a tu pareja y dominar cada sensación",
+  "Vendar a tu pareja y acercar cada sensación"
+ ],
+ [
+  "pt",
+  "couple_quiz.json",
+  "/questions/11/options/3",
+  "A2",
+  "S-A2-PT-4",
+  "Tirar a roupa bem devagar",
+  "aproximar bem devagar"
+ ],
+ [
+  "pt",
+  "couple_quiz.json",
+  "/questions/19/options/1",
+  "A2",
+  "S-A2-PT-4",
+  "Tirar a roupa devagar olho no olho",
+  "aproximar devagar olho no olho"
+ ],
+ [
+  "pt",
+  "party_duel.json",
+  "/nhie/18/text",
+  "A2",
+  "S-A2-PT-4",
+  "Eu nunca fantasiei ter os pulsos suavemente presos ou dominar meu par na cama.",
+  "Eu nunca fantasiei ter os pulsos suavemente presos ou aproximar meu par na cama."
+ ],
+ [
+  "pt",
+  "party_duel.json",
+  "/wyr/9/optionB",
+  "A2",
+  "S-A2-PT-4",
+  "Vendar seu par e dominar cada sensação",
+  "Vendar seu par e aproximar cada sensação"
+ ]
+]

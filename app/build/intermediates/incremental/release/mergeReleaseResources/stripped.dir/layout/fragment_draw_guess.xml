@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="?attr/velvetBg"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <!-- Header HUD -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_draw_role"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="?attr/velvetAccent"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_draw_score"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="?attr/velvetTextMuted"
+                android:textSize="12sp" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tv_draw_timer"
+            android:layout_width="64dp"
+            android:layout_height="40dp"
+            android:background="@drawable/bg_card_velvet"
+            android:gravity="center"
+            android:textColor="?attr/velvetAccent"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <!-- Secret Word Banner -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/bg_card_velvet"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <TextView
+            android:id="@+id/tv_secret_word"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/draw_ready_banner"
+            android:textColor="?attr/velvetTextPrimary"
+            android:textSize="16sp"
+            android:textStyle="bold" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_toggle_word"
+            android:visibility="gone"
+            style="@style/Widget.Material3.Button.TextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:text="@string/draw_hide_word"
+            android:textColor="?attr/velvetAccent"
+            android:textSize="12sp" />
+    </LinearLayout>
+
+    <!-- Drawing Canvas -->
+    <com.velvet.couplesgame.ui.drawguess.DrawingCanvasView
+        android:id="@+id/drawing_canvas"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_marginTop="10dp"
+        android:layout_weight="1" />
+
+    <!-- Palette & Tools -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <View
+            android:id="@+id/color_dot_1"
+            android:layout_width="26dp"
+            android:layout_height="26dp" />
+
+        <View
+            android:id="@+id/color_dot_2"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_marginStart="6dp" />
+
+        <View
+            android:id="@+id/color_dot_3"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_marginStart="6dp" />
+
+        <View
+            android:id="@+id/color_dot_4"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_marginStart="6dp" />
+
+        <View
+            android:id="@+id/color_dot_5"
+            android:layout_width="26dp"
+            android:layout_height="26dp"
+            android:layout_marginStart="6dp" />
+
+        <TextView
+            android:id="@+id/btn_color_picker"
+            android:layout_width="48dp"
+            android:layout_height="48dp"
+            android:layout_marginStart="8dp"
+            android:clickable="true"
+            android:contentDescription="@string/draw_color_picker_title"
+            android:focusable="true"
+            android:gravity="center"
+            android:text="🎨"
+            android:textSize="13sp" />
+
+        <Space
+            android:layout_width="0dp"
+            android:layout_height="1dp"
+            android:layout_weight="1" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_brush_size"
+            style="@style/Widget.Material3.Button.TextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:minWidth="48dp"
+            android:text="@string/draw_brush_fine"
+            android:textColor="?attr/velvetTextPrimary"
+            android:textSize="11sp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_undo"
+            style="@style/Widget.Material3.Button.TextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:minWidth="48dp"
+            android:text="@string/draw_undo"
+            android:textColor="?attr/velvetTextPrimary"
+            android:textSize="11sp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_clear"
+            style="@style/Widget.Material3.Button.TextButton"
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:minWidth="48dp"
+            android:text="@string/draw_clear"
+            android:textColor="?attr/velvetAccent"
+            android:textSize="11sp" />
+    </LinearLayout>
+
+    <!-- Bottom Controls -->
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_start_round"
+        android:layout_width="match_parent"
+        android:layout_height="52dp"
+        android:layout_marginTop="10dp"
+        android:backgroundTint="?attr/velvetPrimary"
+        android:text="@string/btn_draw_start_round"
+        android:textColor="?attr/velvetTextPrimary" />
+
+    <LinearLayout
+        android:id="@+id/layout_active_actions"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:orientation="horizontal"
+        android:visibility="gone">
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_missed"
+            style="@style/Widget.Material3.Button.OutlinedButton"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_weight="1"
+            android:text="@string/btn_draw_missed"
+            android:textColor="?attr/velvetTextMuted" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btn_guessed"
+            android:layout_width="0dp"
+            android:layout_height="50dp"
+            android:layout_marginStart="10dp"
+            android:layout_weight="1"
+            android:backgroundTint="?attr/velvetPrimary"
+            android:text="@string/btn_draw_guessed"
+            android:textColor="?attr/velvetTextPrimary" />
+    </LinearLayout>
+</LinearLayout>

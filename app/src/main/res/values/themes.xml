@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.VelvetCouplesGame.Base" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">?attr/velvetBg</item>
+        <item name="android:statusBarColor">?attr/velvetBg</item>
+        <item name="android:navigationBarColor">?attr/velvetSurface</item>
+        <item name="colorPrimary">?attr/velvetPrimary</item>
+        <item name="colorOnPrimary">?attr/velvetTextPrimary</item>
+        <item name="colorSecondary">?attr/velvetAccent</item>
+        <item name="colorOnSecondary">?attr/velvetBg</item>
+        <item name="colorSurface">?attr/velvetSurface</item>
+        <item name="colorOnSurface">?attr/velvetTextPrimary</item>
+    </style>
+
+    <style name="Theme.VelvetCouplesGame" parent="Theme.VelvetCouplesGame.VelvetNoir" />
+
+    <!-- 1. Velvet Noir -->
+    <style name="Theme.VelvetCouplesGame.VelvetNoir" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/velvet_bg</item>
+        <item name="velvetSurface">@color/velvet_surface</item>
+        <item name="velvetSurfaceElevated">@color/velvet_surface_elevated</item>
+        <item name="velvetPrimary">@color/velvet_crimson</item>
+        <item name="velvetAccent">@color/velvet_gold</item>
+        <item name="velvetAccentStroke">@color/velvet_stroke</item>
+        <item name="velvetTextPrimary">@color/velvet_ivory</item>
+        <item name="velvetTextMuted">@color/velvet_muted</item>
+    </style>
+
+    <!-- 2. Peach Blush (桃粉) -->
+    <style name="Theme.VelvetCouplesGame.PeachBlush" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/peach_bg</item>
+        <item name="velvetSurface">@color/peach_surface</item>
+        <item name="velvetSurfaceElevated">@color/peach_surface_elevated</item>
+        <item name="velvetPrimary">@color/peach_primary</item>
+        <item name="velvetAccent">@color/peach_accent</item>
+        <item name="velvetAccentStroke">@color/peach_stroke</item>
+        <item name="velvetTextPrimary">@color/peach_text</item>
+        <item name="velvetTextMuted">@color/peach_muted</item>
+    </style>
+
+    <!-- 3. Sakura Silk (樱绯丝绸) -->
+    <style name="Theme.VelvetCouplesGame.SakuraSilk" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/sakura_bg</item>
+        <item name="velvetSurface">@color/sakura_surface</item>
+        <item name="velvetSurfaceElevated">@color/sakura_surface_elevated</item>
+        <item name="velvetPrimary">@color/sakura_primary</item>
+        <item name="velvetAccent">@color/sakura_accent</item>
+        <item name="velvetAccentStroke">@color/sakura_stroke</item>
+        <item name="velvetTextPrimary">@color/sakura_text</item>
+        <item name="velvetTextMuted">@color/sakura_muted</item>
+    </style>
+
+    <!-- 4. Blush Rosé -->
+    <style name="Theme.VelvetCouplesGame.BlushChampagne" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/blush_bg</item>
+        <item name="velvetSurface">@color/blush_surface</item>
+        <item name="velvetSurfaceElevated">@color/blush_surface_elevated</item>
+        <item name="velvetPrimary">@color/blush_primary</item>
+        <item name="velvetAccent">@color/blush_accent</item>
+        <item name="velvetAccentStroke">@color/blush_stroke</item>
+        <item name="velvetTextPrimary">@color/blush_text</item>
+        <item name="velvetTextMuted">@color/blush_muted</item>
+    </style>
+
+    <!-- 5. Midnight Plum -->
+    <style name="Theme.VelvetCouplesGame.MidnightPlum" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/plum_bg</item>
+        <item name="velvetSurface">@color/plum_surface</item>
+        <item name="velvetSurfaceElevated">@color/plum_surface_elevated</item>
+        <item name="velvetPrimary">@color/plum_primary</item>
+        <item name="velvetAccent">@color/plum_accent</item>
+        <item name="velvetAccentStroke">@color/plum_stroke</item>
+        <item name="velvetTextPrimary">@color/plum_text</item>
+        <item name="velvetTextMuted">@color/plum_muted</item>
+    </style>
+
+    <!-- 6. Scarlet Lace (VIP) -->
+    <style name="Theme.VelvetCouplesGame.ScarletLace" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/scarlet_bg</item>
+        <item name="velvetSurface">@color/scarlet_surface</item>
+        <item name="velvetSurfaceElevated">@color/scarlet_surface_elevated</item>
+        <item name="velvetPrimary">@color/scarlet_primary</item>
+        <item name="velvetAccent">@color/scarlet_accent</item>
+        <item name="velvetAccentStroke">@color/scarlet_stroke</item>
+        <item name="velvetTextPrimary">@color/scarlet_text</item>
+        <item name="velvetTextMuted">@color/scarlet_muted</item>
+    </style>
+
+    <!-- 7. Violet Mist (VIP) -->
+    <style name="Theme.VelvetCouplesGame.VioletMist" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/violet_bg</item>
+        <item name="velvetSurface">@color/violet_surface</item>
+        <item name="velvetSurfaceElevated">@color/violet_surface_elevated</item>
+        <item name="velvetPrimary">@color/violet_primary</item>
+        <item name="velvetAccent">@color/violet_accent</item>
+        <item name="velvetAccentStroke">@color/violet_stroke</item>
+        <item name="velvetTextPrimary">@color/violet_text</item>
+        <item name="velvetTextMuted">@color/violet_muted</item>
+    </style>
+
+    <!-- 8. Candlelight Amber (VIP) -->
+    <style name="Theme.VelvetCouplesGame.CandlelightAmber" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/amber_bg</item>
+        <item name="velvetSurface">@color/amber_surface</item>
+        <item name="velvetSurfaceElevated">@color/amber_surface_elevated</item>
+        <item name="velvetPrimary">@color/amber_primary</item>
+        <item name="velvetAccent">@color/amber_accent</item>
+        <item name="velvetAccentStroke">@color/amber_stroke</item>
+        <item name="velvetTextPrimary">@color/amber_text</item>
+        <item name="velvetTextMuted">@color/amber_muted</item>
+    </style>
+
+    <!-- 9. Crimson Neon (VIP) -->
+    <style name="Theme.VelvetCouplesGame.NeonSilk" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/neon_bg</item>
+        <item name="velvetSurface">@color/neon_surface</item>
+        <item name="velvetSurfaceElevated">@color/neon_surface_elevated</item>
+        <item name="velvetPrimary">@color/neon_primary</item>
+        <item name="velvetAccent">@color/neon_accent</item>
+        <item name="velvetAccentStroke">@color/neon_stroke</item>
+        <item name="velvetTextPrimary">@color/neon_text</item>
+        <item name="velvetTextMuted">@color/neon_muted</item>
+    </style>
+
+    <!-- 10. Rouge Velvet (绯夜丝绒) -->
+    <style name="Theme.VelvetCouplesGame.RougeVelvet" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/rouge_bg</item>
+        <item name="velvetSurface">@color/rouge_surface</item>
+        <item name="velvetSurfaceElevated">@color/rouge_surface_elevated</item>
+        <item name="velvetPrimary">@color/rouge_primary</item>
+        <item name="velvetAccent">@color/rouge_accent</item>
+        <item name="velvetAccentStroke">@color/rouge_stroke</item>
+        <item name="velvetTextPrimary">@color/rouge_text</item>
+        <item name="velvetTextMuted">@color/rouge_muted</item>
+    </style>
+
+    <!-- 11. Moonlit Lace (月光蕾丝) -->
+    <style name="Theme.VelvetCouplesGame.MoonlitLace" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/moonlit_bg</item>
+        <item name="velvetSurface">@color/moonlit_surface</item>
+        <item name="velvetSurfaceElevated">@color/moonlit_surface_elevated</item>
+        <item name="velvetPrimary">@color/moonlit_primary</item>
+        <item name="velvetAccent">@color/moonlit_accent</item>
+        <item name="velvetAccentStroke">@color/moonlit_stroke</item>
+        <item name="velvetTextPrimary">@color/moonlit_text</item>
+        <item name="velvetTextMuted">@color/moonlit_muted</item>
+    </style>
+
+    <!-- 12. Honey Dusk (蜜色黄昏, VIP) -->
+    <style name="Theme.VelvetCouplesGame.HoneyDusk" parent="Theme.VelvetCouplesGame.Base">
+        <item name="velvetBg">@color/honey_bg</item>
+        <item name="velvetSurface">@color/honey_surface</item>
+        <item name="velvetSurfaceElevated">@color/honey_surface_elevated</item>
+        <item name="velvetPrimary">@color/honey_primary</item>
+        <item name="velvetAccent">@color/honey_accent</item>
+        <item name="velvetAccentStroke">@color/honey_stroke</item>
+        <item name="velvetTextPrimary">@color/honey_text</item>
+        <item name="velvetTextMuted">@color/honey_muted</item>
+    </style>
+</resources>

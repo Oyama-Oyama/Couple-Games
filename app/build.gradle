@@ -1,0 +1,86 @@
+plugins {
+    id 'com.android.application'
+}
+
+android {
+    namespace 'com.velvet.couplesgame'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId "com.velvet.couplesgame"
+        minSdk 26
+        targetSdk 35
+        versionCode 210
+        versionName "2.1.0"
+
+        testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
+
+        // Bundle all 8 supported global languages
+        resourceConfigurations += ["en", "zh-rCN", "zh-rTW", "ja", "ko", "es", "fr", "pt-rBR"]
+
+        javaCompileOptions {
+            annotationProcessorOptions {
+                arguments += [
+                    "room.schemaLocation": "$projectDir/schemas".toString(),
+                    "room.incremental": "true"
+                ]
+            }
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            shrinkResources true
+            // Production release always enforces real Google Play VIP entitlements
+            buildConfigField "boolean", "VIP_PREVIEW_ENABLED", "false"
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+        debug {
+            minifyEnabled false
+            // Dev VIP preview switch: true unlocks all VIP modes, T3/T4 heat tiers & 9 themes during debug;
+            // set to false when testing the free-tier paywall flow.
+            buildConfigField "boolean", "VIP_PREVIEW_ENABLED", "true"
+        }
+    }
+
+    buildFeatures {
+        viewBinding true
+        buildConfig true
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+}
+
+dependencies {
+    implementation 'androidx.appcompat:appcompat:1.7.0'
+    implementation 'androidx.activity:activity:1.9.3'
+    implementation 'com.google.android.material:material:1.12.0'
+    implementation 'androidx.constraintlayout:constraintlayout:2.2.0'
+    implementation 'androidx.recyclerview:recyclerview:1.3.2'
+
+    // MVVM & Navigation
+    implementation 'androidx.lifecycle:lifecycle-viewmodel:2.8.7'
+    implementation 'androidx.lifecycle:lifecycle-livedata:2.8.7'
+    implementation 'androidx.navigation:navigation-fragment:2.8.5'
+    implementation 'androidx.navigation:navigation-ui:2.8.5'
+
+    // Native spring & fling physics animations
+    implementation 'androidx.dynamicanimation:dynamicanimation:1.0.0'
+
+    // Room offline persistence (Java annotation processor)
+    implementation 'androidx.room:room-runtime:2.6.1'
+    annotationProcessor 'androidx.room:room-compiler:2.6.1'
+
+    // Offline JSON assets & template parsing
+    implementation 'com.google.code.gson:gson:2.11.0'
+
+    // Google Play Billing
+    implementation 'com.android.billingclient:billing:7.1.1'
+
+    // Unit testing
+    testImplementation 'junit:junit:4.13.2'
+}
