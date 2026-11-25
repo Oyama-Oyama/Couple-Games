@@ -1442,15 +1442,6 @@
       "tags": [
         "physical_light"
       ]
-    },
-    {
-      "id": "act_v21_104",
-      "label": "Sem pressa Mimar",
-      "icon": "🌙",
-      "tier": 4,
-      "tags": [
-        "physical_light"
-      ]
     }
   ],
   "spots": [

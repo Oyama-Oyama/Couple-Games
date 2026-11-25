@@ -19,6 +19,7 @@ import com.velvet.couplesgame.core.model.TaskType;
 import com.velvet.couplesgame.databinding.FragmentScratchAdventureBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
+import com.velvet.couplesgame.ui.common.SoftLimitPromptHelper;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -110,15 +111,21 @@ public class ScratchAdventureFragment extends Fragment {
         binding.btnScratchNext.setOnClickListener(v -> {
             HapticHelper.confirm(v);
             if (cardRevealed) {
-                engine.markCurrentCompleted();
-                if (engine.getCompletedCount() % 3 == 0) {
-                    container.contentRepository.recordSessionStat("SCRATCH_ADVENTURE", engine.getCompletedCount(), engine.getCompletedCount(), 0);
+                ScratchCardDto current = engine.getCurrentCard();
+                boolean canCountAsCompleted = current == null
+                        || !container.consentFilter.hasSoftLimit(current.tags)
+                        || binding.checkScratchSoftLimitAck.isChecked();
+                if (canCountAsCompleted) {
+                    engine.markCurrentCompleted();
+                    if (engine.getCompletedCount() % 3 == 0) {
+                        container.contentRepository.recordSessionStat("SCRATCH_ADVENTURE", engine.getCompletedCount(), engine.getCompletedCount(), 0);
+                    }
                 }
             }
             presentNextScratchCard();
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadScratchCardsAsync(bundle -> {
             List<ScratchCardDto> combined = new ArrayList<>();
             if (bundle.cards != null) combined.addAll(bundle.cards);
@@ -160,6 +167,8 @@ public class ScratchAdventureFragment extends Fragment {
             binding.tvScratchBody.setText("");
             binding.tvScratchProgress.setText("");
             binding.tvScratchTimer.setVisibility(View.GONE);
+            binding.tvScratchSoftLimitWarning.setVisibility(View.GONE);
+            binding.checkScratchSoftLimitAck.setVisibility(View.GONE);
             binding.btnScratchRevealNow.setVisibility(View.GONE);
             binding.layoutScratchActions.setVisibility(View.GONE);
             binding.scratchOverlay.setVisibility(View.GONE);
@@ -171,6 +180,13 @@ public class ScratchAdventureFragment extends Fragment {
         binding.tvScratchMeta.setText(tierName + " · " + resolveCategoryLabel(card.category));
         binding.tvScratchTitle.setText(card.title);
         binding.tvScratchBody.setText(card.text);
+        SoftLimitPromptHelper.bind(
+                container.consentFilter,
+                card.tags,
+                binding.tvScratchSoftLimitWarning,
+                binding.checkScratchSoftLimitAck,
+                binding.btnScratchTimer
+        );
         binding.tvScratchProgress.setText(getString(R.string.scratch_progress_fmt, 0));
         binding.tvScratchTimer.setVisibility(View.GONE);
         binding.btnScratchRevealNow.setVisibility(View.VISIBLE);

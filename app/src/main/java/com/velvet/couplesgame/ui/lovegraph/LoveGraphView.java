@@ -4,13 +4,19 @@ import android.content.Context;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.RadialGradient;
+import android.graphics.Rect;
 import android.graphics.Shader;
+import android.os.Bundle;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
+import android.view.accessibility.AccessibilityEvent;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.accessibility.AccessibilityNodeInfoCompat;
+import androidx.customview.widget.ExploreByTouchHelper;
 
 import com.velvet.couplesgame.core.lovegraph.LoveGraphEngine;
 
@@ -56,6 +62,7 @@ public class LoveGraphView extends View {
     private int primaryColor = 0xFFF5EFE6;
     private String selectedId = "";
     private OnNodeTapListener tapListener;
+    private ExploreByTouchHelper accessibilityHelper;
 
     public LoveGraphView(Context context) {
         super(context);
@@ -73,6 +80,78 @@ public class LoveGraphView extends View {
     }
 
     private void init() {
+        setClickable(true);
+        setFocusable(true);
+        accessibilityHelper = new ExploreByTouchHelper(this) {
+            @Override
+            protected int getVirtualViewAt(float x, float y) {
+                float hitRadius = 48f * getResources().getDisplayMetrics().density;
+                float bestDistanceSquared = hitRadius * hitRadius;
+                int nearestIndex = INVALID_ID;
+                for (int i = 0; i < hitPoints.size(); i++) {
+                    float[] point = hitPoints.get(i);
+                    float dx = x - point[0];
+                    float dy = y - point[1];
+                    float distanceSquared = dx * dx + dy * dy;
+                    if (distanceSquared <= bestDistanceSquared) {
+                        bestDistanceSquared = distanceSquared;
+                        nearestIndex = i;
+                    }
+                }
+                return nearestIndex;
+            }
+
+            @Override
+            protected void getVisibleVirtualViews(List<Integer> virtualViewIds) {
+                for (int i = 0; i < nodes.size(); i++) virtualViewIds.add(i);
+            }
+
+            @Override
+            protected void onPopulateEventForVirtualView(
+                    int virtualViewId, AccessibilityEvent event) {
+                LoveGraphEngine.Node node = getNode(virtualViewId);
+                if (node != null) event.setContentDescription(accessibilityLabel(node));
+            }
+
+            @Override
+            protected void onPopulateNodeForVirtualView(
+                    int virtualViewId, AccessibilityNodeInfoCompat nodeInfo) {
+                LoveGraphEngine.Node node = getNode(virtualViewId);
+                if (node == null) {
+                    nodeInfo.setContentDescription("");
+                    return;
+                }
+                nodeInfo.setClassName("android.widget.Button");
+                nodeInfo.setContentDescription(accessibilityLabel(node));
+                nodeInfo.setClickable(true);
+                nodeInfo.setFocusable(true);
+                nodeInfo.setSelected(node.id.equals(selectedId));
+                nodeInfo.addAction(AccessibilityNodeInfoCompat.ACTION_CLICK);
+
+                float[] point = virtualViewId < hitPoints.size()
+                        ? hitPoints.get(virtualViewId)
+                        : new float[]{getWidth() / 2f, getHeight() / 2f};
+                int halfTarget = Math.round(24f * getResources().getDisplayMetrics().density);
+                nodeInfo.setBoundsInParent(new Rect(
+                        Math.round(point[0]) - halfTarget,
+                        Math.round(point[1]) - halfTarget,
+                        Math.round(point[0]) + halfTarget,
+                        Math.round(point[1]) + halfTarget
+                ));
+            }
+
+            @Override
+            protected boolean onPerformActionForVirtualView(
+                    int virtualViewId, int action, Bundle arguments) {
+                LoveGraphEngine.Node node = getNode(virtualViewId);
+                if (action != AccessibilityNodeInfoCompat.ACTION_CLICK || node == null) {
+                    return false;
+                }
+                selectNode(node);
+                return true;
+            }
+        };
+        ViewCompat.setAccessibilityDelegate(this, accessibilityHelper);
         linkPaint.setStyle(Paint.Style.STROKE);
         linkPaint.setStrokeCap(Paint.Cap.ROUND);
 
@@ -123,12 +202,14 @@ public class LoveGraphView extends View {
             links.addAll(graph.links);
         }
         invalidate();
+        accessibilityHelper.invalidateRoot();
     }
 
     /** Highlight a node by id; an empty id clears the selection. */
     public void setSelectedNode(String id) {
         selectedId = id != null ? id : "";
         invalidate();
+        accessibilityHelper.invalidateRoot();
     }
 
     public void setOnNodeTapListener(OnNodeTapListener listener) {
@@ -358,14 +439,31 @@ public class LoveGraphView extends View {
             float dy = y - p[1];
             if (dx * dx + dy * dy <= 36f * 36f) {
                 LoveGraphEngine.Node node = nodes.get(i);
-                HapticTap();
-                setSelectedNode(node.id);
-                if (tapListener != null) tapListener.onNodeTapped(node);
+                selectNode(node);
                 performClick();
                 return true;
             }
         }
         return true;
+    }
+
+    private void selectNode(LoveGraphEngine.Node node) {
+        HapticTap();
+        setSelectedNode(node.id);
+        if (tapListener != null) tapListener.onNodeTapped(node);
+    }
+
+    private LoveGraphEngine.Node getNode(int index) {
+        return index >= 0 && index < nodes.size() ? nodes.get(index) : null;
+    }
+
+    private String accessibilityLabel(LoveGraphEngine.Node node) {
+        return getContext().getString(labelResFor(node)) + ", " + node.value;
+    }
+
+    @Override
+    public boolean dispatchHoverEvent(MotionEvent event) {
+        return accessibilityHelper.dispatchHoverEvent(event) || super.dispatchHoverEvent(event);
     }
 
     @Override

@@ -15,7 +15,9 @@ import com.velvet.couplesgame.core.engine.DareTimerHelper;
 import com.velvet.couplesgame.core.i18n.AssetContentLoader.ForeplayStageDto;
 import com.velvet.couplesgame.databinding.FragmentForeplayEscalatorBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
+import com.velvet.couplesgame.ui.common.AftercareDialogHelper;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
+import com.velvet.couplesgame.ui.common.SoftLimitPromptHelper;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -75,13 +77,20 @@ public class ForeplayEscalatorFragment extends Fragment {
                 container.contentRepository.recordSessionStat("FOREPLAY_ESCALATOR", 5, 5, 0);
                 Toast.makeText(requireContext(), R.string.foreplay_complete_toast, Toast.LENGTH_LONG).show();
             }
-            PhysicsAnimator.flipCard3D(binding.cardForeplayStage, this::renderStage);
+            PhysicsAnimator.flipCard3D(binding.cardForeplayStage, () -> {
+                renderStage();
+                if (completed) AftercareDialogHelper.show(this);
+            });
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadExtremeModesAsync(bundle -> {
             List<ForeplayStageDto> combined = new ArrayList<>();
-            if (bundle.foreplayStages != null) combined.addAll(bundle.foreplayStages);
+            if (container.ageGateManager.isAdultContentAllowed()
+                    && maxTier >= 4
+                    && bundle.foreplayStages != null) {
+                combined.addAll(bundle.foreplayStages);
+            }
             combined.addAll(container.modeSynthesizer.synthesizeForeplayStages(
                     container.assetLoader.loadGeneratorBundle(), container.consentFilter, maxTier, 12
             ));
@@ -100,6 +109,8 @@ public class ForeplayEscalatorFragment extends Fragment {
         if (stage == null) {
             binding.tvForeplayTitle.setText(R.string.msg_no_eligible_cards);
             binding.tvForeplayInstruction.setText("");
+            binding.tvForeplaySoftLimitWarning.setVisibility(View.GONE);
+            binding.checkForeplaySoftLimitAck.setVisibility(View.GONE);
             binding.btnForeplayStartTimer.setVisibility(View.GONE);
             binding.btnForeplayNext.setEnabled(false);
             return;
@@ -116,6 +127,14 @@ public class ForeplayEscalatorFragment extends Fragment {
         binding.tvForeplayLead.setText(getString(R.string.foreplay_lead_fmt, lead, receiver));
         binding.tvForeplayStepBadge.setText(getString(R.string.foreplay_step_fmt, stepNum, total));
         binding.tvForeplayTitle.setText(stage.stageTitle);
+        SoftLimitPromptHelper.bind(
+                container.consentFilter,
+                stage.tags,
+                binding.tvForeplaySoftLimitWarning,
+                binding.checkForeplaySoftLimitAck,
+                binding.btnForeplayNext,
+                binding.btnForeplayStartTimer
+        );
         binding.tvForeplayInstruction.setText(stage.instruction);
 
         binding.tvForeplayTimer.setVisibility(View.GONE);

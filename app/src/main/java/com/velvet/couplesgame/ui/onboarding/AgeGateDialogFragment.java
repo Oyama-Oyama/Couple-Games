@@ -5,6 +5,7 @@ import android.content.DialogInterface;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.widget.Toast;
 
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -32,6 +33,7 @@ import com.velvet.couplesgame.databinding.DialogAgeGateBinding;
 public class AgeGateDialogFragment extends DialogFragment {
 
     public static final String TAG = "velvet_age_gate";
+    public static final String RESULT_KEY = "age_gate_completed";
 
     private DialogAgeGateBinding binding;
     private AlertDialog dialog;
@@ -51,23 +53,39 @@ public class AgeGateDialogFragment extends DialogFragment {
         // setOnShowListener 也不会补发 SHOW 消息，listener 永不执行 → 首启白屏。
         dialog = new MaterialAlertDialogBuilder(requireContext())
                 .setView(binding.getRoot())
-                .setPositiveButton(R.string.agegate_confirm, (d, which) -> {
-                    if (!declined) {
-                        // 契约：写盘先于关窗（架架 §2.2），confirm() 内部已 commit()
-                        ageGateManager().confirm(false);
-                    }
-                    setNavHostVisible(true);
-                    dismissAllowingStateLoss();
-                })
-                .setNegativeButton(R.string.agegate_decline, (d, which) -> {
-                    declined = true;
-                    // 写盘先于关窗；decline 为软门禁，不 dismiss，就地切换说明
-                    ageGateManager().confirm(true);
-                    showDeclinedState();
-                })
+                .setPositiveButton(R.string.agegate_confirm, null)
+                .setNegativeButton(R.string.agegate_decline, null)
                 .setCancelable(false)
                 .create();
         return dialog;
+    }
+
+    @Override
+    public void onStart() {
+        super.onStart();
+        declined = ageGateManager().isDeclined();
+        if (declined) showDeclinedState();
+        dialog.getButton(DialogInterface.BUTTON_POSITIVE).setOnClickListener(v -> {
+            if (!declined && !ageGateManager().confirm(false)) {
+                showSaveError();
+                return;
+            }
+            setNavHostVisible(true);
+            dismissAllowingStateLoss();
+            getParentFragmentManager().setFragmentResult(RESULT_KEY, new Bundle());
+        });
+        dialog.getButton(DialogInterface.BUTTON_NEGATIVE).setOnClickListener(v -> {
+            if (!ageGateManager().confirm(true)) {
+                showSaveError();
+                return;
+            }
+            declined = true;
+            showDeclinedState();
+        });
+    }
+
+    private void showSaveError() {
+        Toast.makeText(requireContext(), R.string.agegate_save_failed, Toast.LENGTH_LONG).show();
     }
 
     /** 拒绝后：就地切换为「仅保留基础玩法」说明 + 否定式隐私承诺。 */

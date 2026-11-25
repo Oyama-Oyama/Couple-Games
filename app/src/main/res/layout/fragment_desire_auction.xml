@@ -67,6 +67,28 @@
                 android:textStyle="bold" />
 
             <TextView
+                android:id="@+id/tv_auction_soft_limit_warning"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:accessibilityLiveRegion="polite"
+                android:background="@drawable/bg_card_velvet"
+                android:padding="10dp"
+                android:text="@string/soft_limit_warning"
+                android:textColor="?attr/velvetAccent"
+                android:textSize="13sp"
+                android:visibility="gone" />
+
+            <CheckBox
+                android:id="@+id/check_auction_soft_limit_ack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="@string/soft_limit_ack"
+                android:textColor="?attr/velvetTextPrimary"
+                android:visibility="gone" />
+
+            <TextView
                 android:id="@+id/tv_auction_desc"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
@@ -170,6 +192,14 @@
             android:layout_marginTop="12dp"
             android:orientation="vertical"
             android:visibility="gone">
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_auction_save_voucher"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="match_parent"
+                android:layout_height="48dp"
+                android:text="@string/reward_wallet_save"
+                android:textColor="?attr/velvetAccent" />
 
             <TextView
                 android:id="@+id/tv_auction_timer"

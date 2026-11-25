@@ -85,14 +85,14 @@ public class VelvetBombFragment extends Fragment {
             HapticHelper.confirm(v);
             SimplePromptDto nextRelay = engine.passBomb();
             if (nextRelay != null) {
-                binding.tvBombRelayPrompt.setText(nextRelay.text);
+                renderRelayPrompt(nextRelay);
                 PhysicsAnimator.popIn(binding.tvBombRelayPrompt);
             }
             PhysicsAnimator.popIn(binding.tvBombHolder);
             updateHud();
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadIntimateModesAsync(bundle -> {
             List<SimplePromptDto> combined = new ArrayList<>();
             if (bundle.bombRelays != null) combined.addAll(bundle.bombRelays);
@@ -108,6 +108,13 @@ public class VelvetBombFragment extends Fragment {
         });
     }
 
+    private void renderRelayPrompt(SimplePromptDto relay) {
+        binding.tvBombRelayPrompt.setText(relay.text);
+        binding.tvBombSoftLimitWarning.setVisibility(
+                container.consentFilter.hasSoftLimit(relay.tags) ? View.VISIBLE : View.GONE
+        );
+    }
+
     private void startBombRound() {
         SimplePromptDto relay = engine.armNewRound();
         if (relay == null) {
@@ -116,7 +123,7 @@ public class VelvetBombFragment extends Fragment {
         }
         elapsedMs = 0L;
         lastTickHapticMs = 0L;
-        binding.tvBombRelayPrompt.setText(relay.text);
+        renderRelayPrompt(relay);
         binding.btnArmBomb.setVisibility(View.GONE);
         binding.btnPassBomb.setVisibility(View.VISIBLE);
         PhysicsAnimator.popIn(binding.tvBombRelayPrompt);
@@ -129,6 +136,7 @@ public class VelvetBombFragment extends Fragment {
     private void detonateNow() {
         handler.removeCallbacks(bombTicker);
         boolean loserA = engine.detonate();
+        binding.tvBombSoftLimitWarning.setVisibility(View.GONE);
         HapticHelper.countdownFinished(binding.getRoot());
         binding.bombPulseView.setPulseState(1f, 1.3f, true);
         binding.btnPassBomb.setVisibility(View.GONE);
@@ -140,7 +148,7 @@ public class VelvetBombFragment extends Fragment {
 
         container.contentRepository.recordSessionStat("VELVET_BOMB", engine.getExplosionsA(), engine.getExplosionsB(), 0);
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
             TaskCard dare = container.taskEngine.drawNext(allCards, mutualMatches, maxTier, null, true);
             if (!isAdded()) return;

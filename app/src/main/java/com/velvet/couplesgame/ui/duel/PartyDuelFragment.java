@@ -87,7 +87,7 @@ public class PartyDuelFragment extends Fragment {
             triggerOptionalDare(alternateDareTargetA, getString(R.string.duel_disagree_badge));
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadPartyDuelAsync(bundle -> {
             PartyDuelRootDto enriched = new PartyDuelRootDto();
             List<NhieCardDto> allNhie = bundle.nhie != null ? new ArrayList<>(bundle.nhie) : new ArrayList<>();
@@ -154,7 +154,7 @@ public class PartyDuelFragment extends Fragment {
     }
 
     private void triggerOptionalDare(boolean actorA, String badge) {
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
             TaskCard dare = container.taskEngine.drawNext(allCards, mutualMatches, maxTier, null, true);
             if (!isAdded()) return;

@@ -2,6 +2,7 @@ package com.velvet.couplesgame;
 
 import android.content.Context;
 import com.velvet.couplesgame.core.billing.EntitlementManager;
+import com.velvet.couplesgame.core.billing.FeatureGate;
 import com.velvet.couplesgame.core.billing.PlayBillingBridge;
 import com.velvet.couplesgame.core.dateplanner.DatePlanManager;
 import com.velvet.couplesgame.core.engine.ConsentFilter;
@@ -13,8 +14,11 @@ import com.velvet.couplesgame.core.i18n.AssetContentLoader;
 import com.velvet.couplesgame.core.journal.TonightNoteManager;
 import com.velvet.couplesgame.core.letter.SealedLetterManager;
 import com.velvet.couplesgame.core.profile.AgeGateManager;
+import com.velvet.couplesgame.core.profile.AppLockManager;
 import com.velvet.couplesgame.core.profile.CoupleProfileManager;
+import com.velvet.couplesgame.core.profile.IntimacyPreferenceManager;
 import com.velvet.couplesgame.core.profile.MoodCheckinManager;
+import com.velvet.couplesgame.core.reward.RewardVoucherManager;
 import com.velvet.couplesgame.core.theme.ThemeManager;
 import com.velvet.couplesgame.data.local.AppDatabase;
 import com.velvet.couplesgame.data.repository.ConsentRepository;
@@ -28,9 +32,12 @@ public class AppContainer {
     public final AssetContentLoader assetLoader;
     public final ThemeManager themeManager;
     public final CoupleProfileManager profileManager;
+    public final IntimacyPreferenceManager intimacyPreferenceManager;
     public final AgeGateManager ageGateManager;
+    public final AppLockManager appLockManager;
     public final TonightNoteManager tonightNoteManager;
     public final MoodCheckinManager moodCheckinManager;
+    public final RewardVoucherManager rewardVoucherManager;
     public final DatePlanManager datePlanManager;
     public final SealedLetterManager letterManager;
     public final ConsentFilter consentFilter;
@@ -43,15 +50,26 @@ public class AppContainer {
     public final EntitlementManager entitlementManager;
     public final PlayBillingBridge billingBridge;
 
+    public int getEffectiveMaxTier() {
+        return AgeGateManager.resolveEffectiveMaxTier(
+                ageGateManager.isAdultContentAllowed(),
+                entitlementManager.getSelectedMaxTier(),
+                FeatureGate.FREE_MAX_TIER
+        );
+    }
+
     public AppContainer(Context context) {
         Context appContext = context.getApplicationContext();
         this.database = AppDatabase.create(appContext);
         this.assetLoader = new AssetContentLoader(appContext);
         this.themeManager = new ThemeManager(appContext);
         this.profileManager = new CoupleProfileManager(appContext);
+        this.intimacyPreferenceManager = new IntimacyPreferenceManager(appContext);
         this.ageGateManager = new AgeGateManager(appContext);
+        this.appLockManager = new AppLockManager(appContext);
         this.tonightNoteManager = new TonightNoteManager(appContext);
         this.moodCheckinManager = new MoodCheckinManager(appContext);
+        this.rewardVoucherManager = new RewardVoucherManager(appContext);
         this.datePlanManager = new DatePlanManager(appContext);
         this.letterManager = new SealedLetterManager(appContext);
         this.consentFilter = new ConsentFilter();

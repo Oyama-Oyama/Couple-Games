@@ -19,7 +19,10 @@ import com.velvet.couplesgame.core.model.TaskType;
 import com.velvet.couplesgame.databinding.FragmentFateCubesBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
+import com.velvet.couplesgame.ui.common.SoftLimitPromptHelper;
+import java.util.ArrayList;
 import java.util.Collections;
+import java.util.List;
 
 /**
  * 6th Game Mode: Fate Cubes (Top Action Block x Bottom Body Spot Block + Bonus Wild Modifier & Timer).
@@ -134,7 +137,7 @@ public class FateCubesFragment extends Fragment {
             resetCubesToIdle();
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadFateCubesAsync(bundle -> {
             if (!isAdded()) return;
             requireActivity().runOnUiThread(() -> {
@@ -228,6 +231,20 @@ public class FateCubesFragment extends Fragment {
             binding.tvComboModifier.setVisibility(View.GONE);
             binding.btnComboTimer.setText(getString(R.string.btn_start_timer, 20));
         }
+
+        List<String> comboTags = new ArrayList<>();
+        CubeFaceDto selectedAction = engine.getSelectedAction();
+        CubeFaceDto selectedSpot = engine.getSelectedSpot();
+        if (selectedAction != null && selectedAction.tags != null) comboTags.addAll(selectedAction.tags);
+        if (selectedSpot != null && selectedSpot.tags != null) comboTags.addAll(selectedSpot.tags);
+        if (mod != null && mod.tags != null) comboTags.addAll(mod.tags);
+        SoftLimitPromptHelper.bind(
+                container.consentFilter,
+                comboTags,
+                binding.tvComboSoftLimitWarning,
+                binding.checkComboSoftLimitAck,
+                binding.btnComboTimer
+        );
 
         binding.btnSaveCombo.setText(R.string.btn_favorite);
         CubeFaceDto a = engine.getSelectedAction();

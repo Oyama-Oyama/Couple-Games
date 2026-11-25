@@ -37,6 +37,7 @@
     <!-- Partner A -->
     <TextView
         android:id="@+id/tv_tn_prompt_a"
+        android:labelFor="@id/et_tn_note_a"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="14dp"
@@ -62,6 +63,7 @@
     <!-- Partner B -->
     <TextView
         android:id="@+id/tv_tn_prompt_b"
+        android:labelFor="@id/et_tn_note_b"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="12dp"
@@ -152,12 +154,4 @@
             android:textSize="12sp" />
     </RadioGroup>
 
-    <com.google.android.material.button.MaterialButton
-        android:id="@+id/btn_tn_save"
-        android:layout_width="match_parent"
-        android:layout_height="48dp"
-        android:layout_marginTop="10dp"
-        android:backgroundTint="?attr/velvetPrimary"
-        android:text="@string/tonight_note_save"
-        android:textColor="?attr/velvetTextPrimary" />
 </LinearLayout>

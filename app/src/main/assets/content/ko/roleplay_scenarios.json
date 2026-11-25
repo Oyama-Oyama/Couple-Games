@@ -60,7 +60,7 @@
         {
           "actTitle": "3막 · 히든 코스",
           "durationSec": 30,
-          "direction": "{lead}님이 {partner}님의 턱을 부드럽게 돌려 턱선과 입술에 부드럽게 가까이를 남깁니다.",
+          "direction": "{partner}님이 원한다면 {lead}님이 턱을 살짝 받쳐 돌리고 턱선 가까이에 부드럽게 입맞춥니다.",
           "whisperLine": "「지금부터는 메뉴판에 없는 시크릿 코스예요.」"
         }
       ]
@@ -1343,7 +1343,7 @@
         {
           "actTitle": "1막 · 설레는 시작",
           "durationSec": 45,
-          "direction": "{lead}이(가) 무드등 켜진 러그 위에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고을(를) 안내.",
+          "direction": "{lead}와(과) {partner}가 함께 편한 자세를 고르고, 손은 자유롭게 둔 채 천천히 입맞춤을 나눕니다. 누구든 언제든 멈출 수 있습니다.",
           "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
         },
         {
@@ -1530,31 +1530,89 @@
       "tier": 4,
       "tags": [
         "roleplay",
-        "restraint_light",
-        "clothing_dare"
+        "clothing_dare",
+        "deep_talk"
       ],
-      "title": "자정의 지배자 · 드레스룸 거울 앞",
-      "subtitle": "완전한 주도권을 즐기는 '가명으로 펜트하우스에 체크인한 비밀 일탈' 하이텐션 시나리오",
-      "leadRole": "리드 역할",
-      "partnerRole": "파트너 역할",
+      "title": "한밤의 체크인 · 두 개의 이름, 하나의 비밀",
+      "subtitle": "두 사람이 함께 정하는 가상의 스위트룸 3막 역할극.",
+      "leadRole": "열쇠를 가진 사람",
+      "partnerRole": "초대받은 사람",
       "acts": [
         {
-          "actTitle": "1막 · 설레는 시작",
+          "actTitle": "1막 · 예약",
           "durationSec": 45,
-          "direction": "{lead}이(가) 드레스룸 거울 앞에서 '가명으로 펜트하우스에 체크인한 비밀 일탈'을(를) 선언하고 {partner}에게 한 손으로 양손목을 머리 위에 살짝 눌러 고정하고을(를) 안내.",
-          "whisperLine": "「지금부터는 눈 감고 전부 나한테 맡겨.」"
+          "direction": "{lead}가 가명을 두 개 제안하고 {partner}에게 어떤 이름이 좋은지 물어봅니다. 시작하기 전에 쉬어 갈 신호와 편안한 자세를 함께 정하세요.",
+          "whisperLine": "오늘 밤 이야기는 우리 둘이 함께 고르자."
         },
         {
-          "actTitle": "2막 · 고조되는 긴장",
+          "actTitle": "2막 · 거울 앞에서",
           "durationSec": 55,
-          "direction": "{lead}이(가) 극도로 느린 손끝로 액세서리 1개 + 겉옷 1겹을(를) 젖히고 '머리카락을 쓸다 목선을 당겨오는 포옹'로 아랫배 라인을(를) 자극.",
-          "whisperLine": "「소리 참아 봐… 참을수록 더 짜릿해질 거야.」"
+          "direction": "옷을 입은 채 {lead}가 거울 앞에서 {partner} 곁에 서서 매력적으로 느끼는 점을 하나 말합니다. 가까이 가기 전에 물어보세요. 미소나 손잡기만으로도 충분해요.",
+          "whisperLine": "원하는 게 뭔지 말해 줘. 잘 들을게."
         },
         {
-          "actTitle": "3막 · 자정의 피날레",
+          "actTitle": "3막 · 객실 열쇠",
           "durationSec": 65,
-          "direction": "'침실 벽에 기대어 천천히 가까이하는 자세' 자세로 넘어가 {lead}이(가) {partner}의 등줄기 맨 아래을(를) 집중 장난스럽게 깨문 직후 키스로 달래주세요.",
-          "whisperLine": "「네가 진짜 원하던 게 바로 이거 맞지?」"
+          "direction": "마무리할 다정한 행동을 함께 고르세요. 키스, 포옹, 또는 아무것도 하지 않고 말만 나눠도 괜찮아요. 좋았던 점을 하나씩 나누고 누구든 쉬거나 끝낼 수 있어요.",
+          "whisperLine": "다음 장면도 우리 둘이 정하자."
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_01",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk"],
+      "title": "마지막 서점",
+      "subtitle": "눈빛과 이야기를 나누는, 문 닫은 뒤의 조용한 만남.",
+      "leadRole": "서점 주인",
+      "partnerRole": "마지막 손님",
+      "acts": [
+        {
+          "actTitle": "1분만 더",
+          "durationSec": 45,
+          "direction": "두 사람 모두 원한다면 {lead}가 {partner}에게 함께 책장을 둘러보자고 제안하고, 서로에게 한 권씩 골라 줍니다. 선택한 이유를 한 문장으로 말해요.",
+          "whisperLine": "당신을 위해 마지막 이야기를 남겨 뒀어요."
+        },
+        {
+          "actTitle": "빌려 온 한 문장",
+          "durationSec": 55,
+          "direction": "{partner}가 좋아하는 책 문장을 나누거나 직접 만들어 봅니다. {lead}는 조금 더 가까이 앉아도 괜찮은지 물어봐요. 어떤 대답이든 장면의 일부예요.",
+          "whisperLine": "어떤 이야기는 조용히 나눌 때 더 좋아요."
+        },
+        {
+          "actTitle": "마감 시간",
+          "durationSec": 60,
+          "direction": "서로에게서 좋아하는 점을 하나씩 말한 뒤, 손잡기나 포옹, 다정한 인사 중 어떻게 마칠지 함께 골라요.",
+          "whisperLine": "한 장만 더, 당신과 함께 있고 싶어요."
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_02",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk", "physical_light"],
+      "title": "옥상에서 비를 피하며",
+      "subtitle": "늦어진 예약이 두 사람의 속도에 맞춘 촛불 데이트로 바뀌어요.",
+      "leadRole": "맞이하는 사람",
+      "partnerRole": "초대받은 사람",
+      "acts": [
+        {
+          "actTitle": "초대",
+          "durationSec": 45,
+          "direction": "먼저 장면과 쉬어 갈 신호를 정하세요. {lead}가 상상 속 옥상 테이블에서 {partner}를 맞이하며, 편안한 저녁을 위해 무엇이 좋을지 물어봅니다.",
+          "whisperLine": "비 오는 밤인데도 와 줘서 기뻐요."
+        },
+        {
+          "actTitle": "야경",
+          "durationSec": 55,
+          "direction": "상상 속 밤하늘에서 마음에 드는 장면을 하나씩 말해요. 두 사람 모두 원하면 손을 잡고, 아니라면 말로만 이 순간을 즐겨요.",
+          "whisperLine": "풍경도 아름답지만 자꾸 당신을 보게 돼요."
+        },
+        {
+          "actTitle": "다음 데이트",
+          "durationSec": 60,
+          "direction": "다음 데이트에서 해 보고 싶은 작은 일을 하나 나눠요. 키스, 포옹, 말로 전하는 칭찬 중 함께 골라 마무리하고, 누구든 건너뛸 수 있어요.",
+          "whisperLine": "다음 만남을 조금 기대하게 남겨 둘게요."
         }
       ]
     }

@@ -74,7 +74,7 @@
         "timed"
       ],
       "durationSec": 60,
-      "pattern": "パートナーに目を閉じて身を委ねてもらい、焦らず{safe_zone}を{duration}秒間{action_gentle}してください。  ここは二人だけ。言ってくれれば止めるよ。"
+      "pattern": "二人とも事前に同意している場合に限り、パートナーに目を閉じて身を委ねてもらい、焦らず{safe_zone}を{duration}秒間{action_gentle}してください。  ここは二人だけ。言ってくれれば止めるよ。"
     },
     {
       "id": "gen_bold_02",
@@ -98,7 +98,7 @@
         "indoor"
       ],
       "durationSec": 30,
-      "pattern": "{constraint}ながら、パートナーの{intimate_zone}を{duration}秒間{action_bold}してください。  ここは二人だけ。言ってくれれば止めるよ。"
+      "pattern": "{constraint}を意識しながら、パートナーの{intimate_zone}を{duration}秒かけて{action_bold}ください。ここは二人だけ。言ってくれればいつでも止めるよ。"
     },
     {
       "id": "gen_hot_02",
@@ -111,7 +111,7 @@
         "indoor"
       ],
       "durationSec": 30,
-      "pattern": "濃厚ペナルティ：パートナーの両手を後ろでそっとそっと包みたまま、{intimate_zone}を{duration}秒間{action_bold}して。  他はおいておこう。いつでもやめていいよ。"
+      "pattern": "二人とも事前に同意している場合のみ、パートナーの両手をそっと包み、{intimate_zone}を{duration}秒かけて{action_bold}。いつでも休止・終了できるよ。"
     },
     {
       "id": "gen_hot_03",
@@ -122,7 +122,7 @@
         "indoor"
       ],
       "durationSec": 0,
-      "pattern": "大胆2択：{playful dare_twist}——それとも30秒間{intimate_zone}を{action_bold}される？  ここは二人だけ。言ってくれれば止めるよ。"
+      "pattern": "大胆な二択：{playful_dare_twist}。または、パートナーに{intimate_zone}へ30秒ほどゆっくりキスしてもらおう。どちらかが「ストップ」と言ったら、すぐに止めて。"
     },
     {
       "id": "gen_hot_04",
@@ -135,7 +135,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "目を閉じたパートナーの{intimate_zone}へ、温かい吐息と{action_bold}を交互に{duration}秒間。  他はおいておこう。いつでもやめていいよ。"
+      "pattern": "二人とも事前に同意している場合は、パートナーに目を閉じてもらい、{intimate_zone}に温かい息とゆっくりしたキスを交互に届けて（{duration}秒）。いつでも止めていいよ。"
     },
     {
       "id": "gen_explore_01",
@@ -159,7 +159,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "熱い吐息と{action_bold}を交互に{intimate_zone}から{explore_end}へ{duration}秒間——体が震えたら3秒止めて焦らして。  他はおいておこう。いつでもやめていいよ。"
+      "pattern": "相手の{intimate_zone}から{explore_end}へ、温かい息とゆっくりしたキスを交互に届けて（{duration}秒）。相手が身震いしたら3秒止めて。いつでも中断できるよ。"
     },
     {
       "id": "gen_explore_03",
@@ -172,7 +172,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "{restraint_pose}、キス返し禁止のまま相手の{intimate_zone}と{explore_end}を{duration}秒間{action_bold}して。  ここは二人だけ。言ってくれれば止めるよ。"
+      "pattern": "二人とも事前に同意している場合は、キスを返さなくてもよいラウンドを試してみよう。{intimate_zone}や{explore_end}を優しく探り、最長{duration}秒で終えて。どちらかが気持ちを変えたら、いつでも休止・終了できるよ。"
     },
     {
       "id": "gen_explore_04",
@@ -198,7 +198,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "目隠しボディ探索：{sensory_item}で{explore_start}から{explore_end}をなぞり、すぐ熱いキスで追いかけて（{duration}秒）。  ここは二人だけ。言ってくれれば止めるよ。"
+      "pattern": "二人とも事前に同意している場合に限り、目隠しボディ探索：{sensory_item}で{explore_start}から{explore_end}をなぞり、すぐ熱いキスで追いかけて（{duration}秒）。  ここは二人だけ。言ってくれれば止めるよ。"
     },
     {
       "id": "gen_explore_06",
@@ -210,7 +210,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "パートナーを「{intimate_pose}」へ導き、腰を引き寄せて{intimate_zone}を{duration}秒間{action_bold}しながら次の願いをささやいて。  他はおいておこう。いつでもやめていいよ。"
+      "pattern": "二人とも事前に同意している場合のみ、パートナーを「{intimate_pose}」へ導き、{intimate_zone}を{duration}秒かけて{action_bold}。そのあと、次にしてほしいことをささやいて。"
     },
     {
       "id": "gen_explore_07",
@@ -236,7 +236,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "限界焦らしテスト：{intimate_zone}と{explore_end}を{duration}秒間{action_bold}——我慢できず手が出たら追加ちょっとした挑戦：{playful dare_twist}。  他はおいておこう。いつでもやめていいよ。"
+      "pattern": "相手も望む場合にだけ、二人が心地よい触れ方で{intimate_zone}や{explore_end}を最長{duration}秒楽しもう。追加の遊びは罰ではなく二人で決めて、どちらもいつでも休止・終了できるよ。"
     },
     {
       "id": "gen_spark_03",
@@ -328,7 +328,7 @@
         "indoor"
       ],
       "durationSec": 40,
-      "pattern": "{room_spot}で相手に{duration}秒目を閉じさせ、{safe_zone}へ「{touch_contrast}」で不意打ちして。"
+      "pattern": "二人とも事前に同意している場合に限り、{room_spot}で相手に{duration}秒目を閉じさせ、{safe_zone}へ「{touch_contrast}」で不意打ちして。"
     },
     {
       "id": "gen_playful_06",
@@ -411,7 +411,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "相手を「{intimate_pose}」へ導き、「{whisper_topic}」を囁きながら{intimate_zone}を{duration}秒{action_bold}。  ここは二人だけ。言ってくれれば止めるよ。"
+      "pattern": "パートナーを「{intimate_pose}」へ導き、{intimate_zone}を{duration}秒かけて{action_bold}。その間に「{whisper_topic}」とささやいて。"
     },
     {
       "id": "gen_flirty_06",
@@ -437,7 +437,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "{room_spot}で相手に目隠しをして、{sensory_item}を{intimate_zone}と{explore_end}へ{duration}秒滑らせて。  ここは二人だけ。言ってくれれば止めるよ。"
+      "pattern": "二人とも事前に同意している場合に限り、{room_spot}で相手に目隠しをして、{sensory_item}を{intimate_zone}と{explore_end}へ{duration}秒滑らせて。  ここは二人だけ。言ってくれれば止めるよ。"
     },
     {
       "id": "gen_flirty_08",
@@ -461,7 +461,7 @@
         "indoor"
       ],
       "durationSec": 40,
-      "pattern": "まばたき禁止の見つめ合い：{intimate_zone}を{duration}秒{action_bold}——先に目を逸らしたらちょっとした挑戦：{playful dare_twist}。  ここは二人だけ。言ってくれれば止めるよ。"
+      "pattern": "二人が望むなら、目を合わせてみよう。{intimate_zone}を{duration}秒かけて{action_bold}。先に目をそらした人は、二人で選んだ小さなチャレンジ「{playful_dare_twist}」に挑戦。いつでも止めていいよ。"
     },
     {
       "id": "gen_explore_09",
@@ -474,7 +474,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "{room_spot}で{restraint_pose}、「{touch_contrast}」を{explore_start}と{explore_end}に{duration}秒交互に与えて。  他はおいておこう。いつでもやめていいよ。"
+      "pattern": "二人とも事前に同意している場合に限り、{room_spot}で{restraint_pose}、「{touch_contrast}」を{explore_start}と{explore_end}に{duration}秒交互に与えて。  他はおいておこう。いつでもやめていいよ。"
     },
     {
       "id": "gen_explore_10",
@@ -487,7 +487,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "{tease_tool}で{garment_piece}を外すかずらし、「{intimate_pose}」の体勢で{explore_end}を{duration}秒{action_bold}。  ここは二人だけ。言ってくれれば止めるよ。"
+      "pattern": "二人とも事前に同意している場合のみ、{garment_piece}を少しずらし、パートナーを「{intimate_pose}」へ導いて、{explore_end}を{duration}秒かけて{action_bold}。"
     },
     {
       "id": "gen_explore_11",
@@ -500,7 +500,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "感覚オーバーロード（{duration}秒）：目隠しした相手の{explore_start}〜{explore_end}へ{sensory_item}を当て、直後に{action_bold}（{tempo_rule}）。  他はおいておこう。いつでもやめていいよ。"
+      "pattern": "二人とも事前に同意している場合のみ、感覚を楽しむラウンド（{duration}秒）を試そう。目隠しをして、{sensory_item}を使って{explore_start}から{explore_end}までゆっくりなぞって。{tempo_rule}を守り、いつでも止めていいよ。"
     },
     {
       "id": "gen_explore_12",
@@ -511,7 +511,7 @@
         "restraint_light"
       ],
       "durationSec": 0,
-      "pattern": "真夜中の限界告白：{secret_question} —— 話し終えたら{duration}秒委ね、相手のちょっとした挑戦：{playful dare_twist}を受け入れて。  ここは二人だけ。言ってくれれば止めるよ。"
+      "pattern": "二人とも事前に同意している場合に限り、真夜中の限界告白：{secret_question} —— 話し終えたら{duration}秒委ね、相手のちょっとした挑戦：{playful_dare_twist}を受け入れて。  ここは二人だけ。言ってくれれば止めるよ。"
     },
     {
       "id": "gen_explore_13",
@@ -524,7 +524,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "{room_spot}の完全支配ラウンド：{restraint_pose}、「{whisper_topic}」を囁きつつ{intimate_zone}〜{explore_end}を{duration}秒攻め——声が出たら追加ちょっとした挑戦：{playful dare_twist}。  他はおいておこう。いつでもやめていいよ。"
+      "pattern": "二人とも事前に同意している場合は、{room_spot}で交代しながらリードしてみよう。{whisper_topic}を打ち明け、{intimate_zone}から{explore_end}へ最長{duration}秒かけて触れてみて。遊びの要素は二人で選び、どちらもいつでも休止・中止できるよ。"
     },
     {
       "id": "gen_v2_t1_tr1",
@@ -712,14 +712,10 @@
       "目が言葉を代わりに語るままに"
     ],
     "action_bold": [
-      "優しくやさしいキスして",
-      "息を沿わせてじらすように息をそっと寄せて",
-      "息が上がるほど深くキスして",
-      "唇と指先を交互に使って焦らして",
-      "そっと吸い上げてから深くキスして",
-      "湿った息を沿わせてゆっくりなぞって",
-      "やさしいキスの直後に優しくキスで癒やして",
-      "熱い吐息とキスを連続で落として"
+      "そっと撫でて",
+      "指先でなぞって",
+      "手のひらでやさしく包んで",
+      "ゆっくり撫でて"
     ],
     "intimate_zone": [
       "耳たぶ",
@@ -830,7 +826,7 @@
       "耳元で囁かれるどんなストレートな言葉や呼び方に一番ドキッとする？",
       "これまでで一番良かった体位と、今夜新しく試してみたい体位は？"
     ],
-    "playful dare_twist": [
+    "playful_dare_twist": [
       "最後まで取っておいた言葉を、私に聞かせて",
       "少し心地よくなるまで、目を合わせ続けて",
       "二人だけが知っている小さなことを一言",
@@ -888,7 +884,7 @@
         ],
         "category": "DARE",
         "title": "真夜中の支配",
-        "pattern": "{restraint_pose}、相手の{intimate_zone}と{explore_end}を{duration}秒間{action_bold}。  他はおいておこう。いつでもやめていいよ。"
+        "pattern": "二人とも事前に同意している場合に限り、{restraint_pose}、相手の{intimate_zone}と{explore_end}を{duration}秒間{action_bold}。  他はおいておこう。いつでもやめていいよ。"
       },
       {
         "id": "ms_l1",
@@ -949,7 +945,7 @@
         ],
         "category": "FANTASY",
         "title": "目隠し感覚ハント",
-        "pattern": "{room_spot}で目隠しをし、{sensory_item}と熱いキスを{explore_start}〜{explore_end}に{duration}秒交互に。  ここは二人だけ。言ってくれれば止めるよ。"
+        "pattern": "二人とも事前に同意している場合に限り、{room_spot}で目隠しをし、{sensory_item}と熱いキスを{explore_start}〜{explore_end}に{duration}秒交互に。  ここは二人だけ。言ってくれれば止めるよ。"
       },
       {
         "id": "ms_f3",
@@ -962,7 +958,7 @@
         ],
         "category": "FANTASY",
         "title": "完全委ねファンタジー",
-        "pattern": "「{intimate_pose}」の体勢で{tease_tool}を使い{garment_piece}をずらし、{explore_end}を{duration}秒{action_bold}。  他はおいておこう。いつでもやめていいよ。"
+        "pattern": "二人とも事前に同意している場合に限り、「{intimate_pose}」の体勢で{tease_tool}を使い{garment_piece}をずらし、{explore_end}を{duration}秒{action_bold}。  他はおいておこう。いつでもやめていいよ。"
       }
     ],
     "bomb": [
@@ -1019,7 +1015,7 @@
           "restraint_light",
           "bite_lick"
         ],
-        "pattern": "相手の{explore_end}を3秒{action_bold}して爆発前にパス！  ここは二人だけ。言ってくれれば止めるよ。"
+        "pattern": "二人とも事前に同意している場合に限り、相手の{explore_end}を3秒{action_bold}して爆発前にパス！  ここは二人だけ。言ってくれれば止めるよ。"
       },
       {
         "id": "mb_v2_1",
@@ -1103,7 +1099,7 @@
         "tags": [
           "restraint_light"
         ],
-        "pattern": "耐久テスト：ゲージ満タンまで{intimate_zone}を「{touch_contrast}」で攻め続けて！  他はおいておこう。いつでもやめていいよ。"
+        "pattern": "二人とも事前に同意している場合に限り、耐久テスト：ゲージ満タンまで{intimate_zone}を「{touch_contrast}」で攻め続けて！  他はおいておこう。いつでもやめていいよ。"
       },
       {
         "id": "mh_v2_1",
@@ -1177,7 +1173,7 @@
         "tags": [
           "restraint_light"
         ],
-        "pattern": "{restraint_pose}＋{intimate_zone}を{duration}秒{action_bold}  ここは二人だけ。言ってくれれば止めるよ。"
+        "pattern": "二人とも事前に同意している場合に限り、{restraint_pose}＋{intimate_zone}を{duration}秒{action_bold}  ここは二人だけ。言ってくれれば止めるよ。"
       }
     ],
     "auction": [
@@ -1230,7 +1226,7 @@
           "bite_lick"
         ],
         "title": "真夜中の支配権",
-        "pattern": "{restraint_pose}、{intimate_zone}〜{explore_end}を{duration}秒攻め——声が出たら追加ちょっとした挑戦：{playful dare_twist}。  他はおいておこう。いつでもやめていいよ。"
+        "pattern": "二人とも事前に同意している場合は、{room_spot}で交代しながらリードしてみよう。{whisper_topic}を打ち明け、{intimate_zone}から{explore_end}へ最長{duration}秒かけて触れてみて。遊びの要素は二人で選び、どちらもいつでも休止・中止できるよ。"
       }
     ],
     "desire_match": [
@@ -1283,7 +1279,7 @@
           "physical_light",
           "indoor"
         ],
-        "pattern": "目隠し感覚ナイト（{duration}秒）：{sensory_item}と熱いキスで{explore_start}〜{explore_end}を探索。  ここは二人だけ。言ってくれれば止めるよ。"
+        "pattern": "二人とも事前に同意している場合に限り、目隠し感覚ナイト（{duration}秒）：{sensory_item}と熱いキスで{explore_start}〜{explore_end}を探索。  ここは二人だけ。言ってくれれば止めるよ。"
       },
       {
         "id": "md_6",
@@ -1294,7 +1290,7 @@
           "clothing_dare",
           "indoor"
         ],
-        "pattern": "「{intimate_pose}」を試す：{tease_tool}で{garment_piece}をずらし、{explore_end}を{duration}秒探索。  他はおいておこう。いつでもやめていいよ。"
+        "pattern": "二人とも事前に同意している場合に限り、「{intimate_pose}」を試す：{tease_tool}で{garment_piece}をずらし、{explore_end}を{duration}秒探索。  他はおいておこう。いつでもやめていいよ。"
       }
     ],
     "props": [
@@ -1319,7 +1315,7 @@
           "indoor"
         ],
         "category": "blindfold",
-        "pattern": "{room_spot}で目隠しをして、{intimate_zone}と{explore_end}へ「{touch_contrast}」（{duration}秒・{tempo_rule}）。  他はおいておこう。いつでもやめていいよ。"
+        "pattern": "二人とも事前に同意している場合に限り、{room_spot}で目隠しをして、{intimate_zone}と{explore_end}へ「{touch_contrast}」（{duration}秒・{tempo_rule}）。  他はおいておこう。いつでもやめていいよ。"
       },
       {
         "id": "mp_oil",
@@ -1341,7 +1337,7 @@
           "indoor"
         ],
         "category": "tie",
-        "pattern": "シルクのネクタイやスカーフで{restraint_pose}、{intimate_zone}と{explore_end}を{duration}秒{action_bold}。  ここは二人だけ。言ってくれれば止めるよ。"
+        "pattern": "二人とも事前に同意している場合に限り、シルクのネクタイやスカーフで{restraint_pose}、{intimate_zone}と{explore_end}を{duration}秒{action_bold}。  ここは二人だけ。言ってくれれば止めるよ。"
       },
       {
         "id": "mp_honey",
@@ -1397,7 +1393,7 @@
           "indoor"
         ],
         "category": "blindfold",
-        "pattern": "目隠しをして{room_spot}で{safe_zone}を{action_gentle}、「{whisper_topic}」を囁いて（{duration}秒）。"
+        "pattern": "二人とも事前に同意している場合に限り、目隠しをして{room_spot}で{safe_zone}を{action_gentle}、「{whisper_topic}」を囁いて（{duration}秒）。"
       },
       {
         "id": "mp_v2_oil_t1",
@@ -1504,7 +1500,7 @@
           "restraint_light"
         ],
         "title": "{room_spot}",
-        "pattern": "{room_spot}で{restraint_pose}、{intimate_zone}を焦らす（{duration}秒）。  ここは二人だけ。言ってくれれば止めるよ。"
+        "pattern": "二人とも事前に同意している場合に限り、{room_spot}で{restraint_pose}、{intimate_zone}を焦らす（{duration}秒）。  ここは二人だけ。言ってくれれば止めるよ。"
       },
       {
         "id": "mc_6",
@@ -1515,7 +1511,7 @@
           "restraint_light"
         ],
         "title": "⚡{explore_end}",
-        "pattern": "「{intimate_pose}」で{explore_end}を{duration}秒{action_bold}。  他はおいておこう。いつでもやめていいよ。"
+        "pattern": "二人とも事前に同意している場合に限り、「{intimate_pose}」で{explore_end}を{duration}秒{action_bold}。  他はおいておこう。いつでもやめていいよ。"
       }
     ],
     "ladder": [
@@ -1527,7 +1523,7 @@
           "physical_light",
           "deep_talk"
         ],
-        "pattern": "{duration}秒間止まらずに{safe_zone}を{action_gentle}（{constraint}）。",
+        "pattern": "{duration}秒間無理のないペースで{safe_zone}を{action_gentle}（{constraint}）。",
         "secondaryPattern": "{secret_question}"
       },
       {
@@ -1561,7 +1557,7 @@
           "bite_lick",
           "deep_talk"
         ],
-        "pattern": "{restraint_pose}、{intimate_zone}と{explore_end}を{duration}秒ずっと{action_bold}！  他はおいておこう。いつでもやめていいよ。",
+        "pattern": "二人とも事前に同意している場合に限り、{restraint_pose}、{intimate_zone}と{explore_end}を{duration}秒ずっと{action_bold}！  他はおいておこう。いつでもやめていいよ。",
         "secondaryPattern": "{secret_question}"
       }
     ],
@@ -1640,7 +1636,7 @@
           "restraint_light",
           "bite_lick"
         ],
-        "pattern": "🔥 真夜中ヒット！{restraint_pose}、相手の「{zone}」を{duration}秒止まらず{action_bold}！  ここは二人だけ。言ってくれれば止めるよ。"
+        "pattern": "二人とも事前に同意している場合に限り、🔥 真夜中ヒット！{restraint_pose}、相手の「{zone}」を{duration}秒無理のないペースで{action_bold}！  ここは二人だけ。言ってくれれば止めるよ。"
       },
       {
         "id": "mbh_v2_1",
@@ -1732,7 +1728,7 @@
           "restraint_light"
         ],
         "durationSec": 0,
-        "pattern": "{room_spot}で{touch_contrast}を試したらどんな顔をするか想像したことがある。  ここは二人だけ。言ってくれれば止めるよ。"
+        "pattern": "二人とも事前に同意している場合に限り、{room_spot}で{touch_contrast}を試したらどんな顔をするか想像したことがある。  ここは二人だけ。言ってくれれば止めるよ。"
       },
       {
         "id": "nh_v2_1",
@@ -1806,7 +1802,7 @@
           "indoor"
         ],
         "title": "真夜中の解放 · {explore_end}",
-        "pattern": "{restraint_pose}、{tease_tool}で{garment_piece}をずらし{explore_end}を{action_bold}（{duration}秒）。  ここは二人だけ。言ってくれれば止めるよ。"
+        "pattern": "二人とも事前に同意している場合に限り、{restraint_pose}、{tease_tool}で{garment_piece}をずらし{explore_end}を{action_bold}（{duration}秒）。  ここは二人だけ。言ってくれれば止めるよ。"
       }
     ],
     "roleplay": [
@@ -1853,7 +1849,7 @@
           "clothing_dare"
         ],
         "title": "真夜中の支配 · {room_spot}",
-        "pattern": "濃厚劇：{fantasy_hook}。{room_spot}で{restraint_pose}、{garment_piece}を{tease_tool}でずらし{explore_end}を{action_bold}。  ここは二人だけ。言ってくれれば止めるよ。"
+        "pattern": "二人とも事前に同意している場合に限り、濃厚劇：{fantasy_hook}。{room_spot}で{restraint_pose}、{garment_piece}を{tease_tool}でずらし{explore_end}を{action_bold}。  ここは二人だけ。言ってくれれば止めるよ。"
       }
     ],
     "positions": [

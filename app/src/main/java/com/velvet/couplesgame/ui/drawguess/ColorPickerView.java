@@ -9,7 +9,9 @@ import android.graphics.Paint;
 import android.graphics.PorterDuff;
 import android.graphics.RectF;
 import android.graphics.Shader;
+import android.os.Bundle;
 import android.util.AttributeSet;
+import android.view.accessibility.AccessibilityNodeInfo;
 import android.view.MotionEvent;
 import android.view.View;
 import androidx.annotation.NonNull;
@@ -65,6 +67,8 @@ public class ColorPickerView extends View {
     }
 
     private void init() {
+        setClickable(true);
+        setFocusable(true);
         // Software layer ensures ComposeShader (MULTIPLY) renders identically across all GPUs/emulators
         setLayerType(LAYER_TYPE_SOFTWARE, null);
         float d = getResources().getDisplayMetrics().density;
@@ -222,11 +226,45 @@ public class ColorPickerView extends View {
                 draggingSv = false;
                 draggingHue = false;
                 if (getParent() != null) getParent().requestDisallowInterceptTouchEvent(false);
+                if (event.getActionMasked() == MotionEvent.ACTION_UP) {
+                    performClick();
+                }
                 return true;
 
             default:
                 return super.onTouchEvent(event);
         }
+    }
+
+    @Override
+    public boolean performClick() {
+        super.performClick();
+        return true;
+    }
+
+    @Override
+    public void onInitializeAccessibilityNodeInfo(@NonNull AccessibilityNodeInfo info) {
+        super.onInitializeAccessibilityNodeInfo(info);
+        info.setClassName(android.widget.SeekBar.class.getName());
+        info.setScrollable(true);
+        info.setRangeInfo(AccessibilityNodeInfo.RangeInfo.obtain(
+                AccessibilityNodeInfo.RangeInfo.RANGE_TYPE_FLOAT, 0f, 360f, hue
+        ));
+        info.addAction(AccessibilityNodeInfo.ACTION_SCROLL_FORWARD);
+        info.addAction(AccessibilityNodeInfo.ACTION_SCROLL_BACKWARD);
+    }
+
+    @Override
+    public boolean performAccessibilityAction(int action, Bundle arguments) {
+        if (action == AccessibilityNodeInfo.ACTION_SCROLL_FORWARD
+                || action == AccessibilityNodeInfo.ACTION_SCROLL_BACKWARD) {
+            hue = (hue + (action == AccessibilityNodeInfo.ACTION_SCROLL_FORWARD ? 15f : -15f) + 360f) % 360f;
+            rebuildSvShader();
+            invalidate();
+            if (listener != null) listener.onColorChanged(getColor());
+            return true;
+        }
+        return super.performAccessibilityAction(action, arguments);
     }
 
     private void updateSvFromTouch(float x, float y) {

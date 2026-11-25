@@ -22,6 +22,7 @@ import com.velvet.couplesgame.core.model.TaskType;
 import com.velvet.couplesgame.databinding.FragmentPositionsRouletteBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
+import com.velvet.couplesgame.ui.common.SoftLimitPromptHelper;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -100,17 +101,19 @@ public class PositionsRouletteFragment extends Fragment {
             });
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadExtremeModesAsync(bundle -> {
             List<PositionDto> combined = new ArrayList<>();
-            if (bundle.positions != null) combined.addAll(bundle.positions);
+            if (container.ageGateManager.isAdultContentAllowed() && bundle.positions != null) {
+                combined.addAll(bundle.positions);
+            }
             combined.addAll(container.modeSynthesizer.synthesizePositions(
                     container.assetLoader.loadGeneratorBundle(), container.consentFilter, maxTier, 60
             ));
             if (!isAdded()) return;
             requireActivity().runOnUiThread(() -> {
                 if (binding == null) return;
-                engine.loadPositions(combined, container.consentFilter);
+                engine.loadPositions(combined, container.consentFilter, maxTier);
                 updateDiffButtonsUi();
                 updateProgressHud();
                 PositionDto first = engine.spinRandom();
@@ -120,6 +123,8 @@ public class PositionsRouletteFragment extends Fragment {
                     binding.tvPosName.setText(R.string.msg_no_eligible_cards);
                     binding.tvPosSetup.setText("");
                     binding.tvPosTip.setVisibility(View.GONE);
+                    binding.tvPosSoftLimitWarning.setVisibility(View.GONE);
+                    binding.checkPosSoftLimitAck.setVisibility(View.GONE);
                     binding.btnPosTimer.setVisibility(View.GONE);
                     binding.btnPosTried.setEnabled(false);
                 }
@@ -203,6 +208,14 @@ public class PositionsRouletteFragment extends Fragment {
         binding.btnPosTimer.setVisibility(View.VISIBLE);
         binding.btnPosTimer.setText(getString(R.string.btn_start_timer, p.durationSec > 0 ? p.durationSec : 60));
         binding.btnPosTried.setEnabled(true);
+        SoftLimitPromptHelper.bind(
+                container.consentFilter,
+                p.tags,
+                binding.tvPosSoftLimitWarning,
+                binding.checkPosSoftLimitAck,
+                binding.btnPosTimer,
+                binding.btnPosTried
+        );
         binding.btnPosTried.setText(engine.isCurrentTried() ? R.string.pos_btn_tried_done : R.string.pos_btn_mark_tried);
         binding.btnPosFavorite.setText(R.string.btn_favorite);
         container.contentRepository.isFavoriteAsync(p.id, isSaved -> {

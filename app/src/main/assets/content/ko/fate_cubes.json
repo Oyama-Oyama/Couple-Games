@@ -83,7 +83,7 @@
     },
     {
       "id": "act_lick_bite",
-      "label": "숨을 살짝 스치게 해고 살짝 부드러운 입맞춤기",
+      "label": "따뜻한 숨결과 부드러운 입맞춤",
       "icon": "⚡",
       "tier": 4,
       "tags": [
@@ -1439,15 +1439,6 @@
       "label": "여운 있게 풀어주기",
       "icon": "💛",
       "tier": 3,
-      "tags": [
-        "physical_light"
-      ]
-    },
-    {
-      "id": "act_v21_104",
-      "label": "여운 있게 스치듯 닿기",
-      "icon": "🌙",
-      "tier": 4,
       "tags": [
         "physical_light"
       ]
@@ -2970,7 +2961,7 @@
     },
     {
       "id": "mod_hands_behind",
-      "label": "받는 사람은 양손을 등 뒤에 고정",
+      "label": "받는 사람은 편한 자세를 선택",
       "durationSec": 25,
       "tier": 2,
       "tags": [

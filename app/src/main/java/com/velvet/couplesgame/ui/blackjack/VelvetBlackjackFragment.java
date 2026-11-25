@@ -81,7 +81,7 @@ public class VelvetBlackjackFragment extends Fragment {
             PhysicsAnimator.popIn(binding.cardBjTable);
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadIntimateModesAsync(bundle -> {
             List<BlackjackStakeDto> combined = new ArrayList<>();
             if (bundle.blackjackStakes != null) combined.addAll(bundle.blackjackStakes);
@@ -180,7 +180,7 @@ public class VelvetBlackjackFragment extends Fragment {
             TaskCard stakeCard = new TaskCard(
                     stake.id != null ? stake.id : "bj_stake",
                     "velvet_blackjack",
-                    Math.min(stake.tier, container.entitlementManager.getSelectedMaxTier()),
+                    Math.min(stake.tier, container.getEffectiveMaxTier()),
                     TaskType.DARE,
                     stake.tags != null ? stake.tags : Collections.singletonList("physical_light"),
                     doubled ? 45 : 25,
@@ -206,7 +206,7 @@ public class VelvetBlackjackFragment extends Fragment {
             );
             return;
         }
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
             TaskCard dare = container.taskEngine.drawNext(allCards, mutualMatches, maxTier, null, true);
             if (!isAdded()) return;

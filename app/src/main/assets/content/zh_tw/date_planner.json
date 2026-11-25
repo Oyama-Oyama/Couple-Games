@@ -19,7 +19,7 @@
         "deep_talk"
       ],
       "title": "從零開始一起做一道菜",
-      "detail": "分工合作，為鹽量拌兩句嘴，然後直接端鍋上桌吃掉。"
+      "detail": "分好工，為調味拌幾句嘴，最後直接端鍋一起享用。"
     },
     {
       "id": "dp_dining_02",
@@ -438,8 +438,62 @@
         "roleplay",
         "eye_contact"
       ],
-      "title": "一個規則：贏的人決定今晚怎麼過",
-      "detail": "來一局快遊戲。贏的人不問意見，直接安排整個晚上。"
+      "title": "贏家提議，一起決定",
+      "detail": "先玩一局輕鬆的小遊戲。贏家提出安排，雙方都可以調整或跳過，最後一起確認今晚的計畫。"
+    },
+    {
+      "id": "dp_dining_07",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 55,
+      "tags": ["indoor", "playful", "deep_talk"],
+      "title": "兩口滋味小測驗",
+      "detail": "選兩樣你們都喜歡的小點心。只有在對方願意時才互相餵一口，再猜猜這個味道會喚起什麼回憶。"
+    },
+    {
+      "id": "dp_outdoor_07",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 45,
+      "tags": ["public_space", "deep_talk"],
+      "title": "一起走進黃昏",
+      "detail": "並肩悠閒散步，每到路口就輪流決定方向。找個舒服的地方停下來，分享一件最近期待的事。"
+    },
+    {
+      "id": "dp_indoor_07",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 30,
+      "tags": ["indoor", "physical_light", "playful"],
+      "title": "兩首歌的慢舞",
+      "detail": "你們各選一首歌。雙方都願意的話，就隨著其中一首慢慢起舞；另一首留給接下來的夜晚，繼續醞釀心動。"
+    },
+    {
+      "id": "dp_culture_07",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 40,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "交換一次策展人身分",
+      "detail": "各自選一首歌、一張照片或一個故事，分享它為何像自己。聽完後，問對方一個溫柔又好奇的問題。"
+    },
+    {
+      "id": "dp_getaway_07",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 35,
+      "tags": ["deep_talk", "playful"],
+      "title": "一起規劃一場近郊小旅行",
+      "detail": "在雙方認可的預算內，想像一次半日近郊小旅行。選一個想去的地方、一份小小享受，也留一項可以不做的安排。"
+    },
+    {
+      "id": "dp_ritual_07",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 20,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "分享今天的三件小確幸",
+      "detail": "輪流說出三件今天具體欣賞對方的小事。最後問問彼此，此刻怎樣會更放鬆、更有被照顧的感覺。"
     }
   ]
 }

@@ -6,7 +6,7 @@
       "tags": [
         "eye_contact"
       ],
-      "text": "Não soltem os dedos! Encostem as testas e mantenham o olhar fixo enquanto o pulso acelera."
+      "text": "Se os dois estiverem à vontade, apoiem os dedos de leve na tela, aproximem as testas e troquem um olhar por alguns instantes. Podem parar quando quiserem."
     },
     {
       "id": "hb_02",
@@ -30,7 +30,7 @@
       "tags": [
         "bite_lick"
       ],
-      "text": "Sem soltar! Mordisque de leve o lóbulo ou o lábio inferior sem tirar o dedo da tela."
+      "text": "Se os dois quiserem, deem um beijo suave na orelha ou no lábio inferior da outra pessoa. Deixem o dedo leve na tela e parem quando quiserem."
     },
     {
       "id": "hb_05",
@@ -46,7 +46,7 @@
       "tags": [
         "bite_lick"
       ],
-      "text": "Resistam! Lamba e mordisque o pescoço devagar: quem arrepiar e soltar primeiro paga prenda."
+      "text": "Só se a outra pessoa também quiser, deixem um beijo delicado no pescoço. Se alguém preferir parar, soltem a tela e conversem; sem castigos."
     },
     {
       "id": "hb_07",
@@ -54,7 +54,7 @@
       "tags": [
         "clothing_dare"
       ],
-      "text": "Desafio de uma mão: use a mão livre para abaixar uma alça ou gola e pode beijar o ombro até o fim."
+      "text": "Com o consentimento claro da outra pessoa, beijem seu ombro. Só mexam na roupa se ela convidar; qualquer um pode parar a qualquer momento."
     },
     {
       "id": "hb_08",
@@ -78,7 +78,7 @@
       "tags": [
         "bite_lick"
       ],
-      "text": "Não tire o dedo! Incline-se e lamba bem devagar o maxilar e lóbulo da orelha dele."
+      "text": "Se os dois quiserem, aproximem-se e deixem um beijo lento na linha do maxilar, perto da orelha. Parem quando desejarem."
     },
     {
       "id": "hb_11",
@@ -893,7 +893,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "text": "Limite da madrugada: sem soltar a tela sob Mantenha as mãos dele coladas na cabeceira, provoque logo abaixo da clavícula com ar quente e faça trilhas úmidas o calor do hálito."
+      "text": "Limite da madrugada: sem soltar a tela sob as mãos livres em uma posição confortável, escolhida pelos dois, provoque logo abaixo da clavícula com ar quente e faça trilhas úmidas o calor do hálito."
     },
     {
       "id": "hb_v21_t4_04",
@@ -947,7 +947,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "text": "Limite da madrugada: sem soltar a tela sob Mantenha as mãos dele coladas na cabeceira, provoque o contorno do quadril com ar quente e deixe beijos abertos e ardentes em."
+      "text": "Limite da madrugada: sem soltar a tela sob as mãos livres em uma posição confortável, escolhida pelos dois, provoque o contorno do quadril com ar quente e deixe beijos abertos e ardentes em."
     },
     {
       "id": "hb_v21_t4_10",
@@ -1001,7 +1001,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "text": "Limite da madrugada: sem soltar a tela sob Mantenha as mãos dele coladas na cabeceira, provoque a curva da cintura com ar quente e lamba bem devagar."
+      "text": "Limite da madrugada: sem soltar a tela sob as mãos livres em uma posição confortável, escolhida pelos dois, provoque a curva da cintura com ar quente e lamba bem devagar."
     },
     {
       "id": "hb_v21_t4_16",
@@ -1080,7 +1080,7 @@
       "tags": [
         "bite_lick"
       ],
-      "text": "Provocação expressa: mordisque ou lamba pescoço, clavícula ou orelha e passe sem parar!"
+      "text": "Provocação expressa: mordisque ou lamba pescoço, clavícula ou orelha num ritmo que agrade a ambos, com pausas quando quiserem."
     },
     {
       "id": "bm_05",
@@ -3108,7 +3108,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "label": "60s de faça trilhas úmidas o calor do hálito em logo abaixo da clavícula com Mantenha as mãos dele coladas na cabeceira"
+      "label": "60s de faça trilhas úmidas o calor do hálito em logo abaixo da clavícula com as mãos livres em uma posição confortável, escolhida pelos dois"
     },
     {
       "id": "bj_v21_t4_04",
@@ -3162,7 +3162,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "label": "60s de deixe beijos abertos e ardentes em em o contorno do quadril com Mantenha as mãos dele coladas na cabeceira"
+      "label": "60s de deixe beijos abertos e ardentes em em o contorno do quadril com as mãos livres em uma posição confortável, escolhida pelos dois"
     },
     {
       "id": "bj_v21_t4_10",
@@ -3216,7 +3216,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "label": "60s de lamba bem devagar em a curva da cintura com Mantenha as mãos dele coladas na cabeceira"
+      "label": "60s de lamba bem devagar em a curva da cintura com as mãos livres em uma posição confortável, escolhida pelos dois"
     },
     {
       "id": "bj_v21_t4_16",
@@ -3385,7 +3385,13 @@
       "normalAction": "Suba palmas e beijos lentos pela coxa parando quando ele prender a respiração (30s).",
       "hotAction": "PRÊMIO MÁXIMO! 40s de beijos e mordidinhas ultra lentas na parte interna da coxa.",
       "durationSec": 40
-    }
+    },
+    {"id":"z_side_waist","label":"Lateral da cintura","nx":0.68,"ny":0.58,"tier":1,"tags":["physical_light"],"normalAction":"Deslize a ponta do dedo pela lateral da cintura, por cima da roupa, e faça uma pausa para perguntar como a pessoa se sente (25 s).","hotAction":"Se ambos quiserem, explore a lateral da cintura com um toque lento e suave por cima da roupa (30 s).","durationSec":30},
+    {"id":"z_navel","label":"Umbigo","nx":0.5,"ny":0.63,"tier":1,"tags":["physical_light"],"normalAction":"Desenhe um círculo lento ao redor do umbigo por cima da roupa e espere um sorriso ou um sim (25 s).","hotAction":"Se a pessoa gostar, faça um círculo suave ao redor do umbigo por cima da roupa, seguindo os sinais dela (30 s).","durationSec":30},
+    {"id":"z_inner_arm","label":"Parte interna do braço","nx":0.18,"ny":0.46,"tier":1,"tags":["physical_light"],"normalAction":"Passe de leve do lado interno do cotovelo até o pulso e pergunte se a pessoa quer repetir (25 s).","hotAction":"Ofereça um toque bem leve na parte interna do braço; pare ou mude a pressão se pedirem (30 s).","durationSec":30},
+    {"id":"z_inner_thigh","label":"Outra parte interna da coxa","nx":0.42,"ny":0.84,"tier":2,"tags":["physical_light"],"normalAction":"Com a roupa vestida, percorra devagar a parte interna da coxa e pergunte antes de continuar (25 s).","hotAction":"Somente com o acordo de ambos, acaricie com cuidado a parte interna da coxa por cima da roupa (30 s).","durationSec":30},
+    {"id":"z_ankle","label":"Tornozelo","nx":0.4,"ny":0.93,"tier":1,"tags":["physical_light"],"normalAction":"Desenhe um círculo leve logo acima do tornozelo e observe a reação da pessoa (20 s).","hotAction":"Se a pessoa gostar, explore ao redor do tornozelo com delicadeza; pare ao menor sinal (25 s).","durationSec":25},
+    {"id":"z_toes","label":"Dedos do pé","nx":0.6,"ny":0.93,"tier":1,"tags":["physical_light"],"normalAction":"Com permissão, toque de leve nos dedos do pé e pare se fizer cócegas demais ou causar desconforto (20 s).","hotAction":"Pergunte primeiro e ofereça um toque suave e sem pressa nos dedos do pé; qualquer um pode passar (25 s).","durationSec":25}
   ],
   "auctionContracts": [
     {
@@ -4470,8 +4476,8 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "title": "Coroa Noturna · a linha do quadril",
-      "text": "Quem vence comanda 60s em a entrada na meia-luz: o par mantém Segure as mãos dele atrás das costas enquanto apenas seus lábios e dentes vai sob uma alça ou peça externa até a linha do quadril."
+      "title": "Reinado da meia-noite ? Um carinho lento",
+      "text": "Quem vence conduz por 60 segundos. Antes, combinem um sinal para parar. Segurar os pulsos de leve ? opcional e s? acontece se os dois quiserem; soltem assim que o sinal aparecer. Se n?o, deixem as m?os livres. Percorram devagar a linha do quadril por cima da roupa, mantendo o olhar. Qualquer um pode parar ou pular."
     },
     {
       "id": "auc_v21_t4_02",
@@ -4481,8 +4487,8 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "title": "Coroa Noturna · o fim da coluna",
-      "text": "Quem vence comanda 60s em diante do espelho do closet: o par mantém Prenda os dois pulsos acima da cabeça com uma mão enquanto a ponta dos dedos em câmera ultra lenta vai sob um acessório mais uma camada até o fim da coluna."
+      "title": "Reinado da meia-noite ? Ao longo das costas",
+      "text": "Por 60 segundos, convide a pessoa parceira a apoiar as m?os acima da cabe?a e percorra as costas devagar, por cima da roupa. S? conduza os pulsos se isso tiver sido combinado antes; caso contr?rio, deixe as m?os livres e solte ao menor sinal. Fiquem pr?ximos, olhando nos olhos. Qualquer um pode parar ou pular."
     },
     {
       "id": "auc_v21_t4_03",
@@ -4515,7 +4521,7 @@
         "clothing_dare"
       ],
       "title": "Coroa Noturna · o contorno do quadril",
-      "text": "Quem vence comanda 60s em diante da penteadeira: o par mantém Mantenha as mãos dele coladas na cabeceira enquanto apenas sopro quente e lábios vai sob uma peça de roupa à sua escolha até o contorno do quadril."
+      "text": "Quem vence comanda 60s em diante da penteadeira: o par mantém as mãos livres em uma posição confortável, escolhida pelos dois enquanto apenas sopro quente e lábios vai sob uma peça de roupa à sua escolha até o contorno do quadril."
     },
     {
       "id": "auc_v21_t4_06",
@@ -4581,7 +4587,7 @@
         "clothing_dare"
       ],
       "title": "Coroa Noturna · a curva da cintura",
-      "text": "Quem vence comanda 60s em o batente da porta na meia-luz: o par mantém Mantenha as mãos dele coladas na cabeceira enquanto apenas sopro quente e lábios vai sob uma peça de roupa à sua escolha até a curva da cintura."
+      "text": "Quem vence comanda 60s em o batente da porta na meia-luz: o par mantém as mãos livres em uma posição confortável, escolhida pelos dois enquanto apenas sopro quente e lábios vai sob uma peça de roupa à sua escolha até a curva da cintura."
     },
     {
       "id": "auc_v21_t4_12",
@@ -4647,7 +4653,7 @@
         "clothing_dare"
       ],
       "title": "Coroa Noturna · a linha do quadril",
-      "text": "Quem vence comanda 60s em a entrada na meia-luz: o par mantém Mantenha as mãos dele coladas na cabeceira enquanto apenas sopro quente e lábios vai sob uma peça de roupa à sua escolha até a linha do quadril."
+      "text": "Quem vence comanda 60s em a entrada na meia-luz: o par mantém as mãos livres em uma posição confortável, escolhida pelos dois enquanto apenas sopro quente e lábios vai sob uma peça de roupa à sua escolha até a linha do quadril."
     },
     {
       "id": "auc_v21_t4_18",
@@ -4681,116 +4687,6 @@
       ],
       "title": "Coroa Noturna · o baixo ventre",
       "text": "Quem vence comanda 60s em atrás das cortinas leves: o par mantém Prenda os dois pulsos acima da cabeça com uma mão enquanto a ponta dos dedos em câmera ultra lenta vai sob um acessório mais uma camada até o baixo ventre."
-    },
-    {
-      "id": "auc_v21_t1_26",
-      "tier": 1,
-      "durationSec": 30,
-      "tags": [
-        "eye_contact",
-        "physical_light"
-      ],
-      "title": "Passe Veludo · o antebraço interno",
-      "text": "Quem vence ganha 30s VIP em um monte de almofadas macias: mantendo deixa os lábios a 1 cm entre pausas, recebe faça círculos mornos com os dedos em em o antebraço interno e um pensamento safado que teve sobre ele hoje."
-    },
-    {
-      "id": "auc_v21_t2_23",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful"
-      ],
-      "title": "Contrato Quente · ao lado da cama sob luz baixa",
-      "text": "Quem vence curte 35s de dois tapas leves seguidos de beijos longos e profundos em ao lado da cama sob luz baixa, descendo devagar de o pulso interno até o rosto e maxilar."
-    },
-    {
-      "id": "auc_v21_t2_24",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful"
-      ],
-      "title": "Contrato Quente · o canto da janela com abajur",
-      "text": "Quem vence curte 35s de dedos no cabelo puxando para perto em o canto da janela com abajur, descendo devagar de os ombros até a ponta da clavícula."
-    },
-    {
-      "id": "auc_v21_t2_25",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful"
-      ],
-      "title": "Contrato Quente · o braço do sofá",
-      "text": "Quem vence curte 35s de palmas mornas deslizando até um puxão colado em o braço do sofá, descendo devagar de a nuca até o ombro."
-    },
-    {
-      "id": "auc_v21_t2_26",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful"
-      ],
-      "title": "Contrato Quente · a ponta da cama",
-      "text": "Quem vence curte 35s de palmas mornas sobre a roupa deslizando para a pele em a ponta da cama, descendo devagar de atrás da orelha até a curva da orelha."
-    },
-    {
-      "id": "auc_v21_t3_22",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "indoor"
-      ],
-      "title": "Controle Privado · o peito e costelas",
-      "text": "Quem vence ativa check-in numa suíte de luxo com nomes falsos: 45s de provoque com lábios e dedos em o peito e costelas em o canto do sofá sob 'sussurre o nome dele antes de cada nova zona'."
-    },
-    {
-      "id": "auc_v21_t3_23",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "indoor"
-      ],
-      "title": "Controle Privado · a clavícula",
-      "text": "Quem vence ativa check-in numa suíte de luxo com nomes falsos: 45s de morda suave e acalme com beijos em a clavícula em a bancada da cozinha sob 'alterne toques de pena com pegada firme'."
-    },
-    {
-      "id": "auc_v21_t3_24",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "indoor"
-      ],
-      "title": "Controle Privado · a coluna",
-      "text": "Quem vence ativa check-in numa suíte de luxo com nomes falsos: 45s de lamba bem devagar em a coluna em o batente da porta na meia-luz sob 'sussurre o nome dele antes de cada nova zona'."
-    },
-    {
-      "id": "auc_v21_t4_21",
-      "tier": 4,
-      "durationSec": 60,
-      "tags": [
-        "restraint_light",
-        "clothing_dare"
-      ],
-      "title": "Coroa Noturna · o contorno do quadril",
-      "text": "Quem vence comanda 60s em diante da penteadeira: o par mantém Erga o queixo dele de leve para que só olhe para você enquanto as costas dos dedos primeiro e depois a boca vai sob um zíper ou cós da cintura até o contorno do quadril."
-    },
-    {
-      "id": "auc_v21_t4_22",
-      "tier": 4,
-      "durationSec": 60,
-      "tags": [
-        "restraint_light",
-        "clothing_dare"
-      ],
-      "title": "Coroa Noturna · a parte interna da coxa",
-      "text": "Quem vence comanda 60s em a parede do quarto: o par mantém Entrelace os dedos dele atrás da nuca sem defesa enquanto guiando a própria mão do seu par vai sob a barra da blusa até a parte interna da coxa."
     }
   ]
 }

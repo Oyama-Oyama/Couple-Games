@@ -79,7 +79,7 @@ public class DatePlannerFragment extends Fragment {
     }
 
     private void loadContent() {
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadDatePlannerAsync(activities -> {
             if (!isAdded()) return;
             requireActivity().runOnUiThread(() -> {
@@ -375,7 +375,7 @@ public class DatePlannerFragment extends Fragment {
         binding.etDpCustomDate.setText("");
         binding.inputDpCustomDate.setVisibility(View.GONE);
         engine.resetSession();
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         engine.buildShortlist(SHORTLIST_SIZE, maxTier);
         renderStage();
     }

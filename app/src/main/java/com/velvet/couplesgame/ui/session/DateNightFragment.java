@@ -24,6 +24,8 @@ import com.velvet.couplesgame.core.session.DateNightStage;
 import com.velvet.couplesgame.databinding.FragmentDateNightBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
+import com.velvet.couplesgame.ui.common.SoftLimitPromptHelper;
+import com.velvet.couplesgame.ui.common.AftercareDialogHelper;
 
 import java.util.List;
 
@@ -65,7 +67,11 @@ public class DateNightFragment extends Fragment {
 
         binding.btnDnPrimary.setOnClickListener(v -> {
             HapticHelper.tick(v);
-            onPrimaryClicked();
+            if (engine.isFinished()) {
+                showAftercareDialog();
+            } else {
+                onPrimaryClicked();
+            }
         });
         binding.btnDnSkip.setOnClickListener(v -> {
             HapticHelper.tick(v);
@@ -77,7 +83,7 @@ public class DateNightFragment extends Fragment {
             showSafePauseDialog();
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
             if (!isAdded()) return;
             requireActivity().runOnUiThread(() -> {
@@ -206,15 +212,19 @@ public class DateNightFragment extends Fragment {
             renderStage();
         }
         if (card == null) {
-            // 池空：不得崩溃、不得空指针；展示降级提示并结束会话
-            binding.tvDnCardText.setText(R.string.datenight_finish);
-            binding.tvDnProgress.setText("");
-            binding.btnDnPrimary.setEnabled(false);
-            binding.btnDnSkip.setEnabled(false);
+            binding.tvDnSoftLimitWarning.setVisibility(View.GONE);
+            binding.checkDnSoftLimitAck.setVisibility(View.GONE);
+            showFinishedState();
             return;
         }
         currentCard = card;
-        binding.btnDnPrimary.setEnabled(true);
+        SoftLimitPromptHelper.bind(
+                container.consentFilter,
+                card.tags,
+                binding.tvDnSoftLimitWarning,
+                binding.checkDnSoftLimitAck,
+                binding.btnDnPrimary
+        );
         binding.btnDnSkip.setEnabled(true);
         binding.tvDnCardText.setText(substituteNames(card.text));
         // 揭晓仪式：新文案先落位，再以轻柔弹簧入场 + 一次 tick，避免「瞬切」打断私密节奏。
@@ -245,17 +255,25 @@ public class DateNightFragment extends Fragment {
         completedSinceLastWrite++;
         if (stageComplete) {
             HapticHelper.confirm(binding.getRoot());
-            writeHistory();
             if (engine.isFinished()) {
-                binding.tvDnCardText.setText(R.string.datenight_finish);
-                binding.btnDnPrimary.setEnabled(false);
-                binding.btnDnSkip.setEnabled(false);
-                binding.tvDnProgress.setText("");
+                writeHistory();
+                showFinishedState();
                 return;
             }
             renderStage();
         }
         drawNext();
+    }
+
+    private void showFinishedState() {
+        if (binding == null) return;
+        binding.tvDnCardText.setText(R.string.datenight_finish);
+        binding.tvDnProgress.setText("");
+        binding.tvDnSoftLimitWarning.setVisibility(View.GONE);
+        binding.checkDnSoftLimitAck.setVisibility(View.GONE);
+        binding.btnDnPrimary.setText(R.string.datenight_aftercare_button);
+        binding.btnDnPrimary.setEnabled(true);
+        binding.btnDnSkip.setEnabled(false);
     }
 
     /** 持久化到记忆档案（A/B 完成数相同，沿用 DailyReveal / SocialGameFragment 语义）。 */
@@ -268,6 +286,10 @@ public class DateNightFragment extends Fragment {
                 0
         );
         completedSinceLastWrite = 0;
+    }
+
+    private void showAftercareDialog() {
+        AftercareDialogHelper.show(this);
     }
 
     /** 安全暂停：与既有 Safe Word / Pause 机制保持一致（不得移除）。 */

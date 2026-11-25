@@ -476,7 +476,7 @@
         {
           "actTitle": "Acto I · La Chispa",
           "durationSec": 45,
-          "direction": "{lead} se acerca a {partner} en frente al tocador tenue, manteniendo guardando una sonrisa cómplice mientras habla de cómo deseas que te toque al apagar la luz.",
+          "direction": "{lead} se acerca a {partner} frente al tocador tenue, manteniendo guardando una sonrisa cómplice mientras habla de cómo deseas que te toque al apagar la luz.",
           "whisperLine": "«La luz de esta noche es mágica… ¿puedo acercarme un poco más?»"
         },
         {
@@ -488,7 +488,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Abrazados en frente al tocador tenue, {lead} cierra el acto con masajea con calor en la punta del mentón.",
+          "direction": "Abrazados frente al tocador tenue, {lead} cierra el acto con masajea con calor en la punta del mentón.",
           "whisperLine": "«Ojalá el reloj se detuviera justo aquí.»"
         }
       ]
@@ -572,7 +572,7 @@
         {
           "actTitle": "Acto I · La Chispa",
           "durationSec": 45,
-          "direction": "{lead} se acerca a {partner} en frente al espejo, manteniendo susurrando su apodo al oído mientras habla de en qué segundo exacto dejaste de pensar con calma.",
+          "direction": "{lead} se acerca a {partner} frente al espejo, manteniendo susurrando su apodo al oído mientras habla de en qué segundo exacto dejaste de pensar con calma.",
           "whisperLine": "«La luz de esta noche es mágica… ¿puedo acercarme un poco más?»"
         },
         {
@@ -584,7 +584,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Abrazados en frente al espejo, {lead} cierra el acto con desliza tus palmas tibias por en el cuello.",
+          "direction": "Abrazados frente al espejo, {lead} cierra el acto con desliza tus palmas tibias por en el cuello.",
           "whisperLine": "«Ojalá el reloj se detuviera justo aquí.»"
         }
       ]
@@ -757,14 +757,14 @@
         "physical_light"
       ],
       "title": "Teatro Íntimo · un bar de hotel con luz tenue",
-      "subtitle": "Un juego de seducción sobre registrarse en una suite de lujo con nombres falsos en junto al espejo del armario",
+      "subtitle": "Un juego de seducción sobre registrarse en una suite de lujo con nombres falsos junto al espejo del armario",
       "leadRole": "Protagonista",
       "partnerRole": "Cómplice",
       "acts": [
         {
           "actTitle": "Acto I · La Chispa",
           "durationSec": 45,
-          "direction": "{lead} guía a {partner} hacia junto al espejo del armario dando inicio al guion de registrarse en una suite de lujo con nombres falsos.",
+          "direction": "{lead} guía a {partner} junto al espejo del armario dando inicio al guion de registrarse en una suite de lujo con nombres falsos.",
           "whisperLine": "«Ahora que cerramos la puerta, las reglas las ponemos nosotros.»"
         },
         {
@@ -776,7 +776,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "{partner} toma el relevo en junto al espejo del armario y eleva la tensión con beso suave juguetón calmado al instante con el aliento lenta.",
+          "direction": "{partner} toma el relevo junto al espejo del armario y eleva la tensión con beso suave juguetón calmado al instante con el aliento lenta.",
           "whisperLine": "«Ahora es mi turno: sigue mi ritmo.»"
         }
       ]
@@ -853,7 +853,7 @@
         "physical_light"
       ],
       "title": "Teatro Íntimo · una cama abuhardillada bajo la lluvia",
-      "subtitle": "Un juego de seducción sobre registrarse en una suite de lujo con nombres falsos en frente al tocador tenue",
+      "subtitle": "Un juego de seducción sobre registrarse en una suite de lujo con nombres falsos frente al tocador tenue",
       "leadRole": "Protagonista",
       "partnerRole": "Cómplice",
       "acts": [
@@ -872,7 +872,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "{partner} toma el relevo en frente al tocador tenue y eleva la tensión con dos reto divertido ligeros seguidos de besos largos y abiertos.",
+          "direction": "{partner} toma el relevo frente al tocador tenue y eleva la tensión con dos reto divertido ligeros seguidos de besos largos y abiertos.",
           "whisperLine": "«Ahora es mi turno: sigue mi ritmo.»"
         }
       ]
@@ -949,7 +949,7 @@
         "physical_light"
       ],
       "title": "Teatro Íntimo · un patio secreto bajo las estrellas",
-      "subtitle": "Un juego de seducción sobre registrarse en una suite de lujo con nombres falsos en frente al espejo",
+      "subtitle": "Un juego de seducción sobre registrarse en una suite de lujo con nombres falsos frente al espejo",
       "leadRole": "Protagonista",
       "partnerRole": "Cómplice",
       "acts": [
@@ -968,7 +968,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "{partner} toma el relevo en frente al espejo y eleva la tensión con palmas tibias sobre la tela deslizándose a la piel.",
+          "direction": "{partner} toma el relevo frente al espejo y eleva la tensión con palmas tibias sobre la tela deslizándose a la piel.",
           "whisperLine": "«Ahora es mi turno: sigue mi ritmo.»"
         }
       ]
@@ -1090,13 +1090,13 @@
         {
           "actTitle": "Acto II · Tensión Creciente",
           "durationSec": 55,
-          "direction": "{lead} alterna aliento cálido y beso suave suavemente en el muslo interior cumpliendo 'alterna roces de pluma con presión firme'.",
+          "direction": "{lead} alterna aliento cálido y besos suaves en el muslo interior cumpliendo 'alterna roces de pluma con presión firme'.",
           "whisperLine": "«Confiesa: este punto te desarma por completo.»"
         },
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Pegados en el pie de la cama, {lead} combina beso suave suavemente entre detrás de la oreja y el muslo interior.",
+          "direction": "Pegados en el pie de la cama, {lead} combina besos suaves entre detrás de la oreja y el muslo interior.",
           "whisperLine": "«Esta noche no hay frenos, solo déjate llevar.»"
         }
       ]
@@ -1148,7 +1148,7 @@
         {
           "actTitle": "Acto I · La Chispa",
           "durationSec": 45,
-          "direction": "{lead} atrae a {partner} en junto al espejo del armario susurrando sobre qué quieres que lleve — o se quite — esta noche junto a su oído.",
+          "direction": "{lead} atrae a {partner} junto al espejo del armario susurrando sobre qué quieres que lleve — o se quite — esta noche junto a su oído.",
           "whisperLine": "«No finjas calma, tu respiración ya te delató.»"
         },
         {
@@ -1160,7 +1160,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Pegados en junto al espejo del armario, {lead} combina muerde suave y calma con besos entre la base de la garganta y el lóbulo de la oreja.",
+          "direction": "Pegados junto al espejo del armario, {lead} combina muerde suave y calma con besos entre la base de la garganta y el lóbulo de la oreja.",
           "whisperLine": "«Esta noche no hay frenos, solo déjate llevar.»"
         }
       ]
@@ -1218,13 +1218,13 @@
         {
           "actTitle": "Acto II · Tensión Creciente",
           "durationSec": 55,
-          "direction": "{lead} alterna aliento cálido y dejar besos suaves cerca de suave y besa en el bajo vientre cumpliendo 'alterna roces de pluma con presión firme'.",
+          "direction": "{lead} alterna aliento cálido y besos suaves en el bajo vientre cumpliendo 'alterna roces de pluma con presión firme'.",
           "whisperLine": "«Confiesa: este punto te desarma por completo.»"
         },
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Pegados en detrás de las cortinas, {lead} combina dejar besos suaves cerca de suave y besa entre la clavícula y el bajo vientre.",
+          "direction": "Pegados en detrás de las cortinas, {lead} combina dejar besos suaves entre la clavícula y el bajo vientre.",
           "whisperLine": "«Esta noche no hay frenos, solo déjate llevar.»"
         }
       ]
@@ -1244,7 +1244,7 @@
         {
           "actTitle": "Acto I · La Chispa",
           "durationSec": 45,
-          "direction": "{lead} atrae a {partner} en frente al tocador tenue susurrando sobre cómo deseas que te toque al apagar la luz junto a su oído.",
+          "direction": "{lead} atrae a {partner} frente al tocador tenue susurrando sobre cómo deseas que te toque al apagar la luz junto a su oído.",
           "whisperLine": "«No finjas calma, tu respiración ya te delató.»"
         },
         {
@@ -1256,7 +1256,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Pegados en frente al tocador tenue, {lead} combina recorre con besos abiertos y calientes entre el pulso de la muñeca y el pecho y las costillas.",
+          "direction": "Pegados frente al tocador tenue, {lead} combina recorre con besos abiertos y calientes entre el pulso de la muñeca y el pecho y las costillas.",
           "whisperLine": "«Esta noche no hay frenos, solo déjate llevar.»"
         }
       ]
@@ -1289,7 +1289,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Adoptando 'de rodillas frente a frente en la cama', {lead} concentra muerde suave y calma con besos sobre el el final de la columna de {partner}.",
+          "direction": "Adoptando 'de rodillas frente a frente en la cama', {lead} concentra muerde suave y calma con besos sobre el final de la columna de {partner}.",
           "whisperLine": "«Esto era justo lo que estabas deseando, ¿verdad?»"
         }
       ]
@@ -1322,7 +1322,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Adoptando 'de pie, cerca de la pared, sin prisa', {lead} concentra lame muy despacio sobre el el hueco de la cintura de {partner}.",
+          "direction": "Adoptando 'de pie, cerca de la pared, sin prisa', {lead} concentra lame muy despacio sobre el hueco de la cintura de {partner}.",
           "whisperLine": "«Esto era justo lo que estabas deseando, ¿verdad?»"
         }
       ]
@@ -1343,7 +1343,7 @@
         {
           "actTitle": "Acto I · La Chispa",
           "durationSec": 45,
-          "direction": "{lead} marca la escena registrarse en una suite de lujo con nombres falsos en la alfombra con velas y coloca a {partner} en Sujeta ambas muñecas sobre su cabeza con una mano.",
+          "direction": "{lead} invita a {partner} a elegir una postura cómoda y a explorar con caricias suaves; ambos mantienen las manos libres y pueden parar o pasar cuando quieran.",
           "whisperLine": "«Desde ahora cierra los ojos y déjamelo todo a mí.»"
         },
         {
@@ -1355,7 +1355,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Adoptando 'sentada sentados muy cerca, cara a cara en tu regazo', {lead} concentra dejar besos suaves cerca de suave y besa sobre el el bajo vientre de {partner}.",
+          "direction": "Adoptando 'sentada sentados muy cerca, cara a cara en tu regazo', {lead} se centra en dejar besos suaves sobre el bajo vientre de {partner}.",
           "whisperLine": "«Esto era justo lo que estabas deseando, ¿verdad?»"
         }
       ]
@@ -1409,7 +1409,7 @@
         {
           "actTitle": "Acto I · La Chispa",
           "durationSec": 45,
-          "direction": "{lead} marca la escena registrarse en una suite de lujo con nombres falsos en el ventanal con lámpara cálida y coloca a {partner} en Entrelaza sus dedos tras la nuca sin que pueda defenderse.",
+          "direction": "{lead} marca la escena registrarse en una suite de lujo con nombres falsos en el ventanal con lámpara cálida y coloca a {partner} en manos libres; si ambos quieren, pueden apoyarlas tras la nuca y moverlas cuando quieran.",
           "whisperLine": "«Desde ahora cierra los ojos y déjamelo todo a mí.»"
         },
         {
@@ -1421,7 +1421,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Adoptando 'tumbada con los ojos cerrados, dejándose llevar', {lead} concentra llena de besos intensos sobre el el muslo interior de {partner}.",
+          "direction": "Adoptando 'tumbada con los ojos cerrados, dejándose llevar', {lead} concentra llena de besos intensos sobre el muslo interior de {partner}.",
           "whisperLine": "«Esto era justo lo que estabas deseando, ¿verdad?»"
         }
       ]
@@ -1442,7 +1442,7 @@
         {
           "actTitle": "Acto I · La Chispa",
           "durationSec": 45,
-          "direction": "{lead} marca la escena registrarse en una suite de lujo con nombres falsos en el reposabrazos del sofá y coloca a {partner} en Mantén sus manos pegadas al cabecero.",
+          "direction": "{lead} marca la escena registrarse en una suite de lujo con nombres falsos en el reposabrazos del sofá y coloca a {partner} en las manos libres en una postura cómoda, con libertad para moverse o pausar.",
           "whisperLine": "«Desde ahora cierra los ojos y déjamelo todo a mí.»"
         },
         {
@@ -1487,7 +1487,7 @@
         {
           "actTitle": "Acto III · Final de Medianoche",
           "durationSec": 65,
-          "direction": "Adoptando 'de pie pegados frente al espejo', {lead} concentra beso suave suavemente sobre el el pecho y las costillas de {partner}.",
+          "direction": "Adoptando 'de pie pegados frente al espejo', {lead} concentra un beso suave sobre el pecho y las costillas de {partner}.",
           "whisperLine": "«Esto era justo lo que estabas deseando, ¿verdad?»"
         }
       ]
@@ -1530,31 +1530,89 @@
       "tier": 4,
       "tags": [
         "roleplay",
-        "restraint_light",
-        "clothing_dare"
+        "clothing_dare",
+        "deep_talk"
       ],
-      "title": "Dominio de Medianoche · junto al espejo del armario",
-      "subtitle": "Un guion de entrega total en torno a registrarse en una suite de lujo con nombres falsos",
-      "leadRole": "Protagonista",
-      "partnerRole": "Cómplice",
+      "title": "Registro de medianoche · dos nombres, un secreto",
+      "subtitle": "Una fantasía de tres actos, acordada entre ambos, en una suite imaginaria.",
+      "leadRole": "Quien tiene la llave",
+      "partnerRole": "La visita especial",
       "acts": [
         {
-          "actTitle": "Acto I · La Chispa",
+          "actTitle": "Acto I · La reserva",
           "durationSec": 45,
-          "direction": "{lead} marca la escena registrarse en una suite de lujo con nombres falsos en junto al espejo del armario y coloca a {partner} en Sujeta ambas muñecas sobre su cabeza con una mano.",
-          "whisperLine": "«Desde ahora cierra los ojos y déjamelo todo a mí.»"
+          "direction": "{lead} propone dos nombres ficticios y pregunta a {partner} cuál le apetece usar. Antes de empezar, acuerden una palabra para pausar y una postura cómoda.",
+          "whisperLine": "Esta noche podemos inventar cualquier historia, siempre que la elijamos juntos."
         },
         {
-          "actTitle": "Acto II · Tensión Creciente",
+          "actTitle": "Acto II · El espejo",
           "durationSec": 55,
-          "direction": "{lead} desliza las yemas de los dedos ultra despacio tras un accesorio más una capa provocando el bajo vientre con caricias en el pelo atrayéndote más cerca.",
-          "whisperLine": "«Intenta no hacer ruido; contenerte lo vuelve el doble de intenso.»"
+          "direction": "Con la ropa puesta, {lead} se coloca junto a {partner} frente al espejo y nombra un detalle que le resulta irresistible. Pregunta antes de acercarte; una sonrisa o tomarse de la mano también cuentan.",
+          "whisperLine": "Dime qué te gustaría y te escucharé."
         },
         {
-          "actTitle": "Acto III · Final de Medianoche",
+          "actTitle": "Acto III · La llave de la habitación",
           "durationSec": 65,
-          "direction": "Adoptando 'de pie, cerca de la pared, sin prisa', {lead} concentra muerde suave y calma con besos sobre el el final de la columna de {partner}.",
-          "whisperLine": "«Esto era justo lo que estabas deseando, ¿verdad?»"
+          "direction": "Elijan juntos un gesto final suave: un beso, un abrazo o ningún contacto. Compartan algo que les haya gustado; cualquiera puede pausar o terminar la escena.",
+          "whisperLine": "La próxima escena la elegimos entre los dos."
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_01",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk"],
+      "title": "La última librería",
+      "subtitle": "Un encuentro tranquilo al cerrar, entre miradas e historias compartidas.",
+      "leadRole": "La persona librera",
+      "partnerRole": "La última visita",
+      "acts": [
+        {
+          "actTitle": "Un minuto más",
+          "durationSec": 45,
+          "direction": "Si ambos quieren jugar, {lead} invita a {partner} a recorrer juntos una estantería y elegir un libro para el otro. Expliquen la elección en una frase.",
+          "whisperLine": "Guardé una última historia para ti."
+        },
+        {
+          "actTitle": "Una frase prestada",
+          "durationSec": 55,
+          "direction": "{partner} comparte una frase favorita de un libro o inventa una. {lead} pregunta si acercarse un poco sería agradable; cualquier respuesta forma parte de la escena.",
+          "whisperLine": "Algunas historias se disfrutan más en voz baja."
+        },
+        {
+          "actTitle": "Hora de cerrar",
+          "durationSec": 60,
+          "direction": "Cada persona nombra algo que admira de la otra y eligen cómo terminar: tomarse de la mano, darse un abrazo o despedirse con cariño.",
+          "whisperLine": "Me quedaría un capítulo más."
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_02",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk", "physical_light"],
+      "title": "Cita aplazada en la azotea",
+      "subtitle": "Una reserva retrasada se convierte en una cita imaginaria a la luz de las velas, sin prisas.",
+      "leadRole": "Quien recibe",
+      "partnerRole": "La visita",
+      "acts": [
+        {
+          "actTitle": "La invitación",
+          "durationSec": 45,
+          "direction": "Acuerden primero la escena y una señal para pausar. {lead} recibe a {partner} en una mesa imaginaria en la azotea y pregunta qué haría que la velada fuera cómoda.",
+          "whisperLine": "Me alegra que hayas venido, incluso con esta lluvia."
+        },
+        {
+          "actTitle": "La vista",
+          "durationSec": 55,
+          "direction": "Por turnos, describan un detalle del cielo nocturno imaginario. Si ambos están de acuerdo, pueden tomarse de la mano; si no, continúen solo con palabras.",
+          "whisperLine": "La vista es preciosa, pero no dejo de mirarte."
+        },
+        {
+          "actTitle": "La próxima cita",
+          "durationSec": 60,
+          "direction": "Compartan una idea sencilla para otra cita. Elijan terminar con un beso, un abrazo o un cumplido; cualquiera puede pasar.",
+          "whisperLine": "Guardemos un poco de ilusión para la próxima vez."
         }
       ]
     }

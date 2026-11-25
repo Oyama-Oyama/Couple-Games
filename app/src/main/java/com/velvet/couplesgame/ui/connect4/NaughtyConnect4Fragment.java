@@ -18,6 +18,7 @@ import com.velvet.couplesgame.databinding.FragmentNaughtyConnect4Binding;
 import java.util.ArrayList;
 import java.util.List;
 import com.velvet.couplesgame.ui.common.HapticHelper;
+import com.velvet.couplesgame.ui.common.AftercareDialogHelper;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
 
 public class NaughtyConnect4Fragment extends Fragment {
@@ -50,10 +51,11 @@ public class NaughtyConnect4Fragment extends Fragment {
             binding.tvC4LiveDare.setText(engine.hasEligibleActions()
                     ? R.string.c4_ready_hint
                     : R.string.msg_no_eligible_cards);
+            binding.tvC4SoftLimitWarning.setVisibility(View.GONE);
             refreshBoard();
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadExtremeModesAsync(bundle -> {
             List<Connect4ActionDto> combined = new ArrayList<>();
             if (bundle.connect4Actions != null) combined.addAll(bundle.connect4Actions);
@@ -86,24 +88,35 @@ public class NaughtyConnect4Fragment extends Fragment {
 
         if (res.wonMatch) {
             HapticHelper.confirm(binding.rvC4Grid);
+            binding.tvC4SoftLimitWarning.setVisibility(View.GONE);
             container.contentRepository.recordSessionStat("NAUGHTY_CONNECT4", engine.getWinsA(), engine.getWinsB(), 0);
             StringBuilder combo = new StringBuilder();
             int idx = 1;
+            boolean hasSoftLimit = false;
             for (Connect4Engine.Cell wc : res.winningLine) {
                 if (wc.action != null) {
                     combo.append(idx++).append(". ").append(wc.action.fullDare).append("\n\n");
+                    hasSoftLimit |= container.consentFilter.hasSoftLimit(wc.action.tags);
                 }
+            }
+            String victoryMessage = getString(
+                    R.string.c4_victory_combo_msg, other, combo.toString().trim());
+            if (hasSoftLimit) {
+                victoryMessage += "\n\n" + getString(R.string.soft_limit_warning);
             }
             new MaterialAlertDialogBuilder(requireContext())
                     .setTitle(getString(R.string.c4_victory_title, actor))
-                    .setMessage(getString(R.string.c4_victory_combo_msg, other, combo.toString().trim()))
+                    .setMessage(victoryMessage)
                     .setCancelable(false)
                     .setPositiveButton(R.string.btn_play_again, (d, w) -> {
                         if (binding == null) return;
                         engine.resetBoard();
                         binding.tvC4LiveDare.setText(R.string.c4_ready_hint);
+                        binding.tvC4SoftLimitWarning.setVisibility(View.GONE);
                         refreshBoard();
                     })
+                    .setNeutralButton(R.string.datenight_aftercare_button,
+                            (d, w) -> AftercareDialogHelper.show(this))
                     .show();
         } else if (res.boardFullDraw) {
             HapticHelper.tick(binding.rvC4Grid);
@@ -114,6 +127,9 @@ public class NaughtyConnect4Fragment extends Fragment {
                     ? res.landedCell.action.fullDare
                     : "";
             binding.tvC4LiveDare.setText(getString(R.string.c4_move_dare_fmt, actor, dareText));
+            boolean hasSoftLimit = res.landedCell != null && res.landedCell.action != null
+                    && container.consentFilter.hasSoftLimit(res.landedCell.action.tags);
+            binding.tvC4SoftLimitWarning.setVisibility(hasSoftLimit ? View.VISIBLE : View.GONE);
             PhysicsAnimator.popIn(binding.tvC4LiveDare);
         }
     }

@@ -438,8 +438,62 @@
         "roleplay",
         "eye_contact"
       ],
-      "title": "ルールはひとつ：勝者が今夜を決める",
-      "detail": "早めのゲームを一戦。勝者が訊かずに今夜を決める。"
+      "title": "勝者が提案、二人で決定",
+      "detail": "短いゲームを一戦。勝者がプランを提案し、二人で調整したり見送ったりしてから一緒に決めましょう。"
+    },
+    {
+      "id": "dp_dining_07",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 55,
+      "tags": ["indoor", "playful", "deep_talk"],
+      "title": "二口の味見",
+      "detail": "二人とも好きな小さなおやつを二つ選びます。相手が望むときだけ一口すすめ、味から思い出すことを当ててみましょう。"
+    },
+    {
+      "id": "dp_outdoor_07",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 45,
+      "tags": ["public_space", "deep_talk"],
+      "title": "夕暮れどきの散歩",
+      "detail": "気楽な散歩に出かけましょう。曲がり角ごとに交代で進む方向を決め、落ち着ける場所で楽しみにしていることを一つ話します。"
+    },
+    {
+      "id": "dp_indoor_07",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 30,
+      "tags": ["indoor", "physical_light", "playful"],
+      "title": "二曲だけのスローダンス",
+      "detail": "それぞれ一曲選びます。二人とも望むなら一曲目にゆっくり踊り、もう一曲で今夜の続きを楽しむ雰囲気をつくりましょう。"
+    },
+    {
+      "id": "dp_culture_07",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 40,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "交代でキュレーター",
+      "detail": "自分らしさが伝わる曲、写真、物語を一つずつ選びます。大切な理由を話し、相手に優しい質問を一つしてみましょう。"
+    },
+    {
+      "id": "dp_getaway_07",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 35,
+      "tags": ["deep_talk", "playful"],
+      "title": "近場の小旅行を一緒に計画",
+      "detail": "二人で決めた予算内で、近場の半日旅行を想像します。訪れたい場所と小さな楽しみを一つずつ選び、無理のない予定にしましょう。"
+    },
+    {
+      "id": "dp_ritual_07",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 20,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "今日の小さな感謝を三つ",
+      "detail": "今日、相手にしてもらってうれしかった具体的なことを三つずつ伝えます。最後に、今どんなことがあると安心できるか尋ねましょう。"
     }
   ]
 }

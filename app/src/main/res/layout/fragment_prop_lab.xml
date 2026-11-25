@@ -122,6 +122,44 @@
                 android:textSize="11sp" />
         </LinearLayout>
 
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:gravity="center_vertical"
+            android:orientation="horizontal">
+
+            <com.google.android.material.textfield.TextInputLayout
+                android:id="@+id/input_prop_custom"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:hint="@string/props_custom_hint">
+
+                <com.google.android.material.textfield.TextInputEditText
+                    android:id="@+id/et_prop_custom"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:inputType="textCapSentences"
+                    android:maxLength="40"
+                    android:maxLines="1" />
+            </com.google.android.material.textfield.TextInputLayout>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/btn_add_prop_custom"
+                style="@style/Widget.Material3.Button.OutlinedButton"
+                android:layout_width="wrap_content"
+                android:layout_height="48dp"
+                android:layout_marginStart="8dp"
+                android:text="@string/props_custom_add" />
+        </LinearLayout>
+
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/group_prop_custom"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp" />
+
         <!-- Active Sensory Prop Card -->
         <LinearLayout
             android:id="@+id/card_prop_challenge"
@@ -141,6 +179,28 @@
                 android:textColor="?attr/velvetAccent"
                 android:textSize="11sp"
                 android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/tv_prop_soft_limit_warning"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:accessibilityLiveRegion="polite"
+                android:background="@drawable/bg_card_velvet"
+                android:padding="10dp"
+                android:text="@string/soft_limit_warning"
+                android:textColor="?attr/velvetAccent"
+                android:textSize="13sp"
+                android:visibility="gone" />
+
+            <CheckBox
+                android:id="@+id/check_prop_soft_limit_ack"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="4dp"
+                android:text="@string/soft_limit_ack"
+                android:textColor="?attr/velvetTextPrimary"
+                android:visibility="gone" />
 
             <TextView
                 android:id="@+id/tv_prop_body"

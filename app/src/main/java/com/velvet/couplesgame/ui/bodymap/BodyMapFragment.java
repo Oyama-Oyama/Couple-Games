@@ -15,8 +15,10 @@ import com.velvet.couplesgame.core.engine.DareTimerHelper;
 import com.velvet.couplesgame.core.i18n.AssetContentLoader.BodyMapZoneDto;
 import com.velvet.couplesgame.databinding.FragmentBodyMapBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
+import com.velvet.couplesgame.ui.common.AftercareDialogHelper;
 import com.velvet.couplesgame.ui.common.PassPhoneDialog;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
+import com.velvet.couplesgame.ui.common.SoftLimitPromptHelper;
 import java.util.HashSet;
 import java.util.Set;
 
@@ -99,7 +101,7 @@ public class BodyMapFragment extends Fragment {
             renderPhaseUi();
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadIntimateModesAsync(bundle -> {
             generatorBundle = container.assetLoader.loadGeneratorBundle();
             if (!isAdded()) return;
@@ -143,6 +145,13 @@ public class BodyMapFragment extends Fragment {
                 ? getString(R.string.bodymap_hot_hit_title, zone.label)
                 : getString(R.string.bodymap_normal_hit_title, zone.label);
         binding.tvBodymapActionTitle.setText(header);
+        SoftLimitPromptHelper.bind(
+                container.consentFilter,
+                zone.tags,
+                binding.tvBodymapSoftLimitWarning,
+                binding.checkBodymapSoftLimitAck,
+                binding.btnBodymapTimer
+        );
         tapCounter++;
         String fallbackText = res.wasHotSpot ? zone.hotAction : zone.normalAction;
         String actionText = (generatorBundle != null)
@@ -151,7 +160,7 @@ public class BodyMapFragment extends Fragment {
                         zone.label,
                         res.wasHotSpot,
                         container.consentFilter,
-                        container.entitlementManager.getSelectedMaxTier(),
+                        container.getEffectiveMaxTier(),
                         fallbackText,
                         recentBodyActions)
                 : fallbackText;
@@ -167,6 +176,7 @@ public class BodyMapFragment extends Fragment {
             Toast.makeText(requireContext(), R.string.bodymap_all_found_toast, Toast.LENGTH_LONG).show();
         }
         renderPhaseUi();
+        if (res.allHotSpotsFound) AftercareDialogHelper.show(this);
     }
 
     private void renderPhaseUi() {

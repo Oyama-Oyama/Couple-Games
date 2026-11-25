@@ -121,7 +121,7 @@
         {
           "actTitle": "Act II · Warm & Sweet",
           "durationSec": 45,
-          "direction": "{lead} brushes fingertips along {partner}'s lips, then leaves soft kisses and light soft kisss on their earlobe.",
+          "direction": "{lead} brushes fingertips along {partner}'s lips, then leaves soft kisses and light soft kisses on their earlobe.",
           "whisperLine": "\"Tell me what you want next without opening your eyes.\""
         },
         {
@@ -188,7 +188,7 @@
         {
           "actTitle": "Act II · Testing Patience",
           "durationSec": 45,
-          "direction": "{lead} circles slowly, leaving feather-light touches, warm breaths, and soft soft kisss along {partner}'s neck.",
+          "direction": "{lead} moves slowly, leaving feather-light touches, warm breaths, and soft, lingering kisses along {partner}'s neck.",
           "whisperLine": "\"Good. Stay right there—let's see how long you can resist kissing me.\""
         },
         {
@@ -293,7 +293,7 @@
         {
           "actTitle": "Act 3 · The kiss-Home Pact",
           "durationSec": 45,
-          "direction": "{partner} soft kisss {lead}'s lower lip and whispers a bold promise for the second you get home.",
+          "direction": "{partner} soft kisses {lead}'s lower lip and whispers a bold promise for the second you get home.",
           "whisperLine": "\"The moment we lock our own door, I'm not holding back.\""
         }
       ]
@@ -1058,13 +1058,13 @@
         {
           "actTitle": "Act II · Rising Tension",
           "durationSec": 55,
-          "direction": "{lead} trades warm breath with trace wet soft, lingering kisss along across {partner}'s neck, obeying 'whisper their name right before each new spot'.",
+          "direction": "{lead} trades warm breath with slow, lingering kisses across {partner}'s neck, obeying 'whisper their name right before each new spot'.",
           "whisperLine": "'Admit it—this exact spot undoes you every time.'"
         },
         {
           "actTitle": "Act III · Midnight Finale",
           "durationSec": 65,
-          "direction": "Pressed close at the couch armrest, {lead} trails trace wet soft, lingering kisss along between nape of the neck and neck.",
+          "direction": "Pressed close at the couch armrest, {lead} trails slow, lingering kisses down the neck.",
           "whisperLine": "'No holding back tonight—just let go.'"
         }
       ]
@@ -1343,7 +1343,7 @@
         {
           "actTitle": "Act I · The Spark",
           "durationSec": 45,
-          "direction": "{lead} sets checking into a penthouse suite under fake names at the candlelit bedroom rug, guiding {partner} into Hold both wrists gently above their head with one hand.",
+          "direction": "{lead} sets checking into a penthouse suite under fake names at the candlelit bedroom rug, inviting {partner} to choose a comfortable pose.",
           "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
         },
         {
@@ -1442,7 +1442,7 @@
         {
           "actTitle": "Act I · The Spark",
           "durationSec": 45,
-          "direction": "{lead} sets checking into a penthouse suite under fake names at the couch armrest, guiding {partner} into Keep their hands flat against the headboard.",
+          "direction": "{lead} sets checking into a penthouse suite under fake names at the couch armrest, guiding {partner} into a comfortable, hands-free pose with room to move.",
           "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
         },
         {
@@ -1454,7 +1454,7 @@
         {
           "actTitle": "Act III · Midnight Finale",
           "durationSec": 65,
-          "direction": "Shifting into 'reclined at the edge of the bed', {lead} focuses trace wet soft, lingering kisss along {partner}'s sensitive collarbone.",
+          "direction": "Shifting into 'reclined at the edge of the bed', {lead} focuses leave slow, lingering kisses along {partner}'s sensitive collarbone.",
           "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
         }
       ]
@@ -1530,31 +1530,89 @@
       "tier": 4,
       "tags": [
         "roleplay",
-        "restraint_light",
-        "clothing_dare"
+        "clothing_dare",
+        "deep_talk"
       ],
-      "title": "Midnight Sovereign · beside the closet mirror",
-      "subtitle": "A surrender-and-command checking into a penthouse suite under fake names 3-act experience · the closet mirror",
-      "leadRole": "Lead Actor",
-      "partnerRole": "Co-Star",
+      "title": "Midnight Check-In · Two Names, One Secret",
+      "subtitle": "A consent-led, three-act fantasy about checking in under playful aliases.",
+      "leadRole": "The Guest with the Key",
+      "partnerRole": "The Invited Co-Star",
       "acts": [
         {
-          "actTitle": "Act I · The Spark",
+          "actTitle": "Act I · The Reservation",
           "durationSec": 45,
-          "direction": "{lead} sets checking into a penthouse suite under fake names beside the closet mirror, guiding {partner} into Hold both wrists gently above their head with one hand.",
-          "whisperLine": "'From this second on, close your eyes and leave everything to me.'"
+          "direction": "{lead} offers two playful aliases and asks {partner} which name feels fun tonight. Agree on a pause word and a comfortable pose before the scene begins.",
+          "whisperLine": "Tonight, we can make up any story—as long as we choose it together."
         },
         {
-          "actTitle": "Act II · Rising Tension",
+          "actTitle": "Act II · The Mirror",
           "durationSec": 55,
-          "direction": "{lead} slides ultra-slow fingertips past one accessory plus one layer, teasing lower belly with fingers through hair pulling you gently closer.",
-          "whisperLine": "'Try not to make a sound—restraint makes every touch sharper.'"
+          "direction": "With clothing on, {lead} stands beside {partner} at the mirror and names one detail they find irresistible. Ask before moving closer; a smile or a handhold can carry the scene.",
+          "whisperLine": "Tell me what you would like, and I will listen."
         },
         {
-          "actTitle": "Act III · Midnight Finale",
+          "actTitle": "Act III · The Room Key",
           "durationSec": 65,
-          "direction": "Shifting into 'pressed softly against the bedroom wall', {lead} focuses press lightly, then soothe with a kiss with a kiss on {partner}'s hollow of the spine.",
-          "whisperLine": "'This is exactly what you've been craving all night, isn't it?'"
+          "direction": "Together, choose a gentle closing gesture—a kiss, a hug, or no touch—and share one thing that made the scene feel good. Either person may pause or stop.",
+          "whisperLine": "The next scene is ours to choose."
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_01",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk"],
+      "title": "The Last Bookshop",
+      "subtitle": "A quiet after-hours encounter built from glances and shared stories.",
+      "leadRole": "The Bookseller",
+      "partnerRole": "The Last Guest",
+      "acts": [
+        {
+          "actTitle": "One More Minute",
+          "durationSec": 45,
+          "direction": "If you both want to play, {lead} invites {partner} to browse one shelf together and choose a title for each other. Explain the choice in one sentence.",
+          "whisperLine": "I saved one last story for you."
+        },
+        {
+          "actTitle": "A Borrowed Line",
+          "durationSec": 55,
+          "direction": "{partner} shares a favorite line from a book, or invents one. {lead} asks whether sitting closer would feel welcome; either answer is part of the scene.",
+          "whisperLine": "Some stories are better when shared quietly."
+        },
+        {
+          "actTitle": "Closing Time",
+          "durationSec": 60,
+          "direction": "Each person names one quality they admire in the other, then chooses together how to end: a handhold, a hug, or simply a warm goodnight.",
+          "whisperLine": "I would stay for one more chapter."
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_02",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk", "physical_light"],
+      "title": "Rain Check on the Rooftop",
+      "subtitle": "A delayed reservation becomes a candlelit imaginary date, at your own pace.",
+      "leadRole": "The Host",
+      "partnerRole": "The Guest",
+      "acts": [
+        {
+          "actTitle": "The Invitation",
+          "durationSec": 45,
+          "direction": "Agree on the scene and a pause signal first. {lead} welcomes {partner} to an imagined rooftop table and asks what would make the evening feel comfortable.",
+          "whisperLine": "I am glad you made it, even in the rain."
+        },
+        {
+          "actTitle": "The View",
+          "durationSec": 55,
+          "direction": "Take turns describing one detail in the imagined night sky. If you both agree, hold hands; otherwise keep the moment in words.",
+          "whisperLine": "The view is lovely, but I keep looking at you."
+        },
+        {
+          "actTitle": "The Next Date",
+          "durationSec": 60,
+          "direction": "Share one small idea for a future date. Choose together whether to finish with a kiss, an embrace, or a spoken compliment; either person can pass.",
+          "whisperLine": "Let us save a little anticipation for next time."
         }
       ]
     }

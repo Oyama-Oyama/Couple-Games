@@ -74,7 +74,7 @@
         "timed"
       ],
       "durationSec": 60,
-      "pattern": "「闭上眼睛别偷看哦…」你放慢呼吸{action_gentle}对方的{safe_zone}，持续 {duration} 秒。  只剩我们，你说停就停。"
+      "pattern": "仅在双方事先同意后，「闭上眼睛别偷看哦…」你放慢呼吸{action_gentle}对方的{safe_zone}，持续 {duration} 秒。  只剩我们，你说停就停。"
     },
     {
       "id": "gen_bold_02",
@@ -98,7 +98,7 @@
         "indoor"
       ],
       "durationSec": 30,
-      "pattern": "「别躲呀，{constraint}…」轻轻{action_bold}对方{intimate_zone}，持续 {duration} 秒。  只剩我们，你说停就停。"
+      "pattern": "在彼此都舒服的范围内，{action_bold}对方的{intimate_zone}，持续{duration}秒。只剩我们，你说停就停。"
     },
     {
       "id": "gen_hot_02",
@@ -111,7 +111,7 @@
         "indoor"
       ],
       "durationSec": 30,
-      "pattern": "高能小挑战：把对方双手轻扣在背后不准反抗，然后{action_bold}对方的{intimate_zone} {duration} 秒。  别的事放一边，随时可以停。"
+      "pattern": "仅在双方事先同意后进行：牵着对方的手，{action_bold}对方的{intimate_zone}，持续{duration}秒。任何一方都可以随时喊停。"
     },
     {
       "id": "gen_hot_03",
@@ -122,7 +122,7 @@
         "indoor"
       ],
       "durationSec": 0,
-      "pattern": "大胆二选一：{playful dare_twist}；或者乖乖让对方{action_bold}你的{intimate_zone} 30 秒。  只剩我们，你说停就停。"
+      "pattern": "大胆二选一：{playful_dare_twist}，或请对方在你的{intimate_zone}上轻轻一吻，持续30秒。任何一方说停，就立刻停下。"
     },
     {
       "id": "gen_hot_04",
@@ -135,7 +135,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "让对方闭上眼睛，交替吹出温热气息并{action_bold}对方的{intimate_zone}，持续 {duration} 秒。  别的事放一边，随时可以停。"
+      "pattern": "双方事先同意后，请对方闭上眼睛，在你的{intimate_zone}周围交替送上温热的呼吸与轻柔的吻，持续{duration}秒。想停随时说。"
     },
     {
       "id": "gen_explore_01",
@@ -159,7 +159,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "交替哈出热气并{action_bold}对方{intimate_zone}与{explore_end}，持续 {duration} 秒——每次感觉到对方轻微颤抖就故意停住三秒。  别的事放一边，随时可以停。"
+      "pattern": "沿着{intimate_zone}到{explore_end}，交替送上温热的呼吸与轻柔的吻，持续{duration}秒。每次对方轻颤时停3秒；任何时候都可以暂停。"
     },
     {
       "id": "gen_explore_03",
@@ -172,7 +172,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "{restraint_pose}，命令对方不准主动回吻，随后尽情{action_bold}对方的{intimate_zone}与{explore_end} {duration} 秒。  只剩我们，你说停就停。"
+      "pattern": "双方事先同意后，可以试试不必回吻的一轮：温柔探索{intimate_zone}与{explore_end}，最多持续{duration}秒。任何一方都能随时改变主意、暂停或结束。"
     },
     {
       "id": "gen_explore_04",
@@ -198,7 +198,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "蒙眼身体盲探：用{sensory_item}划过对方{explore_start}与{explore_end}，立刻用滚烫的吻追着每寸痕迹融化，持续 {duration} 秒。  只剩我们，你说停就停。"
+      "pattern": "仅在双方事先同意后，蒙眼身体盲探：用{sensory_item}划过对方{explore_start}与{explore_end}，立刻用滚烫的吻追着每寸痕迹融化，持续 {duration} 秒。  只剩我们，你说停就停。"
     },
     {
       "id": "gen_explore_06",
@@ -210,7 +210,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "引导对方进入「{intimate_pose}」，扣紧腰胯贴合，{action_bold}对方的{intimate_zone} {duration} 秒并贴耳低语接下来想做的事。  别的事放一边，随时可以停。"
+      "pattern": "仅在双方事先同意后，引导对方进入「{intimate_pose}」，扣紧腰胯贴合，{action_bold}对方的{intimate_zone} {duration} 秒并贴耳低语接下来想做的事。  别的事放一边，随时可以停。"
     },
     {
       "id": "gen_explore_07",
@@ -236,7 +236,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "边缘失控挑战：{action_bold}对方{intimate_zone}与{explore_end} {duration} 秒——若对方没忍住伸手抓你或破防，愿意的话就立刻兑现：{playful dare_twist}。"
+      "pattern": "仅在伴侣也愿意时，用双方都喜欢的方式探索{intimate_zone}与{explore_end}，最多持续 {duration} 秒。额外玩法由双方一起决定，绝不作为惩罚；任何一方都可暂停或停止。"
     },
     {
       "id": "gen_spark_03",
@@ -328,7 +328,7 @@
         "indoor"
       ],
       "durationSec": 40,
-      "pattern": "让对方在{room_spot}闭眼 {duration} 秒，你用「{touch_contrast}」悄悄突袭对方的{safe_zone}。"
+      "pattern": "仅在双方事先同意后，让对方在{room_spot}闭眼 {duration} 秒，你用「{touch_contrast}」悄悄突袭对方的{safe_zone}。"
     },
     {
       "id": "gen_playful_06",
@@ -437,7 +437,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "在{room_spot}蒙上对方双眼：用{sensory_item}沿着{intimate_zone}与{explore_end}游走挑逗 {duration} 秒。  只剩我们，你说停就停。"
+      "pattern": "仅在双方事先同意后，在{room_spot}蒙上对方双眼：用{sensory_item}沿着{intimate_zone}与{explore_end}游走挑逗 {duration} 秒。  只剩我们，你说停就停。"
     },
     {
       "id": "gen_flirty_08",
@@ -461,7 +461,7 @@
         "indoor"
       ],
       "durationSec": 40,
-      "pattern": "死死对视不许眨眼：花 {duration} 秒{action_bold}对方{intimate_zone}——谁先移开目光就接受罚则：{playful dare_twist}。  只剩我们，你说停就停。"
+      "pattern": "死死对视不许眨眼：花 {duration} 秒{action_bold}对方{intimate_zone}——谁先移开目光就接受罚则：{playful_dare_twist}。  只剩我们，你说停就停。"
     },
     {
       "id": "gen_explore_09",
@@ -474,7 +474,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "在{room_spot}，{restraint_pose}，用「{touch_contrast}」反复游走于{explore_start}与{explore_end}之间（{duration} 秒）。  别的事放一边，随时可以停。"
+      "pattern": "仅在双方事先同意后，在{room_spot}，{restraint_pose}，用「{touch_contrast}」反复游走于{explore_start}与{explore_end}之间（{duration} 秒）。  别的事放一边，随时可以停。"
     },
     {
       "id": "gen_explore_10",
@@ -487,7 +487,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "用{tease_tool}褪去或拨开{garment_piece}，带对方进入「{intimate_pose}」，集中{action_bold}对方的{explore_end}（{duration} 秒）。  只剩我们，你说停就停。"
+      "pattern": "双方事先同意后，请对方摆出「{intimate_pose}」，隔着衣物在{explore_end}周围轻轻描摹{duration}秒。任何一方都可以随时喊停。"
     },
     {
       "id": "gen_explore_11",
@@ -500,7 +500,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "感官过载（{duration} 秒）：蒙上对方双眼，先用{sensory_item}从{explore_start}滑向{explore_end}，再立刻{action_bold}并遵守：{tempo_rule}。  别的事放一边，随时可以停。"
+      "pattern": "双方事先同意后，来一轮{duration}秒的感官游戏：蒙上眼，用{sensory_item}从{explore_start}慢慢移向{explore_end}，再用指尖轻轻抚过{explore_end}。按照{tempo_rule}进行，任何时候都能停下。"
     },
     {
       "id": "gen_explore_12",
@@ -511,7 +511,7 @@
         "restraint_light"
       ],
       "durationSec": 0,
-      "pattern": "深夜终极坦白：{secret_question} —— 说完交出主动权 {duration} 秒，乖乖配合对方执行：{playful dare_twist}。  只剩我们，你说停就停。"
+      "pattern": "仅在双方事先同意后，深夜终极坦白：{secret_question} —— 说完交出主动权 {duration} 秒，乖乖配合对方执行：{playful_dare_twist}。  只剩我们，你说停就停。"
     },
     {
       "id": "gen_explore_13",
@@ -524,7 +524,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "{room_spot}绝对主导局：{restraint_pose}，耳语「{whisper_topic}」，从{intimate_zone}一路探索至{explore_end}（{duration} 秒）——破功出声就加罚：{playful dare_twist}。  别的事放一边，随时可以停。"
+      "pattern": "仅在双方事先同意后，轮流在{room_spot}带领彼此。分享{whisper_topic}，再从{intimate_zone}慢慢探索到{explore_end}，最长{duration}秒。额外的小玩法由双方一起选，任何一方都能随时暂停或停止。"
     },
     {
       "id": "gen_v2_t1_tr1",
@@ -712,14 +712,10 @@
       "让眼神说出话到嘴边又停下的那句"
     ],
     "action_bold": [
-      "温柔轻吻",
-      "用呼吸沿着极慢地气息轻轻拂过",
-      "落下让人喘不过气的绵长的吻于",
-      "用唇舌与指尖交替挑逗",
-      "轻温柔的吻后再绵长绵长的吻",
-      "用湿润舌尖一路描摹",
-      "俏皮轻吻后再温柔吻平",
-      "张唇贴肤落满灼热湿吻于"
+      "指尖缓缓描摹",
+      "轻轻抚过",
+      "以掌心温柔包裹",
+      "慢慢抚摸"
     ],
     "intimate_zone": [
       "耳垂",
@@ -830,7 +826,7 @@
       "我在你耳边说什么直白的话或称呼，会让你心跳瞬间飙升？",
       "我们试过的或还没试过的体位里，哪一个最让你念念不忘？"
     ],
-    "playful dare_twist": [
+    "playful_dare_twist": [
       "把那句一直留到最后的话，说给我听",
       "和我多对视一秒，久到有点心跳加速",
       "只说一件只有我们知道的小事",
@@ -888,7 +884,7 @@
         ],
         "category": "DARE",
         "title": "午夜掌控局",
-        "pattern": "{restraint_pose}，随后尽情{action_bold}对方{intimate_zone}与{explore_end}，持续 {duration} 秒。  别的事放一边，随时可以停。"
+        "pattern": "仅在双方事先同意后，{restraint_pose}，随后尽情{action_bold}对方{intimate_zone}与{explore_end}，持续 {duration} 秒。  别的事放一边，随时可以停。"
       },
       {
         "id": "ms_l1",
@@ -949,7 +945,7 @@
         ],
         "category": "FANTASY",
         "title": "蒙眼感官盲探",
-        "pattern": "在{room_spot}蒙上对方双眼：交替用{sensory_item}与滚烫湿吻游走于{explore_start}和{explore_end}（{duration} 秒）。  只剩我们，你说停就停。"
+        "pattern": "仅在双方事先同意后，在{room_spot}蒙上对方双眼：交替用{sensory_item}与滚烫湿吻游走于{explore_start}和{explore_end}（{duration} 秒）。  只剩我们，你说停就停。"
       },
       {
         "id": "ms_f3",
@@ -962,7 +958,7 @@
         ],
         "category": "FANTASY",
         "title": "终极臣服幻想",
-        "pattern": "引导对方进入「{intimate_pose}」，用{tease_tool}移开{garment_piece}，集中{action_bold}对方的{explore_end}（{duration} 秒）。  别的事放一边，随时可以停。"
+        "pattern": "仅在双方事先同意后，引导对方进入「{intimate_pose}」，用{tease_tool}移开{garment_piece}，集中{action_bold}对方的{explore_end}（{duration} 秒）。  别的事放一边，随时可以停。"
       }
     ],
     "bomb": [
@@ -1019,7 +1015,7 @@
           "restraint_light",
           "bite_lick"
         ],
-        "pattern": "在对方{explore_end}飞快{action_bold} 3 秒——趁引爆前甩给对方！  只剩我们，你说停就停。"
+        "pattern": "仅在双方事先同意后，在对方{explore_end}飞快{action_bold} 3 秒——趁引爆前甩给对方！  只剩我们，你说停就停。"
       },
       {
         "id": "mb_v2_1",
@@ -1103,7 +1099,7 @@
         "tags": [
           "restraint_light"
         ],
-        "pattern": "极限忍耐！用「{touch_contrast}」持续挑逗对方{intimate_zone}直到倒计时完成！  别的事放一边，随时可以停。"
+        "pattern": "仅在双方事先同意后，极限忍耐！用「{touch_contrast}」持续挑逗对方{intimate_zone}直到倒计时完成！  别的事放一边，随时可以停。"
       },
       {
         "id": "mh_v2_1",
@@ -1177,7 +1173,7 @@
         "tags": [
           "restraint_light"
         ],
-        "pattern": "{restraint_pose} + {duration} 秒{action_bold}{intimate_zone}  只剩我们，你说停就停。"
+        "pattern": "仅在双方事先同意后，{restraint_pose} + {duration} 秒{action_bold}{intimate_zone}  只剩我们，你说停就停。"
       }
     ],
     "auction": [
@@ -1230,7 +1226,7 @@
           "bite_lick"
         ],
         "title": "午夜主宰令",
-        "pattern": "{restraint_pose}：赢家从{intimate_zone}探索到{explore_end}（{duration} 秒）——出声就加罚：{playful dare_twist}。  别的事放一边，随时可以停。"
+        "pattern": "仅在双方事先同意后，轮流在{room_spot}带领彼此。分享{whisper_topic}，再从{intimate_zone}慢慢探索到{explore_end}，最长{duration}秒。额外的小玩法由双方一起选，任何一方都能随时暂停或停止。"
       }
     ],
     "desire_match": [
@@ -1283,7 +1279,7 @@
           "physical_light",
           "indoor"
         ],
-        "pattern": "蒙眼感官夜（{duration} 秒）：用{sensory_item}与滚烫湿吻从{explore_start}一路滑向{explore_end}。  只剩我们，你说停就停。"
+        "pattern": "仅在双方事先同意后，蒙眼感官夜（{duration} 秒）：用{sensory_item}与滚烫湿吻从{explore_start}一路滑向{explore_end}。  只剩我们，你说停就停。"
       },
       {
         "id": "md_6",
@@ -1294,7 +1290,7 @@
           "clothing_dare",
           "indoor"
         ],
-        "pattern": "解锁「{intimate_pose}」：用{tease_tool}褪开{garment_piece}，贴肤探索{explore_end}整整 {duration} 秒。  别的事放一边，随时可以停。"
+        "pattern": "仅在双方事先同意后，解锁「{intimate_pose}」：用{tease_tool}褪开{garment_piece}，贴肤探索{explore_end}整整 {duration} 秒。  别的事放一边，随时可以停。"
       }
     ],
     "props": [
@@ -1319,7 +1315,7 @@
           "indoor"
         ],
         "category": "blindfold",
-        "pattern": "在{room_spot}为对方戴上眼罩：用「{touch_contrast}」突袭{intimate_zone}与{explore_end}（{duration} 秒），规则：{tempo_rule}。  别的事放一边，随时可以停。"
+        "pattern": "仅在双方事先同意后，在{room_spot}为对方戴上眼罩：用「{touch_contrast}」突袭{intimate_zone}与{explore_end}（{duration} 秒），规则：{tempo_rule}。  别的事放一边，随时可以停。"
       },
       {
         "id": "mp_oil",
@@ -1341,7 +1337,7 @@
           "indoor"
         ],
         "category": "tie",
-        "pattern": "用丝绸领带或丝巾轻缚：{restraint_pose}，随后肆意{action_bold}对方{intimate_zone}与{explore_end}（{duration} 秒）。  只剩我们，你说停就停。"
+        "pattern": "仅在双方事先同意后，用丝绸领带或丝巾轻缚：{restraint_pose}，随后肆意{action_bold}对方{intimate_zone}与{explore_end}（{duration} 秒）。  只剩我们，你说停就停。"
       },
       {
         "id": "mp_honey",
@@ -1397,7 +1393,7 @@
           "indoor"
         ],
         "category": "blindfold",
-        "pattern": "「闭上眼别偷看～」蒙眼在{room_spot}感受{action_gentle}{safe_zone}，顺耳听一句「{whisper_topic}」（{duration} 秒）。"
+        "pattern": "仅在双方事先同意后，「闭上眼别偷看～」蒙眼在{room_spot}感受{action_gentle}{safe_zone}，顺耳听一句「{whisper_topic}」（{duration} 秒）。"
       },
       {
         "id": "mp_v2_oil_t1",
@@ -1504,7 +1500,7 @@
           "restraint_light"
         ],
         "title": "{room_spot}",
-        "pattern": "在{room_spot}，{restraint_pose}并挑逗{intimate_zone}（{duration} 秒）。  只剩我们，你说停就停。"
+        "pattern": "仅在双方事先同意后，在{room_spot}，{restraint_pose}并挑逗{intimate_zone}（{duration} 秒）。  只剩我们，你说停就停。"
       },
       {
         "id": "mc_6",
@@ -1515,7 +1511,7 @@
           "restraint_light"
         ],
         "title": "⚡{explore_end}",
-        "pattern": "进入「{intimate_pose}」，集中{action_bold}{explore_end}（{duration} 秒）。  别的事放一边，随时可以停。"
+        "pattern": "仅在双方事先同意后，进入「{intimate_pose}」，集中{action_bold}{explore_end}（{duration} 秒）。  别的事放一边，随时可以停。"
       }
     ],
     "ladder": [
@@ -1527,7 +1523,7 @@
           "physical_light",
           "deep_talk"
         ],
-        "pattern": "连续 {duration} 秒不停{action_gentle}对方{safe_zone}，同时{constraint}。",
+        "pattern": "双方都舒服时，最多持续 {duration} 秒；任何一方都可随时暂停，{action_gentle}对方{safe_zone}，同时{constraint}。",
         "secondaryPattern": "{secret_question}"
       },
       {
@@ -1549,7 +1545,7 @@
           "bite_lick",
           "deep_talk"
         ],
-        "pattern": "连续 {duration} 秒不停{action_bold}对方{intimate_zone}与{explore_end}——绝对别停！  只剩我们，你说停就停。",
+        "pattern": "双方都舒服时，最多持续 {duration} 秒；任何一方都可随时暂停，{action_bold}对方{intimate_zone}与{explore_end}。  只剩我们，你说停就停。",
         "secondaryPattern": "{secret_question}"
       },
       {
@@ -1561,7 +1557,7 @@
           "bite_lick",
           "deep_talk"
         ],
-        "pattern": "{restraint_pose}，不停{action_bold}对方{intimate_zone}与{explore_end}整整 {duration} 秒！  别的事放一边，随时可以停。",
+        "pattern": "仅在双方事先同意后，{restraint_pose}，以双方都舒服的节奏{action_bold}对方{intimate_zone}与{explore_end}整整 {duration} 秒！  别的事放一边，随时可以停。",
         "secondaryPattern": "{secret_question}"
       }
     ],
@@ -1640,7 +1636,7 @@
           "restraint_light",
           "bite_lick"
         ],
-        "pattern": "🔥 午夜禁区命中！{restraint_pose}，随后不停{action_bold}对方「{zone}」整整 {duration} 秒！  只剩我们，你说停就停。"
+        "pattern": "仅在双方事先同意后，🔥 午夜禁区命中！{restraint_pose}，随后以双方都舒服的节奏{action_bold}对方「{zone}」整整 {duration} 秒！  只剩我们，你说停就停。"
       },
       {
         "id": "mbh_v2_1",
@@ -1732,7 +1728,7 @@
           "restraint_light"
         ],
         "durationSec": 0,
-        "pattern": "我从来没有偷偷好奇过，如果在{room_spot}试一次{touch_contrast}，你会有多害羞。  只剩我们，你说停就停。"
+        "pattern": "仅在双方事先同意后，我从来没有偷偷好奇过，如果在{room_spot}试一次{touch_contrast}，你会有多害羞。  只剩我们，你说停就停。"
       },
       {
         "id": "nh_v2_1",
@@ -1806,7 +1802,7 @@
           "indoor"
         ],
         "title": "午夜失控 · {explore_end}",
-        "pattern": "「现在彻底交愿意的话就吧…」{restraint_pose}，用{tease_tool}移开{garment_piece}，集中{action_bold}{explore_end}（{duration} 秒）。"
+        "pattern": "仅在双方事先同意后，「现在彻底交愿意的话就吧…」{restraint_pose}，用{tease_tool}移开{garment_piece}，集中{action_bold}{explore_end}（{duration} 秒）。"
       }
     ],
     "roleplay": [
@@ -1853,7 +1849,7 @@
           "clothing_dare"
         ],
         "title": "午夜主宰 · {room_spot}",
-        "pattern": "高阶剧本：{fantasy_hook}。在{room_spot}{restraint_pose}，用{tease_tool}拨开{garment_piece}并{action_bold}{explore_end}。  别的事放一边，随时可以停。"
+        "pattern": "仅在双方事先同意后，高阶剧本：{fantasy_hook}。在{room_spot}{restraint_pose}，用{tease_tool}拨开{garment_piece}并{action_bold}{explore_end}。  别的事放一边，随时可以停。"
       }
     ],
     "positions": [

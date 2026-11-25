@@ -97,7 +97,7 @@ public class CoupleMinesFragment extends Fragment {
 
     private void triggerHeartMineDare(boolean actorA, int tier) {
         container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
-            int allowedTier = Math.min(tier, container.entitlementManager.getSelectedMaxTier());
+            int allowedTier = Math.min(tier, container.getEffectiveMaxTier());
             TaskCard dare = container.taskEngine.drawNext(allCards, mutualMatches, allowedTier, null, true);
             if (!isAdded()) return;
             requireActivity().runOnUiThread(() -> {

@@ -5,16 +5,21 @@ import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.Paint;
 import android.graphics.Path;
+import android.graphics.Rect;
 import android.graphics.RectF;
+import android.os.Bundle;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
+import android.view.accessibility.AccessibilityEvent;
+import androidx.core.view.ViewCompat;
+import androidx.core.view.accessibility.AccessibilityNodeInfoCompat;
+import androidx.customview.widget.ExploreByTouchHelper;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
 import com.velvet.couplesgame.core.i18n.AssetContentLoader.BodyMapZoneDto;
 import com.velvet.couplesgame.core.theme.AppTheme;
-import java.util.Collections;
 import java.util.List;
 
 /**
@@ -42,6 +47,7 @@ public class BodyMapView extends View {
     private final Paint labelPaint = new Paint(Paint.ANTI_ALIAS_FLAG);
     private final Path silhouettePath = new Path();
     private final RectF frameRect = new RectF();
+    private ExploreByTouchHelper accessibilityHelper;
 
     public BodyMapView(Context context) {
         super(context);
@@ -59,6 +65,93 @@ public class BodyMapView extends View {
     }
 
     private void init() {
+        setClickable(true);
+        setFocusable(true);
+        accessibilityHelper = new ExploreByTouchHelper(this) {
+            @Override
+            protected int getVirtualViewAt(float x, float y) {
+                if (engine == null) return INVALID_ID;
+                float hitRadius = 32f * getResources().getDisplayMetrics().density;
+                float bestDistanceSquared = hitRadius * hitRadius;
+                int nearestIndex = INVALID_ID;
+                List<BodyMapZoneDto> zones = engine.getZones();
+                for (int i = 0; i < zones.size(); i++) {
+                    BodyMapZoneDto zone = zones.get(i);
+                    float dx = x - zone.nx * getWidth();
+                    float dy = y - zone.ny * getHeight();
+                    float distanceSquared = dx * dx + dy * dy;
+                    if (distanceSquared <= bestDistanceSquared) {
+                        bestDistanceSquared = distanceSquared;
+                        nearestIndex = i;
+                    }
+                }
+                return nearestIndex;
+            }
+
+            @Override
+            protected void getVisibleVirtualViews(List<Integer> virtualViewIds) {
+                if (engine == null) return;
+                for (int i = 0; i < engine.getZones().size(); i++) {
+                    virtualViewIds.add(i);
+                }
+            }
+
+            @Override
+            protected void onPopulateEventForVirtualView(int virtualViewId, AccessibilityEvent event) {
+                BodyMapZoneDto zone = getZone(virtualViewId);
+                if (zone != null) event.setContentDescription(zone.label);
+            }
+
+            @Override
+            protected void onPopulateNodeForVirtualView(
+                    int virtualViewId, AccessibilityNodeInfoCompat node) {
+                BodyMapZoneDto zone = getZone(virtualViewId);
+                if (zone == null) {
+                    node.setContentDescription("");
+                    return;
+                }
+                node.setClassName("android.widget.Button");
+                node.setContentDescription(zone.label);
+                node.setClickable(true);
+                node.setFocusable(true);
+                node.addAction(AccessibilityNodeInfoCompat.ACTION_CLICK);
+                node.setSelected(engine.getPhase() == BodyMapEngine.Phase.SET_TRAPS
+                        ? engine.isSecretHotSpot(zone.id)
+                        : engine.isExplored(zone.id));
+
+                float density = getResources().getDisplayMetrics().density;
+                float centerX = zone.nx * getWidth();
+                float centerY = zone.ny * getHeight();
+                int halfTarget = Math.round(24f * density);
+                node.setBoundsInParent(new Rect(
+                        Math.round(centerX) - halfTarget,
+                        Math.round(centerY) - halfTarget,
+                        Math.round(centerX) + halfTarget,
+                        Math.round(centerY) + halfTarget
+                ));
+            }
+
+            @Override
+            protected boolean onPerformActionForVirtualView(
+                    int virtualViewId, int action, Bundle arguments) {
+                BodyMapZoneDto zone = getZone(virtualViewId);
+                if (action != AccessibilityNodeInfoCompat.ACTION_CLICK || zone == null || listener == null) {
+                    return false;
+                }
+                listener.onZoneTap(zone);
+                invalidate();
+                invalidateRoot();
+                return true;
+            }
+
+            private BodyMapZoneDto getZone(int virtualViewId) {
+                if (engine == null || virtualViewId < 0 || virtualViewId >= engine.getZones().size()) {
+                    return null;
+                }
+                return engine.getZones().get(virtualViewId);
+            }
+        };
+        ViewCompat.setAccessibilityDelegate(this, accessibilityHelper);
         silhouettePaint.setStyle(Paint.Style.FILL);
         outlinePaint.setStyle(Paint.Style.STROKE);
         pinFillPaint.setStyle(Paint.Style.FILL);
@@ -71,6 +164,7 @@ public class BodyMapView extends View {
     public void bindEngine(BodyMapEngine engine) {
         this.engine = engine;
         invalidate();
+        accessibilityHelper.invalidateRoot();
     }
 
     public void setOnZoneTapListener(OnZoneTapListener listener) {
@@ -157,7 +251,21 @@ public class BodyMapView extends View {
 
             // Zone caption pill directly below pin
             labelPaint.setColor(isSelectedHot || isFoundHot ? colorAccent : colorText);
-            canvas.drawText(z.label, cx, cy + pinR + 12f * density, labelPaint);
+            float labelY = cy + pinR + 12f * density;
+            if (labelY > h - 4f * density) {
+                labelY = cy - pinR - 6f * density;
+            }
+            float labelWidth = labelPaint.measureText(z.label);
+            float labelX = cx;
+            if (z.nx < 0.46f) {
+                labelPaint.setTextAlign(Paint.Align.RIGHT);
+                labelX = Math.max(pad + labelWidth, cx - pinR - 4f * density);
+            } else if (z.nx > 0.54f) {
+                labelPaint.setTextAlign(Paint.Align.LEFT);
+                labelX = Math.min(w - pad - labelWidth, cx + pinR + 4f * density);
+            }
+            canvas.drawText(z.label, labelX, labelY, labelPaint);
+            labelPaint.setTextAlign(Paint.Align.CENTER);
         }
     }
 
@@ -188,6 +296,14 @@ public class BodyMapView extends View {
 
         canvas.drawPath(silhouettePath, silhouettePaint);
         canvas.drawPath(silhouettePath, outlinePaint);
+
+        outlinePaint.setStrokeWidth(10f * density);
+        outlinePaint.setStrokeCap(Paint.Cap.ROUND);
+        outlinePaint.setColor(withAlpha(colorPrimary, 70));
+        canvas.drawLine(cx - w * 0.21f, h * 0.34f, cx - w * 0.34f, h * 0.52f, outlinePaint);
+        canvas.drawLine(cx + w * 0.21f, h * 0.34f, cx + w * 0.34f, h * 0.52f, outlinePaint);
+        canvas.drawLine(cx - w * 0.09f, h * 0.78f, cx - w * 0.15f, h * 0.98f, outlinePaint);
+        canvas.drawLine(cx + w * 0.09f, h * 0.78f, cx + w * 0.15f, h * 0.98f, outlinePaint);
     }
 
     @Override
@@ -213,9 +329,22 @@ public class BodyMapView extends View {
             }
         }
         if (nearest != null) {
+            performClick();
             listener.onZoneTap(nearest);
             invalidate();
+            accessibilityHelper.invalidateRoot();
         }
+        return true;
+    }
+
+    @Override
+    public boolean dispatchHoverEvent(MotionEvent event) {
+        return accessibilityHelper.dispatchHoverEvent(event) || super.dispatchHoverEvent(event);
+    }
+
+    @Override
+    public boolean performClick() {
+        super.performClick();
         return true;
     }
 

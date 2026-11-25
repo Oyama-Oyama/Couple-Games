@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paywall_debug_unlock">[DEPURACIÓN] Activar la vista previa VIP en local</string>
+</resources>

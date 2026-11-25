@@ -56,8 +56,9 @@ public final class StreakCalculator {
             for (SessionStatEntity s : history) {
                 if (s == null) continue;
                 if (s.playerACompleted + s.playerBCompleted <= 0) continue;
-                LocalDate day = LocalDate.ofInstant(
-                        java.time.Instant.ofEpochMilli(s.playedAt), ZoneId.systemDefault());
+                LocalDate day = java.time.Instant.ofEpochMilli(s.playedAt)
+                        .atZone(ZoneId.systemDefault())
+                        .toLocalDate();
                 days.add(day);
             }
         }

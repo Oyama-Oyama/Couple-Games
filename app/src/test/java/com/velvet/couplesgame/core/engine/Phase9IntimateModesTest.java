@@ -59,6 +59,22 @@ public class Phase9IntimateModesTest {
     }
 
     @Test
+    public void blackjackFinalScoreCountsMultipleAcesAsElevenOrOneAsNeeded() {
+        assertEquals(13, BlackjackEngine.computeScore(Arrays.asList(
+                new BlackjackEngine.PlayingCard("A", "♥", 11),
+                new BlackjackEngine.PlayingCard("A", "♠", 11),
+                new BlackjackEngine.PlayingCard("9", "♦", 9),
+                new BlackjackEngine.PlayingCard("2", "♣", 2)
+        )));
+        assertEquals(22, BlackjackEngine.computeScore(Arrays.asList(
+                new BlackjackEngine.PlayingCard("10", "♥", 10),
+                new BlackjackEngine.PlayingCard("9", "♠", 9),
+                new BlackjackEngine.PlayingCard("A", "♦", 11),
+                new BlackjackEngine.PlayingCard("2", "♣", 2)
+        )));
+    }
+
+    @Test
     public void velvetBombArmsWithinFuseBoundsPassesAndDetonatesOnHolder() {
         VelvetBombEngine engine = new VelvetBombEngine(new Random(11));
         engine.loadRelays(Collections.singletonList(makePrompt("b1", 2, "playful")), new ConsentFilter(), 2);

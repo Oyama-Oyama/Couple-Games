@@ -79,6 +79,10 @@ public class PropLabEngine {
         return selectedProps.contains(propKey);
     }
 
+    public void removePropSelection(String propKey) {
+        selectedProps.remove(propKey);
+    }
+
     public PropChallengeDto drawNextChallenge() {
         List<PropChallengeDto> matching = collectMatching(false);
         if (matching.isEmpty()) {

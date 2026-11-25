@@ -108,6 +108,28 @@
                     android:textStyle="bold" />
 
                 <TextView
+                    android:id="@+id/tv_rp_soft_limit_warning"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:accessibilityLiveRegion="polite"
+                    android:layout_marginTop="10dp"
+                    android:background="@drawable/bg_card_velvet"
+                    android:padding="10dp"
+                    android:text="@string/soft_limit_warning"
+                    android:textColor="?attr/velvetAccent"
+                    android:textSize="13sp"
+                    android:visibility="gone" />
+
+                <CheckBox
+                    android:id="@+id/check_rp_soft_limit_ack"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:text="@string/soft_limit_ack"
+                    android:textColor="?attr/velvetTextPrimary"
+                    android:visibility="gone" />
+
+                <TextView
                     android:id="@+id/tv_rp_direction"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -124,7 +146,7 @@
                     android:text="@string/roleplay_whisper_label"
                     android:textAllCaps="true"
                     android:textColor="?attr/velvetTextMuted"
-                    android:textSize="10sp"
+                    android:textSize="11sp"
                     android:textStyle="bold" />
 
                 <TextView

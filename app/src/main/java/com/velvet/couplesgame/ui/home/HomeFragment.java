@@ -18,6 +18,7 @@ import androidx.fragment.app.Fragment;
 import androidx.navigation.Navigation;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
+import com.google.android.material.checkbox.MaterialCheckBox;
 import com.velvet.couplesgame.AppContainer;
 import com.velvet.couplesgame.CouplesGameApp;
 import com.velvet.couplesgame.R;
@@ -27,6 +28,7 @@ import com.velvet.couplesgame.core.i18n.TagDisplayMapper;
 import com.velvet.couplesgame.core.model.GameModeCatalog;
 import com.velvet.couplesgame.core.model.TaskCard;
 import com.velvet.couplesgame.core.profile.TogetherDateFormat;
+import com.velvet.couplesgame.core.profile.IntimacyPreferenceManager;
 import com.velvet.couplesgame.core.streak.BadgeCatalog;
 import com.velvet.couplesgame.core.streak.StreakCalculator;
 import com.velvet.couplesgame.core.theme.AppTheme;
@@ -39,6 +41,7 @@ import com.velvet.couplesgame.ui.common.PhysicsAnimator;
 import com.velvet.couplesgame.ui.journal.TonightNoteDialogFragment;
 import com.velvet.couplesgame.ui.onboarding.OnboardingDialogFragment;
 import com.velvet.couplesgame.ui.paywall.PaywallDialogFragment;
+import com.velvet.couplesgame.ui.reward.RewardVoucherWalletDialogFragment;
 import java.util.List;
 import java.util.Locale;
 
@@ -161,6 +164,15 @@ public class HomeFragment extends Fragment {
             HapticHelper.tick(v);
             Navigation.findNavController(v).navigate(R.id.action_home_to_date_night);
         });
+        binding.btnRewardWallet.setOnClickListener(v -> {
+            HapticHelper.tick(v);
+            RewardVoucherWalletDialogFragment.newInstance()
+                    .show(getChildFragmentManager(), RewardVoucherWalletDialogFragment.TAG);
+        });
+        binding.btnIntimacyPreferences.setOnClickListener(v -> {
+            HapticHelper.tick(v);
+            showIntimacyPreferenceDialog();
+        });
         container.contentRepository.observeSessionStats().observe(getViewLifecycleOwner(), stats -> {
             sessionStats = stats != null ? stats : new java.util.ArrayList<>();
             updateDateNightCard();
@@ -257,8 +269,8 @@ public class HomeFragment extends Fragment {
 
         binding.tvGameModesToggle.setOnClickListener(v -> toggleModesExpanded(false));
         binding.btnToggleModesExpand.setOnClickListener(v -> toggleModesExpanded(true));
-
-        applySortFilter(activeSort);
+        updateSortFilterButtons();
+        renderGameModesList();
     }
 
     private void toggleModesExpanded(boolean scrollToHeaderOnCollapse) {
@@ -278,11 +290,15 @@ public class HomeFragment extends Fragment {
 
     private void applySortFilter(GameModeCatalog.SortFilter filter) {
         activeSort = filter;
-        binding.btnSortHottest.setAlpha(filter == GameModeCatalog.SortFilter.HOTTEST_FIRST ? 1.0f : 0.52f);
-        binding.btnSortGentle.setAlpha(filter == GameModeCatalog.SortFilter.GENTLE_TO_WILD ? 1.0f : 0.52f);
-        binding.btnSortFree.setAlpha(filter == GameModeCatalog.SortFilter.FREE_ONLY ? 1.0f : 0.52f);
-        binding.btnSortVip.setAlpha(filter == GameModeCatalog.SortFilter.VIP_ONLY ? 1.0f : 0.52f);
+        updateSortFilterButtons();
         renderGameModesList();
+    }
+
+    private void updateSortFilterButtons() {
+        binding.btnSortHottest.setAlpha(activeSort == GameModeCatalog.SortFilter.HOTTEST_FIRST ? 1.0f : 0.52f);
+        binding.btnSortGentle.setAlpha(activeSort == GameModeCatalog.SortFilter.GENTLE_TO_WILD ? 1.0f : 0.52f);
+        binding.btnSortFree.setAlpha(activeSort == GameModeCatalog.SortFilter.FREE_ONLY ? 1.0f : 0.52f);
+        binding.btnSortVip.setAlpha(activeSort == GameModeCatalog.SortFilter.VIP_ONLY ? 1.0f : 0.52f);
     }
 
     private void renderGameModesList() {
@@ -304,8 +320,12 @@ public class HomeFragment extends Fragment {
         boolean unlocked = container.entitlementManager.isPremiumUnlocked();
         boolean canCollapse = allMatching.size() > COLLAPSED_MODE_COUNT;
         int hiddenCount = Math.max(0, allMatching.size() - visibleModes.size());
+        boolean noModes = allMatching.isEmpty();
+        binding.tvGameModesToggle.setVisibility(noModes ? View.GONE : View.VISIBLE);
 
-        if (!canCollapse) {
+        if (noModes) {
+            binding.btnToggleModesExpand.setVisibility(View.GONE);
+        } else if (!canCollapse) {
             binding.tvGameModesToggle.setText(allMatching.size() + " / " + GameModeCatalog.values().length);
             binding.tvGameModesToggle.setClickable(false);
             binding.btnToggleModesExpand.setVisibility(View.GONE);
@@ -341,6 +361,86 @@ public class HomeFragment extends Fragment {
             });
             binding.layoutGameModesList.addView(cardBinding.getRoot());
         }
+    }
+
+    private void showIntimacyPreferenceDialog() {
+        IntimacyPreferenceManager manager = container.intimacyPreferenceManager;
+        java.util.Set<IntimacyPreferenceManager.Style> selected = manager.getSelectedStyles();
+        IntimacyPreferenceManager.Style[] styles = IntimacyPreferenceManager.Style.values();
+        int[] labelResources = {
+                R.string.intimacy_style_romantic,
+                R.string.intimacy_style_playful,
+                R.string.intimacy_style_sensory,
+                R.string.intimacy_style_imaginative
+        };
+        String[] labels = new String[styles.length];
+        boolean[] checked = new boolean[styles.length];
+        for (int i = 0; i < styles.length; i++) {
+            labels[i] = getString(labelResources[i]);
+            checked[i] = selected.contains(styles[i]);
+        }
+
+        int padding = Math.round(16f * getResources().getDisplayMetrics().density);
+        android.widget.LinearLayout content = new android.widget.LinearLayout(requireContext());
+        content.setOrientation(android.widget.LinearLayout.VERTICAL);
+        content.setPadding(padding, padding, padding, 0);
+
+        android.widget.TextView description = new android.widget.TextView(requireContext());
+        description.setText(R.string.intimacy_preferences_body);
+        description.setTextColor(resolveThemeColor(R.attr.velvetTextMuted));
+        description.setTextSize(14f);
+        description.setPadding(padding, padding, padding, padding);
+        description.setBackgroundResource(R.drawable.bg_card_velvet);
+        content.addView(description, new android.widget.LinearLayout.LayoutParams(
+                ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT));
+
+        MaterialCheckBox[] checkBoxes = new MaterialCheckBox[styles.length];
+        for (int i = 0; i < styles.length; i++) {
+            MaterialCheckBox checkBox = new MaterialCheckBox(requireContext());
+            checkBox.setText(labels[i]);
+            checkBox.setTextColor(resolveThemeColor(R.attr.velvetTextPrimary));
+            checkBox.setChecked(checked[i]);
+            checkBoxes[i] = checkBox;
+            android.widget.LinearLayout.LayoutParams params =
+                    new android.widget.LinearLayout.LayoutParams(
+                            ViewGroup.LayoutParams.MATCH_PARENT, ViewGroup.LayoutParams.WRAP_CONTENT);
+            params.topMargin = Math.round(4f * getResources().getDisplayMetrics().density);
+            content.addView(checkBox, params);
+        }
+
+        android.widget.ScrollView scrollView = new android.widget.ScrollView(requireContext());
+        scrollView.addView(content);
+        new MaterialAlertDialogBuilder(requireContext())
+                .setTitle(R.string.intimacy_preferences_title)
+                .setView(scrollView)
+                .setNegativeButton(android.R.string.cancel, null)
+                .setPositiveButton(R.string.intimacy_preferences_save, (dialog, which) -> {
+                    java.util.EnumSet<IntimacyPreferenceManager.Style> chosen =
+                            java.util.EnumSet.noneOf(IntimacyPreferenceManager.Style.class);
+                    for (int i = 0; i < styles.length; i++) {
+                        if (checkBoxes[i].isChecked()) chosen.add(styles[i]);
+                    }
+                    if (!manager.saveSelectedStyles(chosen)) {
+                        Toast.makeText(requireContext(), R.string.intimacy_preferences_save_failed,
+                                Toast.LENGTH_LONG).show();
+                        return;
+                    }
+                    renderGameModesList();
+                    Toast.makeText(requireContext(), R.string.intimacy_preferences_saved,
+                            Toast.LENGTH_SHORT).show();
+                })
+                .show();
+    }
+
+    private int resolveThemeColor(int attrId) {
+        android.util.TypedValue value = new android.util.TypedValue();
+        if (requireContext().getTheme().resolveAttribute(attrId, value, true)) {
+            if (value.resourceId != 0) {
+                return androidx.core.content.ContextCompat.getColor(requireContext(), value.resourceId);
+            }
+            return value.data;
+        }
+        return 0xFFFFFFFF;
     }
 
     /** Mood check-in dialog: pick a mood and write one gratitude note per partner. */
@@ -612,6 +712,12 @@ public class HomeFragment extends Fragment {
 
     private void selectTier(int tier) {
         HapticHelper.tick(binding.getRoot());
+        if (!container.ageGateManager.isAdultContentAllowed()
+                && tier > com.velvet.couplesgame.core.billing.FeatureGate.FREE_MAX_TIER) {
+            Toast.makeText(requireContext(), R.string.agegate_adult_content_unavailable,
+                    Toast.LENGTH_SHORT).show();
+            return;
+        }
         if (!container.entitlementManager.canAccessTier(tier)) {
             openPaywall(ACTION_TIER_PREFIX + tier);
             return;
@@ -622,13 +728,16 @@ public class HomeFragment extends Fragment {
 
     private void updateIntensityButtonsUi() {
         if (binding == null) return;
-        int current = container.entitlementManager.getSelectedMaxTier();
+        int current = container.getEffectiveMaxTier();
         boolean vip = container.entitlementManager.isPremiumUnlocked();
+        boolean adultContentAllowed = container.ageGateManager.isAdultContentAllowed();
 
         binding.btnTier1.setAlpha(current == 1 ? 1.0f : 0.55f);
         binding.btnTier2.setAlpha(current == 2 ? 1.0f : 0.55f);
-        binding.btnTier3.setAlpha(current == 3 ? 1.0f : 0.55f);
-        binding.btnTier4.setAlpha(current == 4 ? 1.0f : 0.55f);
+        binding.btnTier3.setEnabled(adultContentAllowed);
+        binding.btnTier4.setEnabled(adultContentAllowed);
+        binding.btnTier3.setAlpha(adultContentAllowed && current == 3 ? 1.0f : 0.35f);
+        binding.btnTier4.setAlpha(adultContentAllowed && current == 4 ? 1.0f : 0.35f);
 
         binding.btnTier1.setText(R.string.tier_short_1);
         binding.btnTier2.setText(R.string.tier_short_2);
@@ -649,7 +758,7 @@ public class HomeFragment extends Fragment {
     private void drawNextCard(boolean advanceTurn, boolean forceOfflineAi) {
         dareTimer.cancel();
         boolean enableProcedural = binding.switchProcedural.isChecked();
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
 
         container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
             TaskCard next = null;
@@ -705,6 +814,9 @@ public class HomeFragment extends Fragment {
                 requireContext(), card.tier, card.type, card.isProcedural, card.isCustom
         );
         binding.tvCardMeta.setText(actor + " · " + meta);
+        binding.tvSoftLimitWarning.setVisibility(
+                container.consentFilter.hasSoftLimit(card.tags) ? View.VISIBLE : View.GONE
+        );
     }
 
     private void updateSkipButtonLabel() {

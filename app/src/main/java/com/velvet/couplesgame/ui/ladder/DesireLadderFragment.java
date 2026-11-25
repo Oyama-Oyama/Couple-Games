@@ -16,7 +16,9 @@ import com.velvet.couplesgame.core.i18n.AssetContentLoader.LadderStepDto;
 import com.velvet.couplesgame.core.model.TaskCard;
 import com.velvet.couplesgame.databinding.FragmentDesireLadderBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
+import com.velvet.couplesgame.ui.common.AftercareDialogHelper;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
+import com.velvet.couplesgame.ui.common.SoftLimitPromptHelper;
 import com.velvet.couplesgame.ui.common.TaskPromptDialogHelper;
 import java.util.ArrayList;
 import java.util.List;
@@ -73,7 +75,7 @@ public class DesireLadderFragment extends Fragment {
             HapticHelper.confirm(v);
             timerHelper.cancel();
             boolean answererIsA = !engine.isTeaserPlayerA();
-            int maxTier = container.entitlementManager.getSelectedMaxTier();
+            int maxTier = container.getEffectiveMaxTier();
             container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
                 TaskCard dare = container.taskEngine.drawNext(allCards, mutualMatches, maxTier, null, true);
                 if (!isAdded()) return;
@@ -111,7 +113,13 @@ public class DesireLadderFragment extends Fragment {
             advanceLadder();
         });
 
-        int initMaxTier = container.entitlementManager.getSelectedMaxTier();
+        binding.btnLadderSkip.setOnClickListener(v -> {
+            HapticHelper.tick(v);
+            timerHelper.cancel();
+            advanceLadder();
+        });
+
+        int initMaxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadExtremeModesAsync(bundle -> {
             List<LadderStepDto> combined = new ArrayList<>();
             if (bundle.ladderSteps != null) combined.addAll(bundle.ladderSteps);
@@ -134,7 +142,7 @@ public class DesireLadderFragment extends Fragment {
         if (finished) {
             container.contentRepository.recordSessionStat("DESIRE_LADDER", engine.getTotalSteps(), engine.getTotalSteps(), 0);
             Toast.makeText(requireContext(), R.string.ladder_summit_toast, Toast.LENGTH_LONG).show();
-            int maxTier = container.entitlementManager.getSelectedMaxTier();
+            int maxTier = container.getEffectiveMaxTier();
             List<LadderStepDto> freshSteps = container.modeSynthesizer.synthesizeLadderSteps(
                     container.assetLoader.loadGeneratorBundle(), container.consentFilter, maxTier, 10
             );
@@ -142,7 +150,10 @@ public class DesireLadderFragment extends Fragment {
                 engine.loadSteps(freshSteps, container.consentFilter);
             }
         }
-        PhysicsAnimator.flipCard3D(binding.cardLadderStage, this::renderStep);
+        PhysicsAnimator.flipCard3D(binding.cardLadderStage, () -> {
+            renderStep();
+            if (finished) AftercareDialogHelper.show(this);
+        });
     }
 
     private void renderStep() {
@@ -153,6 +164,10 @@ public class DesireLadderFragment extends Fragment {
             binding.tvLadderTeaseBody.setText(R.string.msg_no_eligible_cards);
             binding.tvLadderTruthBody.setText("");
             binding.btnLadderTimer.setVisibility(View.GONE);
+            binding.tvLadderSoftLimitWarning.setVisibility(View.GONE);
+            binding.checkLadderSoftLimitAck.setVisibility(View.GONE);
+            binding.btnLadderSkip.setVisibility(View.GONE);
+            binding.btnLadderTimer.setEnabled(true);
             binding.btnLadderClimb.setEnabled(false);
             binding.btnLadderBroke.setEnabled(false);
             return;
@@ -173,6 +188,22 @@ public class DesireLadderFragment extends Fragment {
         binding.tvLadderTeaseBody.setText(s.foreplayAction);
         binding.tvLadderTruthHeader.setText(getString(R.string.ladder_answerer_header, answerer));
         binding.tvLadderTruthBody.setText(s.truthQuestion);
+
+        boolean requiresAcknowledgment = SoftLimitPromptHelper.bind(
+                container.consentFilter,
+                s.tags,
+                binding.tvLadderSoftLimitWarning,
+                binding.checkLadderSoftLimitAck,
+                binding.btnLadderTimer
+        );
+        binding.btnLadderSkip.setVisibility(requiresAcknowledgment ? View.VISIBLE : View.GONE);
+        binding.btnLadderClimb.setEnabled(!requiresAcknowledgment);
+        if (requiresAcknowledgment) {
+            binding.checkLadderSoftLimitAck.setOnCheckedChangeListener((button, checked) -> {
+                binding.btnLadderTimer.setEnabled(checked);
+                binding.btnLadderClimb.setEnabled(checked);
+            });
+        }
 
         binding.tvLadderTimer.setVisibility(View.GONE);
         binding.btnLadderTimer.setText(getString(R.string.btn_start_timer, s.durationSec > 0 ? s.durationSec : 35));

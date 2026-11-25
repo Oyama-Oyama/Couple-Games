@@ -80,6 +80,9 @@ public class TonightNoteDialogFragment extends DialogFragment {
             Toast.makeText(requireContext(), R.string.tonight_note_saved_toast,
                     Toast.LENGTH_SHORT).show();
             dismissAllowingStateLoss();
+        } else {
+            Toast.makeText(requireContext(), R.string.tonight_note_save_failed,
+                    Toast.LENGTH_LONG).show();
         }
     }
 

@@ -30,6 +30,7 @@ public class ConsentRepository {
     private final BoundaryDao boundaryDao;
     private final ConsentFilter consentFilter;
     private final ExecutorService ioExecutor;
+    private volatile boolean initialized;
 
     public ConsentRepository(BoundaryDao boundaryDao, ConsentFilter consentFilter, ExecutorService ioExecutor) {
         this.boundaryDao = boundaryDao;
@@ -41,7 +42,12 @@ public class ConsentRepository {
         ioExecutor.execute(() -> {
             boundaryDao.insertDefaults(DEFAULT_RULES);
             consentFilter.replaceRules(boundaryDao.getAllSync());
+            initialized = true;
         });
+    }
+
+    public boolean isInitialized() {
+        return initialized;
     }
 
     public LiveData<List<BoundaryRuleEntity>> observeRules() {

@@ -74,7 +74,7 @@
         "timed"
       ],
       "durationSec": 60,
-      "pattern": "Demande à ton partenaire de fermer les yeux sans bouger pendant que tu {action_gentle} son {safe_zone} durant {duration}s sans presser.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+      "pattern": "Si vous êtes tous les deux d'accord au préalable, Demande à ton partenaire de fermer les yeux sans bouger pendant que tu {action_gentle} son {safe_zone} durant {duration}s sans presser.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
     },
     {
       "id": "gen_bold_02",
@@ -111,7 +111,7 @@
         "indoor"
       ],
       "durationSec": 30,
-      "pattern": "Tour de gage : maintiens ses mains dans son dos et {action_bold} son {intimate_zone} pendant {duration}s.  Le reste peut attendre : on s’arrête quand tu veux."
+      "pattern": "Si vous êtes tous les deux d'accord à l'avance, essayez un défi léger : gardez les mains de votre partenaire jointes sans les retenir, puis {action_bold} {intimate_zone} pendant {duration}s. Le reste peut attendre : on s'arrête quand tu veux."
     },
     {
       "id": "gen_hot_03",
@@ -122,7 +122,7 @@
         "indoor"
       ],
       "durationSec": 0,
-      "pattern": "Choix audacieux : {playful dare_twist} — ou laisse ton partenaire {action_bold} ton {intimate_zone} pendant 30s.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+      "pattern": "Défi audacieux : {playful_dare_twist} — ou demande à ton partenaire de déposer un baiser lent sur {intimate_zone} pendant 30 s. Il n'y a que nous ici : si tu dis stop, on s'arrête."
     },
     {
       "id": "gen_hot_04",
@@ -135,7 +135,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Les yeux fermés, alterne souffle brûlant et {action_bold} sur son {intimate_zone} pendant {duration} secondes.  Le reste peut attendre : on s’arrête quand tu veux."
+      "pattern": "Si vous êtes tous les deux d'accord à l'avance, demande à ton partenaire de fermer les yeux, puis alternez souffle chaud et baisers lents sur {intimate_zone} pendant {duration} secondes. Le reste peut attendre : on s'arrête quand tu veux."
     },
     {
       "id": "gen_explore_01",
@@ -159,7 +159,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Alterne souffle brûlant et {action_bold} de {intimate_zone} jusqu'à {explore_end} pendant {duration}s — fige-toi 3 secondes à chaque frisson.  Le reste peut attendre : on s’arrête quand tu veux."
+      "pattern": "Alterne souffle chaud et baisers lents en parcourant doucement la zone entre {intimate_zone} et {explore_end} pendant {duration}s ; fais une pause de 3 secondes à chaque frisson de ton partenaire. Le reste peut attendre : on s'arrête quand tu veux."
     },
     {
       "id": "gen_explore_03",
@@ -172,7 +172,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "{restraint_pose} et interdis-lui de t'embrasser pendant que tu {action_bold} son {intimate_zone} et son {explore_end} durant {duration}s.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+      "pattern": "Si vous êtes tous les deux d'accord à l'avance, essayez un tour où il n'est pas nécessaire de rendre les baisers : explorez doucement {intimate_zone} et {explore_end} pendant {duration}s maximum. Chacun peut changer d'avis, faire une pause ou arrêter à tout moment."
     },
     {
       "id": "gen_explore_04",
@@ -198,7 +198,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "Chasse sensorielle à l'aveugle : glisse {sensory_item} de {explore_start} jusqu'à {explore_end} et réchauffe aussitôt chaque trace de baisers brûlants ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+      "pattern": "Si vous êtes tous les deux d'accord au préalable, Chasse sensorielle à l'aveugle : glisse {sensory_item} de {explore_start} jusqu'à {explore_end} et réchauffe aussitôt chaque trace de baisers brûlants ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
     },
     {
       "id": "gen_explore_06",
@@ -210,7 +210,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Installe ton partenaire en « {intimate_pose} », serre ses hanches et {action_bold} son {intimate_zone} pendant {duration}s en murmurant la suite.  Le reste peut attendre : on s’arrête quand tu veux."
+      "pattern": "Si vous êtes tous les deux d'accord à l'avance, guide ton partenaire vers « {intimate_pose} », rapproche-toi et {action_bold} {intimate_zone} pendant {duration}s en lui murmurant la suite. Le reste peut attendre : on s'arrête quand tu veux."
     },
     {
       "id": "gen_explore_07",
@@ -236,7 +236,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Défi au bord du craquage : {action_bold} son {intimate_zone} et son {explore_end} pendant {duration}s — s'il craque ou attrape tes mains, gage : {playful dare_twist}.  Le reste peut attendre : on s’arrête quand tu veux."
+      "pattern": "Si votre partenaire en a envie, explorez son {intimate_zone} et son {explore_end} avec un toucher qui vous plaît à tous les deux, pendant {duration}s maximum. Choisissez ensemble un éventuel bonus, jamais comme une punition ; chacun peut faire une pause ou arrêter."
     },
     {
       "id": "gen_spark_03",
@@ -328,7 +328,7 @@
         "indoor"
       ],
       "durationSec": 40,
-      "pattern": "Fais-lui fermer les yeux près de {room_spot} ({duration}s) pendant que tu surprends son {safe_zone} avec {touch_contrast}."
+      "pattern": "Si vous êtes tous les deux d'accord au préalable, Fais-lui fermer les yeux près de {room_spot} ({duration}s) pendant que tu surprends son {safe_zone} avec {touch_contrast}."
     },
     {
       "id": "gen_playful_06",
@@ -411,7 +411,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Installe ton partenaire en « {intimate_pose} » et {action_bold} son {intimate_zone} ({duration}s) en murmurant « {whisper_topic} ».  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+      "pattern": "Guide ton partenaire vers « {intimate_pose} » et {action_bold} {intimate_zone} pendant {duration}s en murmurant « {whisper_topic} ». Il n'y a que nous ici : si tu dis stop, on s'arrête."
     },
     {
       "id": "gen_flirty_06",
@@ -437,7 +437,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "Bande ses yeux près de {room_spot} : fais glisser {sensory_item} sur son {intimate_zone} et {explore_end} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+      "pattern": "Si vous êtes tous les deux d'accord au préalable, Bande ses yeux près de {room_spot} : fais glisser {sensory_item} sur son {intimate_zone} et {explore_end} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
     },
     {
       "id": "gen_flirty_08",
@@ -461,7 +461,7 @@
         "indoor"
       ],
       "durationSec": 40,
-      "pattern": "Regard fixe sans ciller : {action_bold} son {intimate_zone} ({duration}s) — le premier qui détourne les yeux subit : {playful dare_twist}.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+      "pattern": "Si vous en avez tous les deux envie, regardez-vous dans les yeux : {action_bold} {intimate_zone} pendant {duration}s. Si l'un de vous détourne le regard, choisissez ensemble un petit défi amusant : {playful_dare_twist}. Vous pouvez arrêter à tout moment."
     },
     {
       "id": "gen_explore_09",
@@ -474,7 +474,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "Près de {room_spot}, {restraint_pose} et alterne {touch_contrast} entre {explore_start} et {explore_end} ({duration}s).  Le reste peut attendre : on s’arrête quand tu veux."
+      "pattern": "Si vous êtes tous les deux d'accord au préalable, Près de {room_spot}, {restraint_pose} et alterne {touch_contrast} entre {explore_start} et {explore_end} ({duration}s).  Le reste peut attendre : on s’arrête quand tu veux."
     },
     {
       "id": "gen_explore_10",
@@ -487,7 +487,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "Retire ou écarte {garment_piece} avec {tease_tool}, guide-le en « {intimate_pose} » et {action_bold} son {explore_end} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+      "pattern": "Si vous êtes tous les deux d'accord à l'avance, écarte {garment_piece} avec {tease_tool}, guide ton partenaire vers « {intimate_pose} » et {action_bold} {explore_end} pendant {duration}s. Il n'y a que nous ici : si tu dis stop, on s'arrête."
     },
     {
       "id": "gen_explore_11",
@@ -500,7 +500,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "Surcharge sensorielle ({duration}s) : yeux bandés, glisse {sensory_item} de {explore_start} à {explore_end}, puis {action_bold} ({tempo_rule}).  Le reste peut attendre : on s’arrête quand tu veux."
+      "pattern": "Si vous êtes tous les deux d'accord à l'avance, essayez un jeu sensoriel de {duration}s : les yeux bandés, fais glisser {sensory_item} de {explore_start} à {explore_end}, puis {action_bold} doucement {explore_end} en suivant {tempo_rule}. Le reste peut attendre : on s'arrête quand tu veux."
     },
     {
       "id": "gen_explore_12",
@@ -511,7 +511,7 @@
         "restraint_light"
       ],
       "durationSec": 0,
-      "pattern": "Aveu ultime de minuit : {secret_question} — puis abandonne-toi {duration}s pendant que ton partenaire applique : {playful dare_twist}.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+      "pattern": "Si vous êtes tous les deux d'accord au préalable, Aveu ultime de minuit : {secret_question} — puis abandonne-toi {duration}s pendant que ton partenaire applique : {playful_dare_twist}.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
     },
     {
       "id": "gen_explore_13",
@@ -524,7 +524,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "Domination totale près de {room_spot} : {restraint_pose}, murmure « {whisper_topic} » et explore de {intimate_zone} à {explore_end} ({duration}s) — un seul bruit et gage : {playful dare_twist}.  Le reste peut attendre : on s’arrête quand tu veux."
+      "pattern": "Si vous souhaitez tous les deux alterner les rôles à {room_spot}, partagez {whisper_topic} et explorez de {intimate_zone} vers {explore_end} pendant {duration}s maximum. Choisissez ensemble un éventuel bonus ; chacun peut faire une pause ou arrêter."
     },
     {
       "id": "gen_v2_t1_tr1",
@@ -712,14 +712,10 @@
       "laissant le regard dire ce que la voix retient"
     ],
     "action_bold": [
-      "mordille doucement",
-      "lèche très lentement",
-      "couvre de baisers fiévreux",
-      "taquine des lèvres et des doigts",
-      "suce doucement puis embrasse",
-      "trace des sillons humides de ta la chaleur du souffle",
-      "mordille puis apaise d'un long baiser",
-      "dépose des baisers ouverts et brûlants sur"
+      "embrasse",
+      "caresse",
+      "effleure",
+      "parcours"
     ],
     "intimate_zone": [
       "le lobe d'oreille",
@@ -830,7 +826,7 @@
       "Quel murmure direct ou compliment osé fait bondir ton pouls instantanément ?",
       "Quelle position ou angle avec moi reste le plus gravé dans ta tête ?"
     ],
-    "playful dare_twist": [
+    "playful_dare_twist": [
       "dis-moi cette pensée que tu gardes pour la fin",
       "garde mon regard un instant de plus que le confort",
       "chuchote quelque chose que nous seuls savons",
@@ -888,7 +884,7 @@
         ],
         "category": "DARE",
         "title": "Contrôle de Minuit",
-        "pattern": "{restraint_pose}, puis {action_bold} son {intimate_zone} et {explore_end} pendant {duration}s.  Le reste peut attendre : on s’arrête quand tu veux."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, {restraint_pose}, puis {action_bold} son {intimate_zone} et {explore_end} pendant {duration}s.  Le reste peut attendre : on s’arrête quand tu veux."
       },
       {
         "id": "ms_l1",
@@ -949,7 +945,7 @@
         ],
         "category": "FANTASY",
         "title": "Chasse Bandeau",
-        "pattern": "Yeux bandés près de {room_spot} : alterne {sensory_item} et baisers brûlants sur {explore_start} et {explore_end} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Yeux bandés près de {room_spot} : alterne {sensory_item} et baisers brûlants sur {explore_start} et {explore_end} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
       },
       {
         "id": "ms_f3",
@@ -962,7 +958,7 @@
         ],
         "category": "FANTASY",
         "title": "Fantasme Souverain",
-        "pattern": "Installe-le en « {intimate_pose} », écarte {garment_piece} avec {tease_tool} et {action_bold} {explore_end} ({duration}s).  Le reste peut attendre : on s’arrête quand tu veux."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Installe-le en « {intimate_pose} », écarte {garment_piece} avec {tease_tool} et {action_bold} {explore_end} ({duration}s).  Le reste peut attendre : on s’arrête quand tu veux."
       }
     ],
     "bomb": [
@@ -1019,7 +1015,7 @@
           "restraint_light",
           "bite_lick"
         ],
-        "pattern": "{action_bold} son {explore_end} 3s — passe avant l'explosion !  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, {action_bold} son {explore_end} 3s — passe avant l'explosion !  Il n’y a que nous ici — si tu dis stop, on s’arrête."
       },
       {
         "id": "mb_v2_1",
@@ -1103,7 +1099,7 @@
         "tags": [
           "restraint_light"
         ],
-        "pattern": "Sans bouger ! Taquine son {intimate_zone} avec {touch_contrast} jusqu'à 100% !  Le reste peut attendre : on s’arrête quand tu veux."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Sans bouger ! Taquine son {intimate_zone} avec {touch_contrast} jusqu'à 100% !  Le reste peut attendre : on s’arrête quand tu veux."
       },
       {
         "id": "mh_v2_1",
@@ -1177,7 +1173,7 @@
         "tags": [
           "restraint_light"
         ],
-        "pattern": "{restraint_pose} + {duration}s {action_bold} sur {intimate_zone}  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, {restraint_pose} + {duration}s {action_bold} sur {intimate_zone}  Il n’y a que nous ici — si tu dis stop, on s’arrête."
       }
     ],
     "auction": [
@@ -1230,7 +1226,7 @@
           "bite_lick"
         ],
         "title": "Décret de Minuit",
-        "pattern": "{restraint_pose} : explore de {intimate_zone} à {explore_end} ({duration}s) — un bruit et gage : {playful dare_twist}.  Le reste peut attendre : on s’arrête quand tu veux."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, prenez chacun votre tour l'initiative à {room_spot}. Partagez {whisper_topic}, puis explorez de {intimate_zone} vers {explore_end} pendant {duration}s maximum. Choisissez ensemble une touche ludique ; chacun peut faire une pause ou arrêter."
       }
     ],
     "desire_match": [
@@ -1283,7 +1279,7 @@
           "physical_light",
           "indoor"
         ],
-        "pattern": "Séance bandeau ({duration}s) : parcourir de {explore_start} à {explore_end} avec {sensory_item} et baisers brûlants.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Séance bandeau ({duration}s) : parcourir de {explore_start} à {explore_end} avec {sensory_item} et baisers brûlants.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
       },
       {
         "id": "md_6",
@@ -1294,7 +1290,7 @@
           "clothing_dare",
           "indoor"
         ],
-        "pattern": "Tester « {intimate_pose} » : écarter {garment_piece} avec {tease_tool} et explorer {explore_end} ({duration}s).  Le reste peut attendre : on s’arrête quand tu veux."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Tester « {intimate_pose} » : écarter {garment_piece} avec {tease_tool} et explorer {explore_end} ({duration}s).  Le reste peut attendre : on s’arrête quand tu veux."
       }
     ],
     "props": [
@@ -1319,7 +1315,7 @@
           "indoor"
         ],
         "category": "blindfold",
-        "pattern": "Bande ses yeux près de {room_spot} : surprends {intimate_zone} et {explore_end} avec {touch_contrast} ({duration}s · {tempo_rule}).  Le reste peut attendre : on s’arrête quand tu veux."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Bande ses yeux près de {room_spot} : surprends {intimate_zone} et {explore_end} avec {touch_contrast} ({duration}s · {tempo_rule}).  Le reste peut attendre : on s’arrête quand tu veux."
       },
       {
         "id": "mp_oil",
@@ -1341,7 +1337,7 @@
           "indoor"
         ],
         "category": "tie",
-        "pattern": "Avec une cravate ou foulard en soie : {restraint_pose}, puis {action_bold} {intimate_zone} et {explore_end} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Avec une cravate ou foulard en soie : {restraint_pose}, puis {action_bold} {intimate_zone} et {explore_end} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
       },
       {
         "id": "mp_honey",
@@ -1397,7 +1393,7 @@
           "indoor"
         ],
         "category": "blindfold",
-        "pattern": "Yeux bandés près de {room_spot}, {action_gentle} son {safe_zone} en murmurant {whisper_topic} ({duration}s)."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Yeux bandés près de {room_spot}, {action_gentle} son {safe_zone} en murmurant {whisper_topic} ({duration}s)."
       },
       {
         "id": "mp_v2_oil_t1",
@@ -1504,7 +1500,7 @@
           "restraint_light"
         ],
         "title": "{room_spot}",
-        "pattern": "Près de {room_spot}, {restraint_pose} et taquine {intimate_zone} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Près de {room_spot}, {restraint_pose} et taquine {intimate_zone} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
       },
       {
         "id": "mc_6",
@@ -1515,7 +1511,7 @@
           "restraint_light"
         ],
         "title": "⚡ {explore_end}",
-        "pattern": "Installe-le en « {intimate_pose} » et {action_bold} {explore_end} ({duration}s).  Le reste peut attendre : on s’arrête quand tu veux."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Installe-le en « {intimate_pose} » et {action_bold} {explore_end} ({duration}s).  Le reste peut attendre : on s’arrête quand tu veux."
       }
     ],
     "ladder": [
@@ -1527,7 +1523,7 @@
           "physical_light",
           "deep_talk"
         ],
-        "pattern": "Pendant {duration}s, {action_gentle} son {safe_zone} sans arrêt tout en {constraint}.",
+        "pattern": "Pendant {duration}s, {action_gentle} son {safe_zone} à un rythme confortable pour vous deux tout en {constraint}.",
         "secondaryPattern": "{secret_question}"
       },
       {
@@ -1561,7 +1557,7 @@
           "bite_lick",
           "deep_talk"
         ],
-        "pattern": "{restraint_pose} et {action_bold} son {intimate_zone} et {explore_end} non-stop ({duration}s) !  Le reste peut attendre : on s’arrête quand tu veux.",
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, {restraint_pose} et {action_bold} son {intimate_zone} et {explore_end} à un rythme confortable pour vous deux ({duration}s) !  Le reste peut attendre : on s’arrête quand tu veux.",
         "secondaryPattern": "{secret_question}"
       }
     ],
@@ -1640,7 +1636,7 @@
           "restraint_light",
           "bite_lick"
         ],
-        "pattern": "🔥 COUP DE MINUIT ! {restraint_pose} et {action_bold} son {zone} sans arrêt ({duration}s) !  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, 🔥 COUP DE MINUIT ! {restraint_pose} et {action_bold} son {zone} à un rythme confortable pour vous deux ({duration}s) !  Il n’y a que nous ici — si tu dis stop, on s’arrête."
       },
       {
         "id": "mbh_v2_1",
@@ -1732,7 +1728,7 @@
           "restraint_light"
         ],
         "durationSec": 0,
-        "pattern": "Je n'ai jamais eu envie d'essayer {touch_contrast} avec toi près de {room_spot}.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Je n'ai jamais eu envie d'essayer {touch_contrast} avec toi près de {room_spot}.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
       },
       {
         "id": "nh_v2_1",
@@ -1806,7 +1802,7 @@
           "indoor"
         ],
         "title": "Abandon · {explore_end}",
-        "pattern": "{restraint_pose}, écarte {garment_piece} avec {tease_tool} et {action_bold} {explore_end} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, {restraint_pose}, écarte {garment_piece} avec {tease_tool} et {action_bold} {explore_end} ({duration}s).  Il n’y a que nous ici — si tu dis stop, on s’arrête."
       }
     ],
     "roleplay": [
@@ -1853,7 +1849,7 @@
           "clothing_dare"
         ],
         "title": "Souverain · {room_spot}",
-        "pattern": "Scène audacieuse : {fantasy_hook}. Près de {room_spot}, {restraint_pose}, écarte {garment_piece} avec {tease_tool} et {action_bold} {explore_end}.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
+        "pattern": "Si vous êtes tous les deux d'accord au préalable, Scène audacieuse : {fantasy_hook}. Près de {room_spot}, {restraint_pose}, écarte {garment_piece} avec {tease_tool} et {action_bold} {explore_end}.  Il n’y a que nous ici — si tu dis stop, on s’arrête."
       }
     ],
     "positions": [

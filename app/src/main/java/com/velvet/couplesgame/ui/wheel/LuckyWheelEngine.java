@@ -62,8 +62,7 @@ public final class LuckyWheelEngine {
         List<WheelSector> list = new ArrayList<>();
         for (int i = 0; i < options.size(); i++) {
             String opt = options.get(i);
-            String shortLabel = opt.length() > 14 ? opt.substring(0, 13) + "…" : opt;
-            list.add(new WheelSector("cust_" + i, shortLabel, 2, TaskType.DARE, false, opt));
+            list.add(new WheelSector("cust_" + i, opt, 2, TaskType.DARE, false, opt));
         }
         return list;
     }

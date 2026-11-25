@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paywall_debug_unlock">[디버그] 로컬에서 VIP 미리보기</string>
+</resources>

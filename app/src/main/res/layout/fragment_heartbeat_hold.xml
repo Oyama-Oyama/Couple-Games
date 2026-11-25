@@ -39,18 +39,42 @@
             android:id="@+id/pulse_ring"
             android:layout_width="156dp"
             android:layout_height="156dp"
-            android:layout_marginTop="6dp" />
+            android:layout_marginTop="6dp"
+            android:importantForAccessibility="no" />
 
         <TextView
             android:id="@+id/tv_pulse_status"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="6dp"
+            android:accessibilityLiveRegion="polite"
             android:gravity="center"
             android:text="@string/heartbeat_ready_hint"
             android:textColor="?attr/velvetAccent"
             android:textSize="13sp"
             android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/tv_heartbeat_soft_limit_warning"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="6dp"
+            android:accessibilityLiveRegion="polite"
+            android:background="@drawable/bg_card_velvet"
+            android:padding="10dp"
+            android:text="@string/soft_limit_warning"
+            android:textColor="?attr/velvetAccent"
+            android:textSize="13sp"
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/check_heartbeat_soft_limit_ack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/soft_limit_ack"
+            android:textColor="?attr/velvetTextPrimary"
+            android:visibility="gone" />
 
         <TextView
             android:id="@+id/tv_heartbeat_prompt"

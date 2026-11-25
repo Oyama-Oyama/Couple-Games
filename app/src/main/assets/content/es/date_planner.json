@@ -18,7 +18,7 @@
         "indoor",
         "deep_talk"
       ],
-      "title": "Cocinad un plato juntos desde cero",
+      "title": "Cocinen juntos un plato desde cero",
       "detail": "Repartan tareas, discutan dulcemente con la sal y cómanlo directo de la sartén."
     },
     {
@@ -438,8 +438,62 @@
         "roleplay",
         "eye_contact"
       ],
-      "title": "Una regla: quien gane decide la noche",
-      "detail": "Echad una partida rápida. Quien gane planea toda la noche sin preguntar."
+      "title": "Quien gana propone; ambos deciden",
+      "detail": "Jueguen una partida rápida. Quien gane propone un plan y ambos pueden cambiarlo o pasar antes de elegirlo juntos."
+    },
+    {
+      "id": "dp_dining_07",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 55,
+      "tags": ["indoor", "playful", "deep_talk"],
+      "title": "Cata de dos bocados",
+      "detail": "Elijan dos pequeños antojos que ambos disfruten. Ofrézcanse un bocado solo si apetece y adivinen qué recuerdo les trae cada sabor."
+    },
+    {
+      "id": "dp_outdoor_07",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 45,
+      "tags": ["public_space", "deep_talk"],
+      "title": "Paseo al atardecer",
+      "detail": "Den un paseo tranquilo juntos. En cada cruce, una persona elige el camino; hagan una pausa en un lugar cómodo y cuenten algo que les ilusione."
+    },
+    {
+      "id": "dp_indoor_07",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 30,
+      "tags": ["indoor", "physical_light", "playful"],
+      "title": "Un baile lento, dos canciones",
+      "detail": "Cada persona elige una canción. Si ambos quieren, bailen cerca durante una; usen la otra para crear un ambiente juguetón para el resto de la noche."
+    },
+    {
+      "id": "dp_culture_07",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 40,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "Hoy eres el curador",
+      "detail": "Cada uno elige una canción, foto o historia que diga algo de sí. Cuente por qué le importa y después haga una pregunta amable y curiosa."
+    },
+    {
+      "id": "dp_getaway_07",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 35,
+      "tags": ["deep_talk", "playful"],
+      "title": "Una escapada pequeña, en equipo",
+      "detail": "Imaginen una escapada de medio día cerca de casa, con un presupuesto que ambos acuerden. Elijan un lugar, un gusto sencillo y algo que pueden dejar para otra ocasión."
+    },
+    {
+      "id": "dp_ritual_07",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 20,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "Tres detalles que agradezco",
+      "detail": "Por turnos, nombren tres cosas pequeñas y concretas que apreciaron del otro hoy. Terminen preguntando qué le ayudaría a sentirse a gusto ahora."
     }
   ]
 }

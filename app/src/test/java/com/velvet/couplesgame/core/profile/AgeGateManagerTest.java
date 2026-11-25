@@ -75,6 +75,13 @@ public class AgeGateManagerTest {
     }
 
     @Test
+    public void effectiveTierCapsAdultContentUntilAgeGateAllowsIt() {
+        assertEquals(2, AgeGateManager.resolveEffectiveMaxTier(false, 4, 2));
+        assertEquals(3, AgeGateManager.resolveEffectiveMaxTier(true, 3, 2));
+        assertEquals(1, AgeGateManager.resolveEffectiveMaxTier(false, 0, 0));
+    }
+
+    @Test
     public void repeatedConfirmAndDeclineAreIdempotent() {
         FakeSharedPreferences prefs = new FakeSharedPreferences();
         AgeGateManager manager = newManager(prefs);
@@ -117,7 +124,7 @@ public class AgeGateManagerTest {
 
         prefs.setFailReads(false);
         prefs.setFailWrites(true);
-        manager.confirm(false);
+        assertFalse("写盘失败必须返回失败状态", manager.confirm(false));
         assertFalse("写盘失败不得误置为已确认", manager.isConfirmed());
     }
 }

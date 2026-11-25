@@ -470,7 +470,7 @@
     },
     {
       "id": "act_v2_t4_01",
-      "label": "Sujetar y beso suave-dejar besos suaves cerca de sin pausa",
+      "label": "Sujetar y beso suave-dejar besos suaves cerca de a un ritmo cómodo, con pausas cuando quieran",
       "icon": "🔥",
       "tier": 4,
       "tags": [
@@ -1439,15 +1439,6 @@
       "label": "Sin prisa Calmar",
       "icon": "💛",
       "tier": 3,
-      "tags": [
-        "physical_light"
-      ]
-    },
-    {
-      "id": "act_v21_104",
-      "label": "Sin prisa Mimar",
-      "icon": "🌙",
-      "tier": 4,
       "tags": [
         "physical_light"
       ]

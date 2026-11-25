@@ -6,7 +6,7 @@
       "tags": [
         "eye_contact"
       ],
-      "text": "Ne lâchez pas l'écran ! Collez vos fronts et soutenez votre regard tandis que le rythme s'accélère."
+      "text": "Si vous en avez tous les deux envie, posez doucement les doigts sur l’écran, rapprochez vos fronts et échangez un regard. Vous pouvez vous arrêter à tout moment."
     },
     {
       "id": "hb_02",
@@ -30,7 +30,7 @@
       "tags": [
         "bite_lick"
       ],
-      "text": "Sans lâcher ! Mordillez tendrement son lobe ou sa lèvre inférieure en gardant le doigt posé."
+      "text": "Si vous en avez tous les deux envie, déposez un baiser doux sur son lobe ou sa lèvre inférieure. Gardez le doigt léger sur l’écran, ou arrêtez-vous quand vous le souhaitez."
     },
     {
       "id": "hb_05",
@@ -46,7 +46,7 @@
       "tags": [
         "bite_lick"
       ],
-      "text": "Gardez le rythme ! Léchez et mordillez son cou — le premier qui frissonne et lâche prend un gage."
+      "text": "Seulement si votre partenaire le souhaite, déposez un baiser léger sur son cou. Si l’un de vous veut faire une pause, arrêtez-vous et prenez un instant pour vous écouter — sans gage."
     },
     {
       "id": "hb_07",
@@ -54,7 +54,7 @@
       "tags": [
         "clothing_dare"
       ],
-      "text": "Défi à une main : utilisez votre main libre pour baisser un col ou une bretelle et embrasse son épaule."
+      "text": "Après avoir obtenu son accord, embrassez doucement son épaule. Ne touchez à ses vêtements que si votre partenaire vous y invite; vous pouvez vous arrêter à tout moment."
     },
     {
       "id": "hb_08",
@@ -78,7 +78,7 @@
       "tags": [
         "bite_lick"
       ],
-      "text": "Ne lâche pas ! Penche-toi et lèche lentement sa mâchoire et son lobe d'oreille."
+      "text": "Si vous en avez tous les deux envie, rapprochez-vous et déposez un baiser lent le long de sa mâchoire, près de l’oreille. Arrêtez-vous dès que vous le souhaitez."
     },
     {
       "id": "hb_11",
@@ -893,7 +893,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "text": "Frisson de minuit : doigts liés sous Garde ses mains plaquées contre la tête de lit, taquine sous la clavicule entre souffle chaud et trace des sillons humides de ta la chaleur du souffle."
+      "text": "Frisson de minuit : doigts liés sous les mains libres dans une position confortable choisie ensemble, taquine sous la clavicule entre souffle chaud et trace des sillons humides de ta la chaleur du souffle."
     },
     {
       "id": "hb_v21_t4_04",
@@ -947,7 +947,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "text": "Frisson de minuit : doigts liés sous Garde ses mains plaquées contre la tête de lit, taquine la courbe de la hanche entre souffle chaud et dépose des baisers ouverts et brûlants sur."
+      "text": "Frisson de minuit : doigts liés sous les mains libres dans une position confortable choisie ensemble, taquine la courbe de la hanche entre souffle chaud et dépose des baisers ouverts et brûlants sur."
     },
     {
       "id": "hb_v21_t4_10",
@@ -1001,7 +1001,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "text": "Frisson de minuit : doigts liés sous Garde ses mains plaquées contre la tête de lit, taquine le creux des reins entre souffle chaud et lèche très lentement."
+      "text": "Frisson de minuit : doigts liés sous les mains libres dans une position confortable choisie ensemble, taquine le creux des reins entre souffle chaud et lèche très lentement."
     },
     {
       "id": "hb_v21_t4_16",
@@ -2375,7 +2375,7 @@
       "tags": [
         "restraint_light"
       ],
-      "label": "40s poignets derrière le dos + jeu de lèvres"
+      "label": "40 s — posture au choix et jeu de baisers"
     },
     {
       "id": "bj_14",
@@ -3108,7 +3108,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "label": "60s de trace des sillons humides de ta la chaleur du souffle sur sous la clavicule sous Garde ses mains plaquées contre la tête de lit"
+      "label": "60s de trace des sillons humides de ta la chaleur du souffle sur sous la clavicule sous les mains libres dans une position confortable choisie ensemble"
     },
     {
       "id": "bj_v21_t4_04",
@@ -3162,7 +3162,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "label": "60s de dépose des baisers ouverts et brûlants sur sur la courbe de la hanche sous Garde ses mains plaquées contre la tête de lit"
+      "label": "60s de dépose des baisers ouverts et brûlants sur sur la courbe de la hanche sous les mains libres dans une position confortable choisie ensemble"
     },
     {
       "id": "bj_v21_t4_10",
@@ -3216,7 +3216,7 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "label": "60s de lèche très lentement sur le creux des reins sous Garde ses mains plaquées contre la tête de lit"
+      "label": "60s de lèche très lentement sur le creux des reins sous les mains libres dans une position confortable choisie ensemble"
     },
     {
       "id": "bj_v21_t4_16",
@@ -3385,7 +3385,13 @@
       "normalAction": "Remonte paumes et baisers le long de la cuisse en t'arrêtant dès qu'il retient son souffle (30s).",
       "hotAction": "JACKPOT ! 40s de baisers et mordillements ultra lents sur l'intérieur de la cuisse.",
       "durationSec": 40
-    }
+    },
+    {"id":"z_side_waist","label":"Flanc de la taille","nx":0.68,"ny":0.58,"tier":1,"tags":["physical_light"],"normalAction":"Fais glisser un doigt sur le flanc, par-dessus les vêtements, puis demande doucement si cela lui plaît (25 s).","hotAction":"Si vous en avez tous les deux envie, explore le flanc d’un geste lent et léger, par-dessus les vêtements (30 s).","durationSec":30},
+    {"id":"z_navel","label":"Nombril","nx":0.5,"ny":0.63,"tier":1,"tags":["physical_light"],"normalAction":"Dessine lentement un cercle autour du nombril par-dessus les vêtements, puis marque une pause (25 s).","hotAction":"Si cela lui convient, dessine un cercle léger autour du nombril par-dessus les vêtements et reste attentif à ses réactions (30 s).","durationSec":30},
+    {"id":"z_inner_arm","label":"Intérieur du bras","nx":0.18,"ny":0.46,"tier":1,"tags":["physical_light"],"normalAction":"Effleure l’intérieur du bras, du coude au poignet, puis demande si la personne souhaite recommencer (25 s).","hotAction":"Propose une caresse très légère sur l’intérieur du bras ; arrête ou change de pression à la demande (30 s).","durationSec":30},
+    {"id":"z_inner_thigh","label":"Autre intérieur de cuisse","nx":0.42,"ny":0.84,"tier":2,"tags":["physical_light"],"normalAction":"En gardant les vêtements, suis lentement l’intérieur de la cuisse et demande avant de continuer (25 s).","hotAction":"Avec votre accord à tous les deux, caresse doucement l’intérieur de la cuisse par-dessus les vêtements et prends des nouvelles (30 s).","durationSec":30},
+    {"id":"z_ankle","label":"Cheville","nx":0.4,"ny":0.93,"tier":1,"tags":["physical_light"],"normalAction":"Dessine un cercle léger juste au-dessus de la cheville et observe sa réaction (20 s).","hotAction":"Si cela lui plaît, effleure doucement la cheville ; arrête au moindre signal (25 s).","durationSec":25},
+    {"id":"z_toes","label":"Orteils","nx":0.6,"ny":0.93,"tier":1,"tags":["physical_light"],"normalAction":"Avec son accord, effleure les orteils et arrête si cela chatouille trop ou devient inconfortable (20 s).","hotAction":"Demande d’abord, puis offre une caresse lente et légère sur les orteils ; chacun peut passer (25 s).","durationSec":25}
   ],
   "auctionContracts": [
     {
@@ -4470,8 +4476,8 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "title": "Sceptre Minuit · la ligne des hanches",
-      "text": "Le gagnant règne 60s à l'entrée dans la pénombre : partenaire en Bloque doucement ses mains dans son dos, uniquement tes lèvres et dents sous une bretelle ou une couche extérieure vers la ligne des hanches."
+      "title": "Souverainet? de minuit ? Un fr?lement lent",
+      "text": "La personne gagnante m?ne le jeu pendant 60 secondes. Choisissez d?abord un signal d?arr?t. Un l?ger maintien des poignets est facultatif et seulement si vous le souhaitez tous les deux ; rel?chez d?s le signal. Sinon, gardez les mains libres. Suivez lentement la ligne des hanches par-dessus les v?tements, les yeux dans les yeux. Chacun peut arr?ter ou passer."
     },
     {
       "id": "auc_v21_t4_02",
@@ -4481,8 +4487,8 @@
         "restraint_light",
         "clothing_dare"
       ],
-      "title": "Sceptre Minuit · le bas de la colonne",
-      "text": "Le gagnant règne 60s à devant le miroir du dressing : partenaire en Maintiens ses deux poignets au-dessus de sa tête d'une main, le bout de tes doigts au ralenti extrême sous un accessoire plus une couche vers le bas de la colonne."
+      "title": "Souverainet? de minuit ? Le long du dos",
+      "text": "Pendant 60 secondes, propose ? ton ou ta partenaire de poser les mains au-dessus de la t?te, puis suis doucement son dos par-dessus les v?tements. Ne guide ses poignets que si vous en avez convenu tous les deux ; sinon, laissez-les libres et rel?chez au moindre signal. Restez proches, les yeux dans les yeux. Chacun peut arr?ter ou passer."
     },
     {
       "id": "auc_v21_t4_03",
@@ -4515,7 +4521,7 @@
         "clothing_dare"
       ],
       "title": "Sceptre Minuit · la courbe de la hanche",
-      "text": "Le gagnant règne 60s à devant la coiffeuse tamisée : partenaire en Garde ses mains plaquées contre la tête de lit, uniquement souffle chaud et lèvres sous un vêtement de ton choix vers la courbe de la hanche."
+      "text": "Le gagnant règne 60s à devant la coiffeuse tamisée : partenaire en les mains libres dans une position confortable choisie ensemble, uniquement souffle chaud et lèvres sous un vêtement de ton choix vers la courbe de la hanche."
     },
     {
       "id": "auc_v21_t4_06",
@@ -4581,7 +4587,7 @@
         "clothing_dare"
       ],
       "title": "Sceptre Minuit · le creux des reins",
-      "text": "Le gagnant règne 60s à l'encadrement d'une porte sombre : partenaire en Garde ses mains plaquées contre la tête de lit, uniquement souffle chaud et lèvres sous un vêtement de ton choix vers le creux des reins."
+      "text": "Le gagnant règne 60s à l'encadrement d'une porte sombre : partenaire en les mains libres dans une position confortable choisie ensemble, uniquement souffle chaud et lèvres sous un vêtement de ton choix vers le creux des reins."
     },
     {
       "id": "auc_v21_t4_12",
@@ -4647,7 +4653,7 @@
         "clothing_dare"
       ],
       "title": "Sceptre Minuit · la ligne des hanches",
-      "text": "Le gagnant règne 60s à l'entrée dans la pénombre : partenaire en Garde ses mains plaquées contre la tête de lit, uniquement souffle chaud et lèvres sous un vêtement de ton choix vers la ligne des hanches."
+      "text": "Le gagnant règne 60s à l'entrée dans la pénombre : partenaire en les mains libres dans une position confortable choisie ensemble, uniquement souffle chaud et lèvres sous un vêtement de ton choix vers la ligne des hanches."
     },
     {
       "id": "auc_v21_t4_18",
@@ -4681,116 +4687,6 @@
       ],
       "title": "Sceptre Minuit · le bas-ventre",
       "text": "Le gagnant règne 60s à derrière les rideaux légers : partenaire en Maintiens ses deux poignets au-dessus de sa tête d'une main, le bout de tes doigts au ralenti extrême sous un accessoire plus une couche vers le bas-ventre."
-    },
-    {
-      "id": "auc_v21_t1_26",
-      "tier": 1,
-      "durationSec": 30,
-      "tags": [
-        "eye_contact",
-        "physical_light"
-      ],
-      "title": "Pass Velours · l'intérieur de l'avant-bras",
-      "text": "Le gagnant reçoit 30s VIP à un tas de coussins moelleux : laissant tes lèvres à 1 cm entre chaque geste, doux trace de lents cercles chauds sur sur l'intérieur de l'avant-bras et une pensée très coquine que tu as eue aujourd'hui."
-    },
-    {
-      "id": "auc_v21_t2_23",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful"
-      ],
-      "title": "Contrat Tiède · le chevet sous lampe tamisée",
-      "text": "Le gagnant savoure 35s de deux petit défi légères suivies de baisers longs et profonds à le chevet sous lampe tamisée, glissant lentement de le pouls du poignet à la joue et mâchoire."
-    },
-    {
-      "id": "auc_v21_t2_24",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful"
-      ],
-      "title": "Contrat Tiède · la banquette sous lampe douce",
-      "text": "Le gagnant savoure 35s de doigts dans les cheveux t'attirant tout près à la banquette sous lampe douce, glissant lentement de les omoplates à l'extérieur de la clavicule."
-    },
-    {
-      "id": "auc_v21_t2_25",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful"
-      ],
-      "title": "Contrat Tiède · l'accoudoir du canapé",
-      "text": "Le gagnant savoure 35s de des paumes chaudes glissant vers une étreinte soudaine à l'accoudoir du canapé, glissant lentement de la nuque à l'épaule."
-    },
-    {
-      "id": "auc_v21_t2_26",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful"
-      ],
-      "title": "Contrat Tiède · le pied du lit",
-      "text": "Le gagnant savoure 35s de paumes chaudes sur le tissu glissant vers la peau à le pied du lit, glissant lentement de derrière l'oreille à le contour de l'oreille."
-    },
-    {
-      "id": "auc_v21_t3_22",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "indoor"
-      ],
-      "title": "Pouvoir Privé · la poitrine et les côtes",
-      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de taquine des lèvres et des doigts sur la poitrine et les côtes à le coin du canapé selon « murmure son prénom avant chaque nouvelle zone »."
-    },
-    {
-      "id": "auc_v21_t3_23",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "indoor"
-      ],
-      "title": "Pouvoir Privé · la clavicule",
-      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de mordille puis apaise d'un long baiser sur la clavicule à le comptoir de la cuisine selon « alterne caresses de plume et pression ferme »."
-    },
-    {
-      "id": "auc_v21_t3_24",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "indoor"
-      ],
-      "title": "Pouvoir Privé · la colonne vertébrale",
-      "text": "Le gagnant lance réserver une suite penthouse sous de faux noms : 45s de lèche très lentement sur la colonne vertébrale à l'encadrement d'une porte sombre selon « murmure son prénom avant chaque nouvelle zone »."
-    },
-    {
-      "id": "auc_v21_t4_21",
-      "tier": 4,
-      "durationSec": 60,
-      "tags": [
-        "restraint_light",
-        "clothing_dare"
-      ],
-      "title": "Sceptre Minuit · la courbe de la hanche",
-      "text": "Le gagnant règne 60s à devant la coiffeuse tamisée : partenaire en Relève doucement son menton pour capter tout son regard, le dos des doigts puis ta bouche brûlante sous une fermeture ou la taille vers la courbe de la hanche."
-    },
-    {
-      "id": "auc_v21_t4_22",
-      "tier": 4,
-      "durationSec": 60,
-      "tags": [
-        "restraint_light",
-        "clothing_dare"
-      ],
-      "title": "Sceptre Minuit · l'intérieur des cuisses",
-      "text": "Le gagnant règne 60s à le mur de la chambre : partenaire en Entrelace ses doigts derrière sa nuque sans défense, la propre main de ton partenaire guidée par toi sous l'ourlet de son haut vers l'intérieur des cuisses."
     }
   ]
 }

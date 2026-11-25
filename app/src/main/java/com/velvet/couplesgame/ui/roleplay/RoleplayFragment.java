@@ -17,7 +17,9 @@ import com.velvet.couplesgame.core.i18n.AssetContentLoader.RoleplayActDto;
 import com.velvet.couplesgame.core.i18n.AssetContentLoader.RoleplayScenarioDto;
 import com.velvet.couplesgame.databinding.FragmentRoleplayBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
+import com.velvet.couplesgame.ui.common.AftercareDialogHelper;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
+import com.velvet.couplesgame.ui.common.SoftLimitPromptHelper;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -87,6 +89,7 @@ public class RoleplayFragment extends Fragment {
                 Toast.makeText(requireContext(), R.string.roleplay_finale_toast, Toast.LENGTH_LONG).show();
                 engine.exitScenario();
                 renderStage();
+                AftercareDialogHelper.show(this);
             } else {
                 PhysicsAnimator.flipCard3D(binding.cardRpAct, this::renderActContent);
             }
@@ -99,7 +102,7 @@ public class RoleplayFragment extends Fragment {
             renderStage();
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadRoleplayAsync(bundle -> {
             List<RoleplayScenarioDto> combined = new ArrayList<>();
             if (bundle.scenarios != null) combined.addAll(bundle.scenarios);
@@ -109,12 +112,36 @@ public class RoleplayFragment extends Fragment {
             if (!isAdded()) return;
             requireActivity().runOnUiThread(() -> {
                 if (binding == null) return;
+                localizeGeneratedScenarios(combined);
                 engine.loadScenarios(combined, container.consentFilter, maxTier);
                 adapter.submitList(engine.getAvailableScenarios());
                 binding.tvRpEmpty.setVisibility(engine.getAvailableScenarios().isEmpty() ? View.VISIBLE : View.GONE);
                 renderStage();
             });
         });
+    }
+
+    private void localizeGeneratedScenarios(List<RoleplayScenarioDto> scenarios) {
+        for (RoleplayScenarioDto scenario : scenarios) {
+            if (scenario.id == null || !scenario.id.startsWith("syn_rp_")) continue;
+            scenario.leadRole = getString(R.string.roleplay_role_lead);
+            scenario.partnerRole = getString(R.string.roleplay_role_partner);
+            for (int i = 0; i < scenario.acts.size(); i++) {
+                switch (i) {
+                    case 0:
+                        scenario.acts.get(i).actTitle = getString(R.string.roleplay_act_1);
+                        break;
+                    case 1:
+                        scenario.acts.get(i).actTitle = getString(R.string.roleplay_act_2);
+                        break;
+                    case 2:
+                        scenario.acts.get(i).actTitle = getString(R.string.roleplay_act_3);
+                        break;
+                    default:
+                        break;
+                }
+            }
+        }
     }
 
     private void renderStage() {
@@ -139,6 +166,14 @@ public class RoleplayFragment extends Fragment {
         binding.tvRpStageTitle.setText(s.title);
         binding.tvRpCastBanner.setText(getString(R.string.roleplay_cast_fmt, leadName, s.leadRole, partnerName, s.partnerRole));
         binding.tvRpActHeader.setText(act.actTitle);
+        SoftLimitPromptHelper.bind(
+                container.consentFilter,
+                s.tags,
+                binding.tvRpSoftLimitWarning,
+                binding.checkRpSoftLimitAck,
+                binding.btnRpNextAct,
+                binding.btnRpSceneTimer
+        );
         binding.tvRpDirection.setText(engine.renderDirection(act.direction, leadName, partnerName));
         binding.tvRpWhisperLine.setText(act.whisperLine);
 

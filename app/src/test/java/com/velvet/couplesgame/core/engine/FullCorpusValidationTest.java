@@ -1,6 +1,10 @@
 package com.velvet.couplesgame.core.engine;
 
 import com.google.gson.Gson;
+import com.google.gson.JsonArray;
+import com.google.gson.JsonElement;
+import com.google.gson.JsonObject;
+import com.google.gson.JsonParser;
 import com.velvet.couplesgame.core.i18n.AssetContentLoader.*;
 import com.velvet.couplesgame.core.model.TaskCard;
 import com.velvet.couplesgame.ui.auction.DesireAuctionEngine;
@@ -18,6 +22,8 @@ import com.velvet.couplesgame.ui.scratch.ScratchAdventureEngine;
 import java.io.*;
 import java.nio.charset.StandardCharsets;
 import java.util.*;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 import org.junit.Test;
 import static org.junit.Assert.*;
 
@@ -29,6 +35,12 @@ import static org.junit.Assert.*;
 public class FullCorpusValidationTest {
 
     private static final String[] LANGS = {"en","zh","zh_tw","ja","ko","es","fr","pt"};
+    private static final String[] CONTENT_FILES = {
+            "board_themes.json", "couple_quiz.json", "date_planner.json", "decks.json",
+            "draw_words.json", "extreme_modes.json", "fate_cubes.json", "generator_templates.json",
+            "intimate_modes.json", "party_duel.json", "roleplay_scenarios.json",
+            "scratch_cards.json", "sealed_letter.json"
+    };
     private static final int RUNS = 120; // >100 次实际抽题
     private static final Gson GSON = new Gson();
     private static final StringBuilder REPORT = new StringBuilder();
@@ -304,5 +316,392 @@ public class FullCorpusValidationTest {
         }
         System.out.println("REPORT_LINES=" + REPORT.toString().split("\n").length);
         assertTrue("report generated", out.exists());
+    }
+
+    @Test
+    public void validateContentIdsMatchAcrossAllLanguages() throws IOException {
+        for (String file : CONTENT_FILES) {
+            Set<String> expected = null;
+            for (String lang : LANGS) {
+                File asset = new File(ASSET_ROOT + lang + "/" + file);
+                Set<String> ids = new HashSet<>();
+                try (Reader reader = new InputStreamReader(
+                        new FileInputStream(asset), StandardCharsets.UTF_8)) {
+                    collectIds(JsonParser.parseReader(reader), lang + "/" + file, ids);
+                }
+                if (expected == null) {
+                    expected = ids;
+                } else {
+                    assertEquals("ID mismatch in " + lang + "/" + file, expected, ids);
+                }
+            }
+        }
+    }
+
+    @Test
+    public void validateLocalizedAssetsHaveNoEncodingDamage() throws IOException {
+        Pattern replacementRun = Pattern.compile("\\?{3,}");
+        for (String lang : LANGS) {
+            for (String file : CONTENT_FILES) {
+                File asset = new File(ASSET_ROOT + lang + "/" + file);
+                StringBuilder content = new StringBuilder();
+                try (Reader reader = new InputStreamReader(
+                        new FileInputStream(asset), StandardCharsets.UTF_8)) {
+                    char[] buffer = new char[4096];
+                    int count;
+                    while ((count = reader.read(buffer)) != -1) {
+                        content.append(buffer, 0, count);
+                    }
+                }
+                assertFalse("Replacement character in " + lang + "/" + file,
+                        content.indexOf("\uFFFD") >= 0);
+                assertFalse("Possible lossy text encoding in " + lang + "/" + file,
+                        replacementRun.matcher(content).find());
+            }
+        }
+    }
+
+    @Test
+    public void validateSocialPromptAndAnswerArraysAlignAcrossLocales() throws IOException {
+        String[] resourceDirs = {
+                "values", "values-es", "values-fr", "values-ja",
+                "values-ko", "values-pt-rBR", "values-zh-rCN", "values-zh-rTW"
+        };
+        Pattern arrayPattern = Pattern.compile(
+                "<string-array name=\"([^\"]+)\">([\\s\\S]*?)</string-array>");
+        Pattern itemPattern = Pattern.compile("<item>");
+        String[] requiredArrays = {
+                "social_most_likely_prompts", "social_love_language_prompts",
+                "social_riddle_prompts", "social_riddle_answers"
+        };
+
+        for (String resourceDir : resourceDirs) {
+            File strings = new File("src/main/res/" + resourceDir + "/strings.xml");
+            String xml = new String(java.nio.file.Files.readAllBytes(strings.toPath()),
+                    StandardCharsets.UTF_8);
+            Map<String, Integer> counts = new HashMap<>();
+            Matcher arrays = arrayPattern.matcher(xml);
+            while (arrays.find()) {
+                counts.put(arrays.group(1), itemPattern.matcher(arrays.group(2)).results().toArray().length);
+            }
+            for (String arrayName : requiredArrays) {
+                assertEquals(resourceDir + "/" + arrayName, Integer.valueOf(6), counts.get(arrayName));
+            }
+        }
+    }
+
+    @Test
+    public void validateCustomPropPromptTemplatesExistInEveryLocale() throws IOException {
+        String[] resourceDirs = {
+                "values", "values-es", "values-fr", "values-ja",
+                "values-ko", "values-pt-rBR", "values-zh-rCN", "values-zh-rTW"
+        };
+        Pattern arrayPattern = Pattern.compile(
+                "<string-array name=\"props_custom_prompt_templates\">([\\s\\S]*?)</string-array>");
+        Pattern itemPattern = Pattern.compile("<item>([\\s\\S]*?)</item>");
+        Pattern propPlaceholder = Pattern.compile("%1\\$s");
+
+        for (String resourceDir : resourceDirs) {
+            File strings = new File("src/main/res/" + resourceDir + "/strings.xml");
+            String xml = new String(java.nio.file.Files.readAllBytes(strings.toPath()),
+                    StandardCharsets.UTF_8);
+            Matcher array = arrayPattern.matcher(xml);
+            assertTrue(resourceDir + " custom prop prompt array is missing", array.find());
+            Matcher items = itemPattern.matcher(array.group(1));
+            int promptCount = 0;
+            while (items.find()) {
+                promptCount++;
+                assertTrue(resourceDir + " prompt must contain the custom item placeholder",
+                        propPlaceholder.matcher(items.group(1)).find());
+            }
+            assertEquals(resourceDir + " custom prop prompt count", 3, promptCount);
+        }
+    }
+
+    @Test
+    public void validateGeneratorPlaceholdersResolveInEveryLanguage() throws IOException {
+        Pattern placeholderPattern = Pattern.compile("\\{([^{}]+)\\}");
+        for (String lang : LANGS) {
+            File asset = new File(ASSET_ROOT + lang + "/generator_templates.json");
+            JsonObject root;
+            try (Reader reader = new InputStreamReader(
+                    new FileInputStream(asset), StandardCharsets.UTF_8)) {
+                root = JsonParser.parseReader(reader).getAsJsonObject();
+            }
+            Set<String> slots = root.getAsJsonObject("slots").keySet();
+            for (String slot : slots) {
+                assertTrue("Invalid slot name in " + lang + ": " + slot,
+                        slot.matches("[A-Za-z0-9_]+"));
+            }
+            assertGeneratorPlaceholdersResolve(root, asset.getPath(), slots, placeholderPattern);
+        }
+    }
+
+    private static void assertGeneratorPlaceholdersResolve(JsonElement element, String asset,
+                                                            Set<String> slots, Pattern pattern) {
+        if (element.isJsonObject()) {
+            for (Map.Entry<String, JsonElement> entry : element.getAsJsonObject().entrySet()) {
+                assertGeneratorPlaceholdersResolve(entry.getValue(), asset, slots, pattern);
+            }
+        } else if (element.isJsonArray()) {
+            for (JsonElement child : element.getAsJsonArray()) {
+                assertGeneratorPlaceholdersResolve(child, asset, slots, pattern);
+            }
+        } else if (element.isJsonPrimitive() && element.getAsJsonPrimitive().isString()) {
+            String text = element.getAsString();
+            Matcher matcher = pattern.matcher(text);
+            while (matcher.find()) {
+                String slot = matcher.group(1);
+                assertTrue("Malformed placeholder {" + slot + "} in " + asset,
+                        slot.matches("[A-Za-z0-9_]+"));
+                assertTrue("Unknown placeholder {" + slot + "} in " + asset,
+                        slots.contains(slot) || "zone".equals(slot));
+            }
+        }
+    }
+
+    @Test
+    public void validateEditedHeartbeatPromptsHaveCleanLocalizedCopy() throws IOException {
+        Set<String> editedIds = new HashSet<>(Arrays.asList(
+                "hb_01", "hb_04", "hb_06", "hb_07", "hb_10"));
+        String[][] knownArtifacts = {
+                {"softly soft", "soft soft", "kisss"},
+                {"温柔温柔的吻吸", "温柔的吻吸", "不准松开"},
+                {"溫柔溫柔的吻吸", "溫柔的吻吸", "不准鬆開"},
+                {"指を離したら負け", "息を沿わせてゆっくり息"},
+                {"숨을 살짝 스치게 해고", "절대 떼지 마세요"},
+                {"beso suave suavemente", "Lame y beso suave"},
+                {"Ne lâchez pas", "Sans lâcher"},
+                {"Não soltem os dedos", "Mordisque de leve"}
+        };
+
+        for (int i = 0; i < LANGS.length; i++) {
+            IntimateModesBundleDto content = load(
+                    LANGS[i], "intimate_modes.json", IntimateModesBundleDto.class);
+            assertNotNull("Missing heartbeat content for " + LANGS[i], content);
+            Set<String> foundIds = new HashSet<>();
+            for (SimplePromptDto prompt : content.heartbeatPrompts) {
+                if (!editedIds.contains(prompt.id)) {
+                    continue;
+                }
+                foundIds.add(prompt.id);
+                String lowerText = prompt.text.toLowerCase(Locale.ROOT);
+                for (String artifact : knownArtifacts[i]) {
+                    assertFalse("Translation artifact in " + LANGS[i] + "/" + prompt.id
+                                    + ": " + prompt.text,
+                            lowerText.contains(artifact.toLowerCase(Locale.ROOT)));
+                }
+            }
+            assertEquals("Missing edited heartbeat IDs in " + LANGS[i],
+                    editedIds, foundIds);
+        }
+    }
+
+    @Test
+    public void validateKnownEnglishAndSpanishCopyArtifactsAreAbsent() throws IOException {
+        String[][] cases = {
+                {"en", "kisss", "focus leave", "giving leave"},
+                {"es", "beso suave suavemente", "en frente al tocador tenue",
+                        "En frente al tocador tenue"}
+        };
+        for (String[] testCase : cases) {
+            String lang = testCase[0];
+            for (String file : CONTENT_FILES) {
+                File contentFile = new File(ASSET_ROOT + lang + "/" + file);
+                StringBuilder content = new StringBuilder();
+                try (Reader reader = new InputStreamReader(
+                        new FileInputStream(contentFile), StandardCharsets.UTF_8)) {
+                    char[] buffer = new char[4096];
+                    int count;
+                    while ((count = reader.read(buffer)) != -1) {
+                        content.append(buffer, 0, count);
+                    }
+                }
+                for (int i = 1; i < testCase.length; i++) {
+                    assertFalse("Copy artifact in " + lang + "/" + file + ": " + testCase[i],
+                            content.indexOf(testCase[i]) >= 0);
+                }
+            }
+        }
+    }
+
+    @Test
+    public void validateStaticContentAvoidsCoercivePromptPhrasing() throws IOException {
+        String[][] forbiddenPhrases = {
+                {"keep their hands flat against the headboard",
+                        "press their hands flat against the headboard",
+                        "without letting them touch back", "forcing them to keep watching in the glass",
+                        "can't move for 5 minutes", "unconditionally comply",
+                        "hold both wrists gently above their head", "wrists pinned overhead",
+                        "hands completely behind your back", "hands behind your back"},
+                {"不许放下", "无条件配合", "不准主动回吻", "只能看着你", "双手贴紧床头板"},
+                {"不許放下", "無條件配合", "不准主動回吻", "只能看著你", "只能看着你"},
+                {"両手をベッドボードにつけたまま動かさず",
+                        "両手を背中に回させて動かさず", "キス返し禁止", "反撃禁止",
+                        "両手首を背中で", "両手首を頭上", "手首固定"},
+                {"양손목을 머리 위로 부드럽게 고정하고", "한 손으로 양손목을 머리 위에 살짝 눌러 고정하고",
+                        "반격 금지", "키스 반격을 금지", "움직이지 못하게",
+                        "양손목을 등 뒤", "양손목을 머리 위", "반격 없이",
+                        "서로 동의한 편안한 자세를 고르고 손은 자유롭게 움직일 수 있게"},
+                {"Mantén sus manos pegadas al cabecero",
+                        "Entrelaza sus dedos tras la nuca sin que pueda defenderse",
+                        "no puede moverse:", "prohíbele devolver el beso", "sin pausa",
+                        "Sujeta ambas muñecas", "Muñecas sujetas", "manos atrás",
+                        "sin que toque de vuelta", "robándole un beso"},
+                {"Garde ses mains plaquées contre la tête de lit",
+                        "Mains plaquées à la tête de lit", "clouais doucement à la tête de lit",
+                        "Plaque-le contre le mur", "sans arrêt",
+                        "Retiens ses poignets derrière", "Maintenez ses poignets derrière",
+                        "poignets derrière le dos"},
+                {"Mantenha as mãos dele coladas na cabeceira", "Mãos coladas na cabeceira",
+                        "sem recuar", "sem parar"}
+        };
+
+        for (int i = 0; i < LANGS.length; i++) {
+            String lang = LANGS[i];
+            for (String file : CONTENT_FILES) {
+                File asset = new File(ASSET_ROOT + lang + "/" + file);
+                JsonElement root;
+                try (Reader reader = new InputStreamReader(
+                        new FileInputStream(asset), StandardCharsets.UTF_8)) {
+                    root = JsonParser.parseReader(reader);
+                }
+                assertNoForbiddenCopy(root, lang + "/" + file, forbiddenPhrases[i]);
+            }
+        }
+    }
+
+    private static void assertNoForbiddenCopy(JsonElement element, String asset,
+                                             String[] forbiddenPhrases) {
+        if (element.isJsonPrimitive() && element.getAsJsonPrimitive().isString()) {
+            String lowerText = element.getAsString().toLowerCase(Locale.ROOT);
+            for (String phrase : forbiddenPhrases) {
+                assertFalse("Coercive prompt wording in " + asset + ": " + element.getAsString(),
+                        lowerText.contains(phrase.toLowerCase(Locale.ROOT)));
+            }
+        } else if (element.isJsonObject()) {
+            for (java.util.Map.Entry<String, JsonElement> entry : element.getAsJsonObject().entrySet()) {
+                assertNoForbiddenCopy(entry.getValue(), asset, forbiddenPhrases);
+            }
+        } else if (element.isJsonArray()) {
+            for (JsonElement child : element.getAsJsonArray()) {
+                assertNoForbiddenCopy(child, asset, forbiddenPhrases);
+            }
+        }
+    }
+
+    @Test
+    public void validateSensitiveGeneratorPromptsRequireConsent() throws IOException {
+        String[][] consentCues = {
+                {"if you both agree", "if your partner wants to"},
+                {"双方事先同意", "仅在伴侣也愿意时", "仅在双方都愿意时"},
+                {"雙方事先同意", "僅在伴侶也願意時", "僅在雙方都願意時"},
+                {"二人とも事前に同意", "相手も望む場合", "二人とも望むなら"},
+                {"두 사람 모두 미리 동의", "두 사람이 미리 동의", "상대도 원할 때", "두 사람 모두 원한다면"},
+                {"si ambos están de acuerdo", "si ambos quieren", "si a tu pareja le apetece"},
+                {"si vous êtes tous les deux d'accord", "si vous convenez tous les deux",
+                        "si votre partenaire en a envie", "si vous souhaitez tous les deux"},
+                {"se ambos concordarem", "se ambos quiserem", "se a outra pessoa quiser"}
+        };
+        String[][] forbiddenPhrases = {
+                {"forbid them from kissing back", "break silence and owe", "nonstop",
+                        "non-stop", "without stopping", "if they grab your hands or lose control"},
+                {"命令对方不准主动回吻", "若对方没忍住伸手抓你", "出声就加罚",
+                        "破功出声就加罚", "连续 {duration} 秒不停", "不停{action_bold}", "绝对别停"},
+                {"命令對方不準主動回吻", "若對方沒忍住伸手抓你", "出聲就加罰",
+                        "破功出聲就加罰", "連續 {duration} 秒不停", "不停{action_bold}", "絕對別停"},
+                {"キス返し禁止", "我慢できず手が出たら", "声が出たら追加", "止まらず"},
+                {"키스 반격을 금지", "참지 못하고 손을 잡거나", "소리를 내면 추가", "멈추지 말고"},
+                {"prohíbele devolver el beso", "si pierde el control o te agarra las manos",
+                        "si rompe el silencio", "sin pausa", "sin parar"},
+                {"interdis-lui de t'embrasser", "attrape tes mains, gage", "un seul bruit et gage",
+                        "sans arrêt", "non-stop"},
+                {"proíba de beijar de volta", "se perder o controle ou segurar suas mãos",
+                        "se soltar um som, prenda extra", "sem parar", "sem pausar"}
+        };
+
+        for (int i = 0; i < LANGS.length; i++) {
+            String lang = LANGS[i];
+            File asset = new File(ASSET_ROOT + lang + "/generator_templates.json");
+            JsonElement root;
+            try (Reader reader = new InputStreamReader(
+                    new FileInputStream(asset), StandardCharsets.UTF_8)) {
+                root = JsonParser.parseReader(reader);
+            }
+            validateGeneratorCopy(root, lang + "/generator_templates.json",
+                    consentCues[i], forbiddenPhrases[i], false);
+        }
+    }
+
+    private static void validateGeneratorCopy(JsonElement element, String asset,
+                                              String[] consentCues, String[] forbiddenPhrases,
+                                              boolean inheritedSensitiveTag) {
+        if (element.isJsonObject()) {
+            JsonObject object = element.getAsJsonObject();
+            boolean sensitiveTag = inheritedSensitiveTag;
+            JsonElement tagsElement = object.get("tags");
+            if (tagsElement != null && tagsElement.isJsonArray()) {
+                for (JsonElement tag : tagsElement.getAsJsonArray()) {
+                    if (tag.isJsonPrimitive()
+                            && ("restraint_light".equals(tag.getAsString())
+                            || "blindfold".equals(tag.getAsString()))) {
+                        sensitiveTag = true;
+                    }
+                }
+            }
+
+            JsonElement patternElement = object.get("pattern");
+            if (patternElement != null && patternElement.isJsonPrimitive()
+                    && patternElement.getAsJsonPrimitive().isString()) {
+                String pattern = patternElement.getAsString();
+                boolean sensitive = sensitiveTag || pattern.contains("{restraint_pose}");
+                if (sensitive) {
+                    String lowerPattern = pattern.toLowerCase(Locale.ROOT);
+                    boolean hasConsentCue = false;
+                    for (String cue : consentCues) {
+                        if (lowerPattern.contains(cue.toLowerCase(Locale.ROOT))) {
+                            hasConsentCue = true;
+                            break;
+                        }
+                    }
+                    assertTrue("Missing prior-consent language in " + asset + ": " + pattern,
+                            hasConsentCue);
+                }
+                String lowerPattern = pattern.toLowerCase(Locale.ROOT);
+                for (String phrase : forbiddenPhrases) {
+                    assertFalse("Unsafe generator wording in " + asset + ": " + pattern,
+                            lowerPattern.contains(phrase.toLowerCase(Locale.ROOT)));
+                }
+            }
+
+            for (java.util.Map.Entry<String, JsonElement> entry : object.entrySet()) {
+                validateGeneratorCopy(entry.getValue(), asset, consentCues,
+                        forbiddenPhrases, sensitiveTag);
+            }
+        } else if (element.isJsonArray()) {
+            for (JsonElement child : element.getAsJsonArray()) {
+                validateGeneratorCopy(child, asset, consentCues,
+                        forbiddenPhrases, inheritedSensitiveTag);
+            }
+        }
+    }
+
+    private static void collectIds(JsonElement element, String asset, Set<String> ids) {
+        if (element.isJsonObject()) {
+            JsonObject object = element.getAsJsonObject();
+            JsonElement id = object.get("id");
+            if (id != null && id.isJsonPrimitive() && id.getAsJsonPrimitive().isString()) {
+                assertTrue("Duplicate ID " + id.getAsString() + " in " + asset,
+                        ids.add(id.getAsString()));
+            }
+            for (java.util.Map.Entry<String, JsonElement> entry : object.entrySet()) {
+                collectIds(entry.getValue(), asset, ids);
+            }
+        } else if (element.isJsonArray()) {
+            JsonArray array = element.getAsJsonArray();
+            for (JsonElement child : array) {
+                collectIds(child, asset, ids);
+            }
+        }
     }
 }

@@ -19,7 +19,7 @@
         "deep_talk"
       ],
       "title": "처음부터 같이 요리하기",
-      "detail": "역할을 나눠 소금량으로 살짝 다툴 거리를 만들고, 냄비째로 먹어 봅시다."
+      "detail": "역할을 나누고 소금 간을 두고 장난스럽게 티격태격한 다음, 냄비째 식탁에 올려 함께 먹어 보세요."
     },
     {
       "id": "dp_dining_02",
@@ -438,8 +438,62 @@
         "roleplay",
         "eye_contact"
       ],
-      "title": "규칙은 하나: 이긴 쪽이 오늘 저녁을 정해요",
-      "detail": "짧은 게임 한 판. 이긴 쪽이 묻지 않고 오늘 저녁을 정해요."
+      "title": "승자가 제안하고, 함께 정해요",
+      "detail": "짧은 게임을 한 판 해요. 이긴 사람이 계획을 제안하면 두 사람 모두 조정하거나 건너뛴 뒤 함께 결정해요."
+    },
+    {
+      "id": "dp_dining_07",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 55,
+      "tags": ["indoor", "playful", "deep_talk"],
+      "title": "두 가지 맛, 작은 한입",
+      "detail": "두 사람 모두 좋아하는 작은 간식 두 가지를 골라요. 상대가 원할 때만 한입 권하고, 맛에서 떠오르는 추억을 맞혀 봐요."
+    },
+    {
+      "id": "dp_outdoor_07",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 45,
+      "tags": ["public_space", "deep_talk"],
+      "title": "노을빛 산책",
+      "detail": "함께 여유롭게 걸어요. 갈림길마다 번갈아 방향을 정하고, 편안한 곳에서 기대하고 있는 일 하나를 나눠요."
+    },
+    {
+      "id": "dp_indoor_07",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 30,
+      "tags": ["indoor", "physical_light", "playful"],
+      "title": "두 곡의 느린 춤",
+      "detail": "각자 한 곡씩 골라요. 두 사람 모두 원한다면 한 곡에 맞춰 천천히 춤추고, 다른 곡으로 오늘 저녁의 분위기를 이어 가요."
+    },
+    {
+      "id": "dp_culture_07",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 40,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "번갈아 큐레이터 되기",
+      "detail": "자신을 잘 보여 주는 노래, 사진, 이야기를 하나씩 골라요. 왜 소중한지 나누고 다정한 질문을 하나 건네요."
+    },
+    {
+      "id": "dp_getaway_07",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 35,
+      "tags": ["deep_talk", "playful"],
+      "title": "가까운 곳으로 작은 여행 계획하기",
+      "detail": "함께 정한 예산 안에서 근처 반나절 여행을 상상해요. 가고 싶은 곳과 소소한 즐거움을 하나씩 고르고 무리 없는 일정으로 짜요."
+    },
+    {
+      "id": "dp_ritual_07",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 20,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "오늘 고마웠던 작은 일 세 가지",
+      "detail": "오늘 상대에게 고마웠던 구체적인 일 세 가지를 번갈아 말해요. 마지막으로 지금 어떤 것이 위로가 될지 물어봐요."
     }
   ]
 }

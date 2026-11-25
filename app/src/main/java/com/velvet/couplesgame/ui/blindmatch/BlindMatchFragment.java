@@ -77,8 +77,8 @@ public class BlindMatchFragment extends Fragment {
             }
         });
 
-        binding.btnPass.setOnClickListener(v -> binding.swipeCard.triggerSwipe(false));
-        binding.btnYes.setOnClickListener(v -> binding.swipeCard.triggerSwipe(true));
+        binding.btnPass.setOnClickListener(v -> recordButtonVote(false));
+        binding.btnYes.setOnClickListener(v -> recordButtonVote(true));
 
         binding.btnPlayBoardWithMatches.setOnClickListener(v -> {
             HapticHelper.confirm(v);
@@ -94,7 +94,7 @@ public class BlindMatchFragment extends Fragment {
     }
 
     private void loadAndStartSession() {
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadDesireMatchCardsAsync(cards -> {
             List<TaskCard> combined = new ArrayList<>();
             if (cards != null) combined.addAll(cards);
@@ -124,6 +124,16 @@ public class BlindMatchFragment extends Fragment {
         }
     }
 
+    private void recordButtonVote(boolean liked) {
+        BlindMatchSessionManager.Phase phase = session.getPhase();
+        if (phase != BlindMatchSessionManager.Phase.PLAYER_A
+                && phase != BlindMatchSessionManager.Phase.PLAYER_B) return;
+        binding.btnPass.setEnabled(false);
+        binding.btnYes.setEnabled(false);
+        HapticHelper.confirm(liked ? binding.btnYes : binding.btnPass);
+        handleSwipeRecorded(liked);
+    }
+
     private void persistAndReveal() {
         List<TaskCard> mutualMatches = session.getMutualMatches();
         container.contentRepository.saveBlindMatchResults(
@@ -146,6 +156,7 @@ public class BlindMatchFragment extends Fragment {
 
     private void renderCurrentPhase() {
         BlindMatchSessionManager.Phase phase = session.getPhase();
+        binding.tvSwipeSoftLimitWarning.setVisibility(View.GONE);
         if (phase == BlindMatchSessionManager.Phase.EMPTY) {
             binding.layoutSwipeStage.setVisibility(View.GONE);
             binding.layoutRevealStage.setVisibility(View.VISIBLE);
@@ -166,6 +177,8 @@ public class BlindMatchFragment extends Fragment {
             binding.tvPhaseBanner.setText(getString(R.string.blind_match_turn_banner, playerLabel, step, total));
             binding.progressBlindMatch.setMax(total);
             binding.progressBlindMatch.setProgress(step);
+            binding.btnPass.setEnabled(true);
+            binding.btnYes.setEnabled(true);
 
             boolean hasNext = step < total;
             binding.cardStackUnderlay.setVisibility(hasNext ? View.VISIBLE : View.INVISIBLE);
@@ -176,6 +189,9 @@ public class BlindMatchFragment extends Fragment {
                 String tagStr = TagDisplayMapper.formatTagList(requireContext(), card.tags);
                 binding.tvSwipeTier.setText(tagStr.isEmpty() ? tierLabel : tierLabel + " · " + tagStr);
                 binding.tvSwipeText.setText(card.text);
+                binding.tvSwipeSoftLimitWarning.setVisibility(
+                        container.consentFilter.hasSoftLimit(card.tags) ? View.VISIBLE : View.GONE
+                );
                 binding.tvBadgeYes.setAlpha(0f);
                 binding.tvBadgePass.setAlpha(0f);
                 binding.swipeCard.resetInstant();

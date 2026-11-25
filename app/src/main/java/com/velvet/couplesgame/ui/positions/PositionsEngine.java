@@ -40,10 +40,16 @@ public class PositionsEngine {
     }
 
     public void loadPositions(List<PositionDto> source, ConsentFilter filter) {
+        loadPositions(source, filter, 4);
+    }
+
+    public void loadPositions(List<PositionDto> source, ConsentFilter filter, int maxTier) {
         eligible.clear();
+        int maxHeat = Math.max(1, Math.min(4, maxTier)) + 1;
         if (source != null) {
             for (PositionDto p : source) {
-                if (filter == null || filter.isAllowed(p.tags)) {
+                if (p != null && p.heat <= maxHeat
+                        && (filter == null || filter.isAllowed(p.tags))) {
                     eligible.add(p);
                 }
             }

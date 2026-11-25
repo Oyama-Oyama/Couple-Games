@@ -19,7 +19,7 @@
     <string name="onboarding_step1_desc">2人の名前を登録して、今夜を特別な時間へ。入力内容は端末内のみに保存されます。</string>
     <string name="onboarding_partner_1">パートナー 1</string>
     <string name="onboarding_partner_2">パートナー 2</string>
-    <string name="onboarding_step2_promise">• 完全オフライン — アカウント不要・外部送信ゼロ\n• 広告ゼロ — 2人の空気を一切邪魔しません\n• 合意優先 — NG設定は全ゲームで静かに除外されます</string>
+    <string name="onboarding_step2_promise" formatted="false">• 完全オフライン — アカウント不要・外部送信ゼロ\n• 広告ゼロ — 2人の空気を一切邪魔しません\n• 合意優先 — NG設定は全ゲームで静かに除外されます</string>
     <string name="onboarding_safeword_label">優しいセーフワード（任意）</string>
     <string name="onboarding_back">戻る</string>
     <string name="onboarding_continue">次へ</string>
@@ -140,6 +140,8 @@
     <string name="btn_partner_approved">パートナー承認 ✓</string>
     <string name="btn_partner_redo">1マス戻る</string>
     <string name="board_rewards_title">ゴールご褒美の設定</string>
+    <string name="board_prize_intro_title">ゴールのご褒美を決めましょう</string>
+    <string name="board_prize_intro_body">勝者へのご褒美を任意で設定できます。あとから「ご褒美」ボタンでいつでも変更できます。</string>
     <string name="board_reward_named_label">%1$s が勝った時のご褒美</string>
     <string name="board_rewards_saved">ご褒美を保存しました</string>
     <string name="board_victory_title">♛ %1$s がゴールしました！</string>
@@ -162,8 +164,12 @@
     <string name="wheel_custom_seed_4">ドリンクを作る</string>
     <string name="wheel_custom_max_hint">ルーレットは最大10項目まで追加できます</string>
     <string name="wheel_custom_count">カスタム %1$d 件準備完了 — スピン！</string>
+    <string name="wheel_custom_edit_title">ルーレット項目を編集</string>
+    <string name="wheel_custom_duplicate_hint">この項目はすでにあります</string>
+    <string name="wheel_custom_restore_hint">保存した項目を読み取れなかったため、初期項目に戻しました。</string>
     <string name="wheel_desire_loaded">両想いマッチ %1$d 件をルーレットに装填しました！</string>
-    <string name="wheel_no_desire_fallback">先にブラインドマッチを遊ぶと専用ホイールが使えます。</string>
+    <string name="wheel_no_desire_fallback">二人が選んだ共通の項目がありません。先にブラインドマッチを完了してください。</string>
+    <string name="wheel_desire_loading">二人の共通項目を確認しています…</string>
     <string name="wheel_ready_hint">盤面またはボタンをタップして、今夜の運命を回しましょう。</string>
     <string name="wheel_spinning">ルーレット回転中...</string>
     <string name="wheel_landed_status">運命の選択：%1$s</string>
@@ -193,7 +199,7 @@
     <string name="draw_guessed_toast">息ぴったり！相性 +1 ポイント</string>
     <string name="draw_penalty_badge">お絵かきチャレンジ</string>
     <string name="paywall_title">ベルベット VIP パス</string>
-    <string name="paywall_subtitle">広告ゼロ・完全オフライン。すべての艶やかなデッキと夜のテーマを解放。</string>
+    <string name="paywall_subtitle" formatted="false">広告ゼロ・完全オフライン。すべての艶やかなデッキと夜のテーマを解放。</string>
     <string name="paywall_benefits">• 12つのVIPモードを全解放（親密ルーレット・5段階ヒートアップ・ボディマップ・欲望ラダー・アイテムラボ・四目並べ等）\n• 高刺激デッキ＆全9種類のムードテーマ解放\n• 全36ゲームでスパーク自動お題を無制限利用\n• 広告・追跡ゼロでオフラインのまま永久動作</string>
     <string name="paywall_plan_lifetime">♛ 買い切り版 · 一度きり</string>
     <string name="paywall_plan_lifetime_desc">全デッキと今後のテーマを永久所有</string>
@@ -214,6 +220,19 @@
     <string name="settings_vip_free">無料プラン（11モード・5テーマ利用可能）</string>
     <string name="settings_section_privacy">プライバシーと記録</string>
     <string name="settings_screen_shield">スクリーンショット・録画防止シールド</string>
+    <string name="settings_app_lock">アプリロックを有効にする</string>
+    <string name="settings_app_lock_desc">端末の生体認証または画面ロックで解除します。アプリを離れるとすぐにロックし、スクリーンショットと最近使ったアプリのプレビューも防止します。生体情報や端末の認証情報は本アプリに保存されません。</string>
+    <string name="app_lock_auth_title">Velvet のロック解除</string>
+    <string name="app_lock_auth_subtitle">端末で本人確認を行ってください。</string>
+    <string name="app_lock_unlock">ロック解除</string>
+    <string name="app_lock_exit">アプリを終了</string>
+    <string name="app_lock_use_device_credential">端末の画面ロックを使う</string>
+    <string name="app_lock_auth_unavailable">アプリロックを有効にするには、端末の生体認証または画面ロックを設定してください。</string>
+    <string name="app_lock_auth_failed">認証できませんでした。もう一度お試しください。</string>
+    <string name="app_lock_state_save_failed">アプリロック設定を保存できませんでした。もう一度お試しください。</string>
+    <string name="app_lock_disable">ロックを無効にする</string>
+    <string name="app_lock_disable_title">アプリロックを無効にしますか？</string>
+    <string name="app_lock_disable_message">端末の認証方法が利用できなくなりました。アプリロックを無効にすると、この端末を使える人は誰でも Velvet を開けるようになります。</string>
     <string name="settings_privacy_title">私たちのプライバシー約束</string>
     <string name="settings_privacy_body">広告・解析トラッキング・クラウド送信は一切ありません。2人の名前、境界設定、カスタムカード、マッチ履歴は端末内のみに保管されます。</string>
     <string name="settings_clear_matches">マッチ履歴消去</string>
@@ -283,6 +302,11 @@
     <string name="btn_scratch_next">次のスクラッチへ</string>
     <string name="roleplay_browser_subtitle">3幕構成のシナリオを選択。いつでもリード役を交代できます。</string>
     <string name="roleplay_acts_count">全 %1$d 幕</string>
+    <string name="roleplay_act_3">第3幕</string>
+    <string name="roleplay_act_2">第2幕</string>
+    <string name="roleplay_act_1">第1幕</string>
+    <string name="roleplay_role_partner">相手役</string>
+    <string name="roleplay_role_lead">リード役</string>
     <string name="roleplay_cast_fmt">%1$s：%2$s\n%3$s：%4$s</string>
     <string name="roleplay_whisper_label">ささやき台詞ヒント</string>
     <string name="roleplay_btn_next_act">次の幕へ進む →</string>
@@ -412,6 +436,18 @@
     <string name="props_checklist_hint">今夜すぐ使えるアイテムを選択すると、専用のお題が出題されます：</string>
     <string name="prop_ice">🧊 氷</string>
     <string name="prop_blindfold">🎀 目隠し</string>
+    <string name="props_custom_hint">道具を入力（例：シルクのスカーフ）</string>
+    <string name="props_custom_add">追加</string>
+    <string name="props_custom_required">先に道具名を入力してください</string>
+    <string name="props_custom_duplicate">この道具はすでに追加されています</string>
+    <string name="props_custom_max">カスタム道具は最大8個まで保存できます</string>
+    <string name="props_custom_restore_hint">保存した道具を読み込めなかったため、破損データを削除しました。</string>
+    <string name="props_custom_prompt_template">二人とも同意した場合、衣服の上から %1$s を使い、心地よい場所をやさしく探ってみましょう。熱や鋭利な部分、顔、傷のある肌は避け、不快に感じたらすぐに中止してください。</string>
+    <string-array name="props_custom_prompt_templates">
+        <item>二人とも同意し、清潔で肌に使える安全なものと確認できた場合だけ、%1$s を使いましょう。触れるときは服の上から、受け手が場所や強さを決めます。不安があれば触れずに楽しみ、いつでも中止できます。</item>
+        <item>%1$s で楽しむ感覚を交代で選びましょう。服の上から触れる、音を聞く、見て楽しむなど。清潔さと安全性を確かめ、触れる前に同意を取り、不快なら中止してください。</item>
+        <item>%1$s を使って30秒の遊びを。受け手は服の上から触れる、音や見た目を楽しむ、パスする、のどれでも選べます。交代し、熱や鋭利な部分、顔、傷のある肌は避けましょう。</item>
+    </string-array>
     <string name="prop_oil">💧 オイル</string>
     <string name="prop_tie">⛓ ネクタイ</string>
     <string name="prop_honey">🍯 蜜・お酒</string>
@@ -459,13 +495,13 @@
     <string name="mode_bucket_list">ふたりのやりたいこと</string>
     <string name="mode_bucket_list_desc">願い事を引いて、ふたりで挑戦したいかをマーク。共通の夢を集めよう。</string>
     <string name="mode_riddle_me">なぞなぞラブ</string>
-    <string name="mode_riddle_me_desc">甘いオチつきのなぞなぞ。一緒に考えて、答えを披露。</string>
+    <string name="mode_riddle_me_desc">短いなぞなぞにそれぞれ答えてから、お互いの答えと正解を見てみよう。</string>
     <string name="mode_hot_seat">連続3問</string>
     <string name="mode_hot_seat_desc">時間制限つきの連続3問。正直に、素早く答えて。</string>
     <string name="mode_secret_mission">秘密のミッション</string>
     <string name="mode_secret_mission_desc">ふたりだけの秘密のミッションを引こう。終わらせてから次へ。</string>
     <string name="mode_ldr_sync">同じ刻のカウントダウン</string>
-    <string name="mode_ldr_sync_desc">ふたりで見つめるひとつのカウントダウン——息と息の間が少しずつ短くなる。数えたくなくなったらいつでもやめていい。その瞬間は、もうふたりのもの。</string>
+    <string name="mode_ldr_sync_desc">この端末でふたり一緒にカウントダウンを始めよう。いつでもどちらからでも止められるよ。</string>
     <string name="mode_scenario_choice">もしもの選択</string>
     <string name="mode_scenario_choice_desc">もしもの場面で、本当にどうするかを選択。その後で答えを比べよう。</string>
     <string name="mode_memory_lane">思い出の道</string>
@@ -654,7 +690,14 @@
     <string name="home_together_since_fmt">%1$s より</string>
     <string name="home_mood_checkin_subtitle">ふたりだけの小さな場所。読めるのはあなたたちだけ。</string>
     <string name="mood_gratitude_a_named">%1$s の好きなところ</string>
-    <string name="mood_gratitude_b_named">今日のふたりについて好きだったこと</string>
+    <string name="mood_gratitude_b_named">今日、%1$sの好きだなと思ったところ</string>
+    <string name="soft_limit_warning">このお題には、どちらかが「慎重に試したい」と設定した内容が含まれます。続ける前に気持ちを確かめ、どちらもいつでもパスできます。</string>
+    <string name="soft_limit_ack">二人ともこのお題を続けることに同意します。</string>
+    <string name="body_map_accessibility">ボディマップです。印のある場所を選ぶとお題が表示されます。</string>
+    <string name="color_picker_accessibility">カラーピッカーです。ドラッグして色を選びます。</string>
+    <string name="drawing_canvas_accessibility">お絵描きキャンバスです。指で描き、下のボタンで変更または消去できます。</string>
+    <string name="scratch_card_accessibility">スクラッチカードです。カードをこするとお題が現れます。下のボタンでも表示できます。</string>
+    <string name="blind_match_card_accessibility">右にスワイプすると「いいね」、左にスワイプするとパスです。下のボタンも使えます。</string>
     <string name="mode_date_night">デートナイト</string>
     <string name="datenight_title">今夜のデートナイト</string>
     <string name="datenight_subtitle">四つの静かなステージを、ふたりでゆっくり。歩みはあなた次第。</string>
@@ -671,9 +714,17 @@
     <string name="datenight_skip">これはパス</string>
     <string name="datenight_pause_safe">セーフワードはいつでも使える —— 休みたくなったら、止めていいよ。</string>
     <string name="datenight_finish">今夜はここまで…ここで止めよう。また続けたい時は、いつでも続きから。</string>
+    <string name="datenight_aftercare_note">ふたりだけのメモを残す</string>
+    <string name="datenight_aftercare_body">一緒にゆっくり深呼吸して、お互いの気持ちを確かめましょう。ハグや水を飲むこと、今夜はここで終えることも素敵な選択です。この先は二人が望むときだけ。</string>
+    <string name="datenight_aftercare_title">やさしい締めくくり</string>
+    <string name="datenight_aftercare_button">やさしく締めくくる</string>
+    <string name="datenight_aftercare_leave">ゲームを終了</string>
+    <string name="datenight_aftercare_stay">ゲームを続ける</string>
     <string name="agegate_title">成人限定</string>
     <string name="agegate_body">これは大人ふたりのためのプライベートなアプリです。続ける前に 18 歳以上であることを確認してください。</string>
     <string name="agegate_confirm">18歳以上です、続ける</string>
+    <string name="agegate_adult_content_unavailable">年齢確認が完了するまで、成人向けコンテンツは表示されません。</string>
+    <string name="agegate_save_failed">選択を保存できませんでした。もう一度お試しください。</string>
     <string name="agegate_decline">18歳未満です</string>
     <string name="agegate_declined_notice">大丈夫です —— アプリは穏やかなまま、基本のゲームだけ残ります。</string>
     <string name="agegate_decline_note">入力したものはすべてこの端末の中だけに残ります —— アカウント不要、送信ゼロ。</string>
@@ -686,5 +737,103 @@
     <string name="tonight_note_empty_today">今夜はまだ何も残っていない…</string>
     <string name="tonight_note_history_title">残った夜たち</string>
     <string name="tonight_note_saved_toast">この端末の中に残りました —— 読むのはふたりだけ。</string>
+    <string name="tonight_note_save_failed">メモを保存できませんでした。もう一度お試しください。</string>
     <string name="tonight_note_close_hint">閉じる</string>
+    <string name="reward_wallet_open">ごほうびチケット</string>
+    <string name="reward_wallet_title">保存したごほうび</string>
+    <string name="reward_wallet_empty">使えるチケットはありません。「欲望オークション」で契約を獲得したら保存できます。使用済みのチケットは履歴に残ります。</string>
+    <string name="reward_wallet_history">使用履歴</string>
+    <string name="reward_wallet_rules_loading">同意設定を読み込んでいます。少し待ってからもう一度お試しください。</string>
+    <string name="intimacy_preferences_open">ふたりの好み</string>
+    <string name="intimacy_preferences_title">ふたりらしい過ごし方は？</string>
+    <string name="intimacy_preferences_body">ふたりで選んでください。おすすめにだけ使われ、保存先はこの端末のみです。境界設定や今夜の強度上限は変更されません。</string>
+    <string name="intimacy_style_romantic">ロマンチック——気持ちを話す、寄り添う</string>
+    <string name="intimacy_style_playful">遊び心——笑い合う、軽いゲーム</string>
+    <string name="intimacy_style_sensory">感覚を楽しむ——ゆっくり寄り添う</string>
+    <string name="intimacy_style_imaginative">想像を楽しむ——シナリオ、役になりきる</string>
+    <string name="intimacy_preferences_save">ふたりの好みを保存</string>
+    <string name="intimacy_preferences_saved">好みを端末に保存しました。</string>
+    <string name="intimacy_preferences_save_failed">好みを保存できませんでした。もう一度お試しください。</string>
+    <string name="intimacy_recommendations_button">ふたりにおすすめ</string>
+    <string name="intimacy_recommendations_empty">現在の絞り込みに合うモードがありません。ゲームの絞り込みか、ふたりの好みを調整してください。</string>
+    <string name="reward_wallet_item_fmt">%1$sが獲得：%2$s</string>
+    <string name="reward_wallet_detail_fmt">獲得者：%1$s\n\n%2$s\n\n%3$s\n\nふたりが望むときだけ使いましょう。</string>
+    <string name="reward_wallet_save">チケットとして保存</string>
+    <string name="reward_wallet_saved">保存済み</string>
+    <string name="reward_wallet_saved_toast">端末内のチケット帳に保存しました。</string>
+    <string name="reward_wallet_save_failed">端末に保存できませんでした。もう一度お試しください。</string>
+    <string name="reward_wallet_redeem">使用済みにする</string>
+    <string name="reward_wallet_redeemed">使用済みにしました。</string>
+    <string name="reward_wallet_redeem_failed">使用できませんでした。すでに使用済みの可能性があります。</string>
+    <string name="reward_wallet_blocked">現在のレベル設定または境界ルールに合わないため、このチケットは使用できません。</string>
+    <string name="social_answer_privately">内緒で答える</string>
+    <string name="social_choose_privately">内緒で選ぶ</string>
+    <string name="social_answer_hint">答えを書いてね...</string>
+    <string name="social_answer_required">先に答えを書いてね。</string>
+    <string name="social_save_answer">答えを保存</string>
+    <string name="social_turn_a">1人目 — 内緒で答えてね</string>
+    <string name="social_turn_b">2人目 — 内緒で答えてね</string>
+    <string name="social_revealed_answers">%1$s：%2$s\n\n%3$s：%4$s</string>
+    <string name="social_add_wish">ふたりのウィッシュリストに追加</string>
+    <string name="social_view_wishlist">ふたりのリストを見る</string>
+    <string name="social_add_wish_title">ふたりの願いを保存</string>
+    <string name="social_save_wish">願いを保存</string>
+    <string name="social_wish_required">先に願いを書いてね。</string>
+    <string name="social_wish_too_long">願いは%1$d文字以内にしてね。</string>
+    <string name="social_wish_saved">ふたりのリストに追加したよ。</string>
+    <string name="social_wish_exists">その願いはすでにリストにあるよ。</string>
+    <string name="social_wishlist_title">ふたりのウィッシュリスト</string>
+    <string name="social_wishlist_empty">リストはまだ空だよ。一緒に叶えたい願いを追加してね。</string>
+    <string name="social_wishlist_full">ふたりのリストはいっぱいだよ。</string>
+    <string name="social_remove_wish_prompt">「%1$s」をリストから削除する？</string>
+    <string name="social_remove_wish">願いを削除</string>
+    <string name="social_sync_start">ふたりでスタート</string>
+    <string name="social_sync_stop">ふたりでストップ</string>
+    <string name="social_spin_forfeit">回してチャレンジを選ぶ</string>
+    <string name="social_riddle_solution">答え：%1$s</string>
+    <string-array name="social_most_likely_options">
+        <item>自分</item>
+        <item>パートナー</item>
+        <item>ふたりとも</item>
+        <item>どちらでもない</item>
+    </string-array>
+    <string-array name="social_love_language_options">
+        <item>肯定的な言葉</item>
+        <item>一緒に過ごす時間</item>
+        <item>行動で示すこと</item>
+        <item>心のこもった贈り物</item>
+        <item>愛情のこもったスキンシップ</item>
+    </string-array>
+    <string-array name="social_most_likely_prompts">
+        <item>思いつきでデートに誘うのはどっち？</item>
+        <item>会話の小さな細部をよく覚えているのはどっち？</item>
+        <item>先にキスをしようとするのはどっち？</item>
+        <item>何気ない夜を特別な時間に変えるのはどっち？</item>
+        <item>ふたりで話しながら夜更かしするのはどっち？</item>
+        <item>何でもない日に小さなサプライズを用意するのはどっち？</item>
+    </string-array>
+    <string-array name="social_love_language_prompts">
+        <item>どんなことをされると、一番愛されていると感じる？</item>
+        <item>疲れた日の終わりに、何をしてもらうとうれしい？</item>
+        <item>どんな愛情表現に一番気づきやすい？</item>
+        <item>頼まなくても大切にされていると感じるのはどんなとき？</item>
+        <item>ふたりのどんな時間に一番親しさを感じる？</item>
+        <item>離れているとき、一番恋しくなるのはどんなこと？</item>
+    </string-array>
+    <string-array name="social_riddle_prompts">
+        <item>鍵盤はあるのに、鍵を開けられないものは何？</item>
+        <item>乾かせば乾かすほど、ぬれていくものは何？</item>
+        <item>首はあるのに、頭がないものは何？</item>
+        <item>自分のものなのに、自分よりほかの人がよく使うものは何？</item>
+        <item>隅にいながら世界を旅できるものは何？</item>
+        <item>目は一つあるのに、何も見えないものは何？</item>
+    </string-array>
+    <string-array name="social_riddle_answers">
+        <item>ピアノ</item>
+        <item>タオル</item>
+        <item>ボトル</item>
+        <item>自分の名前</item>
+        <item>切手</item>
+        <item>針</item>
+    </string-array>
 </resources>

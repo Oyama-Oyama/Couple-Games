@@ -14,6 +14,7 @@ import android.graphics.Shader;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
+import android.view.ViewConfiguration;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
@@ -49,6 +50,9 @@ public class ScratchCardView extends View {
     private long lastHapticMs = 0L;
     private float lastX;
     private float lastY;
+    private float downX;
+    private float downY;
+    private int touchSlop;
 
     private AppTheme activeTheme = AppTheme.VELVET_NOIR;
     private String foilPromptText = "";
@@ -70,6 +74,9 @@ public class ScratchCardView extends View {
     }
 
     private void init() {
+        setClickable(true);
+        setFocusable(true);
+        touchSlop = ViewConfiguration.get(getContext()).getScaledTouchSlop();
         float density = getResources().getDisplayMetrics().density;
         erasePaint.setStyle(Paint.Style.STROKE);
         erasePaint.setStrokeCap(Paint.Cap.ROUND);
@@ -175,13 +182,15 @@ public class ScratchCardView extends View {
 
     @Override
     public boolean onTouchEvent(MotionEvent event) {
-        if (revealed || foilCanvas == null) return false;
+        if (!isEnabled() || revealed || foilCanvas == null) return false;
         float x = event.getX();
         float y = event.getY();
 
         switch (event.getActionMasked()) {
             case MotionEvent.ACTION_DOWN:
                 getParent().requestDisallowInterceptTouchEvent(true);
+                downX = x;
+                downY = y;
                 touchPath.reset();
                 touchPath.moveTo(x, y);
                 lastX = x;
@@ -201,11 +210,21 @@ public class ScratchCardView extends View {
             case MotionEvent.ACTION_CANCEL:
                 getParent().requestDisallowInterceptTouchEvent(false);
                 touchPath.reset();
+                if (event.getActionMasked() == MotionEvent.ACTION_UP
+                        && Math.hypot(x - downX, y - downY) <= touchSlop) {
+                    performClick();
+                }
                 return true;
 
             default:
                 return super.onTouchEvent(event);
         }
+    }
+
+    @Override
+    public boolean performClick() {
+        super.performClick();
+        return true;
     }
 
     private void scratchAt(float x, float y) {

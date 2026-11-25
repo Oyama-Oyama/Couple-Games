@@ -21,6 +21,7 @@ import com.velvet.couplesgame.core.model.TaskCard;
 import com.velvet.couplesgame.databinding.FragmentHeartbeatHoldBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
+import com.velvet.couplesgame.ui.common.SoftLimitPromptHelper;
 import com.velvet.couplesgame.ui.common.TaskPromptDialogHelper;
 import java.util.ArrayList;
 import java.util.List;
@@ -109,7 +110,7 @@ public class HeartbeatHoldFragment extends Fragment {
             presentNextPrompt();
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadIntimateModesAsync(bundle -> {
             List<SimplePromptDto> combined = new ArrayList<>();
             if (bundle.heartbeatPrompts != null) combined.addAll(bundle.heartbeatPrompts);
@@ -127,7 +128,9 @@ public class HeartbeatHoldFragment extends Fragment {
     }
 
     private boolean handlePadTouch(boolean isPlayerA, MotionEvent event) {
-        if (engine.getCurrentPrompt() == null) {
+        SimplePromptDto prompt = engine.getCurrentPrompt();
+        if (prompt == null || (container.consentFilter.hasSoftLimit(prompt.tags)
+                && !binding.checkHeartbeatSoftLimitAck.isChecked())) {
             return false;
         }
         switch (event.getActionMasked()) {
@@ -202,7 +205,7 @@ public class HeartbeatHoldFragment extends Fragment {
         String breaker = container.profileManager.getPlayerName(playerABroke);
         binding.tvPulseStatus.setText(getString(R.string.heartbeat_forfeit_status, breaker));
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
             TaskCard dare = container.taskEngine.drawNext(allCards, mutualMatches, maxTier, null, true);
             if (!isAdded()) return;
@@ -242,8 +245,20 @@ public class HeartbeatHoldFragment extends Fragment {
         SimplePromptDto next = engine.drawNextPrompt();
         if (next == null) {
             binding.tvHeartbeatPrompt.setText(R.string.msg_no_eligible_cards);
+            binding.tvHeartbeatSoftLimitWarning.setVisibility(View.GONE);
+            binding.checkHeartbeatSoftLimitAck.setVisibility(View.GONE);
+            binding.padPartnerA.setEnabled(true);
+            binding.padPartnerB.setEnabled(true);
             return;
         }
+        SoftLimitPromptHelper.bind(
+                container.consentFilter,
+                next.tags,
+                binding.tvHeartbeatSoftLimitWarning,
+                binding.checkHeartbeatSoftLimitAck,
+                binding.padPartnerA,
+                binding.padPartnerB
+        );
         binding.tvHeartbeatPrompt.setText(next.text);
         binding.tvPulseStatus.setText(R.string.heartbeat_ready_hint);
         PhysicsAnimator.popIn(binding.tvHeartbeatPrompt);

@@ -19,7 +19,7 @@
     <string name="onboarding_step1_desc">寫下你們的專屬稱呼，今晚的一切只屬於你們兩個人。</string>
     <string name="onboarding_partner_1">伴侶 1</string>
     <string name="onboarding_partner_2">伴侶 2</string>
-    <string name="onboarding_step2_promise">• 絕對私密 —— 無需註冊，僅保存在你自己的手機裡\n• 零廣告打擾 —— 沉浸享受屬於兩人的夜晚\n• 尊重邊界 —— 任一方拒絕的玩法都會悄悄隱藏</string>
+    <string name="onboarding_step2_promise" formatted="false">• 絕對私密 —— 無需註冊，僅保存在你自己的手機裡\n• 零廣告打擾 —— 沉浸享受屬於兩人的夜晚\n• 尊重邊界 —— 任一方拒絕的玩法都會悄悄隱藏</string>
     <string name="onboarding_safeword_label">你們的溫柔安全詞（可選）</string>
     <string name="onboarding_back">上一步</string>
     <string name="onboarding_continue">繼續</string>
@@ -140,6 +140,8 @@
     <string name="btn_partner_approved">完成啦 ✓</string>
     <string name="btn_partner_redo">退後 1 格</string>
     <string name="board_rewards_title">設定終點大獎</string>
+    <string name="board_prize_intro_title">先設定終點大獎</string>
+    <string name="board_prize_intro_body">可以為獲勝者設定一份專屬獎勵，之後也能隨時點選「大獎」修改。</string>
     <string name="board_reward_named_label">%1$s 獲勝後的專屬獎勵</string>
     <string name="board_rewards_saved">終極大獎已更新</string>
     <string name="board_victory_title">♛ %1$s 率先抵達終點！</string>
@@ -162,8 +164,12 @@
     <string name="wheel_custom_seed_4">特調微醺飲品</string>
     <string name="wheel_custom_max_hint">轉盤最多可以放 10 個選項</string>
     <string name="wheel_custom_count">已放好 %1$d 個專屬選項，輕觸轉盤開始吧！</string>
+    <string name="wheel_custom_edit_title">編輯轉盤選項</string>
+    <string name="wheel_custom_duplicate_hint">這個選項已存在</string>
+    <string name="wheel_custom_restore_hint">無法讀取已儲存的選項，已還原預設選項。</string>
     <string name="wheel_desire_loaded">已將你們的 %1$d 項雙向心動裝入轉盤！</string>
-    <string name="wheel_no_desire_fallback">先去玩一輪雙向盲選吧，當前暫用微醺混合輪盤。</string>
+    <string name="wheel_no_desire_fallback">目前還沒有雙方都選中的內容。先完成一輪雙向盲選，默契輪盤暫停使用。</string>
+    <string name="wheel_desire_loading">正在查看彼此的默契選項…</string>
     <string name="wheel_ready_hint">輕觸轉盤或點擊下方按鈕，交給命運決定下一秒。</string>
     <string name="wheel_spinning">絲絨轉盤旋轉中...</string>
     <string name="wheel_landed_status">命運停在了：%1$s</string>
@@ -193,7 +199,7 @@
     <string name="draw_guessed_toast">心有靈犀！默契 +1</string>
     <string name="draw_penalty_badge">畫猜小挑戰</string>
     <string name="paywall_title">絲絨 VIP 通行證</string>
-    <string name="paywall_subtitle">零廣告打擾 · 絕對私密 · 解鎖全部高能玩法與夜色主題</string>
+    <string name="paywall_subtitle" formatted="false">零廣告打擾 · 絕對私密 · 解鎖全部高能玩法與夜色主題</string>
     <string name="paywall_benefits">• 解鎖 12 大 VIP 玩法（親密默契輪盤、5 段升溫夜、禁區尋寶、慾望階梯、道具實驗室、情趣四子棋等）\n• 解鎖「曖昧拉扯」與「午夜失控」高能挑戰 + 全部 9 套夜色主題\n• 全部 36 款遊戲無限開啟絲絨靈感加戲卡\n• 隨時隨地斷網暢玩，零廣告、零隱私打擾</string>
     <string name="paywall_plan_lifetime">♛ 永久買斷 · 一次解鎖</string>
     <string name="paywall_plan_lifetime_desc">永久擁有全部題庫與後續新主題</string>
@@ -214,6 +220,19 @@
     <string name="settings_vip_free">免費版（暢玩 11 大玩法 · 5 套氛圍主題）</string>
     <string name="settings_section_privacy">隱私保護與記錄管理</string>
     <string name="settings_screen_shield">防截圖與防錄影隱私保護</string>
+    <string name="settings_app_lock">啟用應用程式鎖</string>
+    <string name="settings_app_lock_desc">使用裝置生物辨識或螢幕鎖定解鎖。離開應用程式後立即上鎖，並禁止截圖及最近使用項目預覽；本應用程式不會儲存生物資訊或裝置憑證。</string>
+    <string name="app_lock_auth_title">解鎖絲絨約會夜</string>
+    <string name="app_lock_auth_subtitle">請先通過裝置驗證，再繼續使用。</string>
+    <string name="app_lock_unlock">解鎖</string>
+    <string name="app_lock_exit">結束應用程式</string>
+    <string name="app_lock_use_device_credential">改用裝置螢幕鎖定密碼</string>
+    <string name="app_lock_auth_unavailable">請先在系統設定中設定生物辨識或螢幕鎖定，再啟用應用程式鎖。</string>
+    <string name="app_lock_auth_failed">驗證未完成，請再試一次。</string>
+    <string name="app_lock_state_save_failed">無法儲存應用程式鎖設定，請再試一次。</string>
+    <string name="app_lock_disable">關閉應用程式鎖</string>
+    <string name="app_lock_disable_title">要關閉應用程式鎖嗎？</string>
+    <string name="app_lock_disable_message">裝置驗證方式已無法使用。關閉應用程式鎖後，任何能使用這台裝置的人都可以開啟 Velvet。</string>
     <string name="settings_privacy_title">我們的隱私承諾</string>
     <string name="settings_privacy_body">絲絨約會夜沒有任何廣告，也無需註冊帳號。你們的暱稱、舒適邊界、自建卡牌和私密記錄永遠只留在你自己的手機裡，絕不上傳。</string>
     <string name="settings_clear_matches">清空盲選記錄</string>
@@ -283,6 +302,11 @@
     <string name="btn_scratch_next">換下一張刮刮卡</string>
     <string name="roleplay_browser_subtitle">挑選一部三幕午夜劇本，進入場景後隨時可一鍵互換主導權。</string>
     <string name="roleplay_acts_count">共 %1$d 幕</string>
+    <string name="roleplay_act_3">第3幕</string>
+    <string name="roleplay_act_2">第2幕</string>
+    <string name="roleplay_act_1">第1幕</string>
+    <string name="roleplay_role_partner">夥伴</string>
+    <string name="roleplay_role_lead">引導者</string>
     <string name="roleplay_cast_fmt">%1$s 飾演：%2$s\n%3$s 飾演：%4$s</string>
     <string name="roleplay_whisper_label">耳邊台詞靈感</string>
     <string name="roleplay_btn_next_act">進入下一幕 →</string>
@@ -412,6 +436,18 @@
     <string name="props_checklist_hint">勾選你們今晚房間裡手邊有的道具，立刻匹配專屬高能挑逗：</string>
     <string name="prop_ice">🧊 冰塊</string>
     <string name="prop_blindfold">🎀 眼罩/絲巾</string>
+    <string name="props_custom_hint">自訂道具（例如：絲巾）</string>
+    <string name="props_custom_add">新增</string>
+    <string name="props_custom_required">請先輸入道具名稱</string>
+    <string name="props_custom_duplicate">這個道具已新增</string>
+    <string name="props_custom_max">最多可儲存 8 個自訂道具</string>
+    <string name="props_custom_restore_hint">無法讀取已儲存的自訂道具，已清除損壞資料。</string>
+    <string name="props_custom_prompt_template">雙方都同意時，可隔著衣物用 %1$s 輕柔探索舒適部位。避開熱源、尖銳邊緣、臉部與破損肌膚；有任何不適就停止。</string>
+    <string-array name="props_custom_prompt_templates">
+        <item>雙方同意並確認 %1$s 清潔、適合接觸身體時，才考慮使用。隔著衣物輕觸，由接受的一方決定位置與方式；不確定時改為不接觸地觀察或描述，任何一方不舒服都立刻停止。</item>
+        <item>輪流用 %1$s 選一種溫和的感官線索：隔著衣物輕觸、聽聲音或觀察外觀。先確認物品清潔且適合接觸身體，接觸前先詢問；有不適就停止。</item>
+        <item>用 %1$s 設計一個輕鬆的 30 秒小環節：接受的一方可選擇隔衣感受、聽一聽、看一看，或跳過。之後交換角色；避開熱源、尖銳邊緣、臉部與受損肌膚。</item>
+    </string-array>
     <string name="prop_oil">💧 精油</string>
     <string name="prop_tie">⛓ 領帶/絲帶</string>
     <string name="prop_honey">🍯 蜂蜜/酒</string>
@@ -459,13 +495,13 @@
     <string name="mode_bucket_list">共同心願單</string>
     <string name="mode_bucket_list_desc">抽取一個願望，標記雙方是否想一起實現，收集共同的夢想。</string>
     <string name="mode_riddle_me">情話謎題</string>
-    <string name="mode_riddle_me_desc">帶甜蜜反轉的趣味謎題，一起猜、一起揭曉答案。</string>
+    <string name="mode_riddle_me_desc">各自私下猜一道簡短謎題，揭曉彼此的答案後再看謎底。</string>
     <string name="mode_hot_seat">快問三連</string>
     <string name="mode_hot_seat_desc">限時三連快問，答案要誠實也要快。</string>
     <string name="mode_secret_mission">私密任務</string>
     <string name="mode_secret_mission_desc">抽取一個只屬於你們兩人的私密任務，完成後再抽下一個。</string>
     <string name="mode_ldr_sync">同一時刻</string>
-    <string name="mode_ldr_sync_desc">兩個人一起看著同一個倒數計時——呼吸之間的空隙愈來愈短。不想數了隨時說，此刻已經是你們的。</string>
+    <string name="mode_ldr_sync_desc">在這台裝置上一起開始倒數，任何一方都可以隨時停止。</string>
     <string name="mode_scenario_choice">情境抉擇</string>
     <string name="mode_scenario_choice_desc">面對一個假設情境，選出你真正會做的事，然後比對答案。</string>
     <string name="mode_memory_lane">回憶探秘</string>
@@ -654,7 +690,14 @@
     <string name="home_together_since_fmt">始於 %1$s</string>
     <string name="home_mood_checkin_subtitle">只屬於你們兩個人的小角落，只有你們看得到。</string>
     <string name="mood_gratitude_a_named">關於 %1$s，我最喜歡的一點</string>
-    <string name="mood_gratitude_b_named">今天我愛著我們的一點</string>
+    <string name="mood_gratitude_b_named">今天，我喜歡 %1$s 的一點</string>
+    <string name="soft_limit_warning">這項挑戰涉及一方標記為「謹慎嘗試」的內容。先確認彼此都願意，任何一方都可以略過。</string>
+    <string name="soft_limit_ack">我們都願意繼續這項挑戰。</string>
+    <string name="body_map_accessibility">互動身體地圖。點選標示位置即可查看對應挑戰。</string>
+    <string name="color_picker_accessibility">色彩選擇器。拖曳即可選擇顏色。</string>
+    <string name="drawing_canvas_accessibility">繪圖畫布。可用手指繪畫，並使用下方按鈕更改或清除畫作。</string>
+    <string name="scratch_card_accessibility">刮刮卡。滑動卡片即可揭曉挑戰，也可以使用下方的揭曉按鈕。</string>
+    <string name="blind_match_card_accessibility">向右滑表示喜歡，向左滑表示略過；也可以使用下方按鈕。</string>
     <string name="mode_date_night">約會夜</string>
     <string name="datenight_title">今晚的約會夜</string>
     <string name="datenight_subtitle">四個安靜的小段落，我們慢慢走過，節奏由你決定。</string>
@@ -671,9 +714,17 @@
     <string name="datenight_skip">跳過這張</string>
     <string name="datenight_pause_safe">安全詞隨時可用 —— 想暫停或停下，隨時說。</string>
     <string name="datenight_finish">今晚就到這裡…就停在這一刻吧，哪天想繼續，我們再接上。</string>
+    <string name="datenight_aftercare_note">留下私密筆記</string>
+    <string name="datenight_aftercare_body">一起慢慢深呼吸，問問彼此此刻的感受。抱抱、喝杯水，或就停在這裡，都是很好的選擇。接下來的一切，都只在雙方願意時繼續。</string>
+    <string name="datenight_aftercare_title">溫柔地收個尾</string>
+    <string name="datenight_aftercare_button">溫柔收尾</string>
+    <string name="datenight_aftercare_leave">結束本局</string>
+    <string name="datenight_aftercare_stay">繼續遊戲</string>
     <string name="agegate_title">僅限成年人</string>
     <string name="agegate_body">這是一款面向兩位成年人的私密互動應用。請確認你已年滿 18 歲再繼續。</string>
     <string name="agegate_confirm">我已年滿 18 歲，繼續</string>
+    <string name="agegate_adult_content_unavailable">完成年齡確認前，成人內容將保持隱藏。</string>
+    <string name="agegate_save_failed">無法儲存此選擇，請重試。</string>
     <string name="agegate_decline">我未滿 18 歲</string>
     <string name="agegate_declined_notice">沒關係 —— 應用會保持溫和，只保留基礎玩法供你使用。</string>
     <string name="agegate_decline_note">你填寫的一切依然只留在這台裝置上 —— 無需帳號，絕不上傳，什麼都不會離開這裡。</string>
@@ -686,5 +737,103 @@
     <string name="tonight_note_empty_today">今晚還沒有留下什麼…</string>
     <string name="tonight_note_history_title">留下的那些夜</string>
     <string name="tonight_note_saved_toast">已留在這台裝置上 —— 只有你們兩個人看得到。</string>
+    <string name="tonight_note_save_failed">筆記儲存失敗，請重試。</string>
     <string name="tonight_note_close_hint">收起</string>
+    <string name="reward_wallet_open">我的獎勵券</string>
+    <string name="reward_wallet_title">已收藏的獎勵</string>
+    <string name="reward_wallet_empty">目前沒有可用的獎勵券。在「慾望拍賣」贏得合約後，可以收藏在這裡。已兌換的獎勵券會保留在紀錄中。</string>
+    <string name="reward_wallet_history">已兌換紀錄</string>
+    <string name="reward_wallet_rules_loading">同意界線設定仍在載入，請稍後再試。</string>
+    <string name="intimacy_preferences_open">我們的相處偏好</string>
+    <string name="intimacy_preferences_title">你們喜歡怎麼靠近彼此？</string>
+    <string name="intimacy_preferences_body">請一起選擇。這些偏好只用來推薦玩法，只保存在本機，不會覆蓋你們的界線或今晚的尺度上限。</string>
+    <string name="intimacy_style_romantic">浪漫溫柔——真心對話與親暱</string>
+    <string name="intimacy_style_playful">輕鬆俏皮——歡笑與小遊戲</string>
+    <string name="intimacy_style_sensory">感官親近——溫柔靠近、感受當下</string>
+    <string name="intimacy_style_imaginative">情境想像——故事與角色扮演</string>
+    <string name="intimacy_preferences_save">儲存共同偏好</string>
+    <string name="intimacy_preferences_saved">偏好已儲存在本機。</string>
+    <string name="intimacy_preferences_save_failed">無法儲存偏好，請再試一次。</string>
+    <string name="intimacy_recommendations_button">為我們推薦</string>
+    <string name="intimacy_recommendations_empty">目前篩選下沒有符合的玩法。試試其他遊戲篩選，或調整共同偏好。</string>
+    <string name="reward_wallet_item_fmt">%1$s 贏得：%2$s</string>
+    <string name="reward_wallet_detail_fmt">得主：%1$s\n\n%2$s\n\n%3$s\n\n只有在雙方都願意時才兌換。</string>
+    <string name="reward_wallet_save">收藏為獎勵券</string>
+    <string name="reward_wallet_saved">已收藏</string>
+    <string name="reward_wallet_saved_toast">已收藏到本機獎勵券夾。</string>
+    <string name="reward_wallet_save_failed">無法在這台裝置儲存獎勵券，請再試一次。</string>
+    <string name="reward_wallet_redeem">確認兌換</string>
+    <string name="reward_wallet_redeemed">已標記為已兌換。</string>
+    <string name="reward_wallet_redeem_failed">無法兌換此獎勵券，可能已使用。</string>
+    <string name="reward_wallet_blocked">此獎勵券不符合目前的尺度或界線設定，無法兌換。</string>
+    <string name="social_answer_privately">私下作答</string>
+    <string name="social_choose_privately">私下選擇</string>
+    <string name="social_answer_hint">寫下你的答案……</string>
+    <string name="social_answer_required">請先寫下答案。</string>
+    <string name="social_save_answer">儲存答案</string>
+    <string name="social_turn_a">第一位玩家——請私下作答</string>
+    <string name="social_turn_b">第二位玩家——請私下作答</string>
+    <string name="social_revealed_answers">%1$s：%2$s\n\n%3$s：%4$s</string>
+    <string name="social_add_wish">加入共同心願</string>
+    <string name="social_view_wishlist">查看共同心願清單</string>
+    <string name="social_add_wish_title">儲存這項共同心願</string>
+    <string name="social_save_wish">儲存心願</string>
+    <string name="social_wish_required">請先寫下一項心願。</string>
+    <string name="social_wish_too_long">心願請控制在 %1$d 個字元以內。</string>
+    <string name="social_wish_saved">已加入共同心願清單。</string>
+    <string name="social_wish_exists">這項心願已經在清單裡了。</string>
+    <string name="social_wishlist_title">你們的共同心願</string>
+    <string name="social_wishlist_empty">清單還是空的，新增一件你們想一起完成的事吧。</string>
+    <string name="social_wishlist_full">共同心願清單已滿。</string>
+    <string name="social_remove_wish_prompt">要從共同心願清單中移除「%1$s」嗎？</string>
+    <string name="social_remove_wish">移除心願</string>
+    <string name="social_sync_start">一起開始</string>
+    <string name="social_sync_stop">一起停止</string>
+    <string name="social_spin_forfeit">轉動抽取挑戰</string>
+    <string name="social_riddle_solution">謎底：%1$s</string>
+    <string-array name="social_most_likely_options">
+        <item>我</item>
+        <item>對方</item>
+        <item>我們倆</item>
+        <item>都不是</item>
+    </string-array>
+    <string-array name="social_love_language_options">
+        <item>肯定與讚美</item>
+        <item>高品質陪伴</item>
+        <item>為對方付出</item>
+        <item>用心準備的禮物</item>
+        <item>親密的肢體接觸</item>
+    </string-array>
+    <string-array name="social_most_likely_prompts">
+        <item>誰比較可能臨時提議來場約會？</item>
+        <item>誰比較記得聊天時那些不起眼的小細節？</item>
+        <item>誰比較可能先主動親吻？</item>
+        <item>誰比較會把平凡的夜晚變成特別時光？</item>
+        <item>誰比較可能聊著聊著就熬夜？</item>
+        <item>誰比較可能毫無理由地準備一份小驚喜？</item>
+    </string-array>
+    <string-array name="social_love_language_prompts">
+        <item>怎樣的表達最能讓你感受到被愛？</item>
+        <item>疲憊的一天結束後，怎樣的關心最能讓你感到被照顧？</item>
+        <item>你最先注意到哪種表達愛意的方式？</item>
+        <item>怎樣的舉動會讓你覺得被珍惜，即使你沒有開口？</item>
+        <item>哪一種共同經歷最讓你感到親近？</item>
+        <item>分開時，你最想念伴侶怎樣的表達？</item>
+    </string-array>
+    <string-array name="social_riddle_prompts">
+        <item>什麼東西有琴鍵，卻打不開任何一把鎖？</item>
+        <item>什麼東西越擦越濕？</item>
+        <item>什麼東西有「脖子」，卻沒有頭？</item>
+        <item>什麼東西屬於你，卻常被別人使用得更多？</item>
+        <item>什麼東西待在角落裡，卻能環遊世界？</item>
+        <item>什麼東西有一隻「眼睛」，卻看不見？</item>
+    </string-array>
+    <string-array name="social_riddle_answers">
+        <item>鋼琴</item>
+        <item>毛巾</item>
+        <item>瓶子</item>
+        <item>你的名字</item>
+        <item>郵票</item>
+        <item>針</item>
+    </string-array>
 </resources>

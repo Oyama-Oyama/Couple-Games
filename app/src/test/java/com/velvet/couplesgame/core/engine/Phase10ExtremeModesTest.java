@@ -102,6 +102,28 @@ public class Phase10ExtremeModesTest {
     }
 
     @Test
+    public void propLabCanDrawAUserDefinedPropChallenge() {
+        PropChallengeDto custom = new PropChallengeDto();
+        custom.id = "custom_prop_test";
+        custom.propKey = "custom:silk scarf";
+        custom.tier = 1;
+        custom.durationSec = 30;
+        custom.tags = Collections.singletonList("physical_light");
+        custom.text = "A mutually agreed gentle challenge.";
+
+        PropLabEngine engine = new PropLabEngine(new Random(7));
+        engine.toggleProp(custom.propKey);
+        engine.loadChallenges(Collections.singletonList(custom), new ConsentFilter());
+
+        PropChallengeDto drawn = engine.drawNextChallenge();
+        assertNotNull(drawn);
+        assertEquals(custom.propKey, drawn.propKey);
+
+        engine.removePropSelection(custom.propKey);
+        assertFalse(engine.isPropSelected(custom.propKey));
+    }
+
+    @Test
     public void positionsForeplayAndDesireLadderProgressCleanly() {
         PositionDto p = new PositionDto();
         p.id = "p1"; p.name = "Lotus"; p.difficulty = 1; p.heat = 4; p.durationSec = 60;
@@ -127,5 +149,19 @@ public class Phase10ExtremeModesTest {
         assertFalse(ladEng.climbNext());
         assertTrue(ladEng.climbNext());
         assertEquals(1, ladEng.getSummitsReached());
+    }
+
+    @Test
+    public void positionsRespectEffectiveHeatTier() {
+        PositionDto tierTwo = new PositionDto();
+        tierTwo.id = "tier_two"; tierTwo.heat = 3;
+        PositionDto tierThree = new PositionDto();
+        tierThree.id = "tier_three"; tierThree.heat = 4;
+
+        PositionsEngine engine = new PositionsEngine(new Random(5));
+        engine.loadPositions(Arrays.asList(tierTwo, tierThree), new ConsentFilter(), 2);
+
+        assertEquals(1, engine.getTotalEligibleCount());
+        assertEquals("tier_two", engine.spinRandom().id);
     }
 }

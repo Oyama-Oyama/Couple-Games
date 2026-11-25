@@ -1,6 +1,7 @@
 package com.velvet.couplesgame.ui.chess;
 
 import android.animation.ValueAnimator;
+import android.content.SharedPreferences;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -27,6 +28,10 @@ import com.velvet.couplesgame.ui.paywall.PaywallDialogFragment;
 
 public class CoupleBoardFragment extends Fragment {
     private static final String REQ_PAYWALL_BOARD = "req_paywall_board";
+    private static final String PREFS_BOARD = "couple_board_local";
+    private static final String KEY_REWARD_A = "player_a_reward";
+    private static final String KEY_REWARD_B = "player_b_reward";
+    private static final String KEY_PRIZE_PROMPT_SHOWN = "first_prize_prompt_shown";
 
     private FragmentCoupleBoardBinding binding;
     private AppContainer container;
@@ -55,6 +60,7 @@ public class CoupleBoardFragment extends Fragment {
                 getString(R.string.board_default_reward_a),
                 getString(R.string.board_default_reward_b)
         );
+        loadSavedRewards();
 
         getChildFragmentManager().setFragmentResultListener(REQ_PAYWALL_BOARD, getViewLifecycleOwner(), (key, bundle) -> {
             if (!bundle.getBoolean(PaywallDialogFragment.RESULT_UNLOCKED, false)) return;
@@ -94,6 +100,32 @@ public class CoupleBoardFragment extends Fragment {
             if (isRolling) return;
             executeTurn();
         });
+        showFirstTimePrizePrompt();
+    }
+
+    private SharedPreferences boardPreferences() {
+        return requireContext().getSharedPreferences(PREFS_BOARD, 0);
+    }
+
+    private void loadSavedRewards() {
+        SharedPreferences prefs = boardPreferences();
+        String rewardA = prefs.getString(KEY_REWARD_A, null);
+        String rewardB = prefs.getString(KEY_REWARD_B, null);
+        if (rewardA != null || rewardB != null) {
+            engine.setRewards(rewardA, rewardB);
+        }
+    }
+
+    private void showFirstTimePrizePrompt() {
+        SharedPreferences prefs = boardPreferences();
+        if (prefs.getBoolean(KEY_PRIZE_PROMPT_SHOWN, false)) return;
+        prefs.edit().putBoolean(KEY_PRIZE_PROMPT_SHOWN, true).apply();
+        new MaterialAlertDialogBuilder(requireContext())
+                .setTitle(R.string.board_prize_intro_title)
+                .setMessage(R.string.board_prize_intro_body)
+                .setPositiveButton(android.R.string.ok, (dialog, which) -> showRewardsDialog())
+                .setNegativeButton(android.R.string.cancel, null)
+                .show();
     }
 
     private void applyBoardThemeNonDestructive(AppTheme nextTheme) {
@@ -159,7 +191,7 @@ public class CoupleBoardFragment extends Fragment {
     }
 
     private void drawAndPresentTask(boolean actingPlayerA, int tier, boolean prioritizeDesireMatch) {
-        int maxAllowed = container.entitlementManager.getSelectedMaxTier();
+        int maxAllowed = container.getEffectiveMaxTier();
         container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
             TaskCard picked = null;
             if (prioritizeDesireMatch && mutualMatches != null && !mutualMatches.isEmpty()) {
@@ -230,6 +262,10 @@ public class CoupleBoardFragment extends Fragment {
                 .setView(view)
                 .setPositiveButton(android.R.string.ok, (d, which) -> {
                     engine.setRewards(etA.getText().toString(), etB.getText().toString());
+                    boardPreferences().edit()
+                            .putString(KEY_REWARD_A, engine.getPlayerAReward())
+                            .putString(KEY_REWARD_B, engine.getPlayerBReward())
+                            .apply();
                     Toast.makeText(requireContext(), R.string.board_rewards_saved, Toast.LENGTH_SHORT).show();
                 })
                 .setNegativeButton(android.R.string.cancel, null)

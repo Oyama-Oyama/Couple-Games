@@ -74,7 +74,7 @@
         "timed"
       ],
       "durationSec": 60,
-      "pattern": "Peça ao seu par para fechar os olhos imóvel enquanto você {action_gentle} {safe_zone} dele por {duration}s sem pressa.  Só a gente aqui — se você disser para, a gente para."
+      "pattern": "Se ambos concordarem de antemão, Peça ao seu par para fechar os olhos imóvel enquanto você {action_gentle} {safe_zone} dele por {duration}s sem pressa.  Só a gente aqui — se você disser para, a gente para."
     },
     {
       "id": "gen_bold_02",
@@ -111,7 +111,7 @@
         "indoor"
       ],
       "durationSec": 30,
-      "pattern": "Rodada de prenda: segure as mãos dele atrás das costas e {action_bold} {intimate_zone} dele por {duration}s.  O mundo pode esperar: para quando quiser."
+      "pattern": "Se ambos concordarem de antemão, Rodada de prenda: segure as mãos dele atrás das costas e {action_bold} {intimate_zone} dele por {duration}s.  O mundo pode esperar: para quando quiser."
     },
     {
       "id": "gen_hot_03",
@@ -122,7 +122,7 @@
         "indoor"
       ],
       "durationSec": 0,
-      "pattern": "Escolha ousada: {playful dare_twist} — ou deixe seu par {action_bold} {intimate_zone} seu por 30s.  Só a gente aqui — se você disser para, a gente para."
+      "pattern": "Escolha ousada: {playful_dare_twist} — ou peça à pessoa parceira que lhe dê um beijo demorado por 30 segundos. Só a gente aqui: se você disser para, a gente para."
     },
     {
       "id": "gen_hot_04",
@@ -135,7 +135,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Com seu par de olhos fechados, alterne sopro quente e {action_bold} em {intimate_zone} dele por {duration}s.  O mundo pode esperar: para quando quiser."
+      "pattern": "Se ambos concordarem antes, peça à pessoa parceira que feche os olhos; depois, alterne sopros mornos com beijos lentos pela pele durante {duration}s. O mundo pode esperar: paramos quando você quiser."
     },
     {
       "id": "gen_explore_01",
@@ -159,7 +159,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Alterne sopro quente e {action_bold} de {intimate_zone} até {explore_end} por {duration}s — congele 3 segundos a cada arrepio.  O mundo pode esperar: para quando quiser."
+      "pattern": "Alterne sopros mornos com beijos lentos enquanto percorre a pele entre {intimate_zone} e {explore_end} por {duration}s; pare por 3 segundos sempre que perceber um arrepio na outra pessoa. O mundo pode esperar: paramos quando você quiser."
     },
     {
       "id": "gen_explore_03",
@@ -172,7 +172,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "{restraint_pose} e proíba de beijar de volta enquanto você {action_bold} {intimate_zone} e {explore_end} dele por {duration}s.  Só a gente aqui — se você disser para, a gente para."
+      "pattern": "Se ambos concordarem antes, experimentem uma rodada sem obrigação de retribuir os beijos: explorem com carinho a região entre {intimate_zone} e {explore_end} por até {duration}s. Qualquer um pode mudar de ideia, fazer uma pausa ou parar a qualquer momento."
     },
     {
       "id": "gen_explore_04",
@@ -198,7 +198,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "Exploração vendada: deslize {sensory_item} de {explore_start} até {explore_end} e aqueça cada rastro na hora com beijos quentes ({duration}s).  Só a gente aqui — se você disser para, a gente para."
+      "pattern": "Se ambos concordarem de antemão, Exploração vendada: deslize {sensory_item} de {explore_start} até {explore_end} e aqueça cada rastro na hora com beijos quentes ({duration}s).  Só a gente aqui — se você disser para, a gente para."
     },
     {
       "id": "gen_explore_06",
@@ -210,7 +210,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Leve seu par para «{intimate_pose}», puxe pelos quadris e {action_bold} {intimate_zone} dele por {duration}s sussurrando o que vem a seguir.  O mundo pode esperar: para quando quiser."
+      "pattern": "Se ambos concordarem de antemão, Leve seu par para «{intimate_pose}», puxe pelos quadris e {action_bold} {intimate_zone} dele por {duration}s sussurrando o que vem a seguir.  O mundo pode esperar: para quando quiser."
     },
     {
       "id": "gen_explore_07",
@@ -236,7 +236,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Desafio no limite: {action_bold} {intimate_zone} e {explore_end} dele por {duration}s — se perder o controle ou segurar suas mãos, prenda: {playful dare_twist}.  O mundo pode esperar: para quando quiser."
+      "pattern": "Se a outra pessoa quiser, explorem {intimate_zone} e {explore_end} com um toque que agrade aos dois por até {duration}s. Escolham juntos qualquer extra divertido, nunca como punição; qualquer um pode pausar ou parar."
     },
     {
       "id": "gen_spark_03",
@@ -328,7 +328,7 @@
         "indoor"
       ],
       "durationSec": 40,
-      "pattern": "Seu par fecha os olhos em {room_spot} ({duration}s) enquanto você surpreende {safe_zone} dele com {touch_contrast}."
+      "pattern": "Se ambos concordarem de antemão, Seu par fecha os olhos em {room_spot} ({duration}s) enquanto você surpreende {safe_zone} dele com {touch_contrast}."
     },
     {
       "id": "gen_playful_06",
@@ -437,7 +437,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "Vende os olhos dele em {room_spot}: deslize {sensory_item} por {intimate_zone} e {explore_end} ({duration}s).  Só a gente aqui — se você disser para, a gente para."
+      "pattern": "Se ambos concordarem de antemão, Vende os olhos dele em {room_spot}: deslize {sensory_item} por {intimate_zone} e {explore_end} ({duration}s).  Só a gente aqui — se você disser para, a gente para."
     },
     {
       "id": "gen_flirty_08",
@@ -461,7 +461,7 @@
         "indoor"
       ],
       "durationSec": 40,
-      "pattern": "Olho no olho sem piscar: {action_bold} {intimate_zone} dele ({duration}s) — quem desviar primeiro paga: {playful dare_twist}.  Só a gente aqui — se você disser para, a gente para."
+      "pattern": "Olho no olho sem piscar: {action_bold} {intimate_zone} dele ({duration}s) — quem desviar primeiro paga: {playful_dare_twist}.  Só a gente aqui — se você disser para, a gente para."
     },
     {
       "id": "gen_explore_09",
@@ -474,7 +474,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "Em {room_spot}, {restraint_pose} e alterne {touch_contrast} entre {explore_start} e {explore_end} por {duration}s.  O mundo pode esperar: para quando quiser."
+      "pattern": "Se ambos concordarem de antemão, Em {room_spot}, {restraint_pose} e alterne {touch_contrast} entre {explore_start} e {explore_end} por {duration}s.  O mundo pode esperar: para quando quiser."
     },
     {
       "id": "gen_explore_10",
@@ -500,7 +500,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "Sobrecarga sensorial ({duration}s): vendado, deslize {sensory_item} de {explore_start} a {explore_end} e na hora {action_bold} ({tempo_rule}).  O mundo pode esperar: para quando quiser."
+      "pattern": "Se ambos concordarem antes, experimentem uma rodada sensorial de {duration}s: com os olhos vendados, deslize {sensory_item} de {explore_start} até {explore_end}; depois, {action_bold} suavemente {explore_end}, seguindo {tempo_rule}. O mundo pode esperar: paramos quando você quiser."
     },
     {
       "id": "gen_explore_12",
@@ -511,7 +511,7 @@
         "restraint_light"
       ],
       "durationSec": 0,
-      "pattern": "Confissão extrema: {secret_question} — depois entregue-se por {duration}s enquanto seu par aplica: {playful dare_twist}.  Só a gente aqui — se você disser para, a gente para."
+      "pattern": "Se ambos concordarem de antemão, Confissão extrema: {secret_question} — depois entregue-se por {duration}s enquanto seu par aplica: {playful_dare_twist}.  Só a gente aqui — se você disser para, a gente para."
     },
     {
       "id": "gen_explore_13",
@@ -524,7 +524,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "Domínio total em {room_spot}: {restraint_pose}, sussurre «{whisper_topic}» e explore de {intimate_zone} até {explore_end} ({duration}s) — se soltar um som, prenda extra: {playful dare_twist}.  O mundo pode esperar: para quando quiser."
+      "pattern": "Se ambos quiserem alternar a liderança em {room_spot}, compartilhem {whisper_topic} e explorem de {intimate_zone} até {explore_end} por até {duration}s. Escolham juntos qualquer extra divertido; qualquer um pode pausar ou parar."
     },
     {
       "id": "gen_v2_t1_tr1",
@@ -712,14 +712,10 @@
       "deixando o olhar dizer o que a voz guarda"
     ],
     "action_bold": [
-      "mordisque suavemente",
-      "lamba bem devagar",
-      "cubra de beijos quentes",
-      "provoque com lábios e dedos",
-      "sugue de leve e pode beijar",
-      "faça trilhas úmidas o calor do hálito",
-      "morda suave e acalme com beijos",
-      "deixe beijos abertos e ardentes em"
+      "beije",
+      "acaricie",
+      "toque",
+      "percorra"
     ],
     "intimate_zone": [
       "o lóbulo da orelha",
@@ -830,7 +826,7 @@
       "Qual sussurro direto ou elogio ousado acelera seu coração na hora?",
       "Qual posição ou ângulo comigo fica mais tempo guardado na sua memória?"
     ],
-    "playful dare_twist": [
+    "playful_dare_twist": [
       "me diz aquele pensamento que você guardou para o fim",
       "segure meu olhar um instante a mais do que o confortável",
       "sussurra algo que só a gente sabe",
@@ -888,7 +884,7 @@
         ],
         "category": "DARE",
         "title": "Controle da Meia-Noite",
-        "pattern": "{restraint_pose}, depois {action_bold} {intimate_zone} e {explore_end} dele por {duration}s.  O mundo pode esperar: para quando quiser."
+        "pattern": "Se ambos concordarem de antemão, {restraint_pose}, depois {action_bold} {intimate_zone} e {explore_end} dele por {duration}s.  O mundo pode esperar: para quando quiser."
       },
       {
         "id": "ms_l1",
@@ -949,7 +945,7 @@
         ],
         "category": "FANTASY",
         "title": "Caça Vendada",
-        "pattern": "Vende os olhos dele em {room_spot}: alterne {sensory_item} e beijos quentes em {explore_start} e {explore_end} ({duration}s).  Só a gente aqui — se você disser para, a gente para."
+        "pattern": "Se ambos concordarem de antemão, Vende os olhos dele em {room_spot}: alterne {sensory_item} e beijos quentes em {explore_start} e {explore_end} ({duration}s).  Só a gente aqui — se você disser para, a gente para."
       },
       {
         "id": "ms_f3",
@@ -962,7 +958,7 @@
         ],
         "category": "FANTASY",
         "title": "Fantasia Soberana",
-        "pattern": "Leve-o para «{intimate_pose}», afaste {garment_piece} com {tease_tool} e {action_bold} {explore_end} ({duration}s).  O mundo pode esperar: para quando quiser."
+        "pattern": "Se ambos concordarem de antemão, Leve-o para «{intimate_pose}», afaste {garment_piece} com {tease_tool} e {action_bold} {explore_end} ({duration}s).  O mundo pode esperar: para quando quiser."
       }
     ],
     "bomb": [
@@ -1019,7 +1015,7 @@
           "restraint_light",
           "bite_lick"
         ],
-        "pattern": "{action_bold} {explore_end} dele por 3s — passe antes de explodir!  Só a gente aqui — se você disser para, a gente para."
+        "pattern": "Se ambos concordarem de antemão, {action_bold} {explore_end} dele por 3s — passe antes de explodir!  Só a gente aqui — se você disser para, a gente para."
       },
       {
         "id": "mb_v2_1",
@@ -1103,7 +1099,7 @@
         "tags": [
           "restraint_light"
         ],
-        "pattern": "Sem tremer! Provoque {intimate_zone} dele com {touch_contrast} até chegar a 100%!  O mundo pode esperar: para quando quiser."
+        "pattern": "Se ambos concordarem de antemão, Sem tremer! Provoque {intimate_zone} dele com {touch_contrast} até chegar a 100%!  O mundo pode esperar: para quando quiser."
       },
       {
         "id": "mh_v2_1",
@@ -1177,7 +1173,7 @@
         "tags": [
           "restraint_light"
         ],
-        "pattern": "{restraint_pose} + {duration}s {action_bold} em {intimate_zone}  Só a gente aqui — se você disser para, a gente para."
+        "pattern": "Se ambos concordarem de antemão, {restraint_pose} + {duration}s {action_bold} em {intimate_zone}  Só a gente aqui — se você disser para, a gente para."
       }
     ],
     "auction": [
@@ -1189,7 +1185,7 @@
           "physical_light"
         ],
         "title": "Privilégio {safe_zone}",
-        "pattern": "O vencedor aproveita {duration}s sem pausa para {action_gentle} {safe_zone} dele enquanto {constraint}."
+        "pattern": "O vencedor aproveita {duration}s num ritmo confortável para ambos para {action_gentle} {safe_zone} dele enquanto {constraint}."
       },
       {
         "id": "ma_2",
@@ -1230,7 +1226,7 @@
           "bite_lick"
         ],
         "title": "Decreto da Meia-Noite",
-        "pattern": "{restraint_pose}: explore de {intimate_zone} a {explore_end} ({duration}s) — se fizer som: {playful dare_twist}.  O mundo pode esperar: para quando quiser."
+        "pattern": "Se ambos concordarem antes, revezem a liderança em {room_spot}. Compartilhem {whisper_topic} e explorem de {intimate_zone} até {explore_end} por até {duration}s. Escolham juntos um toque divertido; qualquer um pode pausar ou parar."
       }
     ],
     "desire_match": [
@@ -1283,7 +1279,7 @@
           "physical_light",
           "indoor"
         ],
-        "pattern": "Sessão vendada ({duration}s): percorrer de {explore_start} a {explore_end} com {sensory_item} e beijos quentes.  Só a gente aqui — se você disser para, a gente para."
+        "pattern": "Se ambos concordarem de antemão, Sessão vendada ({duration}s): percorrer de {explore_start} a {explore_end} com {sensory_item} e beijos quentes.  Só a gente aqui — se você disser para, a gente para."
       },
       {
         "id": "md_6",
@@ -1294,7 +1290,7 @@
           "clothing_dare",
           "indoor"
         ],
-        "pattern": "Testar «{intimate_pose}»: afastar {garment_piece} com {tease_tool} e explorar {explore_end} ({duration}s).  O mundo pode esperar: para quando quiser."
+        "pattern": "Se ambos concordarem de antemão, Testar «{intimate_pose}»: afastar {garment_piece} com {tease_tool} e explorar {explore_end} ({duration}s).  O mundo pode esperar: para quando quiser."
       }
     ],
     "props": [
@@ -1319,7 +1315,7 @@
           "indoor"
         ],
         "category": "blindfold",
-        "pattern": "Vende os olhos dele em {room_spot}: surpreenda {intimate_zone} e {explore_end} com {touch_contrast} ({duration}s · {tempo_rule}).  O mundo pode esperar: para quando quiser."
+        "pattern": "Se ambos concordarem de antemão, Vende os olhos dele em {room_spot}: surpreenda {intimate_zone} e {explore_end} com {touch_contrast} ({duration}s · {tempo_rule}).  O mundo pode esperar: para quando quiser."
       },
       {
         "id": "mp_oil",
@@ -1341,7 +1337,7 @@
           "indoor"
         ],
         "category": "tie",
-        "pattern": "Use uma gravata ou lenço de seda: {restraint_pose} e {action_bold} {intimate_zone} e {explore_end} ({duration}s).  Só a gente aqui — se você disser para, a gente para."
+        "pattern": "Se ambos concordarem de antemão, Use uma gravata ou lenço de seda: {restraint_pose} e {action_bold} {intimate_zone} e {explore_end} ({duration}s).  Só a gente aqui — se você disser para, a gente para."
       },
       {
         "id": "mp_honey",
@@ -1397,7 +1393,7 @@
           "indoor"
         ],
         "category": "blindfold",
-        "pattern": "De olhos vendados em {room_spot}, {action_gentle} seu {safe_zone} sussurrando {whisper_topic} ({duration}s)."
+        "pattern": "Se ambos concordarem de antemão, De olhos vendados em {room_spot}, {action_gentle} seu {safe_zone} sussurrando {whisper_topic} ({duration}s)."
       },
       {
         "id": "mp_v2_oil_t1",
@@ -1504,7 +1500,7 @@
           "restraint_light"
         ],
         "title": "{room_spot}",
-        "pattern": "Em {room_spot}, {restraint_pose} e provoque {intimate_zone} ({duration}s).  Só a gente aqui — se você disser para, a gente para."
+        "pattern": "Se ambos concordarem de antemão, Em {room_spot}, {restraint_pose} e provoque {intimate_zone} ({duration}s).  Só a gente aqui — se você disser para, a gente para."
       },
       {
         "id": "mc_6",
@@ -1515,7 +1511,7 @@
           "restraint_light"
         ],
         "title": "⚡ {explore_end}",
-        "pattern": "Leve-o para «{intimate_pose}» e {action_bold} {explore_end} ({duration}s).  O mundo pode esperar: para quando quiser."
+        "pattern": "Se ambos concordarem de antemão, Leve-o para «{intimate_pose}» e {action_bold} {explore_end} ({duration}s).  O mundo pode esperar: para quando quiser."
       }
     ],
     "ladder": [
@@ -1527,7 +1523,7 @@
           "physical_light",
           "deep_talk"
         ],
-        "pattern": "Por {duration}s, {action_gentle} {safe_zone} dele sem parar enquanto {constraint}.",
+        "pattern": "Por {duration}s, {action_gentle} {safe_zone} dele num ritmo confortável para ambos enquanto {constraint}.",
         "secondaryPattern": "{secret_question}"
       },
       {
@@ -1549,7 +1545,7 @@
           "bite_lick",
           "deep_talk"
         ],
-        "pattern": "Por {duration}s, {action_bold} {intimate_zone} e {explore_end} dele sem pausar um segundo!  Só a gente aqui — se você disser para, a gente para.",
+        "pattern": "Por {duration}s, {action_bold} {intimate_zone} e {explore_end} dele num ritmo confortável para ambos um segundo!  Só a gente aqui — se você disser para, a gente para.",
         "secondaryPattern": "{secret_question}"
       },
       {
@@ -1561,7 +1557,7 @@
           "bite_lick",
           "deep_talk"
         ],
-        "pattern": "{restraint_pose} e {action_bold} {intimate_zone} e {explore_end} dele sem parar ({duration}s)!  O mundo pode esperar: para quando quiser.",
+        "pattern": "Se ambos concordarem de antemão, {restraint_pose} e {action_bold} {intimate_zone} e {explore_end} dele num ritmo confortável para ambos ({duration}s)!  O mundo pode esperar: para quando quiser.",
         "secondaryPattern": "{secret_question}"
       }
     ],
@@ -1640,7 +1636,7 @@
           "restraint_light",
           "bite_lick"
         ],
-        "pattern": "🔥 ACERTO DA MEIA-NOITE! {restraint_pose} e {action_bold} {zone} dele sem parar ({duration}s)!  Só a gente aqui — se você disser para, a gente para."
+        "pattern": "Se ambos concordarem de antemão, 🔥 ACERTO DA MEIA-NOITE! {restraint_pose} e {action_bold} {zone} dele num ritmo confortável para ambos ({duration}s)!  Só a gente aqui — se você disser para, a gente para."
       },
       {
         "id": "mbh_v2_1",
@@ -1732,7 +1728,7 @@
           "restraint_light"
         ],
         "durationSec": 0,
-        "pattern": "Eu nunca tive curiosidade de testar {touch_contrast} com você perto de {room_spot}.  Só a gente aqui — se você disser para, a gente para."
+        "pattern": "Se ambos concordarem de antemão, Eu nunca tive curiosidade de testar {touch_contrast} com você perto de {room_spot}.  Só a gente aqui — se você disser para, a gente para."
       },
       {
         "id": "nh_v2_1",
@@ -1806,7 +1802,7 @@
           "indoor"
         ],
         "title": "Entrega Total · {explore_end}",
-        "pattern": "{restraint_pose}, afaste {garment_piece} com {tease_tool} e {action_bold} {explore_end} ({duration}s).  Só a gente aqui — se você disser para, a gente para."
+        "pattern": "Se ambos concordarem de antemão, {restraint_pose}, afaste {garment_piece} com {tease_tool} e {action_bold} {explore_end} ({duration}s).  Só a gente aqui — se você disser para, a gente para."
       }
     ],
     "roleplay": [
@@ -1853,7 +1849,7 @@
           "clothing_dare"
         ],
         "title": "Soberano · {room_spot}",
-        "pattern": "Cena ousada: {fantasy_hook}. Em {room_spot}, {restraint_pose}, afaste {garment_piece} com {tease_tool} e {action_bold} {explore_end}.  Só a gente aqui — se você disser para, a gente para."
+        "pattern": "Se ambos concordarem de antemão, Cena ousada: {fantasy_hook}. Em {room_spot}, {restraint_pose}, afaste {garment_piece} com {tease_tool} e {action_bold} {explore_end}.  Só a gente aqui — se você disser para, a gente para."
       }
     ],
     "positions": [

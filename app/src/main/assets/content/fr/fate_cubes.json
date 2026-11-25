@@ -1442,15 +1442,6 @@
       "tags": [
         "physical_light"
       ]
-    },
-    {
-      "id": "act_v21_104",
-      "label": "Sans hâte Choyer",
-      "icon": "🌙",
-      "tier": 4,
-      "tags": [
-        "physical_light"
-      ]
     }
   ],
   "spots": [
@@ -3132,7 +3123,7 @@
     },
     {
       "id": "mod_v2_t4_01",
-      "label": "Plaque-le contre le mur ou la tête de lit",
+      "label": "Approchez-vous du mur ou de la tête de lit seulement si vous en avez tous les deux envie",
       "durationSec": 35,
       "tier": 4,
       "tags": [

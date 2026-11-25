@@ -4,21 +4,26 @@ import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.view.WindowManager;
+import android.widget.Toast;
 import androidx.activity.EdgeToEdge;
+import androidx.activity.OnBackPressedCallback;
 import androidx.activity.SystemBarStyle;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.core.graphics.Insets;
 import androidx.core.view.ViewCompat;
 import androidx.core.view.WindowInsetsCompat;
+import androidx.fragment.app.Fragment;
 import androidx.navigation.NavController;
 import androidx.navigation.fragment.NavHostFragment;
 import androidx.navigation.ui.NavigationUI;
 import com.google.android.material.dialog.MaterialAlertDialogBuilder;
 import com.velvet.couplesgame.core.i18n.TagDisplayMapper;
 import com.velvet.couplesgame.databinding.ActivityMainBinding;
+import com.velvet.couplesgame.ui.common.AftercareDialogHelper;
 import com.velvet.couplesgame.ui.common.HapticHelper;
 import com.velvet.couplesgame.ui.onboarding.AgeGateDialogFragment;
 import com.velvet.couplesgame.ui.onboarding.OnboardingDialogFragment;
+import com.velvet.couplesgame.ui.security.AppLockDialogFragment;
 
 public class MainActivity extends AppCompatActivity {
     private ActivityMainBinding binding;
@@ -39,14 +44,17 @@ public class MainActivity extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
 
-        if (container.entitlementManager.isScreenShieldEnabled()) {
-            getWindow().addFlags(WindowManager.LayoutParams.FLAG_SECURE);
-        }
+        updatePrivacyWindowFlags();
 
         container.billingBridge.startConnectionAndSync();
 
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
+
+        boolean appLockRequired = container.appLockManager.isAuthenticationRequired();
+        if (appLockRequired) {
+            binding.rootMain.setVisibility(View.INVISIBLE);
+        }
 
         applySystemBarInsets();
 
@@ -60,26 +68,113 @@ public class MainActivity extends AppCompatActivity {
 
         binding.btnGameBack.setOnClickListener(v -> {
             HapticHelper.tick(v);
-            if (navController != null) navController.navigateUp();
+            navigateUpWithOptionalAftercare();
         });
+        setupAftercareBackHandler();
 
         binding.btnSafePause.setOnClickListener(v -> {
             HapticHelper.tick(v);
             showSafePauseDialog();
         });
 
-        // B 项 · 18+ 年龄确认必须早于任何成人向内容呈现（架架规格 §2.1 / [API-009]）
-        // 软门禁：拒绝后仅保留基础玩法，不锁死 App。
+        getSupportFragmentManager().setFragmentResultListener(
+                AgeGateDialogFragment.RESULT_KEY,
+                this,
+                (requestKey, result) ->
+                        getWindow().getDecorView().post(this::showOnboardingIfNeeded)
+        );
+
+        getSupportFragmentManager().setFragmentResultListener(
+                AppLockDialogFragment.RESULT_KEY,
+                this,
+                (requestKey, result) -> onAppLockAuthenticated()
+        );
+
+        if (appLockRequired) {
+            showAppLockIfNeeded();
+        } else {
+            showInitialDialogsIfNeeded();
+        }
+    }
+
+    @Override
+    protected void onResume() {
+        super.onResume();
+        if (container != null && binding != null) {
+            if (container.appLockManager.isAuthenticationRequired()) {
+                binding.rootMain.setVisibility(View.INVISIBLE);
+                showAppLockIfNeeded();
+            } else if (container.appLockManager.isEnabled()) {
+                binding.rootMain.setVisibility(View.VISIBLE);
+            }
+        }
+    }
+
+    @Override
+    protected void onPause() {
+        if (container != null && binding != null && !isChangingConfigurations()
+                && container.appLockManager.isEnabled()) {
+            binding.rootMain.setVisibility(View.INVISIBLE);
+            container.appLockManager.markBackgrounded();
+        }
+        super.onPause();
+    }
+
+    @Override
+    protected void onStop() {
+        if (container != null && !isChangingConfigurations()) {
+            container.appLockManager.markBackgrounded();
+        }
+        super.onStop();
+    }
+
+    private void showAppLockIfNeeded() {
+        if (isFinishing() || isDestroyed()) return;
+        if (getSupportFragmentManager().isStateSaved()) return;
+        if (getSupportFragmentManager()
+                .findFragmentByTag(AppLockDialogFragment.TAG) == null) {
+            AppLockDialogFragment.newInstance()
+                    .show(getSupportFragmentManager(), AppLockDialogFragment.TAG);
+        }
+    }
+
+    private void onAppLockAuthenticated() {
+        if (!container.appLockManager.clearPendingAuthentication()) {
+            Toast.makeText(this, R.string.app_lock_state_save_failed, Toast.LENGTH_LONG).show();
+            binding.rootMain.post(this::showAppLockIfNeeded);
+            return;
+        }
+        updatePrivacyWindowFlags();
+        binding.rootMain.setVisibility(View.VISIBLE);
+        showInitialDialogsIfNeeded();
+    }
+
+    private void updatePrivacyWindowFlags() {
+        if (container.entitlementManager.isScreenShieldEnabled()
+                || container.appLockManager.isEnabled()) {
+            getWindow().addFlags(WindowManager.LayoutParams.FLAG_SECURE);
+        } else {
+            getWindow().clearFlags(WindowManager.LayoutParams.FLAG_SECURE);
+        }
+    }
+
+    private void showInitialDialogsIfNeeded() {
+        // 软门禁：未确认或拒绝时只允许基础强度；先完成年龄确认，再显示新手引导。
         if (!container.ageGateManager.isConfirmed()) {
             binding.navHostFragment.setVisibility(View.INVISIBLE);
             if (getSupportFragmentManager().findFragmentByTag(AgeGateDialogFragment.TAG) == null) {
                 AgeGateDialogFragment.newInstance()
                         .show(getSupportFragmentManager(), AgeGateDialogFragment.TAG);
             }
+        } else if (getSupportFragmentManager()
+                .findFragmentByTag(AgeGateDialogFragment.TAG) == null) {
+            showOnboardingIfNeeded();
         }
+    }
 
-        // Show sleek 2-step first-launch onboarding once
-        if (!container.profileManager.isOnboardingCompleted()
+    private void showOnboardingIfNeeded() {
+        if (container.ageGateManager.isConfirmed()
+                && !container.profileManager.isOnboardingCompleted()
                 && getSupportFragmentManager().findFragmentByTag("velvet_onboarding") == null) {
             OnboardingDialogFragment.newInstance(true)
                     .show(getSupportFragmentManager(), "velvet_onboarding");
@@ -126,13 +221,53 @@ public class MainActivity extends AppCompatActivity {
                 if (title != null) {
                     binding.tvGameTopbarTitle.setText(title);
                 }
-                int activeHeat = container.entitlementManager.getSelectedMaxTier();
+                int activeHeat = container.getEffectiveMaxTier();
                 binding.tvGameHeatBadge.setText("🔥 " + getString(TagDisplayMapper.resolveTierNameRes(activeHeat)));
             }
 
             // Ensure sub-games never collide with bottom gesture bar when bottomNav is hidden
             ViewCompat.requestApplyInsets(binding.rootMain);
         });
+    }
+
+    private void setupAftercareBackHandler() {
+        getOnBackPressedDispatcher().addCallback(this, new OnBackPressedCallback(true) {
+            @Override
+            public void handleOnBackPressed() {
+                if (navController != null && navController.getCurrentDestination() != null
+                        && shouldOfferAftercare(navController.getCurrentDestination().getId())) {
+                    navigateUpWithOptionalAftercare();
+                    return;
+                }
+                setEnabled(false);
+                getOnBackPressedDispatcher().onBackPressed();
+                setEnabled(true);
+            }
+        });
+    }
+
+    private boolean shouldOfferAftercare(int destinationId) {
+        return destinationId != R.id.nav_home
+                && destinationId != R.id.nav_consent
+                && destinationId != R.id.nav_deck
+                && destinationId != R.id.nav_settings
+                && destinationId != R.id.nav_date_planner
+                && destinationId != R.id.nav_sealed_letter
+                && destinationId != R.id.nav_love_graph
+                && destinationId != R.id.nav_tonight_note_history;
+    }
+
+    private void navigateUpWithOptionalAftercare() {
+        if (navController == null || navController.getCurrentDestination() == null) return;
+        if (!shouldOfferAftercare(navController.getCurrentDestination().getId())) {
+            navController.navigateUp();
+            return;
+        }
+        Fragment navHost = getSupportFragmentManager().findFragmentById(R.id.nav_host_fragment);
+        Fragment activeFragment = navHost instanceof NavHostFragment
+                ? ((NavHostFragment) navHost).getChildFragmentManager().getPrimaryNavigationFragment()
+                : null;
+        AftercareDialogHelper.showBeforeLeaving(activeFragment, () -> navController.navigateUp());
     }
 
     private void showSafePauseDialog() {

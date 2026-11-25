@@ -19,7 +19,7 @@
         "deep_talk"
       ],
       "title": "Cuisinez un plat ensemble depuis zéro",
-      "detail": "Répartissez les tâches, discutez doucement du sel et mangez-la directement à la poêle."
+      "detail": "Répartissez les tâches, taquinez-vous gentiment au sujet de l'assaisonnement, puis dégustez le plat à même la poêle."
     },
     {
       "id": "dp_dining_02",
@@ -438,8 +438,62 @@
         "roleplay",
         "eye_contact"
       ],
-      "title": "Une règle : le gagnant décide de la soirée",
-      "detail": "Jouez une partie rapide. Le gagnant organise toute la soirée sans demander."
+      "title": "Le gagnant propose, vous choisissez ensemble",
+      "detail": "Jouez une partie rapide. Le gagnant propose une idée ; vous pouvez tous les deux l’adapter ou passer avant de la choisir ensemble."
+    },
+    {
+      "id": "dp_dining_07",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 55,
+      "tags": ["indoor", "playful", "deep_talk"],
+      "title": "Dégustation à deux bouchées",
+      "detail": "Choisissez deux petites gourmandises que vous aimez tous les deux. Proposez une bouchée seulement si l’autre en a envie, puis devinez le souvenir que chaque saveur évoque."
+    },
+    {
+      "id": "dp_outdoor_07",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 45,
+      "tags": ["public_space", "deep_talk"],
+      "title": "Une balade à l’heure dorée",
+      "detail": "Promenez-vous tranquillement. À chaque croisement, l’un choisit la direction ; faites une pause dans un endroit agréable pour partager une chose qui vous réjouit."
+    },
+    {
+      "id": "dp_indoor_07",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 30,
+      "tags": ["indoor", "physical_light", "playful"],
+      "title": "Deux chansons, une danse lente",
+      "detail": "Choisissez chacun une chanson. Si vous en avez tous les deux envie, dansez lentement sur l’une et laissez l’autre installer une ambiance complice."
+    },
+    {
+      "id": "dp_culture_07",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 40,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "À vous le rôle de commissaire",
+      "detail": "Choisissez chacun une chanson, une photo ou une histoire qui vous ressemble. Expliquez pourquoi elle compte, puis posez une question curieuse et bienveillante."
+    },
+    {
+      "id": "dp_getaway_07",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 35,
+      "tags": ["deep_talk", "playful"],
+      "title": "Une petite escapade à deux",
+      "detail": "Imaginez une escapade d’une demi-journée près de chez vous, avec un budget choisi ensemble. Choisissez une visite, une petite gourmandise et une activité facultative."
+    },
+    {
+      "id": "dp_ritual_07",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 20,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "Trois petites attentions",
+      "detail": "À tour de rôle, nommez trois petites choses précises que vous avez appréciées chez l’autre aujourd’hui. Terminez en demandant ce qui lui ferait du bien maintenant."
     }
   ]
 }

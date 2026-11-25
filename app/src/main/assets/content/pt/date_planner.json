@@ -438,8 +438,62 @@
         "roleplay",
         "eye_contact"
       ],
-      "title": "Uma regra: quem ganha decide a noite",
-      "detail": "Joguem uma partida rápida. Quem ganha planeja a noite toda sem perguntar."
+      "title": "Quem ganha sugere; os dois decidem",
+      "detail": "Joguem uma partida rápida. Quem ganhar sugere um plano, e os dois podem ajustá-lo ou passar antes de escolher juntos."
+    },
+    {
+      "id": "dp_dining_07",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 55,
+      "tags": ["indoor", "playful", "deep_talk"],
+      "title": "Prova de dois sabores",
+      "detail": "Escolham dois petiscos que ambos gostem. Ofereçam uma mordida somente se a outra pessoa quiser e tentem adivinhar que lembrança cada sabor desperta."
+    },
+    {
+      "id": "dp_outdoor_07",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 45,
+      "tags": ["public_space", "deep_talk"],
+      "title": "Uma caminhada no fim de tarde",
+      "detail": "Façam uma caminhada tranquila juntos. A cada esquina, uma pessoa escolhe o caminho; parem em um lugar agradável para contar algo que estão esperando com carinho."
+    },
+    {
+      "id": "dp_indoor_07",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 30,
+      "tags": ["indoor", "physical_light", "playful"],
+      "title": "Duas músicas, uma dança lenta",
+      "detail": "Cada pessoa escolhe uma música. Se os dois quiserem, dancem juntinhos durante uma delas e usem a outra para criar um clima divertido para a noite."
+    },
+    {
+      "id": "dp_culture_07",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 40,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "Hoje você é o curador",
+      "detail": "Cada um escolhe uma música, foto ou história que diga algo sobre si. Conte por que ela importa e depois faça uma pergunta gentil e curiosa."
+    },
+    {
+      "id": "dp_getaway_07",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 35,
+      "tags": ["deep_talk", "playful"],
+      "title": "Uma escapada pertinho, planejada a dois",
+      "detail": "Imaginem um passeio de meio dia por perto, com um orçamento escolhido pelos dois. Decidam um lugar para visitar, um agrado simples e algo que pode ficar para outra vez."
+    },
+    {
+      "id": "dp_ritual_07",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 20,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "Três pequenas coisas que admiro",
+      "detail": "Cada um cita três detalhes simples e específicos que apreciou no outro hoje. Para fechar, perguntem o que faria bem agora."
     }
   ]
 }

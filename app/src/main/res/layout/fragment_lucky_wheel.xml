@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="?attr/velvetBg"
@@ -73,6 +74,8 @@
             android:layout_weight="1"
             android:background="@drawable/bg_card_velvet"
             android:hint="@string/wheel_custom_hint"
+            android:inputType="textCapSentences"
+            android:maxLength="80"
             android:padding="10dp"
             android:textColor="?attr/velvetTextPrimary"
             android:textColorHint="?attr/velvetTextMuted"
@@ -88,6 +91,21 @@
             android:textColor="?attr/velvetTextPrimary" />
     </LinearLayout>
 
+    <HorizontalScrollView
+        android:id="@+id/scroll_wheel_custom_options"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="4dp"
+        android:fillViewport="false"
+        android:scrollbars="none"
+        android:visibility="gone">
+        <com.google.android.material.chip.ChipGroup
+            android:id="@+id/group_wheel_custom_options"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:singleLine="true" />
+    </HorizontalScrollView>
+
     <!-- Fixed 12 o'clock Pointer + Custom WheelView -->
     <LinearLayout
         android:layout_width="match_parent"
@@ -99,6 +117,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:importantForAccessibility="no"
             android:text="▼"
             android:textColor="?attr/velvetAccent"
             android:textSize="24sp" />
@@ -107,13 +126,16 @@
             android:id="@+id/wheel_view"
             android:layout_width="match_parent"
             android:layout_height="0dp"
-            android:layout_weight="1" />
+            android:layout_weight="1"
+            android:contentDescription="@string/wheel_ready_hint"
+            android:focusable="false" />
     </LinearLayout>
 
     <TextView
         android:id="@+id/tv_wheel_status"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:accessibilityLiveRegion="polite"
         android:gravity="center"
         android:text="@string/wheel_ready_hint"
         android:textColor="?attr/velvetTextMuted"

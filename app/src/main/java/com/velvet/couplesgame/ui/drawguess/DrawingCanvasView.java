@@ -7,6 +7,7 @@ import android.graphics.Path;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
 import android.view.View;
+import android.view.ViewConfiguration;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
 import androidx.core.content.ContextCompat;
@@ -37,6 +38,9 @@ public class DrawingCanvasView extends View {
     private Path activePath;
     private float lastX;
     private float lastY;
+    private float downX;
+    private float downY;
+    private int touchSlop;
 
     private int canvasBgColor = 0xFF1D1820;
     private int borderColor = 0x55D4AF37;
@@ -60,6 +64,9 @@ public class DrawingCanvasView extends View {
     }
 
     private void init() {
+        setClickable(true);
+        setFocusable(true);
+        touchSlop = ViewConfiguration.get(getContext()).getScaledTouchSlop();
         drawPaint.setStyle(Paint.Style.STROKE);
         drawPaint.setStrokeCap(Paint.Cap.ROUND);
         drawPaint.setStrokeJoin(Paint.Join.ROUND);
@@ -113,6 +120,8 @@ public class DrawingCanvasView extends View {
         switch (event.getActionMasked()) {
             case MotionEvent.ACTION_DOWN:
                 if (getParent() != null) getParent().requestDisallowInterceptTouchEvent(true);
+                downX = x;
+                downY = y;
                 activePath = new Path();
                 activePath.moveTo(x, y);
                 strokes.add(new Stroke(activePath, currentBrushColor, currentStrokeWidthDp * density));
@@ -143,11 +152,21 @@ public class DrawingCanvasView extends View {
                 }
                 if (getParent() != null) getParent().requestDisallowInterceptTouchEvent(false);
                 invalidate();
+                if (event.getActionMasked() == MotionEvent.ACTION_UP
+                        && Math.hypot(x - downX, y - downY) <= touchSlop) {
+                    performClick();
+                }
                 return true;
 
             default:
                 return super.onTouchEvent(event);
         }
+    }
+
+    @Override
+    public boolean performClick() {
+        super.performClick();
+        return true;
     }
 
     @Override

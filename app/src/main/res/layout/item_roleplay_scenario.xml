@@ -16,7 +16,7 @@
         android:letterSpacing="0.12"
         android:textAllCaps="true"
         android:textColor="?attr/velvetAccent"
-        android:textSize="10sp"
+        android:textSize="11sp"
         android:textStyle="bold" />
 
     <TextView

@@ -86,6 +86,28 @@
             android:textSize="13sp"
             android:textStyle="bold" />
 
+        <TextView
+            android:id="@+id/tv_scratch_soft_limit_warning"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="8dp"
+            android:accessibilityLiveRegion="polite"
+            android:background="@drawable/bg_card_velvet"
+            android:padding="10dp"
+            android:text="@string/soft_limit_warning"
+            android:textColor="?attr/velvetAccent"
+            android:textSize="13sp"
+            android:visibility="gone" />
+
+        <CheckBox
+            android:id="@+id/check_scratch_soft_limit_ack"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="4dp"
+            android:text="@string/soft_limit_ack"
+            android:textColor="?attr/velvetTextPrimary"
+            android:visibility="gone" />
+
         <!-- Layered Scratch Card Container -->
         <FrameLayout
             android:layout_width="match_parent"
@@ -139,7 +161,9 @@
             <com.velvet.couplesgame.ui.scratch.ScratchCardView
                 android:id="@+id/scratch_overlay"
                 android:layout_width="match_parent"
-                android:layout_height="match_parent" />
+                android:layout_height="match_parent"
+                android:contentDescription="@string/scratch_card_accessibility"
+                android:focusable="true" />
         </FrameLayout>
 
         <TextView

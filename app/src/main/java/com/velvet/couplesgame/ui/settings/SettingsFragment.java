@@ -26,12 +26,14 @@ import com.velvet.couplesgame.databinding.FragmentSettingsBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
 import com.velvet.couplesgame.ui.onboarding.OnboardingDialogFragment;
 import com.velvet.couplesgame.ui.paywall.PaywallDialogFragment;
+import com.velvet.couplesgame.ui.security.AppLockDialogFragment;
 import java.time.LocalDate;
 import java.util.Locale;
 
 public class SettingsFragment extends Fragment {
     private FragmentSettingsBinding binding;
     private AppContainer container;
+    private boolean updatingAppLockSwitch;
 
     @Nullable
     @Override
@@ -112,11 +114,26 @@ public class SettingsFragment extends Fragment {
         binding.switchScreenShield.setOnCheckedChangeListener((btn, checked) -> {
             HapticHelper.tick(btn);
             container.entitlementManager.setScreenShieldEnabled(checked);
-            if (checked) {
-                requireActivity().getWindow().addFlags(WindowManager.LayoutParams.FLAG_SECURE);
-            } else {
-                requireActivity().getWindow().clearFlags(WindowManager.LayoutParams.FLAG_SECURE);
+            updatePrivacyWindowFlags();
+        });
+
+        binding.switchAppLock.setChecked(container.appLockManager.isEnabled());
+        binding.switchAppLock.setOnCheckedChangeListener((btn, checked) -> {
+            if (updatingAppLockSwitch) return;
+            HapticHelper.tick(btn);
+            if (checked && !AppLockDialogFragment.isAuthenticationAvailable(requireContext())) {
+                setAppLockSwitchChecked(false);
+                Toast.makeText(requireContext(), R.string.app_lock_auth_unavailable,
+                        Toast.LENGTH_LONG).show();
+                return;
             }
+            if (!container.appLockManager.setEnabled(checked)) {
+                setAppLockSwitchChecked(!checked);
+                Toast.makeText(requireContext(), R.string.app_lock_state_save_failed,
+                        Toast.LENGTH_LONG).show();
+                return;
+            }
+            updatePrivacyWindowFlags();
         });
 
         binding.btnPrivacyPromise.setOnClickListener(v ->
@@ -158,6 +175,21 @@ public class SettingsFragment extends Fragment {
             binding.tvStatsSummary.setText(getString(R.string.settings_stats_summary, totalSessions, totalScore));
             binding.tvStatsEmpty.setVisibility(totalSessions == 0 ? View.VISIBLE : View.GONE);
         });
+    }
+
+    private void setAppLockSwitchChecked(boolean checked) {
+        updatingAppLockSwitch = true;
+        binding.switchAppLock.setChecked(checked);
+        updatingAppLockSwitch = false;
+    }
+
+    private void updatePrivacyWindowFlags() {
+        if (container.entitlementManager.isScreenShieldEnabled()
+                || container.appLockManager.isEnabled()) {
+            requireActivity().getWindow().addFlags(WindowManager.LayoutParams.FLAG_SECURE);
+        } else {
+            requireActivity().getWindow().clearFlags(WindowManager.LayoutParams.FLAG_SECURE);
+        }
     }
 
     /** Let the couple pick (or clear) the date they got together. */

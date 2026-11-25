@@ -52,19 +52,27 @@ public class AgeGateManager {
      *
      * @param declined true 表示用户点了「我未满 18 岁」
      */
-    public void confirm(boolean declined) {
+    public boolean confirm(boolean declined) {
         try {
-            prefs.edit()
+            return prefs.edit()
                     .putBoolean(KEY_CONFIRMED, true)
                     .putBoolean(KEY_DECLINED, declined)
                     .commit();
         } catch (Exception e) {
-            // 写盘失败时保持 fail-closed：不写即视为未确认，下次仍会询问
+            return false;
         }
     }
 
     /** 软门禁：未确认或已拒绝时，成人向内容不可见。 */
     public boolean isAdultContentAllowed() {
         return isConfirmed() && !isDeclined();
+    }
+
+    public static int resolveEffectiveMaxTier(boolean adultContentAllowed,
+                                              int selectedMaxTier,
+                                              int basicMaxTier) {
+        int selected = Math.max(1, selectedMaxTier);
+        if (adultContentAllowed) return selected;
+        return Math.min(selected, Math.max(1, basicMaxTier));
     }
 }

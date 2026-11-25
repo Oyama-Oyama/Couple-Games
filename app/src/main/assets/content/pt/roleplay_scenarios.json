@@ -41,7 +41,7 @@
         "indoor"
       ],
       "title": "Spa Privado Velvet",
-      "subtitle": "Sessão VIP após o expediente onde o se quiser esquenta",
+      "subtitle": "Uma massagem VIP depois do expediente, com o clima ficando cada vez mais íntimo.",
       "leadRole": "Terapeuta VIP",
       "partnerRole": "Convidado Especial",
       "acts": [
@@ -1442,7 +1442,7 @@
         {
           "actTitle": "Ato I · A Faísca",
           "durationSec": 45,
-          "direction": "{lead} anuncia check-in numa suíte de luxo com nomes falsos em o braço do sofá e guia {partner} em Mantenha as mãos dele coladas na cabeceira.",
+          "direction": "{lead} anuncia check-in numa suíte de luxo com nomes falsos em o braço do sofá e guia {partner} em as mãos livres em uma posição confortável, escolhida pelos dois.",
           "whisperLine": "«Daqui em diante, feche os olhos e deixe tudo comigo.»"
         },
         {
@@ -1530,31 +1530,89 @@
       "tier": 4,
       "tags": [
         "roleplay",
-        "restraint_light",
-        "clothing_dare"
+        "clothing_dare",
+        "deep_talk"
       ],
-      "title": "Domínio da Madrugada · diante do espelho do closet",
-      "subtitle": "Roteiro de entrega absoluta em torno de check-in numa suíte de luxo com nomes falsos",
-      "leadRole": "Protagonista",
-      "partnerRole": "Parceiro(a)",
+      "title": "Check-in da meia-noite · dois nomes, um segredo",
+      "subtitle": "Uma fantasia em três atos, combinada pelos dois, em uma suíte imaginária.",
+      "leadRole": "Quem tem a chave",
+      "partnerRole": "A visita especial",
       "acts": [
         {
-          "actTitle": "Ato I · A Faísca",
+          "actTitle": "Ato I · A reserva",
           "durationSec": 45,
-          "direction": "{lead} anuncia check-in numa suíte de luxo com nomes falsos em diante do espelho do closet e guia {partner} em Prenda os dois pulsos acima da cabeça com uma mão.",
-          "whisperLine": "«Daqui em diante, feche os olhos e deixe tudo comigo.»"
+          "direction": "{lead} sugere dois nomes fictícios e pergunta a {partner} qual gostaria de usar. Antes de começar, escolham uma palavra para pausar e uma posição confortável.",
+          "whisperLine": "Hoje podemos inventar qualquer história, desde que escolhamos juntos."
         },
         {
-          "actTitle": "Ato II · Clima Quente",
+          "actTitle": "Ato II · O espelho",
           "durationSec": 55,
-          "direction": "{lead} passa a ponta dos dedos em câmera ultra lenta sob um acessório mais uma camada, provocando o baixo ventre com dedos no cabelo puxando para perto.",
-          "whisperLine": "«Tente não fazer som… segurar deixa tudo ainda mais intenso.»"
+          "direction": "Com a roupa vestida, {lead} fica ao lado de {partner} diante do espelho e conta um detalhe que acha irresistível. Pergunte antes de se aproximar; um sorriso ou mãos dadas já criam o clima.",
+          "whisperLine": "Conte o que você gostaria; vou escutar."
         },
         {
-          "actTitle": "Ato III · Final da Madrugada",
+          "actTitle": "Ato III · A chave do quarto",
           "durationSec": 65,
-          "direction": "Entrando em 'encostado(a) na parede do quarto', {lead} foca morda suave e acalme com beijos no o fim da coluna de {partner}.",
-          "whisperLine": "«Era exatamente isso que você queria a noite toda, né?»"
+          "direction": "Escolham juntos um gesto carinhoso para encerrar: um beijo, um abraço ou nenhum toque. Digam o que foi bom; qualquer um pode pausar ou terminar a cena.",
+          "whisperLine": "A próxima cena será escolhida pelos dois."
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_01",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk"],
+      "title": "A última livraria",
+      "subtitle": "Um encontro tranquilo depois do expediente, entre olhares e histórias compartilhadas.",
+      "leadRole": "A pessoa livreira",
+      "partnerRole": "A última visita",
+      "acts": [
+        {
+          "actTitle": "Só mais um minuto",
+          "durationSec": 45,
+          "direction": "Se os dois quiserem brincar, {lead} convida {partner} a olhar uma estante juntos e escolher um livro para o outro. Expliquem a escolha em uma frase.",
+          "whisperLine": "Guardei uma última história para você."
+        },
+        {
+          "actTitle": "Uma frase emprestada",
+          "durationSec": 55,
+          "direction": "{partner} compartilha uma frase favorita de um livro ou inventa uma. {lead} pergunta se chegar um pouco mais perto seria agradável; qualquer resposta faz parte da cena.",
+          "whisperLine": "Algumas histórias ficam melhores em voz baixa."
+        },
+        {
+          "actTitle": "Hora de fechar",
+          "durationSec": 60,
+          "direction": "Cada pessoa diz uma qualidade que admira na outra e vocês escolhem como terminar: de mãos dadas, com um abraço ou com uma despedida carinhosa.",
+          "whisperLine": "Eu ficaria para mais um capítulo."
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_02",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk", "physical_light"],
+      "title": "Encontro adiado no terraço",
+      "subtitle": "Uma reserva atrasada vira um encontro imaginário à luz de velas, sem pressa.",
+      "leadRole": "Quem recebe",
+      "partnerRole": "A pessoa convidada",
+      "acts": [
+        {
+          "actTitle": "O convite",
+          "durationSec": 45,
+          "direction": "Combinem a cena e um sinal de pausa primeiro. {lead} recebe {partner} em uma mesa imaginária no terraço e pergunta o que deixaria a noite confortável.",
+          "whisperLine": "Que bom que você veio, mesmo com a chuva."
+        },
+        {
+          "actTitle": "A vista",
+          "durationSec": 55,
+          "direction": "Cada um descreve um detalhe do céu noturno imaginário. Se ambos concordarem, deem as mãos; caso contrário, mantenham o momento só nas palavras.",
+          "whisperLine": "A vista é linda, mas meus olhos voltam para você."
+        },
+        {
+          "actTitle": "O próximo encontro",
+          "durationSec": 60,
+          "direction": "Compartilhem uma ideia simples para outro encontro. Escolham juntos terminar com um beijo, um abraço ou um elogio; qualquer um pode passar.",
+          "whisperLine": "Vamos guardar um pouco de expectativa para a próxima vez."
         }
       ]
     }

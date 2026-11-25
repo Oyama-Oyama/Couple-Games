@@ -131,7 +131,8 @@ public class WheelView extends View {
             labelPaint.setColor(sector.desireWildcard ? colorAccent : colorTextPrimary);
             Paint.FontMetrics fm = labelPaint.getFontMetrics();
             float textY = cy - (fm.ascent + fm.descent) / 2f;
-            canvas.drawText(sector.label, cx + radius - 16f * density, textY, labelPaint);
+            String displayLabel = fitLabel(sector.label, radius * 0.58f);
+            canvas.drawText(displayLabel, cx + radius - 16f * density, textY, labelPaint);
             canvas.restore();
         }
 
@@ -162,6 +163,18 @@ public class WheelView extends View {
         hubIconPaint.setTextSize(hubRadius * 0.85f);
         Paint.FontMetrics hfm = hubIconPaint.getFontMetrics();
         canvas.drawText("♥", cx, cy - (hfm.ascent + hfm.descent) / 2f, hubIconPaint);
+    }
+
+    private String fitLabel(String label, float maxWidth) {
+        if (label == null || labelPaint.measureText(label) <= maxWidth) return label == null ? "" : label;
+        String ellipsis = "…";
+        int end = label.length();
+        while (end > 0) {
+            end -= Character.charCount(label.codePointBefore(end));
+            String candidate = label.substring(0, end) + ellipsis;
+            if (labelPaint.measureText(candidate) <= maxWidth) return candidate;
+        }
+        return ellipsis;
     }
 
     private int resolveSliceColor(int idx, WheelSector sector) {

@@ -48,20 +48,20 @@
         {
           "actTitle": "第一幕 · 卸下紧绷",
           "durationSec": 45,
-          "direction": "{partner} 闭眼放松，{lead} 搓热掌心从肩颈开始缓慢推拿。",
-          "whisperLine": "「你绷得太紧了——深呼吸，接下来全部交愿意的话就。」"
+          "direction": "如果 {partner} 愿意，可以闭眼放松；{lead} 先确认对方舒服，再搓热掌心，从肩颈开始轻轻按摩。",
+          "whisperLine": "「你的肩膀好像还绷着。慢慢呼吸；想不想让我继续，由你决定。」"
         },
         {
           "actTitle": "第二幕 · 呼吸升温",
           "durationSec": 45,
-          "direction": "{lead} 放慢手速滑过 {partner} 的后颈与脊背，凑近耳边压低声音。",
-          "whisperLine": "「告诉我，我的手停在哪里最让你心跳加速？」"
+          "direction": "{lead} 沿着 {partner} 的后颈与脊背缓慢按摩，并先询问对方是否愿意继续。",
+          "whisperLine": "「告诉我，哪里最舒服？你说停，我就停。」"
         },
         {
           "actTitle": "第三幕 · 隐藏项目",
           "durationSec": 30,
-          "direction": "{lead} 轻轻转过 {partner} 的下巴，沿着下颌线与嘴唇落下缠绵一吻。",
-          "whisperLine": "「接下来这一项，可不在价目表上。」"
+          "direction": "若 {partner} 愿意，{lead} 可以轻轻托起对方下巴，在下颌线旁落下一吻。",
+          "whisperLine": "「想试试菜单以外的小惊喜吗？由你决定。」"
         }
       ]
     },
@@ -1001,7 +1001,7 @@
           "actTitle": "第三幕 · 沉沦终章",
           "durationSec": 65,
           "direction": "在只留一盏暖灯的床头彻底贴合，{lead}专注张唇贴肤落满灼热湿吻于手腕脉搏处与后背脊柱完成终章。",
-          "whisperLine": "「今晚不准说停，只管彻底沉沦。」"
+          "whisperLine": "「今晚只管沉浸其中；你说停，我们就停。」"
         }
       ]
     },
@@ -1033,7 +1033,7 @@
           "actTitle": "第三幕 · 沉沦终章",
           "durationSec": 65,
           "direction": "在暖灯下的飘窗边彻底贴合，{lead}专注落下让人喘不过气的绵长的吻于肩胛骨与后颈发际线完成终章。",
-          "whisperLine": "「今晚不准说停，只管彻底沉沦。」"
+          "whisperLine": "「今晚只管沉浸其中；你说停，我们就停。」"
         }
       ]
     },
@@ -1065,7 +1065,7 @@
           "actTitle": "第三幕 · 沉沦终章",
           "durationSec": 65,
           "direction": "在沙发扶手旁彻底贴合，{lead}专注用湿润舌尖一路描摹后颈发际线与颈侧完成终章。",
-          "whisperLine": "「今晚不准说停，只管彻底沉沦。」"
+          "whisperLine": "「今晚只管沉浸其中；你说停，我们就停。」"
         }
       ]
     },
@@ -1097,7 +1097,7 @@
           "actTitle": "第三幕 · 沉沦终章",
           "durationSec": 65,
           "direction": "在软软的床尾彻底贴合，{lead}专注温柔轻吻耳后敏感处与大腿内侧完成终章。",
-          "whisperLine": "「今晚不准说停，只管彻底沉沦。」"
+          "whisperLine": "「今晚只管沉浸其中；你说停，我们就停。」"
         }
       ]
     },
@@ -1129,7 +1129,7 @@
           "actTitle": "第三幕 · 沉沦终章",
           "durationSec": 65,
           "direction": "在柔和灯光下的玄关彻底贴合，{lead}专注用唇舌与指尖交替挑逗侧腰肋骨与胯骨边缘完成终章。",
-          "whisperLine": "「今晚不准说停，只管彻底沉沦。」"
+          "whisperLine": "「今晚只管沉浸其中；你说停，我们就停。」"
         }
       ]
     },
@@ -1161,7 +1161,7 @@
           "actTitle": "第三幕 · 沉沦终章",
           "durationSec": 65,
           "direction": "在微暗的衣帽间门旁彻底贴合，{lead}专注俏皮轻吻后再温柔吻平喉结下方与耳垂完成终章。",
-          "whisperLine": "「今晚不准说停，只管彻底沉沦。」"
+          "whisperLine": "「今晚只管沉浸其中；你说停，我们就停。」"
         }
       ]
     },
@@ -1193,7 +1193,7 @@
           "actTitle": "第三幕 · 沉沦终章",
           "durationSec": 65,
           "direction": "在铺满抱枕的榻榻米彻底贴合，{lead}专注用呼吸沿着极慢地气息轻轻拂过腰窝下方与腰窝完成终章。",
-          "whisperLine": "「今晚不准说停，只管彻底沉沦。」"
+          "whisperLine": "「今晚只管沉浸其中；你说停，我们就停。」"
         }
       ]
     },
@@ -1225,7 +1225,7 @@
           "actTitle": "第三幕 · 沉沦终章",
           "durationSec": 65,
           "direction": "在落地窗帘后彻底贴合，{lead}专注轻温柔的吻后再绵长绵长的吻锁骨凹陷处与小腹线条完成终章。",
-          "whisperLine": "「今晚不准说停，只管彻底沉沦。」"
+          "whisperLine": "「今晚只管沉浸其中；你说停，我们就停。」"
         }
       ]
     },
@@ -1257,7 +1257,7 @@
           "actTitle": "第三幕 · 沉沦终章",
           "durationSec": 65,
           "direction": "在暖光梳妆台前彻底贴合，{lead}专注张唇贴肤落满灼热湿吻于手腕脉搏处与胸口与侧肋完成终章。",
-          "whisperLine": "「今晚不准说停，只管彻底沉沦。」"
+          "whisperLine": "「今晚只管沉浸其中；你说停，我们就停。」"
         }
       ]
     },
@@ -1310,7 +1310,7 @@
         {
           "actTitle": "第一幕 · 微光试探",
           "durationSec": 45,
-          "direction": "{lead}在昏暗的门框旁宣布今晚剧本主题「用假名溜进顶层套房的秘密私奔」，要求{partner}配合把伴侣双手反扣在背后不准反抗。",
+          "direction": "{lead}在昏暗的门框旁宣布今晚剧本主题「用假名溜进顶层套房的秘密私奔」，要求{partner}配合经双方明确同意后轻轻牵住伴侣双手，任何一方都可随时叫停。",
           "whisperLine": "「从现在起，闭上眼睛把一切交愿意的话就。」"
         },
         {
@@ -1376,7 +1376,7 @@
         {
           "actTitle": "第一幕 · 微光试探",
           "durationSec": 45,
-          "direction": "{lead}在只留一盏暖灯的床头宣布今晚剧本主题「用假名溜进顶层套房的秘密私奔」，要求{partner}配合轻捏下巴抬起让对方只能看着你。",
+          "direction": "{lead}在只留一盏暖灯的床头宣布今晚剧本主题「用假名溜进顶层套房的秘密私奔」，要求{partner}配合轻托下巴并邀请对方对视；对方随时可以移开视线。",
           "whisperLine": "「从现在起，闭上眼睛把一切交愿意的话就。」"
         },
         {
@@ -1442,7 +1442,7 @@
         {
           "actTitle": "第一幕 · 微光试探",
           "durationSec": 45,
-          "direction": "{lead}在沙发扶手旁宣布今晚剧本主题「用假名溜进顶层套房的秘密私奔」，要求{partner}配合让伴侣双手贴住床头板不许放下。",
+          "direction": "{lead}在沙发扶手旁宣布今晚剧本主题「用假名溜进顶层套房的秘密私奔」，要求{partner}配合双方都同意的舒适姿势，双手保持自由并可随时移动或暂停。",
           "whisperLine": "「从现在起，闭上眼睛把一切交愿意的话就。」"
         },
         {
@@ -1508,7 +1508,7 @@
         {
           "actTitle": "第一幕 · 微光试探",
           "durationSec": 45,
-          "direction": "{lead}在柔和灯光下的玄关宣布今晚剧本主题「用假名溜进顶层套房的秘密私奔」，要求{partner}配合把伴侣双手反扣在背后不准反抗。",
+          "direction": "{lead}在柔和灯光下的玄关宣布今晚剧本主题「用假名溜进顶层套房的秘密私奔」，要求{partner}配合经双方明确同意后轻轻牵住伴侣双手，任何一方都可随时叫停。",
           "whisperLine": "「从现在起，闭上眼睛把一切交愿意的话就。」"
         },
         {
@@ -1530,31 +1530,89 @@
       "tier": 4,
       "tags": [
         "roleplay",
-        "restraint_light",
-        "clothing_dare"
+        "clothing_dare",
+        "deep_talk"
       ],
-      "title": "午夜主宰 · 微暗的衣帽间门旁",
-      "subtitle": "交出主导权的「用假名溜进顶层套房的秘密私奔」高能三幕剧",
-      "leadRole": "主导演绎者",
-      "partnerRole": "心动搭档",
+      "title": "午夜入住 · 两个名字，一个秘密",
+      "subtitle": "在想象中的套房里，共同决定节奏的三幕亲密剧本。",
+      "leadRole": "拿着房卡的人",
+      "partnerRole": "受邀而来的你",
       "acts": [
         {
-          "actTitle": "第一幕 · 微光试探",
+          "actTitle": "第一幕 · 预订",
           "durationSec": 45,
-          "direction": "{lead}在微暗的衣帽间门旁宣布今晚剧本主题「用假名溜进顶层套房的秘密私奔」，要求{partner}配合单手把伴侣双手轻按在头顶。",
-          "whisperLine": "「从现在起，闭上眼睛把一切交愿意的话就。」"
+          "direction": "{lead}提出两个有趣的化名，问{partner}今晚更想用哪一个。开始前，一起约定暂停暗号和舒服的姿势。",
+          "whisperLine": "今晚的故事，由我们一起决定。"
         },
         {
-          "actTitle": "第二幕 · 呼吸升温",
+          "actTitle": "第二幕 · 镜前心动",
           "durationSec": 55,
-          "direction": "{lead}借用极慢的指尖缓缓拨开一件配饰加一层外衣，用「先轻抚发丝再扣住后脑勺拉近」挑逗小腹线条。",
-          "whisperLine": "「忍住别出声，越克制越让人上瘾。」"
+          "direction": "保持衣物穿着，{lead}站在镜前的{partner}身旁，说出一个让自己心动的细节。靠近前先询问；一个微笑或牵手，也足以让气氛升温。",
+          "whisperLine": "告诉我你喜欢什么，我会认真听。"
         },
         {
-          "actTitle": "第三幕 · 沉沦终章",
+          "actTitle": "第三幕 · 房卡",
           "durationSec": 65,
-          "direction": "进入「在卧室墙边轻轻相依的姿态」，{lead}集中俏皮轻吻后再温柔吻平{partner}的脊柱最深处引爆终幕。",
-          "whisperLine": "「这就是你心里一直想要的，对不对？」"
+          "direction": "一起选一个温柔的收尾：亲吻、拥抱，或只说说心里话。各自分享一个喜欢的瞬间；任何一方都可以暂停或结束。",
+          "whisperLine": "下一幕，也由我们一起选择。"
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_01",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk"],
+      "title": "打烊后的最后一家书店",
+      "subtitle": "在闭店后的安静时光里，用眼神和故事慢慢靠近。",
+      "leadRole": "书店店员",
+      "partnerRole": "最后一位客人",
+      "acts": [
+        {
+          "actTitle": "再多一分钟",
+          "durationSec": 45,
+          "direction": "双方都愿意玩时，{lead}邀请{partner}一起逛一排书架，并各自为对方挑一本书。用一句话说说为什么选它。",
+          "whisperLine": "我为你留了一段最后的故事。"
+        },
+        {
+          "actTitle": "借来的一句话",
+          "durationSec": 55,
+          "direction": "{partner}分享一句喜欢的书摘，也可以现场编一句。{lead}询问坐近一点是否舒服；无论答案是什么，都继续按彼此舒服的方式演绎。",
+          "whisperLine": "有些故事，轻声分享才更动人。"
+        },
+        {
+          "actTitle": "打烊时分",
+          "durationSec": 60,
+          "direction": "各自说出一个欣赏对方的地方，再一起决定如何结束：牵手、拥抱，或只道一声温柔的晚安。",
+          "whisperLine": "真想和你再读完一章。"
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_02",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk", "physical_light"],
+      "title": "屋顶的雨夜改期约会",
+      "subtitle": "迟到的预约变成一场烛光下的想象约会，节奏由你们决定。",
+      "leadRole": "赴约的主人",
+      "partnerRole": "受邀来客",
+      "acts": [
+        {
+          "actTitle": "发出邀请",
+          "durationSec": 45,
+          "direction": "先共同约定剧本和暂停暗号。{lead}在想象中的屋顶餐桌迎接{partner}，并问问怎样安排会让今晚更自在。",
+          "whisperLine": "下着雨你还是来了，我很开心。"
+        },
+        {
+          "actTitle": "夜色风景",
+          "durationSec": 55,
+          "direction": "轮流描述想象夜空里最喜欢的一处景色。双方都愿意时可以牵手；如果不想，就继续用话语分享这一刻。",
+          "whisperLine": "夜景很美，可我总忍不住看你。"
+        },
+        {
+          "actTitle": "下次约会",
+          "durationSec": 60,
+          "direction": "分享一个下次约会想尝试的小点子，再一起选择用亲吻、拥抱或一句赞美收尾；任何一方都可以跳过。",
+          "whisperLine": "把一点期待，留给下一次见面。"
         }
       ]
     }

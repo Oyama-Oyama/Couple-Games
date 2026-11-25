@@ -14,8 +14,10 @@ import java.io.InputStreamReader;
 import java.lang.reflect.Type;
 import java.nio.charset.StandardCharsets;
 import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.LinkedHashSet;
 import java.util.List;
+import java.util.Map;
 import java.util.Set;
 import org.junit.Test;
 
@@ -27,7 +29,7 @@ import org.junit.Test;
 public class DatePlannerContentTest {
 
     private static final String[] LANGS = {"en", "zh", "zh_tw", "ja", "ko", "es", "fr", "pt"};
-    private static final int MIN_ACTIVITIES = 24;
+    private static final int MIN_ACTIVITIES = 42;
     private static final String ASSET_ROOT = "src/main/assets/content/";
 
     private static class Root {
@@ -64,8 +66,15 @@ public class DatePlannerContentTest {
             assertNotNull("empty root for " + lang, root);
             assertTrue(lang + " only has " + root.activities.size() + " activities", root.activities.size() >= MIN_ACTIVITIES);
             Set<String> ids = new LinkedHashSet<>();
+            Map<String, Integer> categoryCounts = new HashMap<>();
             for (Activity a : root.activities) {
                 ids.add(a.id);
+                categoryCounts.put(a.category, categoryCounts.getOrDefault(a.category, 0) + 1);
+            }
+            assertEquals("activity count changed unexpectedly in " + lang, MIN_ACTIVITIES, root.activities.size());
+            for (String category : root.categories) {
+                assertEquals("category coverage changed for " + category + " in " + lang,
+                        Integer.valueOf(7), categoryCounts.get(category));
             }
             assertEquals("duplicate ids in " + lang, root.activities.size(), ids.size());
             if (baseline == null) {

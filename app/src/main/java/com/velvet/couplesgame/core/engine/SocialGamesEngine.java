@@ -23,18 +23,26 @@ import java.util.Set;
  *   <li>Anti-repeat: adaptive recent shield that always keeps a usable pool.</li>
  * </ul>
  *
- * <p>Interaction styles are expressed by {@link Interaction} so one generic Fragment can host
- * all 12 games while each keeps a distinct experience. Prompts are open-ended conversations or
- * actions for the couple to answer together - there are deliberately no "correct answers", since
- * the official card pool consists of open prompts rather than multiple-choice questions:
+ * <p>Interaction styles are expressed by {@link Interaction} so the shared host can preserve
+ * each mode's intended play pattern:
  * <ul>
- *   <li>{@code TASK}  - draw a prompt, respond together, mark done, advance.</li>
- *   <li>{@code TIMED} - draw a prompt with a countdown, auto-advance on timeout.</li>
+ *   <li>{@code PRIVATE_ANSWERS}/{@code PRIVATE_CHOICES} - answer in turns and reveal together.</li>
+ *   <li>{@code WISH_LIST} - save a shared wish locally.</li>
+ *   <li>{@code SHARED_COUNTDOWN} - start and stop one local countdown together.</li>
+ *   <li>{@code TIMED_TASK}/{@code MISSION} - complete a timed prompt or private mission.</li>
  * </ul>
  */
 public class SocialGamesEngine {
 
-    public enum Interaction { TASK, TIMED }
+    public enum Interaction {
+        PRIVATE_ANSWERS,
+        PRIVATE_CHOICES,
+        TIMED_PRIVATE_ANSWERS,
+        WISH_LIST,
+        SHARED_COUNTDOWN,
+        TIMED_TASK,
+        MISSION
+    }
 
     /** Static per-mode configuration; tag preference biases which official cards are drawn. */
     public static final class ModeConfig {
@@ -60,31 +68,31 @@ public class SocialGamesEngine {
 
     private static final Map<String, ModeConfig> CONFIGS = new HashMap<>();
     static {
-        // Warm-up / flirty (free) - all open-ended prompts, no multiple-choice answers
-        CONFIGS.put("conversation_starter", new ModeConfig("conversation_starter", Interaction.TASK,
+        // Warm-up / flirty (free)
+        CONFIGS.put("conversation_starter", new ModeConfig("conversation_starter", Interaction.PRIVATE_ANSWERS,
                 2, 6, 0, "deep_talk", "playful"));
-        CONFIGS.put("love_language", new ModeConfig("love_language", Interaction.TASK,
+        CONFIGS.put("love_language", new ModeConfig("love_language", Interaction.PRIVATE_CHOICES,
                 2, 6, 0, "deep_talk", "eye_contact"));
-        CONFIGS.put("daily_question", new ModeConfig("daily_question", Interaction.TASK,
+        CONFIGS.put("daily_question", new ModeConfig("daily_question", Interaction.PRIVATE_ANSWERS,
                 2, 5, 0, "deep_talk"));
-        CONFIGS.put("riddle_me", new ModeConfig("riddle_me", Interaction.TASK,
+        CONFIGS.put("riddle_me", new ModeConfig("riddle_me", Interaction.PRIVATE_ANSWERS,
                 2, 6, 0, "playful", "deep_talk"));
-        CONFIGS.put("memory_lane", new ModeConfig("memory_lane", Interaction.TASK,
+        CONFIGS.put("memory_lane", new ModeConfig("memory_lane", Interaction.PRIVATE_ANSWERS,
                 2, 6, 0, "deep_talk", "indoor"));
-        CONFIGS.put("most_likely_to", new ModeConfig("most_likely_to", Interaction.TASK,
+        CONFIGS.put("most_likely_to", new ModeConfig("most_likely_to", Interaction.PRIVATE_CHOICES,
                 2, 6, 0, "playful", "deep_talk"));
-        CONFIGS.put("bucket_list", new ModeConfig("bucket_list", Interaction.TASK,
+        CONFIGS.put("bucket_list", new ModeConfig("bucket_list", Interaction.WISH_LIST,
                 3, 6, 0, "deep_talk", "indoor"));
-        CONFIGS.put("ldr_sync", new ModeConfig("ldr_sync", Interaction.TASK,
-                3, 5, 0, "eye_contact", "deep_talk"));
-        CONFIGS.put("forfeit_wheel", new ModeConfig("forfeit_wheel", Interaction.TIMED,
+        CONFIGS.put("ldr_sync", new ModeConfig("ldr_sync", Interaction.SHARED_COUNTDOWN,
+                3, 5, 30, "eye_contact", "deep_talk"));
+        CONFIGS.put("forfeit_wheel", new ModeConfig("forfeit_wheel", Interaction.TIMED_TASK,
                 3, 5, 20, "playful", "physical_light", "timed"));
         // VIP / spicier
-        CONFIGS.put("scenario_choice", new ModeConfig("scenario_choice", Interaction.TASK,
+        CONFIGS.put("scenario_choice", new ModeConfig("scenario_choice", Interaction.PRIVATE_ANSWERS,
                 3, 6, 0, "roleplay", "deep_talk"));
-        CONFIGS.put("hot_seat", new ModeConfig("hot_seat", Interaction.TIMED,
-                3, 5, 15, "timed", "playful"));
-        CONFIGS.put("secret_mission", new ModeConfig("secret_mission", Interaction.TASK,
+        CONFIGS.put("hot_seat", new ModeConfig("hot_seat", Interaction.TIMED_PRIVATE_ANSWERS,
+                3, 3, 15, "timed", "playful"));
+        CONFIGS.put("secret_mission", new ModeConfig("secret_mission", Interaction.MISSION,
                 4, 6, 0, "physical_light", "indoor", "roleplay"));
     }
 
@@ -218,7 +226,8 @@ public class SocialGamesEngine {
 
     /** True when the current interaction should run a countdown. */
     public boolean isTimed() {
-        return config.interaction == Interaction.TIMED;
+        return config.interaction == Interaction.TIMED_TASK
+                || config.interaction == Interaction.TIMED_PRIVATE_ANSWERS;
     }
 
     public int getDurationSec() {

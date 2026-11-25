@@ -22,7 +22,7 @@ Configure these exact Product IDs matching `PlayBillingBridge.java` & `PricingCa
 - **簡単な説明**: `完全オフライン・広告なしの2人用テーブルゲーム。すごろく、盲選マッチ、ルーレット収録。`
 
 ## 3. Verified Production Readiness (Phase 5 Polish)
-- **Android 15 (targetSdk 35) Edge-to-Edge**: Implemented with `EdgeToEdge.enable()` and `WindowInsetsCompat.Type.systemBars()` listener.
+- **Android 16 (targetSdk 36) Edge-to-Edge**: Implemented with `EdgeToEdge.enable()` and `WindowInsetsCompat.Type.systemBars()` listener.
 - **Adaptive Launcher Icon**: Velvet crimson gradient + champagne gold heart emblem bundled in `mipmap-anydpi-v26`.
 - **Consent-First & Inclusive UX**: First-launch couple profile onboarding (`He / She / They` pronouns + custom Safe Word), Private Pass boundary mode (hides individual vetoes), immersive sub-game Pause/Safe Word bar.
 - **Data Safety Form**: Zero ads, zero analytics SDKs, zero backend cloud sync; optional `FLAG_SECURE` screenshot shield.

@@ -5,6 +5,7 @@ import android.animation.AnimatorListenerAdapter;
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.MotionEvent;
+import android.view.ViewConfiguration;
 import android.widget.FrameLayout;
 import androidx.annotation.NonNull;
 import androidx.annotation.Nullable;
@@ -25,17 +26,27 @@ public class SwipeableCardView extends FrameLayout {
     private boolean isDragging;
     private boolean isAnimatingOut;
     private OnSwipeListener swipeListener;
+    private final int touchSlop;
 
     public SwipeableCardView(@NonNull Context context) {
         super(context);
+        touchSlop = ViewConfiguration.get(context).getScaledTouchSlop();
+        setClickable(true);
+        setFocusable(true);
     }
 
     public SwipeableCardView(@NonNull Context context, @Nullable AttributeSet attrs) {
         super(context, attrs);
+        touchSlop = ViewConfiguration.get(context).getScaledTouchSlop();
+        setClickable(true);
+        setFocusable(true);
     }
 
     public SwipeableCardView(@NonNull Context context, @Nullable AttributeSet attrs, int defStyleAttr) {
         super(context, attrs, defStyleAttr);
+        touchSlop = ViewConfiguration.get(context).getScaledTouchSlop();
+        setClickable(true);
+        setFocusable(true);
     }
 
     public void setOnSwipeListener(OnSwipeListener listener) {
@@ -91,18 +102,29 @@ public class SwipeableCardView extends FrameLayout {
                 getParent().requestDisallowInterceptTouchEvent(false);
 
                 float finalDx = getTranslationX();
+                float gestureDx = event.getRawX() - downRawX;
+                float gestureDy = event.getRawY() - downRawY;
                 float swipeThreshold = Math.max(120f, getWidth() * 0.28f);
                 if (Math.abs(finalDx) >= swipeThreshold) {
                     flyOut(finalDx > 0);
                 } else {
                     PhysicsAnimator.springToPosition(this, 0f, 0f, 0f);
                     if (swipeListener != null) swipeListener.onSwipeProgress(0f);
+                    if (Math.hypot(gestureDx, gestureDy) <= touchSlop) {
+                        performClick();
+                    }
                 }
                 return true;
 
             default:
                 return super.onTouchEvent(event);
         }
+    }
+
+    @Override
+    public boolean performClick() {
+        super.performClick();
+        return true;
     }
 
     private void flyOut(boolean liked) {

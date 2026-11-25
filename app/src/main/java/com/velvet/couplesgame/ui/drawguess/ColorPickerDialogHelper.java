@@ -52,6 +52,7 @@ public final class ColorPickerDialogHelper {
         };
 
         pickerView.setColor(initialColor);
+        pickerView.setContentDescription(context.getString(R.string.color_picker_accessibility));
         updatePreview.run();
 
         pickerView.setOnColorChangedListener(color -> {
@@ -98,6 +99,9 @@ public final class ColorPickerDialogHelper {
             bg.setColor(color);
             bg.setStroke(Math.round(1.4f * density), 0x88FFFFFF);
             dot.setBackground(bg);
+            dot.setContentDescription(ColorPickerView.formatHex(color));
+            dot.setClickable(true);
+            dot.setFocusable(true);
             dot.setOnClickListener(v -> {
                 HapticHelper.tick(v);
                 onTap.onColorSelected(color);

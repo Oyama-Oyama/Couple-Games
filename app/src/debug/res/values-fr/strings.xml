@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="paywall_debug_unlock">[DEBUG] Activer l’aperçu VIP localement</string>
+</resources>

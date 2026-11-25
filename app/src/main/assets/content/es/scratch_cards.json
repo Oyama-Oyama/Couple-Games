@@ -33,8 +33,8 @@
         "playful",
         "physical_light"
       ],
-      "title": "Manos Atrás",
-      "text": "Mantén tus manos detrás de la espalda 30s mientras tu pareja besa tu mandíbula y cuello."
+      "title": "Besos con Manos Libres",
+      "text": "Si ambos quieren, compartan 30 segundos de besos lentos en la mandíbula y el cuello. Mantengan las manos libres; cualquiera puede parar o pasar cuando quiera."
     },
     {
       "id": "sc_04",
@@ -46,7 +46,7 @@
         "indoor"
       ],
       "title": "De la Oreja a la Clavícula",
-      "text": "beso suave suavemente el lóbulo y desciende lamiendo y soplando hasta la clavícula durante 30s."
+      "text": "un beso suave el lóbulo y desciende lamiendo y soplando hasta la clavícula durante 30s."
     },
     {
       "id": "sc_05",
@@ -59,7 +59,7 @@
         "indoor"
       ],
       "title": "Control de Terciopelo",
-      "text": "Sujeta suavemente sus muñecas sobre su cabeza 45s y besa cualquier zona excepto los labios."
+      "text": "Elijan juntos una postura cómoda y alternen besos suaves durante 45 segundos. Mantengan las manos libres; cualquiera puede parar o pasar."
     },
     {
       "id": "sc_06",
@@ -289,8 +289,8 @@
         "bite_lick",
         "indoor"
       ],
-      "title": "Muñecas a la Espalda",
-      "text": "Sujeta ambas muñecas detrás con una mano mientras lames, muerdes y besas cuello y pecho (45s)."
+      "title": "Besos con las Manos Libres",
+      "text": "Elijan juntos una postura cómoda y compartan besos suaves por el cuello y el pecho durante 45 segundos. Mantengan las manos libres; cualquiera puede parar o pasar."
     },
     {
       "id": "sc_25",
@@ -316,7 +316,7 @@
         "indoor"
       ],
       "title": "Desvestir Sin Manos",
-      "text": "Manos atrás: usa solo labios y dientes para bajar un tirante o apartar una capa de ropa (45s)."
+"text": "Si ambos quieren, compartan 45 segundos de besos y caricias suaves. Mantengan las manos libres; cualquiera puede parar o pasar."
     },
     {
       "id": "sc_27",
@@ -643,8 +643,8 @@
         "restraint_light",
         "bite_lick"
       ],
-      "title": "Muñecas sujetas 45s",
-      "text": "\"Pórtate bien para mí…\" Sujeta ambas muñecas suavemente sobre mi cabeza mientras besas y beso suave mi cuello y mi pecho (45s)."
+"title": "Besos compartidos 45s",
+"text": "\"Pórtate bien para mí…\" Si ambos quieren, compartan besos suaves en el cuello y el pecho durante 45 segundos. Manos libres; cualquiera puede parar o pasar."
     },
     {
       "id": "sc_v2_12",
@@ -1146,7 +1146,7 @@
         "indoor"
       ],
       "title": "Reto Suave · la palma y los dedos",
-      "text": "En junto al espejo del armario, mantén guardas silencio absoluto y usa caricias en el pelo atrayéndote más cerca sobre la palma y los dedos (30s), susurrando sobre qué quieres que lleve — o se quite — esta noche."
+      "text": "junto al espejo del armario, mantén guardas silencio absoluto y usa caricias en el pelo atrayéndote más cerca sobre la palma y los dedos (30s), susurrando sobre qué quieres que lleve — o se quite — esta noche."
     },
     {
       "id": "sc_v21_d1_11",
@@ -1185,7 +1185,7 @@
         "indoor"
       ],
       "title": "Reto Suave · la punta del mentón",
-      "text": "En frente al tocador tenue, mantén guardando una sonrisa cómplice y usa agarre firme en la cadera seguido de yemas como pluma sobre la punta del mentón (30s), susurrando sobre cómo deseas que te toque al apagar la luz."
+      "text": "Frente al tocador tenue, mantén guardando una sonrisa cómplice y usa agarre firme en la cadera seguido de yemas como pluma sobre la punta del mentón (30s), susurrando sobre cómo deseas que te toque al apagar la luz."
     },
     {
       "id": "sc_v21_d1_14",
@@ -1315,7 +1315,7 @@
         "indoor"
       ],
       "title": "Pulso Alto · la palma y los dedos",
-      "text": "Acércate en junto al espejo del armario, sigue 'alterna roces de pluma con presión firme' y recorre con sopla aliento cálido sin prisa sobre de la base de la garganta a la palma y los dedos (35s)."
+      "text": "Acércate junto al espejo del armario, sigue 'alterna roces de pluma con presión firme' y recorre con sopla aliento cálido sin prisa sobre de la base de la garganta a la palma y los dedos (35s)."
     },
     {
       "id": "sc_v21_d2_08",
@@ -1354,7 +1354,7 @@
         "indoor"
       ],
       "title": "Pulso Alto · la punta del mentón",
-      "text": "Acércate en frente al tocador tenue, sigue 'susurra su nombre antes de cada nueva zona' y recorre con roza suavemente con la nariz de el pulso de la muñeca a la punta del mentón (35s)."
+      "text": "Acércate frente al tocador tenue, sigue 'susurra su nombre antes de cada nueva zona' y recorre con roza suavemente con la nariz de el pulso de la muñeca a la punta del mentón (35s)."
     },
     {
       "id": "sc_v21_d2_11",
@@ -1393,7 +1393,7 @@
         "indoor"
       ],
       "title": "Pulso Alto · el cuello",
-      "text": "Acércate en frente al espejo, sigue 'alterna roces de pluma con presión firme' y recorre con roza con las yemas de los dedos de detrás de la oreja a el cuello (35s)."
+      "text": "Acércate frente al espejo, sigue 'alterna roces de pluma con presión firme' y recorre con roza con las yemas de los dedos de detrás de la oreja a el cuello (35s)."
     },
     {
       "id": "sc_v21_d2_14",
@@ -1432,7 +1432,7 @@
         "indoor"
       ],
       "title": "Calor Puro · la nuca",
-      "text": "En el pie de la cama, alterna aliento tibio y beso suave suavemente en la nuca, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
+      "text": "En el pie de la cama, alterna aliento tibio y besos suaves en la nuca, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
     },
     {
       "id": "sc_v21_d3_03",
@@ -1458,7 +1458,7 @@
         "indoor"
       ],
       "title": "Calor Puro · el muslo interior",
-      "text": "En junto al espejo del armario, alterna aliento tibio y muerde suave y calma con besos en el muslo interior, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
+      "text": "junto al espejo del armario, alterna aliento tibio y muerde suave y calma con besos en el muslo interior, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
     },
     {
       "id": "sc_v21_d3_05",
@@ -1484,7 +1484,7 @@
         "indoor"
       ],
       "title": "Calor Puro · el lóbulo de la oreja",
-      "text": "En detrás de las cortinas, alterna aliento tibio y dejar besos suaves cerca de suave y besa en el lóbulo de la oreja, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
+      "text": "En detrás de las cortinas, alterna aliento tibio con besos suaves en el lóbulo de la oreja, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
     },
     {
       "id": "sc_v21_d3_07",
@@ -1497,7 +1497,7 @@
         "indoor"
       ],
       "title": "Calor Puro · la cintura",
-      "text": "En frente al tocador tenue, alterna aliento tibio y recorre con besos abiertos y calientes en la cintura, cumpliendo 'susurra su nombre antes de cada nueva zona' (45s)."
+      "text": "Frente al tocador tenue, alterna aliento tibio y recorre con besos abiertos y calientes en la cintura, cumpliendo 'susurra su nombre antes de cada nueva zona' (45s)."
     },
     {
       "id": "sc_v21_d3_08",
@@ -1536,7 +1536,7 @@
         "indoor"
       ],
       "title": "Calor Puro · la clavícula",
-      "text": "En frente al espejo, alterna aliento tibio y beso suave suavemente en la clavícula, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
+      "text": "En frente al espejo, alterna aliento tibio y besos suaves en la clavícula, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
     },
     {
       "id": "sc_v21_d3_11",
@@ -1588,7 +1588,7 @@
         "indoor"
       ],
       "title": "Calor Puro · el muslo interior",
-      "text": "En la alfombra con velas, alterna aliento tibio y dejar besos suaves cerca de suave y besa en el muslo interior, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
+      "text": "En la alfombra con velas, alterna aliento tibio con besos suaves en el muslo interior, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
     },
     {
       "id": "sc_v21_d4_01",
@@ -1600,8 +1600,8 @@
         "clothing_dare",
         "indoor"
       ],
-      "title": "Dominio Nocturno · el final de la columna",
-      "text": "En junto al espejo del armario, usa Sujeta ambas muñecas sobre su cabeza con una mano, desliza las yemas de los dedos ultra despacio bajo un accesorio más una capa y aplica muerde suave y calma con besos en el final de la columna (55s)."
+      "title": "Regla de medianoche ? Un gesto acordado",
+      "text": "Durante 55 segundos, colocaos frente al espejo y recorre despacio la parte baja de la espalda por encima de la ropa. Guiar suavemente las mu?ecas es opcional y solo con acuerdo previo; si no, dejad las manos libres y soltadlas ante cualquier se?al. Terminad con un beso suave. Cualquiera puede parar o pasar."
     },
     {
       "id": "sc_v21_d4_02",
@@ -1627,7 +1627,7 @@
         "indoor"
       ],
       "title": "Dominio Nocturno · el bajo vientre",
-      "text": "En detrás de las cortinas, usa Entrelaza sus dedos tras la nuca sin que pueda defenderse, desliza guiando la propia mano de tu pareja bajo el borde de su camiseta y aplica dejar besos suaves cerca de suave y besa en el bajo vientre (55s)."
+      "text": "En detrás de las cortinas, usa manos libres; si ambos quieren, pueden apoyarlas tras la nuca y moverlas cuando quieran, desliza guiando la propia mano de tu pareja bajo el borde de su camiseta y deja besos suaves en el bajo vientre (55s)."
     },
     {
       "id": "sc_v21_d4_04",
@@ -1640,7 +1640,7 @@
         "indoor"
       ],
       "title": "Dominio Nocturno · la curva de la cadera",
-      "text": "En frente al tocador tenue, usa Mantén sus manos pegadas al cabecero, desliza solo aliento caliente y labios bajo una prenda a tu elección y aplica recorre con besos abiertos y calientes en la curva de la cadera (55s)."
+      "text": "Frente al tocador tenue, usa las manos libres en una postura cómoda, con libertad para moverse o pausar, desliza solo aliento caliente y labios bajo una prenda a tu elección y aplica recorre con besos abiertos y calientes en la curva de la cadera (55s)."
     },
     {
       "id": "sc_v21_d4_05",
@@ -1679,7 +1679,7 @@
         "indoor"
       ],
       "title": "Dominio Nocturno · el pecho y las costillas",
-      "text": "En frente al espejo, usa Sujeta ambas muñecas sobre su cabeza con una mano, desliza las yemas de los dedos ultra despacio bajo un accesorio más una capa y aplica beso suave suavemente en el pecho y las costillas (55s)."
+      "text": "En frente al espejo, elige una postura cómoda y mantén las manos libres, desliza las yemas de los dedos ultra despacio bajo un accesorio más una capa y da un beso suave en el pecho y las costillas (55s)."
     },
     {
       "id": "sc_v21_d4_08",
@@ -1705,7 +1705,7 @@
         "indoor"
       ],
       "title": "Dominio Nocturno · el final de la columna",
-      "text": "En la encimera de la cocina, usa Entrelaza sus dedos tras la nuca sin que pueda defenderse, desliza guiando la propia mano de tu pareja bajo el borde de su camiseta y aplica muerde suave y calma con besos en el final de la columna (55s)."
+      "text": "En la encimera de la cocina, usa manos libres; si ambos quieren, pueden apoyarlas tras la nuca y moverlas cuando quieran, desliza guiando la propia mano de tu pareja bajo el borde de su camiseta y aplica muerde suave y calma con besos en el final de la columna (55s)."
     },
     {
       "id": "sc_v21_d4_10",
@@ -1718,7 +1718,7 @@
         "indoor"
       ],
       "title": "Dominio Nocturno · el hueco de la cintura",
-      "text": "En el umbral en penumbra, usa Mantén sus manos pegadas al cabecero, desliza solo aliento caliente y labios bajo una prenda a tu elección y aplica lame muy despacio en el hueco de la cintura (55s)."
+      "text": "En el umbral en penumbra, usa las manos libres en una postura cómoda, con libertad para moverse o pausar, desliza solo aliento caliente y labios bajo una prenda a tu elección y aplica lame muy despacio en el hueco de la cintura (55s)."
     },
     {
       "id": "sc_v21_d4_11",
@@ -1731,7 +1731,7 @@
         "indoor"
       ],
       "title": "Dominio Nocturno · el bajo vientre",
-      "text": "En la alfombra con velas, usa Apóyala suavemente contra la pared por las caderas, desliza una sola mano sin dejar de mirarla bajo dos botones de su camisa y aplica dejar besos suaves cerca de suave y besa en el bajo vientre (55s)."
+      "text": "En la alfombra con velas, usa Apóyala suavemente contra la pared por las caderas, desliza una sola mano sin dejar de mirarla bajo dos botones de su camisa y deja besos suaves en el bajo vientre (55s)."
     },
     {
       "id": "sc_v21_d4_12",
@@ -2147,7 +2147,7 @@
         "indoor"
       ],
       "title": "Zona Privada · frente al espejo",
-      "text": "En frente al espejo, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para beso suave suavemente en la nuca (45s)."
+      "text": "En frente al espejo, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para dar un beso suave en la nuca (45s)."
     },
     {
       "id": "sc_v21_l3_02",
@@ -2199,7 +2199,7 @@
         "indoor"
       ],
       "title": "Zona Privada · la alfombra con velas",
-      "text": "En la alfombra con velas, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para dejar besos suaves cerca de suave y besa en el lóbulo de la oreja (45s)."
+      "text": "En la alfombra con velas, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para dejar besos suaves en el lóbulo de la oreja (45s)."
     },
     {
       "id": "sc_v21_l3_06",
@@ -2251,7 +2251,7 @@
         "indoor"
       ],
       "title": "Zona Privada · el pie de la cama",
-      "text": "En el pie de la cama, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para beso suave suavemente en la clavícula (45s)."
+      "text": "En el pie de la cama, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para dar un beso suave en la clavícula (45s)."
     },
     {
       "id": "sc_v21_l3_10",
@@ -2277,7 +2277,7 @@
         "indoor"
       ],
       "title": "Zona Privada · junto al espejo del armario",
-      "text": "En junto al espejo del armario, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para muerde suave y calma con besos en la nuca (45s)."
+      "text": "junto al espejo del armario, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para muerde suave y calma con besos en la nuca (45s)."
     },
     {
       "id": "sc_v21_l3_12",
@@ -2303,7 +2303,7 @@
         "indoor"
       ],
       "title": "Zona Privada · detrás de las cortinas",
-      "text": "En detrás de las cortinas, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para dejar besos suaves cerca de suave y besa en el muslo interior (45s)."
+      "text": "En detrás de las cortinas, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para dejar besos suaves en el muslo interior (45s)."
     },
     {
       "id": "sc_v21_l4_01",
@@ -2315,8 +2315,8 @@
         "clothing_dare",
         "indoor"
       ],
-      "title": "Escenario Audaz · el umbral en penumbra",
-      "text": "En el umbral en penumbra, adopta 'de pie, cerca de la pared, sin prisa' con Mantén sus manos sujetas detrás de la espalda y explora el hueco de la cintura sin pausa (55s)."
+      "title": "Escenario audaz ? Junto al umbral",
+      "text": "Junto a una puerta con luz tenue, elegid juntos una postura c?moda. Durante 55 segundos, recorre la cintura por encima de la ropa sin perder el contacto visual. Llevar las mu?ecas detr?s de la espalda es opcional y solo con acuerdo previo; soltadlas ante cualquier se?al o dejad las manos libres. Cualquiera puede parar o pasar."
     },
     {
       "id": "sc_v21_l4_02",
@@ -2329,7 +2329,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · la alfombra con velas",
-      "text": "En la alfombra con velas, adopta 'sentada sentados muy cerca, cara a cara en tu regazo' con Sujeta ambas muñecas sobre su cabeza con una mano y explora el bajo vientre sin pausa (55s)."
+      "text": "En la alfombra con velas, adopta 'sentada sentados muy cerca, cara a cara en tu regazo' con las manos libres y explora el bajo vientre a un ritmo cómodo, con pausas cuando quieran (55s)."
     },
     {
       "id": "sc_v21_l4_03",
@@ -2342,7 +2342,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · junto a la cama a media luz",
-      "text": "En junto a la cama a media luz, adopta 'arqueada suavemente sobre una almohada' con Alza su mentón suavemente para que solo te mire y explora la curva de la cadera sin pausa (55s)."
+      "text": "En junto a la cama a media luz, adopta 'arqueada suavemente sobre una almohada' con Alza su mentón suavemente para que solo te mire y explora la curva de la cadera a un ritmo cómodo, con pausas cuando quieran (55s)."
     },
     {
       "id": "sc_v21_l4_04",
@@ -2355,7 +2355,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · el ventanal con lámpara cálida",
-      "text": "En el ventanal con lámpara cálida, adopta 'tumbada con los ojos cerrados, dejándose llevar' con Entrelaza sus dedos tras la nuca sin que pueda defenderse y explora el muslo interior sin pausa (55s)."
+      "text": "En el ventanal con lámpara cálida, adopta 'tumbada con los ojos cerrados, dejándose llevar' con manos libres; si ambos quieren, pueden apoyarlas tras la nuca y moverlas cuando quieran y explora el muslo interior a un ritmo cómodo, con pausas cuando quieran (55s)."
     },
     {
       "id": "sc_v21_l4_05",
@@ -2368,7 +2368,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · el reposabrazos del sofá",
-      "text": "En el reposabrazos del sofá, adopta 'recostada al borde de la cama' con Mantén sus manos pegadas al cabecero y explora bajo la clavícula sin pausa (55s)."
+      "text": "Elijan juntos una postura cómoda y compartan caricias y besos suaves durante el tiempo indicado. Mantengan las manos libres; cualquiera puede parar o pasar."
     },
     {
       "id": "sc_v21_l4_06",
@@ -2381,7 +2381,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · el pie de la cama",
-      "text": "En el pie de la cama, adopta 'de pie pegados frente al espejo' con Apóyala suavemente contra la pared por las caderas y explora el pecho y las costillas sin pausa (55s)."
+      "text": "En el pie de la cama, adopta 'de pie pegados frente al espejo' con Apóyala suavemente contra la pared por las caderas y explora el pecho y las costillas a un ritmo cómodo, con pausas cuando quieran (55s)."
     },
     {
       "id": "sc_v21_l4_07",
@@ -2394,7 +2394,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · la entrada en penumbra",
-      "text": "En la entrada en penumbra, adopta 'de rodillas frente a frente en la cama' con Mantén sus manos sujetas detrás de la espalda y explora la línea de la cadera sin pausa (55s)."
+      "text": "En la entrada en penumbra, adopta 'de rodillas frente a frente en la cama' con Mantén sus manos sujetas detrás de la espalda y explora la línea de la cadera a un ritmo cómodo, con pausas cuando quieran (55s)."
     },
     {
       "id": "sc_v21_l4_08",
@@ -2407,7 +2407,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · junto al espejo del armario",
-      "text": "En junto al espejo del armario, adopta 'de pie, cerca de la pared, sin prisa' con Sujeta ambas muñecas sobre su cabeza con una mano y explora el final de la columna sin pausa (55s)."
+      "text": "junto al espejo del armario, adopta 'de pie, cerca de la pared, sin prisa' con las manos libres y explora el final de la columna a un ritmo cómodo, con pausas cuando quieran (55s)."
     },
     {
       "id": "sc_v21_l4_09",
@@ -2420,7 +2420,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · un rincón lleno de cojines",
-      "text": "En un rincón lleno de cojines, adopta 'sentada sentados muy cerca, cara a cara en tu regazo' con Alza su mentón suavemente para que solo te mire y explora el hueco de la cintura sin pausa (55s)."
+      "text": "En un rincón lleno de cojines, adopta 'sentada sentados muy cerca, cara a cara en tu regazo' con Alza su mentón suavemente para que solo te mire y explora el hueco de la cintura a un ritmo cómodo, con pausas cuando quieran (55s)."
     },
     {
       "id": "sc_v21_l4_10",
@@ -2433,7 +2433,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · detrás de las cortinas",
-      "text": "En detrás de las cortinas, adopta 'arqueada suavemente sobre una almohada' con Entrelaza sus dedos tras la nuca sin que pueda defenderse y explora el bajo vientre sin pausa (55s)."
+      "text": "En detrás de las cortinas, adopta 'arqueada suavemente sobre una almohada' con manos libres; si ambos quieren, pueden apoyarlas tras la nuca y moverlas cuando quieran y explora el bajo vientre a un ritmo cómodo, con pausas cuando quieran (55s)."
     },
     {
       "id": "sc_v21_l4_11",
@@ -2446,7 +2446,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · frente al tocador tenue",
-      "text": "En frente al tocador tenue, adopta 'tumbada con los ojos cerrados, dejándose llevar' con Mantén sus manos pegadas al cabecero y explora la curva de la cadera sin pausa (55s)."
+      "text": "Elijan juntos una postura cómoda y compartan caricias y besos suaves durante el tiempo indicado. Mantengan las manos libres; cualquiera puede parar o pasar."
     },
     {
       "id": "sc_v21_l4_12",
@@ -2459,7 +2459,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · la pared del dormitorio",
-      "text": "En la pared del dormitorio, adopta 'recostada al borde de la cama' con Apóyala suavemente contra la pared por las caderas y explora el muslo interior sin pausa (55s)."
+      "text": "En la pared del dormitorio, adopta 'recostada al borde de la cama' con Apóyala suavemente contra la pared por las caderas y explora el muslo interior a un ritmo cómodo, con pausas cuando quieran (55s)."
     },
     {
       "id": "sc_v21_l4_13",
@@ -2472,7 +2472,7 @@
         "indoor"
       ],
       "title": "Escenario Audaz · el borde de la cama",
-      "text": "En el borde de la cama, adopta 'de pie pegados frente al espejo' con Mantén sus manos sujetas detrás de la espalda y explora bajo la clavícula sin pausa (55s)."
+      "text": "En el borde de la cama, adopta 'de pie pegados frente al espejo' con Mantén sus manos sujetas detrás de la espalda y explora bajo la clavícula a un ritmo cómodo, con pausas cuando quieran (55s)."
     },
     {
       "id": "sc_v21_f1_01",
@@ -2576,7 +2576,7 @@
         "indoor"
       ],
       "title": "Sueño Dulce · un patio secreto bajo las estrellas",
-      "text": "Imagina un patio secreto bajo las estrellas: susurra sobre qué quieres que lleve — o se quite — esta noche en junto al espejo del armario mientras das deja besos lentos en en la palma y los dedos (30s)."
+      "text": "Imagina un patio secreto bajo las estrellas: susurra sobre qué quieres que lleve — o se quite — esta noche junto al espejo del armario mientras das deja besos lentos en en la palma y los dedos (30s)."
     },
     {
       "id": "sc_v21_f1_09",
@@ -2615,7 +2615,7 @@
         "indoor"
       ],
       "title": "Sueño Dulce · una cabaña con chimenea",
-      "text": "Imagina una cabaña con chimenea: susurra sobre cómo deseas que te toque al apagar la luz en frente al tocador tenue mientras das roza tímidamente con los labios en la punta del mentón (30s)."
+      "text": "Imagina una cabaña con chimenea: susurra sobre cómo deseas que te toque al apagar la luz frente al tocador tenue mientras das roza tímidamente con los labios en la punta del mentón (30s)."
     },
     {
       "id": "sc_v21_f1_12",
@@ -2654,7 +2654,7 @@
         "indoor"
       ],
       "title": "Sueño Dulce · una furgoneta frente al mar",
-      "text": "Imagina una furgoneta frente al mar: susurra sobre en qué segundo exacto dejaste de pensar con calma en frente al espejo mientras das deja besos como pluma en en el cuello (30s)."
+      "text": "Imagina una furgoneta frente al mar: susurra sobre en qué segundo exacto dejaste de pensar con calma frente al espejo mientras das deja besos como pluma en en el cuello (30s)."
     },
     {
       "id": "sc_v21_f1_15",
@@ -2758,7 +2758,7 @@
         "indoor"
       ],
       "title": "Guion Pícaro · un asiento junto a la ventana con luna",
-      "text": "Actúa registrarse en una suite de lujo con nombres falsos en junto al espejo del armario: provoca la palma y los dedos con caricias en el pelo atrayéndote más cerca y mira quién se sonroja (35s)."
+      "text": "Actúa registrarse en una suite de lujo con nombres falsos junto al espejo del armario: provoca la palma y los dedos con caricias en el pelo atrayéndote más cerca y mira quién se sonroja (35s)."
     },
     {
       "id": "sc_v21_f2_06",
@@ -2797,7 +2797,7 @@
         "indoor"
       ],
       "title": "Guion Pícaro · un ventanal de cortinas suaves",
-      "text": "Actúa registrarse en una suite de lujo con nombres falsos en frente al tocador tenue: provoca la punta del mentón con agarre firme en la cadera seguido de yemas como pluma y mira quién se sonroja (35s)."
+      "text": "Actúa registrarse en una suite de lujo con nombres falsos frente al tocador tenue: provoca la punta del mentón con agarre firme en la cadera seguido de yemas como pluma y mira quién se sonroja (35s)."
     },
     {
       "id": "sc_v21_f2_09",
@@ -2836,7 +2836,7 @@
         "indoor"
       ],
       "title": "Guion Pícaro · un bar de hotel con luz tenue",
-      "text": "Actúa registrarse en una suite de lujo con nombres falsos en frente al espejo: provoca el cuello con uñas suaves seguidas de labios blandos y mira quién se sonroja (35s)."
+      "text": "Actúa registrarse en una suite de lujo con nombres falsos frente al espejo: provoca el cuello con uñas suaves seguidas de labios blandos y mira quién se sonroja (35s)."
     },
     {
       "id": "sc_v21_f2_12",
@@ -2901,7 +2901,7 @@
         "indoor"
       ],
       "title": "Fantasía Ardiente · el muslo interior",
-      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos en junto al espejo del armario: quien manda disfruta muerde suave y calma con besos en el muslo interior bajo 'alterna roces de pluma con presión firme' (45s)."
+      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos junto al espejo del armario: quien manda disfruta muerde suave y calma con besos en el muslo interior bajo 'alterna roces de pluma con presión firme' (45s)."
     },
     {
       "id": "sc_v21_f3_03",
@@ -2927,7 +2927,7 @@
         "indoor"
       ],
       "title": "Fantasía Ardiente · el lóbulo de la oreja",
-      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos en detrás de las cortinas: quien manda disfruta dejar besos suaves cerca de suave y besa en el lóbulo de la oreja bajo 'alterna roces de pluma con presión firme' (45s)."
+      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos en detrás de las cortinas: quien manda disfruta dejando besos suaves en el lóbulo de la oreja bajo 'alterna roces de pluma con presión firme' (45s)."
     },
     {
       "id": "sc_v21_f3_05",
@@ -2940,7 +2940,7 @@
         "indoor"
       ],
       "title": "Fantasía Ardiente · la cintura",
-      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos en frente al tocador tenue: quien manda disfruta recorre con besos abiertos y calientes en la cintura bajo 'susurra su nombre antes de cada nueva zona' (45s)."
+      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos frente al tocador tenue: quien manda disfruta recorre con besos abiertos y calientes en la cintura bajo 'susurra su nombre antes de cada nueva zona' (45s)."
     },
     {
       "id": "sc_v21_f3_06",
@@ -2979,7 +2979,7 @@
         "indoor"
       ],
       "title": "Fantasía Ardiente · la clavícula",
-      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos en frente al espejo: quien manda disfruta beso suave suavemente en la clavícula bajo 'alterna roces de pluma con presión firme' (45s)."
+      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos frente al espejo: quien manda disfruta de besos suaves en la clavícula bajo 'alterna roces de pluma con presión firme' (45s)."
     },
     {
       "id": "sc_v21_f3_09",
@@ -3031,7 +3031,7 @@
         "indoor"
       ],
       "title": "Fantasía Ardiente · el muslo interior",
-      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos en la alfombra con velas: quien manda disfruta dejar besos suaves cerca de suave y besa en el muslo interior bajo 'alterna roces de pluma con presión firme' (45s)."
+      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos en la alfombra con velas: quien manda disfruta dejando besos suaves en el muslo interior bajo 'alterna roces de pluma con presión firme' (45s)."
     },
     {
       "id": "sc_v21_f3_13",
@@ -3056,8 +3056,8 @@
         "clothing_dare",
         "indoor"
       ],
-      "title": "Fantasía Cumbre · el bajo vientre",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en detrás de las cortinas con Apóyala suavemente contra la pared por las caderas y una sola mano sin dejar de mirarla bajo dos botones de su camisa hacia el bajo vientre (55s)."
+      "title": "Fantas?a culminante ? Una escapada privada",
+      "text": "Imaginad una noche tranquila a solas. Durante 55 segundos, acercaos junto a las cortinas, manteneos la mirada y dibuja lentamente una l?nea por encima de la ropa hacia el bajo vientre de tu pareja. Guiar suavemente las mu?ecas es opcional y solo con acuerdo previo; si no, dejad las manos libres. Cualquiera puede parar o pasar."
     },
     {
       "id": "sc_v21_f4_02",
@@ -3070,7 +3070,7 @@
         "indoor"
       ],
       "title": "Fantasía Cumbre · la curva de la cadera",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en frente al tocador tenue con Mantén sus manos sujetas detrás de la espalda y tus labios y dientes (sin manos) bajo un tirante o prenda exterior hacia la curva de la cadera (55s)."
+      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos frente al tocador tenue con Mantén sus manos sujetas detrás de la espalda y tus labios y dientes (sin manos) bajo un tirante o prenda exterior hacia la curva de la cadera (55s)."
     },
     {
       "id": "sc_v21_f4_03",
@@ -3083,7 +3083,7 @@
         "indoor"
       ],
       "title": "Fantasía Cumbre · el muslo interior",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en la pared del dormitorio con Sujeta ambas muñecas sobre su cabeza con una mano y las yemas de los dedos ultra despacio bajo un accesorio más una capa hacia el muslo interior (55s)."
+      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en la pared del dormitorio con las manos libres y las yemas de los dedos ultra despacio bajo un accesorio más una capa hacia el muslo interior (55s)."
     },
     {
       "id": "sc_v21_f4_04",
@@ -3109,7 +3109,7 @@
         "indoor"
       ],
       "title": "Fantasía Cumbre · el pecho y las costillas",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en frente al espejo con Entrelaza sus dedos tras la nuca sin que pueda defenderse y guiando la propia mano de tu pareja bajo el borde de su camiseta hacia el pecho y las costillas (55s)."
+      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos frente al espejo con manos libres; si ambos quieren, pueden apoyarlas tras la nuca y moverlas cuando quieran y guiando la propia mano de tu pareja bajo el borde de su camiseta hacia el pecho y las costillas (55s)."
     },
     {
       "id": "sc_v21_f4_06",
@@ -3122,7 +3122,7 @@
         "indoor"
       ],
       "title": "Fantasía Cumbre · la línea de la cadera",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en el rincón del sofá con Mantén sus manos pegadas al cabecero y solo aliento caliente y labios bajo una prenda a tu elección hacia la línea de la cadera (55s)."
+      "text": "Elijan juntos una postura cómoda y compartan caricias y besos suaves durante el tiempo indicado. Mantengan las manos libres; cualquiera puede parar o pasar."
     },
     {
       "id": "sc_v21_f4_07",
@@ -3161,7 +3161,7 @@
         "indoor"
       ],
       "title": "Fantasía Cumbre · el bajo vientre",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en la alfombra con velas con Sujeta ambas muñecas sobre su cabeza con una mano y las yemas de los dedos ultra despacio bajo un accesorio más una capa hacia el bajo vientre (55s)."
+      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en la alfombra con velas con las manos libres y las yemas de los dedos ultra despacio bajo un accesorio más una capa hacia el bajo vientre (55s)."
     },
     {
       "id": "sc_v21_f4_10",
@@ -3187,7 +3187,7 @@
         "indoor"
       ],
       "title": "Fantasía Cumbre · el muslo interior",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en el ventanal con lámpara cálida con Entrelaza sus dedos tras la nuca sin que pueda defenderse y guiando la propia mano de tu pareja bajo el borde de su camiseta hacia el muslo interior (55s)."
+      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en el ventanal con lámpara cálida con manos libres; si ambos quieren, pueden apoyarlas tras la nuca y moverlas cuando quieran y guiando la propia mano de tu pareja bajo el borde de su camiseta hacia el muslo interior (55s)."
     },
     {
       "id": "sc_v21_f4_12",
@@ -3200,358 +3200,7 @@
         "indoor"
       ],
       "title": "Fantasía Cumbre · bajo la clavícula",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en el reposabrazos del sofá con Mantén sus manos pegadas al cabecero y solo aliento caliente y labios bajo una prenda a tu elección hacia bajo la clavícula (55s)."
-    },
-    {
-      "id": "sc_v21_d1_17",
-      "category": "DARE",
-      "tier": 1,
-      "durationSec": 30,
-      "tags": [
-        "eye_contact",
-        "physical_light",
-        "indoor"
-      ],
-      "title": "Reto Suave · la sien y entrecejo",
-      "text": "En el rincón del sofá, mantén guardando una sonrisa cómplice y usa aliento tibio seguido al instante de labios suaves sobre la sien y entrecejo (30s), susurrando sobre una fantasía secreta para antes del amanecer."
-    },
-    {
-      "id": "sc_v21_d2_15",
-      "category": "DARE",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful",
-        "indoor"
-      ],
-      "title": "Pulso Alto · la comisura de los labios",
-      "text": "Acércate en la encimera de la cocina, sigue 'alterna roces de pluma con presión firme' y recorre con roza lentamente con los labios de la base de la garganta a la comisura de los labios (35s)."
-    },
-    {
-      "id": "sc_v21_d2_16",
-      "category": "DARE",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful",
-        "indoor"
-      ],
-      "title": "Pulso Alto · los omóplatos",
-      "text": "Acércate en el umbral en penumbra, sigue 'susurra su nombre antes de cada nueva zona' y recorre con acaricia suavemente de la espalda baja a los omóplatos (35s)."
-    },
-    {
-      "id": "sc_v21_d2_17",
-      "category": "DARE",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful",
-        "indoor"
-      ],
-      "title": "Pulso Alto · la línea de la nuca",
-      "text": "Acércate en la alfombra con velas, sigue 'alterna roces de pluma con presión firme' y recorre con deja besos como pluma en de la clavícula a la línea de la nuca (35s)."
-    },
-    {
-      "id": "sc_v21_d3_15",
-      "category": "DARE",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "roleplay",
-        "indoor"
-      ],
-      "title": "Calor Puro · la cadera",
-      "text": "En junto a la cama a media luz, alterna aliento tibio y recorre con besos abiertos y calientes en la cadera, cumpliendo 'susurra su nombre antes de cada nueva zona' (45s)."
-    },
-    {
-      "id": "sc_v21_d3_16",
-      "category": "DARE",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "roleplay",
-        "indoor"
-      ],
-      "title": "Calor Puro · el lóbulo de la oreja",
-      "text": "En el ventanal con lámpara cálida, alterna aliento tibio y llena de besos intensos en el lóbulo de la oreja, cumpliendo 'alterna roces de pluma con presión firme' (45s)."
-    },
-    {
-      "id": "sc_v21_d4_13",
-      "category": "DARE",
-      "tier": 4,
-      "durationSec": 55,
-      "tags": [
-        "restraint_light",
-        "clothing_dare",
-        "indoor"
-      ],
-      "title": "Dominio Nocturno · el muslo interior",
-      "text": "En el ventanal con lámpara cálida, usa Sujeta ambas muñecas sobre su cabeza con una mano, desliza las yemas de los dedos ultra despacio bajo un accesorio más una capa y aplica llena de besos intensos en el muslo interior (55s)."
-    },
-    {
-      "id": "sc_v21_d4_14",
-      "category": "DARE",
-      "tier": 4,
-      "durationSec": 55,
-      "tags": [
-        "restraint_light",
-        "clothing_dare",
-        "indoor"
-      ],
-      "title": "Dominio Nocturno · bajo la clavícula",
-      "text": "En el reposabrazos del sofá, usa Alza su mentón suavemente para que solo te mire, desliza el dorso de la mano y luego la boca bajo una cremallera o cintura y aplica traza caminos húmedos el aliento en bajo la clavícula (55s)."
-    },
-    {
-      "id": "sc_v21_d4_15",
-      "category": "DARE",
-      "tier": 4,
-      "durationSec": 55,
-      "tags": [
-        "restraint_light",
-        "clothing_dare",
-        "indoor"
-      ],
-      "title": "Dominio Nocturno · el pecho y las costillas",
-      "text": "En el pie de la cama, usa Entrelaza sus dedos tras la nuca sin que pueda defenderse, desliza guiando la propia mano de tu pareja bajo el borde de su camiseta y aplica beso suave suavemente en el pecho y las costillas (55s)."
-    },
-    {
-      "id": "sc_v21_l2_15",
-      "category": "LOCATION",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful",
-        "indoor"
-      ],
-      "title": "Escena Cálida · un rincón lleno de cojines",
-      "text": "Toma un rincón lleno de cojines para los dos: recorre con pausa a medio centímetro antes de besar de la espalda baja hasta el antebrazo interior (35s)."
-    },
-    {
-      "id": "sc_v21_l2_16",
-      "category": "LOCATION",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful",
-        "indoor"
-      ],
-      "title": "Escena Cálida · detrás de las cortinas",
-      "text": "Toma detrás de las cortinas para los dos: recorre con uñas suaves seguidas de labios blandos de la clavícula hasta detrás de la oreja (35s)."
-    },
-    {
-      "id": "sc_v21_l2_17",
-      "category": "LOCATION",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful",
-        "indoor"
-      ],
-      "title": "Escena Cálida · frente al tocador tenue",
-      "text": "Toma frente al tocador tenue para los dos: recorre con aliento tibio seguido al instante de labios suaves de el pulso de la muñeca hasta la punta del mentón (35s)."
-    },
-    {
-      "id": "sc_v21_l2_18",
-      "category": "LOCATION",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful",
-        "indoor"
-      ],
-      "title": "Escena Cálida · la pared del dormitorio",
-      "text": "Toma la pared del dormitorio para los dos: recorre con beso suave juguetón calmado al instante con el aliento lenta de los omóplatos hasta la clavícula (35s)."
-    },
-    {
-      "id": "sc_v21_l3_14",
-      "category": "LOCATION",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "roleplay",
-        "indoor"
-      ],
-      "title": "Zona Privada · frente al tocador tenue",
-      "text": "En frente al tocador tenue, si quieres 'susurra su nombre antes de cada nueva zona' y atrae a tu pareja para recorre con besos abiertos y calientes en la cadera (45s)."
-    },
-    {
-      "id": "sc_v21_l3_15",
-      "category": "LOCATION",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "roleplay",
-        "indoor"
-      ],
-      "title": "Zona Privada · la pared del dormitorio",
-      "text": "En la pared del dormitorio, si quieres 'alterna roces de pluma con presión firme' y atrae a tu pareja para llena de besos intensos en el lóbulo de la oreja (45s)."
-    },
-    {
-      "id": "sc_v21_l3_16",
-      "category": "LOCATION",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "roleplay",
-        "indoor"
-      ],
-      "title": "Zona Privada · el borde de la cama",
-      "text": "En el borde de la cama, si quieres 'susurra su nombre antes de cada nueva zona' y atrae a tu pareja para traza caminos húmedos el aliento en la cintura (45s)."
-    },
-    {
-      "id": "sc_v21_l4_14",
-      "category": "LOCATION",
-      "tier": 4,
-      "durationSec": 55,
-      "tags": [
-        "restraint_light",
-        "clothing_dare",
-        "indoor"
-      ],
-      "title": "Escenario Audaz · frente al espejo",
-      "text": "En frente al espejo, adopta 'de rodillas frente a frente en la cama' con Sujeta ambas muñecas sobre su cabeza con una mano y explora el pecho y las costillas sin pausa (55s)."
-    },
-    {
-      "id": "sc_v21_l4_15",
-      "category": "LOCATION",
-      "tier": 4,
-      "durationSec": 55,
-      "tags": [
-        "restraint_light",
-        "clothing_dare",
-        "indoor"
-      ],
-      "title": "Escenario Audaz · el rincón del sofá",
-      "text": "En el rincón del sofá, adopta 'de pie, cerca de la pared, sin prisa' con Alza su mentón suavemente para que solo te mire y explora la línea de la cadera sin pausa (55s)."
-    },
-    {
-      "id": "sc_v21_f2_15",
-      "category": "FANTASY",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful",
-        "indoor"
-      ],
-      "title": "Guion Pícaro · un balcón frente al mar de noche",
-      "text": "Actúa registrarse en una suite de lujo con nombres falsos en la alfombra con velas: provoca la línea de la nuca con aliento fresco seguido al instante de besos húmedos y ardientes y mira quién se sonroja (35s)."
-    },
-    {
-      "id": "sc_v21_f2_16",
-      "category": "FANTASY",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful",
-        "indoor"
-      ],
-      "title": "Guion Pícaro · un club secreto de jazz",
-      "text": "Actúa registrarse en una suite de lujo con nombres falsos en junto a la cama a media luz: provoca la mejilla y mandíbula con dos reto divertido ligeros seguidos de besos largos y abiertos y mira quién se sonroja (35s)."
-    },
-    {
-      "id": "sc_v21_f2_17",
-      "category": "FANTASY",
-      "tier": 2,
-      "durationSec": 35,
-      "tags": [
-        "physical_light",
-        "playful",
-        "indoor"
-      ],
-      "title": "Guion Pícaro · un patio secreto bajo las estrellas",
-      "text": "Actúa registrarse en una suite de lujo con nombres falsos en el ventanal con lámpara cálida: provoca la clavícula exterior con caricias en el pelo atrayéndote más cerca y mira quién se sonroja (35s)."
-    },
-    {
-      "id": "sc_v21_f3_14",
-      "category": "FANTASY",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "roleplay",
-        "indoor"
-      ],
-      "title": "Fantasía Ardiente · el lóbulo de la oreja",
-      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos en el ventanal con lámpara cálida: quien manda disfruta llena de besos intensos en el lóbulo de la oreja bajo 'alterna roces de pluma con presión firme' (45s)."
-    },
-    {
-      "id": "sc_v21_f3_15",
-      "category": "FANTASY",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "roleplay",
-        "indoor"
-      ],
-      "title": "Fantasía Ardiente · la cintura",
-      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos en el reposabrazos del sofá: quien manda disfruta traza caminos húmedos el aliento en la cintura bajo 'susurra su nombre antes de cada nueva zona' (45s)."
-    },
-    {
-      "id": "sc_v21_f3_16",
-      "category": "FANTASY",
-      "tier": 3,
-      "durationSec": 45,
-      "tags": [
-        "bite_lick",
-        "roleplay",
-        "indoor"
-      ],
-      "title": "Fantasía Ardiente · el bajo vientre",
-      "text": "Sumérgete en registrarse en una suite de lujo con nombres falsos en el pie de la cama: quien manda disfruta beso suave suavemente en el bajo vientre bajo 'alterna roces de pluma con presión firme' (45s)."
-    },
-    {
-      "id": "sc_v21_f4_13",
-      "category": "FANTASY",
-      "tier": 4,
-      "durationSec": 55,
-      "tags": [
-        "restraint_light",
-        "clothing_dare",
-        "indoor"
-      ],
-      "title": "Fantasía Cumbre · el pecho y las costillas",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en el pie de la cama con Apóyala suavemente contra la pared por las caderas y una sola mano sin dejar de mirarla bajo dos botones de su camisa hacia el pecho y las costillas (55s)."
-    },
-    {
-      "id": "sc_v21_f4_14",
-      "category": "FANTASY",
-      "tier": 4,
-      "durationSec": 55,
-      "tags": [
-        "restraint_light",
-        "clothing_dare",
-        "indoor"
-      ],
-      "title": "Fantasía Cumbre · la línea de la cadera",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en la entrada en penumbra con Mantén sus manos sujetas detrás de la espalda y tus labios y dientes (sin manos) bajo un tirante o prenda exterior hacia la línea de la cadera (55s)."
-    },
-    {
-      "id": "sc_v21_f4_15",
-      "category": "FANTASY",
-      "tier": 4,
-      "durationSec": 55,
-      "tags": [
-        "restraint_light",
-        "clothing_dare",
-        "indoor"
-      ],
-      "title": "Fantasía Cumbre · el final de la columna",
-      "text": "Desbloquea registrarse en una suite de lujo con nombres falsos en junto al espejo del armario con Sujeta ambas muñecas sobre su cabeza con una mano y las yemas de los dedos ultra despacio bajo un accesorio más una capa hacia el final de la columna (55s)."
+      "text": "Elijan juntos una postura cómoda y compartan caricias y besos suaves durante el tiempo indicado. Mantengan las manos libres; cualquiera puede parar o pasar."
     }
   ]
 }

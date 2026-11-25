@@ -3,6 +3,7 @@ package com.velvet.couplesgame.ui.common;
 import android.app.Dialog;
 import android.view.LayoutInflater;
 import android.view.View;
+import android.widget.CheckBox;
 import android.widget.TextView;
 import android.widget.Toast;
 import androidx.fragment.app.Fragment;
@@ -37,6 +38,8 @@ public final class TaskPromptDialogHelper {
         View view = LayoutInflater.from(fragment.requireContext()).inflate(R.layout.dialog_board_task, null);
         TextView tvMeta = view.findViewById(R.id.tv_dialog_task_meta);
         TextView tvBody = view.findViewById(R.id.tv_dialog_task_text);
+        TextView tvSoftLimitWarning = view.findViewById(R.id.tv_dialog_soft_limit_warning);
+        CheckBox checkSoftLimitAck = view.findViewById(R.id.check_soft_limit_ack);
         TextView tvTimer = view.findViewById(R.id.tv_dialog_timer);
         MaterialButton btnTimer = view.findViewById(R.id.btn_dialog_timer);
         MaterialButton btnSkip = view.findViewById(R.id.btn_dialog_skip);
@@ -53,6 +56,8 @@ public final class TaskPromptDialogHelper {
                 .setCancelable(false)
                 .create();
         dialog.setOnDismissListener(d -> dareTimer.cancel());
+        checkSoftLimitAck.setOnCheckedChangeListener((button, checked) ->
+                btnApprove.setEnabled(checked));
 
         final TaskCard[] activeCard = {initialCard};
         String actorName = container.profileManager.getPlayerName(actingPlayerA);
@@ -60,6 +65,9 @@ public final class TaskPromptDialogHelper {
         Runnable bindCardUi = () -> {
             dareTimer.cancel();
             TaskCard c = activeCard[0];
+            SoftLimitPromptHelper.bind(
+                    container.consentFilter, c.tags, tvSoftLimitWarning, checkSoftLimitAck, btnApprove
+            );
             String baseMeta = TagDisplayMapper.formatCardMeta(
                     fragment.requireContext(), c.tier, c.type, c.isProcedural, c.isCustom
             );
@@ -129,7 +137,7 @@ public final class TaskPromptDialogHelper {
             HapticHelper.tick(v);
             if (callback != null) callback.onSkipped();
             container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
-                int cap = Math.min(activeCard[0].tier, container.entitlementManager.getSelectedMaxTier());
+                int cap = Math.min(activeCard[0].tier, container.getEffectiveMaxTier());
                 TaskCard replacement = container.taskEngine.drawNext(allCards, mutualMatches, cap, null, true);
                 if (!fragment.isAdded()) return;
                 fragment.requireActivity().runOnUiThread(() -> {

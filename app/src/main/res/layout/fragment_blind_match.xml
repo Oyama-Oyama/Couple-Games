@@ -62,6 +62,8 @@
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
                 android:background="@drawable/bg_card_velvet_glow"
+                android:contentDescription="@string/blind_match_card_accessibility"
+                android:focusable="true"
                 android:padding="26dp">
 
                 <LinearLayout
@@ -79,6 +81,20 @@
                         android:textColor="?attr/velvetAccent"
                         android:textSize="11sp"
                         android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/tv_swipe_soft_limit_warning"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginTop="12dp"
+                        android:accessibilityLiveRegion="polite"
+                        android:background="@drawable/bg_card_velvet"
+                        android:gravity="center"
+                        android:padding="10dp"
+                        android:text="@string/soft_limit_warning"
+                        android:textColor="?attr/velvetAccent"
+                        android:textSize="13sp"
+                        android:visibility="gone" />
 
                     <TextView
                         android:id="@+id/tv_swipe_text"

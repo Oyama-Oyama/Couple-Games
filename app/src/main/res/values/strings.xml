@@ -19,7 +19,7 @@
     <string name="onboarding_step1_desc">Personalize tonight with your names and pronouns — everything stays strictly on your phone.</string>
     <string name="onboarding_partner_1">Partner 1</string>
     <string name="onboarding_partner_2">Partner 2</string>
-    <string name="onboarding_step2_promise">• 100% Offline — no accounts, no cloud, zero tracking\n• Zero Ads — nothing interrupts your evening\n• Consent-First — any boundary set to Hard No is silently respected across every game</string>
+    <string name="onboarding_step2_promise" formatted="false">• 100% Offline — no accounts, no cloud, zero tracking\n• Zero Ads — nothing interrupts your evening\n• Consent-First — any boundary set to Hard No is silently respected across every game</string>
     <string name="onboarding_safeword_label">Your Gentle Safe Word (optional)</string>
     <string name="onboarding_back">Back</string>
     <string name="onboarding_continue">Continue</string>
@@ -141,6 +141,8 @@
     <string name="btn_partner_approved">Partner Approved ✓</string>
     <string name="btn_partner_redo">Step Back -1</string>
     <string name="board_rewards_title">Grand Finish Prizes</string>
+    <string name="board_prize_intro_title">Choose your finish-line prize</string>
+    <string name="board_prize_intro_body">Set an optional reward for the winner. You can edit it anytime from the Prize button.</string>
     <string name="board_reward_named_label">%1$s\'s Winning Prize</string>
     <string name="board_rewards_saved">Grand prizes updated</string>
     <string name="board_victory_title">♛ %1$s Claimed the Finale!</string>
@@ -163,8 +165,12 @@
     <string name="wheel_custom_seed_4">Pour cocktails</string>
     <string name="wheel_custom_max_hint">Up to 10 slices fit cleanly on the wheel</string>
     <string name="wheel_custom_count">%1$d custom slices ready — tap Spin!</string>
+    <string name="wheel_custom_edit_title">Edit wheel option</string>
+    <string name="wheel_custom_duplicate_hint">That option already exists</string>
+    <string name="wheel_custom_restore_hint">Saved wheel options were unreadable; starter options were restored.</string>
     <string name="wheel_desire_loaded">Loaded %1$d Mutual Desires onto the wheel!</string>
-    <string name="wheel_no_desire_fallback">Swipe a Desire Match round first — using Classic Mix for now.</string>
+    <string name="wheel_no_desire_fallback">No mutual matches yet. Complete a Desire Match round first; this wheel is paused.</string>
+    <string name="wheel_desire_loading">Checking your mutual matches…</string>
     <string name="wheel_ready_hint">Spin the velvet wheel and let chance choose your next move.</string>
     <string name="wheel_spinning">Spinning the velvet wheel...</string>
     <string name="wheel_landed_status">Fate chose: %1$s</string>
@@ -194,7 +200,7 @@
     <string name="draw_guessed_toast">Electric chemistry! +1 point</string>
     <string name="draw_penalty_badge">Sketch Dare</string>
     <string name="paywall_title">Velvet VIP Pass</string>
-    <string name="paywall_subtitle">Ad-free &amp; completely private. Unlock every lingering dare and candlelit theme.</string>
+    <string name="paywall_subtitle" formatted="false">Ad-free &amp; completely private. Unlock every lingering dare and candlelit theme.</string>
     <string name="paywall_benefits">• Unlock 12 VIP Modes (Intimacy Roulette, 5-Stage Heat-Up, Body Map, Desire Ladder, Prop Lab, Connect 4, Auction &amp; more)\n• Unlock Slow Burn &amp; After Midnight decks + all 9 sensual themes\n• Unlimited Velvet Spark surprise prompts across all 36 games\n• Works offline forever — zero tracking or interruptions</string>
     <string name="paywall_plan_lifetime">♛ Lifetime Unlock · Pay Once</string>
     <string name="paywall_plan_lifetime_desc">Own every deck &amp; future theme forever</string>
@@ -215,6 +221,19 @@
     <string name="settings_vip_free">Free Edition (11 Modes · 5 Mood Themes)</string>
     <string name="settings_section_privacy">Privacy &amp; Memories</string>
     <string name="settings_screen_shield">Block Screenshots &amp; Screen Recording</string>
+    <string name="settings_app_lock">Require device unlock</string>
+    <string name="settings_app_lock_desc">Use device biometrics or screen lock. Velvet locks as soon as you leave; screenshots and recent-app previews are also blocked. No biometric or device credentials are stored here.</string>
+    <string name="app_lock_auth_title">Unlock Velvet</string>
+    <string name="app_lock_auth_subtitle">Verify with your device to continue.</string>
+    <string name="app_lock_unlock">Unlock</string>
+    <string name="app_lock_exit">Exit app</string>
+    <string name="app_lock_use_device_credential">Use device screen lock</string>
+    <string name="app_lock_auth_unavailable">Set up device biometrics or a screen lock in system settings to enable app lock.</string>
+    <string name="app_lock_auth_failed">Authentication could not be completed. Try again.</string>
+    <string name="app_lock_state_save_failed">Could not save the app-lock setting. Please try again.</string>
+    <string name="app_lock_disable">Disable lock</string>
+    <string name="app_lock_disable_title">Disable app lock?</string>
+    <string name="app_lock_disable_message">Device authentication is no longer available. Disabling the app lock will let anyone with access to this device open Velvet.</string>
     <string name="settings_privacy_title">Our Privacy Promise</string>
     <string name="settings_privacy_body">Velvet Date Night contains zero ads, zero trackers, and no cloud account. Your names, comfort boundaries, custom cards, blind matches, and history never leave this device.</string>
     <string name="settings_clear_matches">Reset Matches</string>
@@ -284,6 +303,11 @@
     <string name="btn_scratch_next">Scratch Next Foil Card</string>
     <string name="roleplay_browser_subtitle">Pick a 3-act midnight story. Swap who leads anytime during the scene.</string>
     <string name="roleplay_acts_count">%1$d Acts</string>
+    <string name="roleplay_act_3">Act 3</string>
+    <string name="roleplay_act_2">Act 2</string>
+    <string name="roleplay_act_1">Act 1</string>
+    <string name="roleplay_role_partner">Partner</string>
+    <string name="roleplay_role_lead">Lead</string>
     <string name="roleplay_cast_fmt">%1$s plays %2$s\n%3$s plays %4$s</string>
     <string name="roleplay_whisper_label">Whispered Line Prompt</string>
     <string name="roleplay_btn_next_act">Continue to Next Act →</string>
@@ -413,6 +437,18 @@
     <string name="props_checklist_hint">Tap the props you have within reach tonight — challenges adapt instantly:</string>
     <string name="prop_ice">🧊 Ice</string>
     <string name="prop_blindfold">🎀 Blindfold</string>
+    <string name="props_custom_hint">Your item (e.g. silk scarf)</string>
+    <string name="props_custom_add">Add item</string>
+    <string name="props_custom_required">Enter an item first</string>
+    <string name="props_custom_duplicate">This item is already in your list</string>
+    <string name="props_custom_max">You can save up to 8 custom items</string>
+    <string name="props_custom_restore_hint">Saved custom items could not be restored and were cleared.</string>
+    <string name="props_custom_prompt_template">If you both agree, use %1$s gently on a comfortable area over clothing. Avoid heat, sharp edges, face and broken skin; stop at any discomfort.</string>
+    <string-array name="props_custom_prompt_templates">
+        <item>With both partners’ agreement, use %1$s only if it is clean, body-safe, and comfortable. Let the receiver guide contact over clothing; otherwise explore it without contact. Stop if either feels unsure.</item>
+        <item>Take turns choosing one gentle sensory cue with %1$s—touch over clothing, sound, or sight. Check that it is clean and body-safe, ask before contact, and stop at any discomfort.</item>
+        <item>Build a playful 30-second moment around %1$s: the receiver may choose to feel it over clothing, hear or see it, or pass. Switch roles; avoid heat, sharp edges, face, and broken skin.</item>
+    </string-array>
     <string name="prop_oil">💧 Oil</string>
     <string name="prop_tie">⛓ Tie/Silk</string>
     <string name="prop_honey">🍯 Honey</string>
@@ -459,13 +495,13 @@
     <string name="mode_bucket_list">Our Bucket List</string>
     <string name="mode_bucket_list_desc">Draw a wish, mark if you both want to try it, and collect your shared dreams.</string>
     <string name="mode_riddle_me">Riddle Me</string>
-    <string name="mode_riddle_me_desc">A playful riddle with a sweet twist. Guess together and reveal the answer.</string>
+    <string name="mode_riddle_me_desc">Solve a short riddle in private, reveal both guesses, then check the answer.</string>
     <string name="mode_hot_seat">Hot Seat</string>
     <string name="mode_hot_seat_desc">Three rapid-fire questions against the clock. Keep your answers honest and quick.</string>
     <string name="mode_secret_mission">Secret Mission</string>
     <string name="mode_secret_mission_desc">Draw a private mission just for the two of you. Complete it before drawing again.</string>
     <string name="mode_ldr_sync">One Shared Countdown</string>
-    <string name="mode_ldr_sync_desc">One countdown you both watch — the silence between breaths grows shorter. Stop counting whenever you like; the moment is already yours.</string>
+    <string name="mode_ldr_sync_desc">Start one shared countdown together on this device. Either of you can stop it at any time.</string>
     <string name="mode_scenario_choice">Scenario Choice</string>
     <string name="mode_scenario_choice_desc">Face a what-if situation and choose what you would really do. Then compare.</string>
     <string name="mode_memory_lane">Memory Lane</string>
@@ -491,6 +527,76 @@
     <string name="social_result">Result</string>
     <string name="social_start">Start</string>
     <string name="social_hint">Take your time and be honest.</string>
+    <string name="social_answer_privately">Answer privately</string>
+    <string name="social_choose_privately">Choose privately</string>
+    <string name="social_answer_hint">Write your answer...</string>
+    <string name="social_answer_required">Please write an answer first.</string>
+    <string name="social_save_answer">Save answer</string>
+    <string name="social_turn_a">Partner 1 — answer privately</string>
+    <string name="social_turn_b">Partner 2 — answer privately</string>
+    <string name="social_revealed_answers">%1$s: %2$s\n\n%3$s: %4$s</string>
+    <string name="social_add_wish">Add to shared wishes</string>
+    <string name="social_view_wishlist">View shared wish list</string>
+    <string name="social_add_wish_title">Save this shared wish</string>
+    <string name="social_save_wish">Save wish</string>
+    <string name="social_wish_required">Please add a wish first.</string>
+    <string name="social_wish_too_long">Keep the wish under %1$d characters.</string>
+    <string name="social_wish_saved">Added to your shared wish list.</string>
+    <string name="social_wish_exists">That wish is already on your list.</string>
+    <string name="social_wishlist_title">Your shared wishes</string>
+    <string name="social_wishlist_empty">Your list is empty. Add a wish you would love to share.</string>
+    <string name="social_wishlist_full">Your shared wish list is full.</string>
+    <string name="social_remove_wish_prompt">Remove “%1$s” from your shared list?</string>
+    <string name="social_remove_wish">Remove wish</string>
+    <string name="social_sync_start">Start together</string>
+    <string name="social_sync_stop">Stop together</string>
+    <string name="social_spin_forfeit">Spin for a challenge</string>
+    <string name="social_riddle_solution">Answer: %1$s</string>
+    <string-array name="social_most_likely_options">
+        <item>Me</item>
+        <item>My partner</item>
+        <item>Both of us</item>
+        <item>Neither</item>
+    </string-array>
+    <string-array name="social_love_language_options">
+        <item>Words of affirmation</item>
+        <item>Quality time</item>
+        <item>Acts of service</item>
+        <item>Thoughtful gifts</item>
+        <item>Affectionate touch</item>
+    </string-array>
+    <string-array name="social_most_likely_prompts">
+        <item>Who is more likely to suggest a spontaneous date?</item>
+        <item>Who remembers the little details from a conversation?</item>
+        <item>Who is more likely to start a kiss?</item>
+        <item>Who turns an ordinary evening into something special?</item>
+        <item>Who is more likely to stay up late talking together?</item>
+        <item>Who plans a small surprise just because?</item>
+    </string-array>
+    <string-array name="social_love_language_prompts">
+        <item>Which gesture makes you feel most loved?</item>
+        <item>After a tiring day, what helps you feel cared for?</item>
+        <item>Which kind of affection do you notice first?</item>
+        <item>What makes you feel appreciated without needing to ask?</item>
+        <item>Which shared moment makes you feel closest?</item>
+        <item>What gesture would you miss most while apart?</item>
+    </string-array>
+    <string-array name="social_riddle_prompts">
+        <item>What has keys but cannot open any locks?</item>
+        <item>What gets wetter the more it dries?</item>
+        <item>What has a neck but no head?</item>
+        <item>What belongs to you, but other people use more than you do?</item>
+        <item>What can travel around the world while staying in one corner?</item>
+        <item>What has one eye but cannot see?</item>
+    </string-array>
+    <string-array name="social_riddle_answers">
+        <item>A piano</item>
+        <item>A towel</item>
+        <item>A bottle</item>
+        <item>Your name</item>
+        <item>A postage stamp</item>
+        <item>A needle</item>
+    </string-array>
     <string name="rate_us_title">Enjoying your intimate moments?</string>
     <string name="rate_us_subtitle">If Velvet adds a spark to your nights, a quick review helps other couples find it.</string>
     <string name="rate_us_button">Rate us on Google Play</string>
@@ -654,7 +760,14 @@
     <string name="home_together_since_fmt">Since %1$s</string>
     <string name="home_mood_checkin_subtitle">A private corner for the two of you - only you can read it.</string>
     <string name="mood_gratitude_a_named">One thing I love about %1$s</string>
-    <string name="mood_gratitude_b_named">One thing I love about us today</string>
+    <string name="mood_gratitude_b_named">One thing I love about %1$s today</string>
+    <string name="soft_limit_warning">This task touches a topic one of you marked as a soft limit. Pause and check in; either of you can pass.</string>
+    <string name="soft_limit_ack">We both agree to continue with this task.</string>
+    <string name="body_map_accessibility">Interactive body map. Select a highlighted point to see its prompt.</string>
+    <string name="color_picker_accessibility">Color picker. Drag to choose a color.</string>
+    <string name="drawing_canvas_accessibility">Drawing canvas. Draw with your finger; use the buttons below to change or clear your drawing.</string>
+    <string name="scratch_card_accessibility">Scratch card. Swipe over the card to reveal its prompt, or use the reveal button.</string>
+    <string name="blind_match_card_accessibility">Swipe right to like or left to pass. Use the buttons below as an alternative.</string>
     <string name="mode_date_night">Date Night</string>
     <string name="datenight_title">Tonight\'s Date Night</string>
     <string name="datenight_subtitle">Four quiet stages we walk through together, at whatever pace you want.</string>
@@ -671,9 +784,17 @@
     <string name="datenight_skip">Skip this one</string>
     <string name="datenight_pause_safe">Safe word ready — pause or stop whenever you like.</string>
     <string name="datenight_finish">That\'s the night… we can leave it here, and come back to it whenever you like.</string>
+    <string name="datenight_aftercare_button">Close gently</string>
+    <string name="datenight_aftercare_leave">Finish this game</string>
+    <string name="datenight_aftercare_stay">Keep playing</string>
+    <string name="datenight_aftercare_title">A softer ending</string>
+    <string name="datenight_aftercare_body">Take a slow breath together. Ask how you both feel; a hug, a glass of water, or stopping here are all good choices. Anything more is only by mutual choice.</string>
+    <string name="datenight_aftercare_note">Leave a private note</string>
     <string name="agegate_title">For Adults Only</string>
     <string name="agegate_body">This is an intimate app for two adults. Please make sure you are 18 or older before you continue.</string>
     <string name="agegate_confirm">I am 18 or older, continue</string>
+    <string name="agegate_save_failed">We couldn\'t save that choice. Please try again.</string>
+    <string name="agegate_adult_content_unavailable">Adult content stays unavailable until age confirmation is completed.</string>
     <string name="agegate_decline">I am under 18</string>
     <string name="agegate_declined_notice">No problem — the app stays gentle and only keeps its basic games for you.</string>
     <string name="agegate_decline_note">Everything you enter still stays on this device — no account, no upload, nothing leaves here.</string>
@@ -686,5 +807,33 @@
     <string name="tonight_note_empty_today">Tonight hasn\'t left a word yet…</string>
     <string name="tonight_note_history_title">Nights We Kept</string>
     <string name="tonight_note_saved_toast">Kept on this device — only you two.</string>
+    <string name="tonight_note_save_failed">Couldn\'t save this note. Please try again.</string>
     <string name="tonight_note_close_hint">Close</string>
+    <string name="reward_wallet_open">My vouchers</string>
+    <string name="reward_wallet_title">Saved rewards</string>
+    <string name="reward_wallet_empty">No available vouchers. Win a contract at the Desire Auction and save it here. Redeemed vouchers stay in history.</string>
+    <string name="reward_wallet_history">Redeemed history</string>
+    <string name="reward_wallet_rules_loading">Your consent settings are still loading. Please try again in a moment.</string>
+    <string name="intimacy_preferences_open">Our play style</string>
+    <string name="intimacy_preferences_title">What feels like you two?</string>
+    <string name="intimacy_preferences_body">Choose together. These choices only shape game suggestions, stay on this device, and never override your boundaries or tonight’s intensity limit.</string>
+    <string name="intimacy_style_romantic">Romantic — heartfelt talk and affection</string>
+    <string name="intimacy_style_playful">Playful — laughter and light games</string>
+    <string name="intimacy_style_sensory">Sensory — gentle closeness and the senses</string>
+    <string name="intimacy_style_imaginative">Imaginative — scenarios and roleplay</string>
+    <string name="intimacy_preferences_save">Save our style</string>
+    <string name="intimacy_preferences_saved">Preferences saved on this device.</string>
+    <string name="intimacy_preferences_save_failed">Could not save these preferences. Please try again.</string>
+    <string name="intimacy_recommendations_button">For our style</string>
+    <string name="intimacy_recommendations_empty">No matching modes under these filters. Try another game filter or adjust your shared preferences.</string>
+    <string name="reward_wallet_item_fmt">%1$s · %2$s</string>
+    <string name="reward_wallet_detail_fmt">Won by %1$s\n\n%2$s\n\n%3$s\n\nRedeem only when both partners agree.</string>
+    <string name="reward_wallet_save">Save as voucher</string>
+    <string name="reward_wallet_saved">Saved</string>
+    <string name="reward_wallet_saved_toast">Saved to your local voucher wallet.</string>
+    <string name="reward_wallet_save_failed">Could not save this voucher on this device. Please try again.</string>
+    <string name="reward_wallet_redeem">Mark redeemed</string>
+    <string name="reward_wallet_redeemed">Voucher marked as redeemed.</string>
+    <string name="reward_wallet_redeem_failed">This voucher could not be redeemed. It may already be used.</string>
+    <string name="reward_wallet_blocked">This voucher is no longer available under your current limits or boundaries.</string>
 </resources>

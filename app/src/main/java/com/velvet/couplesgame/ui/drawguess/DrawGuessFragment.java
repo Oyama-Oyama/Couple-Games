@@ -94,7 +94,7 @@ public class DrawGuessFragment extends Fragment {
             if (!isAdded()) return;
             requireActivity().runOnUiThread(() -> {
                 if (binding == null) return;
-                session.loadWords(words, container.consentFilter, container.entitlementManager.getSelectedMaxTier());
+                session.loadWords(words, container.consentFilter, container.getEffectiveMaxTier());
                 updateHud();
             });
         });
@@ -231,7 +231,7 @@ public class DrawGuessFragment extends Fragment {
             session.markRoundMissed();
             resetToIdle();
             int rawPenaltyTier = word != null ? Math.min(4, Math.max(2, word.tier)) : 2;
-            int cappedPenaltyTier = Math.min(rawPenaltyTier, container.entitlementManager.getSelectedMaxTier());
+            int cappedPenaltyTier = Math.min(rawPenaltyTier, container.getEffectiveMaxTier());
             triggerMissPenaltyDare(actingDrawerA, cappedPenaltyTier);
         }
 

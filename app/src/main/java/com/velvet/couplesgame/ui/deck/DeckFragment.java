@@ -67,7 +67,7 @@ public class DeckFragment extends Fragment {
             String prompt = binding.etCustomPrompt.getText().toString().trim();
             if (TextUtils.isEmpty(prompt)) return;
             HapticHelper.tick(v);
-            int activeTier = Math.max(1, container.entitlementManager.getSelectedMaxTier());
+            int activeTier = Math.max(1, container.getEffectiveMaxTier());
             container.contentRepository.addCustomTask(prompt, activeTier, TaskType.DARE);
             binding.etCustomPrompt.setText("");
             Toast.makeText(requireContext(), R.string.msg_card_added, Toast.LENGTH_SHORT).show();

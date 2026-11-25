@@ -438,8 +438,62 @@
         "roleplay",
         "eye_contact"
       ],
-      "title": "One rule: the winner gets the evening",
-      "detail": "Play a quick game. The winner plans the entire evening without asking."
+      "title": "Winner suggests; both decide",
+      "detail": "Play a quick game. The winner suggests a plan, then both can adjust it or pass before choosing it together."
+    },
+    {
+      "id": "dp_dining_07",
+      "category": "dining",
+      "tier": 2,
+      "durationMin": 55,
+      "tags": ["indoor", "playful", "deep_talk"],
+      "title": "A two-course taste test",
+      "detail": "Choose two small treats you both enjoy. Take turns offering a bite only if welcome, then guess which memory the flavor brings back."
+    },
+    {
+      "id": "dp_outdoor_07",
+      "category": "outdoor",
+      "tier": 1,
+      "durationMin": 45,
+      "tags": ["public_space", "deep_talk"],
+      "title": "The golden-hour wander",
+      "detail": "Take an easy walk together. At each turn, one person chooses the direction; pause somewhere comfortable to share one thing you are looking forward to."
+    },
+    {
+      "id": "dp_indoor_07",
+      "category": "indoor",
+      "tier": 2,
+      "durationMin": 30,
+      "tags": ["indoor", "physical_light", "playful"],
+      "title": "Two-song slow dance",
+      "detail": "Each choose a song. If you both feel like it, dance close for one; use the other to set a playful mood for the next part of your evening."
+    },
+    {
+      "id": "dp_culture_07",
+      "category": "culture",
+      "tier": 1,
+      "durationMin": 40,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "Take turns as curator",
+      "detail": "Each person chooses a song, photo, or story that says something about them. Share why it matters, then ask one curious, kind question."
+    },
+    {
+      "id": "dp_getaway_07",
+      "category": "getaway",
+      "tier": 1,
+      "durationMin": 35,
+      "tags": ["deep_talk", "playful"],
+      "title": "A little escape, planned together",
+      "detail": "Dream up a half-day nearby getaway within a budget you both choose. Pick one place to visit, one easy treat, and one thing you can happily skip."
+    },
+    {
+      "id": "dp_ritual_07",
+      "category": "ritual",
+      "tier": 1,
+      "durationMin": 20,
+      "tags": ["indoor", "deep_talk", "eye_contact"],
+      "title": "Three small appreciations",
+      "detail": "Take turns naming three specific little things you appreciated about each other today. Finish by asking what would feel comforting right now."
     }
   ]
 }

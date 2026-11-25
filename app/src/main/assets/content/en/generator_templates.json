@@ -74,7 +74,7 @@
         "timed"
       ],
       "durationSec": 60,
-      "pattern": "Have your partner close their eyes and stay completely still while you {action_gentle} their {safe_zone} for {duration} seconds—no rushing.  Only us here — say the word and we stop."
+      "pattern": "If you both agree beforehand, Have your partner close their eyes and stay completely still while you {action_gentle} their {safe_zone} for {duration} seconds—no rushing.  Only us here — say the word and we stop."
     },
     {
       "id": "gen_bold_02",
@@ -111,7 +111,7 @@
         "indoor"
       ],
       "durationSec": 30,
-      "pattern": "playful dare Round: Hold your partner's hands in view and {action_bold} their {intimate_zone} for {duration} seconds.  The rest can wait; stop whenever you want."
+      "pattern": "If you both agree beforehand, try a playful dare: keep your partner's hands gently together and {action_bold} their {intimate_zone} for {duration} seconds. The rest can wait; stop whenever you want."
     },
     {
       "id": "gen_hot_03",
@@ -122,7 +122,7 @@
         "indoor"
       ],
       "durationSec": 0,
-      "pattern": "Bold Forfeit: {playful dare_twist}—or let your partner {action_bold} your {intimate_zone} for 30 seconds.  Only us here — say the word and we stop."
+      "pattern": "Bold Forfeit: {playful_dare_twist} - or ask your partner to place a slow kiss on your {intimate_zone} for 30 seconds. Only us here; say the word and we stop."
     },
     {
       "id": "gen_hot_04",
@@ -135,7 +135,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "With your partner's eyes shut, alternate slow warm breaths and {action_bold} along their {intimate_zone} for {duration} seconds.  The rest can wait; stop whenever you want."
+      "pattern": "If you both agree beforehand, ask your partner to close their eyes, then alternate warm breaths with slow kisses along their {intimate_zone} for {duration} seconds. The rest can wait; stop whenever you want."
     },
     {
       "id": "gen_explore_01",
@@ -159,7 +159,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Alternate hot breath and {action_bold} from their {intimate_zone} down to their {explore_end} for {duration} seconds—freeze for 3 seconds every time they shiver.  The rest can wait; stop whenever you want."
+      "pattern": "Alternate warm breaths with slow kisses as you move from their {intimate_zone} to their {explore_end} for {duration} seconds; pause for 3 seconds whenever they shiver. The rest can wait; stop whenever you want."
     },
     {
       "id": "gen_explore_03",
@@ -172,7 +172,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "{restraint_pose} and forbid them from kissing back while you {action_bold} their {intimate_zone} and {explore_end} for {duration} seconds.  Only us here — say the word and we stop."
+      "pattern": "If you both agree beforehand, try a playful round where neither of you has to return a kiss: gently explore their {intimate_zone} and {explore_end} for up to {duration}s. Either of you can change your mind, pause, or stop at any time."
     },
     {
       "id": "gen_explore_04",
@@ -198,7 +198,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "Blindfolded body hunt: surprise your partner with {sensory_item} along their {explore_start} and {explore_end}, immediately chasing every chill with hot kisses ({duration}s).  Only us here — say the word and we stop."
+      "pattern": "If you both agree beforehand, Blindfolded body hunt: surprise your partner with {sensory_item} along their {explore_start} and {explore_end}, immediately chasing every chill with hot kisses ({duration}s).  Only us here — say the word and we stop."
     },
     {
       "id": "gen_explore_06",
@@ -210,7 +210,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Guide your partner into {intimate_pose}, grip their hips close, and {action_bold} their {intimate_zone} for {duration} seconds while whispering what comes next.  The rest can wait; stop whenever you want."
+      "pattern": "If you both agree beforehand, guide your partner into \"{intimate_pose}\", stay close, and {action_bold} their {intimate_zone} for {duration} seconds while whispering what comes next. The rest can wait; stop whenever you want."
     },
     {
       "id": "gen_explore_07",
@@ -236,7 +236,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Edge-tease challenge: {action_bold} along their {intimate_zone} and {explore_end} for {duration} seconds—if they grab your hands or lose control, they owe: {playful dare_twist}.  The rest can wait; stop whenever you want."
+      "pattern": "If your partner wants to, explore their {intimate_zone} and {explore_end} with a touch you both enjoy for up to {duration}s. Choose any playful extra together, never as a penalty; either of you can pause or stop."
     },
     {
       "id": "gen_spark_03",
@@ -328,7 +328,7 @@
         "indoor"
       ],
       "durationSec": 40,
-      "pattern": "Have your partner close their eyes at {room_spot} for {duration} seconds while you surprise their {safe_zone} with {touch_contrast}."
+      "pattern": "If you both agree beforehand, Have your partner close their eyes at {room_spot} for {duration} seconds while you surprise their {safe_zone} with {touch_contrast}."
     },
     {
       "id": "gen_playful_06",
@@ -411,7 +411,7 @@
         "indoor"
       ],
       "durationSec": 45,
-      "pattern": "Guide your partner into \"{intimate_pose}\" and {action_bold} their {intimate_zone} for {duration} seconds while whispering {whisper_topic}.  Only us here — say the word and we stop."
+      "pattern": "Guide your partner into \"{intimate_pose}\" and {action_bold} their {intimate_zone} for {duration} seconds while whispering {whisper_topic}. Only us here; say the word and we stop."
     },
     {
       "id": "gen_flirty_06",
@@ -437,7 +437,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "Blindfold your partner at {room_spot}: glide {sensory_item} along their {intimate_zone} and {explore_end} for {duration} seconds.  Only us here — say the word and we stop."
+      "pattern": "If you both agree beforehand, Blindfold your partner at {room_spot}: glide {sensory_item} along their {intimate_zone} and {explore_end} for {duration} seconds.  Only us here — say the word and we stop."
     },
     {
       "id": "gen_flirty_08",
@@ -461,7 +461,7 @@
         "indoor"
       ],
       "durationSec": 40,
-      "pattern": "Lock eyes without blinking: {action_bold} your partner's {intimate_zone} for {duration} seconds — if they look away first, penalty: {playful dare_twist}.  Only us here — say the word and we stop."
+      "pattern": "Lock eyes if you both want to: {action_bold} your partner's {intimate_zone} for {duration} seconds. If either of you looks away, choose a playful forfeit together: {playful_dare_twist}. Either of you can stop at any time."
     },
     {
       "id": "gen_explore_09",
@@ -474,7 +474,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "At {room_spot}, {restraint_pose} and alternate {touch_contrast} across their {explore_start} and {explore_end} for {duration} seconds.  The rest can wait; stop whenever you want."
+      "pattern": "If you both agree beforehand, At {room_spot}, {restraint_pose} and alternate {touch_contrast} across their {explore_start} and {explore_end} for {duration} seconds.  The rest can wait; stop whenever you want."
     },
     {
       "id": "gen_explore_10",
@@ -487,7 +487,7 @@
         "indoor"
       ],
       "durationSec": 50,
-      "pattern": "Remove or slide aside {garment_piece} with {tease_tool}, guide them into \"{intimate_pose}\", and {action_bold} their {explore_end} for {duration}s.  Only us here — say the word and we stop."
+      "pattern": "If you both agree beforehand, move {garment_piece} aside with {tease_tool}, guide your partner into \"{intimate_pose}\", and {action_bold} their {explore_end} for {duration}s. Only us here; say the word and we stop."
     },
     {
       "id": "gen_explore_11",
@@ -500,7 +500,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "Sensory overload ({duration}s): blindfold your partner, tease {explore_start} to {explore_end} with {sensory_item}, then immediately {action_bold} while {tempo_rule}.  The rest can wait; stop whenever you want."
+      "pattern": "If you both agree beforehand, try a sensory round ({duration}s): blindfold your partner, glide {sensory_item} from {explore_start} to {explore_end}, then {action_bold} their {explore_end} gently while following {tempo_rule}. The rest can wait; stop whenever you want."
     },
     {
       "id": "gen_explore_12",
@@ -511,7 +511,7 @@
         "restraint_light"
       ],
       "durationSec": 0,
-      "pattern": "Deepest midnight confession: {secret_question} — then surrender for {duration} seconds while your partner executes {playful dare_twist}.  Only us here — say the word and we stop."
+      "pattern": "If you both agree beforehand, Deepest midnight confession: {secret_question} — then surrender for {duration} seconds while your partner executes {playful_dare_twist}.  Only us here — say the word and we stop."
     },
     {
       "id": "gen_explore_13",
@@ -524,7 +524,7 @@
         "indoor"
       ],
       "durationSec": 60,
-      "pattern": "Full dominance round at {room_spot}: {restraint_pose}, whisper {whisper_topic}, and explore {intimate_zone} to {explore_end} ({duration}s) — break silence and owe: {playful dare_twist}.  The rest can wait; stop whenever you want."
+      "pattern": "If you both agree beforehand, take turns leading at {room_spot}. Share {whisper_topic}, then explore from {intimate_zone} toward {explore_end} for up to {duration}s. Choose any playful extra together; either of you can pause or stop."
     },
     {
       "id": "gen_v2_t1_tr1",
@@ -712,14 +712,10 @@
       "letting the eye contact say what words hold back"
     ],
     "action_bold": [
-      "soft kiss",
-      "slowly warming",
-      "leave unhurried, lingering kisses across",
-      "tease with alternating lips and fingertips over",
-      "resting soft, unhurried kisses near",
-      "trace wet soft, lingering kisss along",
-      "press lightly, then soothe with a kiss",
-      "tracing a slow line of warmth along"
+      "kiss",
+      "caress",
+      "touch",
+      "stroke"
     ],
     "intimate_zone": [
       "earlobe",
@@ -754,7 +750,7 @@
       "sensitive collarbone"
     ],
     "restraint_pose": [
-      "a given name with the distance closing between us"
+      "a slow, deliberate step closer"
     ],
     "garment_piece": [
       "a shoulder strap or outer layer",
@@ -830,7 +826,7 @@
       "What dirty whisper or praise makes your pulse jump immediately?",
       "Which position or angle with me lingers in your mind the longest?"
     ],
-    "playful dare_twist": [
+    "playful_dare_twist": [
       "tell me the thought you keep saving for last",
       "hold my gaze a beat longer than feels comfortable",
       "whisper one thing only you know about us",
@@ -888,7 +884,7 @@
         ],
         "category": "DARE",
         "title": "Midnight Control",
-        "pattern": "{restraint_pose}, then {action_bold} their {intimate_zone} and {explore_end} for {duration}s.  The rest can wait; stop whenever you want."
+        "pattern": "If you both agree beforehand, {restraint_pose}, then {action_bold} their {intimate_zone} and {explore_end} for {duration}s.  The rest can wait; stop whenever you want."
       },
       {
         "id": "ms_l1",
@@ -949,7 +945,7 @@
         ],
         "category": "FANTASY",
         "title": "Blindfold Hunt",
-        "pattern": "Blindfold your partner at {room_spot}: alternate {sensory_item} and warm kisses on {explore_start} & {explore_end} ({duration}s).  Only us here — say the word and we stop."
+        "pattern": "If you both agree beforehand, Blindfold your partner at {room_spot}: alternate {sensory_item} and warm kisses on {explore_start} & {explore_end} ({duration}s).  Only us here — say the word and we stop."
       },
       {
         "id": "ms_f3",
@@ -962,7 +958,7 @@
         ],
         "category": "FANTASY",
         "title": "Sovereign Fantasy",
-        "pattern": "Guide them into \"{intimate_pose}\", shift {garment_piece} with {tease_tool}, and {action_bold} their {explore_end} ({duration}s).  The rest can wait; stop whenever you want."
+        "pattern": "If you both agree beforehand, Guide them into \"{intimate_pose}\", shift {garment_piece} with {tease_tool}, and {action_bold} their {explore_end} ({duration}s).  The rest can wait; stop whenever you want."
       }
     ],
     "bomb": [
@@ -1019,7 +1015,7 @@
           "restraint_light",
           "bite_lick"
         ],
-        "pattern": "{action_bold} their {explore_end} for 3 seconds — pass before BOOM!  Only us here — say the word and we stop."
+        "pattern": "If you both agree beforehand, {action_bold} their {explore_end} for 3 seconds — pass before BOOM!  Only us here — say the word and we stop."
       },
       {
         "id": "mb_v2_1",
@@ -1103,7 +1099,7 @@
         "tags": [
           "restraint_light"
         ],
-        "pattern": "Zero flinching! Tease their {intimate_zone} with {touch_contrast} until the pulse completes!  The rest can wait; stop whenever you want."
+        "pattern": "If you both agree beforehand, Zero flinching! Tease their {intimate_zone} with {touch_contrast} until the pulse completes!  The rest can wait; stop whenever you want."
       },
       {
         "id": "mh_v2_1",
@@ -1177,7 +1173,7 @@
         "tags": [
           "restraint_light"
         ],
-        "pattern": "{restraint_pose} + {duration}s {action_bold} on {intimate_zone}  Only us here — say the word and we stop."
+        "pattern": "If you both agree beforehand, {restraint_pose} + {duration}s {action_bold} on {intimate_zone}  Only us here — say the word and we stop."
       }
     ],
     "auction": [
@@ -1230,7 +1226,7 @@
           "bite_lick"
         ],
         "title": "Midnight Sovereign Deed",
-        "pattern": "{restraint_pose}: winner explores {intimate_zone} to {explore_end} ({duration}s) — break silence and owe: {playful dare_twist}.  The rest can wait; stop whenever you want."
+        "pattern": "If you both agree beforehand, take turns leading at {room_spot}. Share {whisper_topic}, then explore from {intimate_zone} toward {explore_end} for up to {duration}s. Choose any playful extra together; either of you can pause or stop."
       }
     ],
     "desire_match": [
@@ -1283,7 +1279,7 @@
           "physical_light",
           "indoor"
         ],
-        "pattern": "Blindfolded sensory session ({duration}s): explore {explore_start} to {explore_end} with {sensory_item} and hot kisses.  Only us here — say the word and we stop."
+        "pattern": "If you both agree beforehand, Blindfolded sensory session ({duration}s): explore {explore_start} to {explore_end} with {sensory_item} and hot kisses.  Only us here — say the word and we stop."
       },
       {
         "id": "md_6",
@@ -1294,7 +1290,7 @@
           "clothing_dare",
           "indoor"
         ],
-        "pattern": "Try \"{intimate_pose}\": slowly shift {garment_piece} with {tease_tool} and explore {explore_end} for {duration}s.  The rest can wait; stop whenever you want."
+        "pattern": "If you both agree beforehand, Try \"{intimate_pose}\": slowly shift {garment_piece} with {tease_tool} and explore {explore_end} for {duration}s.  The rest can wait; stop whenever you want."
       }
     ],
     "props": [
@@ -1319,7 +1315,7 @@
           "indoor"
         ],
         "category": "blindfold",
-        "pattern": "Blindfold your partner at {room_spot}: surprise their {intimate_zone} and {explore_end} with {touch_contrast} ({duration}s) while {tempo_rule}.  The rest can wait; stop whenever you want."
+        "pattern": "If you both agree beforehand, Blindfold your partner at {room_spot}: surprise their {intimate_zone} and {explore_end} with {touch_contrast} ({duration}s) while {tempo_rule}.  The rest can wait; stop whenever you want."
       },
       {
         "id": "mp_oil",
@@ -1341,7 +1337,7 @@
           "indoor"
         ],
         "category": "tie",
-        "pattern": "Use a silk tie or scarf softly: {restraint_pose}, then {action_bold} their {intimate_zone} and {explore_end} ({duration}s).  Only us here — say the word and we stop."
+        "pattern": "If you both agree beforehand, Use a silk tie or scarf softly: {restraint_pose}, then {action_bold} their {intimate_zone} and {explore_end} ({duration}s).  Only us here — say the word and we stop."
       },
       {
         "id": "mp_honey",
@@ -1397,7 +1393,7 @@
           "indoor"
         ],
         "category": "blindfold",
-        "pattern": "\"No peeking…\" Blindfolded at {room_spot}, feel me {action_gentle} your {safe_zone} while whispering {whisper_topic} ({duration}s)."
+        "pattern": "If you both agree beforehand, \"No peeking…\" Blindfolded at {room_spot}, feel me {action_gentle} your {safe_zone} while whispering {whisper_topic} ({duration}s)."
       },
       {
         "id": "mp_v2_oil_t1",
@@ -1504,7 +1500,7 @@
           "restraint_light"
         ],
         "title": "{room_spot}",
-        "pattern": "At {room_spot}, {restraint_pose} and tease {intimate_zone} ({duration}s).  Only us here — say the word and we stop."
+        "pattern": "If you both agree beforehand, At {room_spot}, {restraint_pose} and tease {intimate_zone} ({duration}s).  Only us here — say the word and we stop."
       },
       {
         "id": "mc_6",
@@ -1515,7 +1511,7 @@
           "restraint_light"
         ],
         "title": "⚡ {explore_end}",
-        "pattern": "Guide them into \"{intimate_pose}\" and {action_bold} {explore_end} ({duration}s).  The rest can wait; stop whenever you want."
+        "pattern": "If you both agree beforehand, Guide them into \"{intimate_pose}\" and {action_bold} {explore_end} ({duration}s).  The rest can wait; stop whenever you want."
       }
     ],
     "ladder": [
@@ -1561,7 +1557,7 @@
           "bite_lick",
           "deep_talk"
         ],
-        "pattern": "{restraint_pose} and {action_bold} their {intimate_zone} & {explore_end} nonstop ({duration}s)!  The rest can wait; stop whenever you want.",
+        "pattern": "If you both agree beforehand, {restraint_pose} and {action_bold} their {intimate_zone} & {explore_end} at a pace you both enjoy ({duration}s)!  The rest can wait; stop whenever you want.",
         "secondaryPattern": "{secret_question}"
       }
     ],
@@ -1640,7 +1636,7 @@
           "restraint_light",
           "bite_lick"
         ],
-        "pattern": "MIDNIGHT HIT! {restraint_pose}, then {action_bold} their {zone} nonstop for {duration}s!  Only us here — say the word and we stop."
+        "pattern": "If you both agree beforehand, MIDNIGHT HIT! {restraint_pose}, then {action_bold} their {zone} at a pace you both enjoy for {duration}s!  Only us here — say the word and we stop."
       },
       {
         "id": "mbh_v2_1",
@@ -1732,7 +1728,7 @@
           "restraint_light"
         ],
         "durationSec": 0,
-        "pattern": "Never have I ever secretly wondered how you'd react to {touch_contrast} right beside {room_spot}.  Only us here — say the word and we stop."
+        "pattern": "If you both agree beforehand, Never have I ever secretly wondered how you'd react to {touch_contrast} right beside {room_spot}.  Only us here — say the word and we stop."
       },
       {
         "id": "nh_v2_1",
@@ -1806,7 +1802,7 @@
           "indoor"
         ],
         "title": "Midnight Surrender · {explore_end}",
-        "pattern": "\"All mine now…\" {restraint_pose}, shift {garment_piece} using {tease_tool}, and {action_bold} {explore_end} ({duration}s).  Only us here — say the word and we stop."
+        "pattern": "If you both agree beforehand, \"All mine now…\" {restraint_pose}, shift {garment_piece} using {tease_tool}, and {action_bold} {explore_end} ({duration}s).  Only us here — say the word and we stop."
       }
     ],
     "roleplay": [
@@ -1853,7 +1849,7 @@
           "clothing_dare"
         ],
         "title": "Midnight Sovereign · {room_spot}",
-        "pattern": "Bold scene: {fantasy_hook}. At {room_spot}, {restraint_pose}, shift {garment_piece} with {tease_tool}, and {action_bold} {explore_end}.  Only us here — say the word and we stop."
+        "pattern": "If you both agree beforehand, Bold scene: {fantasy_hook}. At {room_spot}, {restraint_pose}, shift {garment_piece} with {tease_tool}, and {action_bold} {explore_end}.  Only us here — say the word and we stop."
       }
     ],
     "positions": [

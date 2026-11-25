@@ -61,20 +61,31 @@ public class Phase16SocialGamesTest {
     }
 
     @Test
-    public void interactionStylesAreOpenEndedTaskOrTimedNoFakeAnswers() {
+    public void eachSocialModeUsesItsDesignedInteractionStyle() {
         Set<SocialGamesEngine.Interaction> seen = new HashSet<>();
         for (String id : MODE_IDS) {
             SocialGamesEngine.Interaction interaction = SocialGamesEngine.configFor(id).interaction;
-            // No multiple-choice interaction: official cards are open prompts, not questions with answers.
-            assertTrue(interaction == SocialGamesEngine.Interaction.TASK
-                    || interaction == SocialGamesEngine.Interaction.TIMED);
             seen.add(interaction);
         }
-        assertEquals(2, seen.size());
-        assertTrue(seen.contains(SocialGamesEngine.Interaction.TASK));
-        assertTrue(seen.contains(SocialGamesEngine.Interaction.TIMED));
+        assertEquals(7, seen.size());
+        assertEquals(SocialGamesEngine.Interaction.PRIVATE_CHOICES,
+                SocialGamesEngine.configFor("most_likely_to").interaction);
+        assertEquals(SocialGamesEngine.Interaction.PRIVATE_CHOICES,
+                SocialGamesEngine.configFor("love_language").interaction);
+        assertEquals(SocialGamesEngine.Interaction.WISH_LIST,
+                SocialGamesEngine.configFor("bucket_list").interaction);
+        assertEquals(SocialGamesEngine.Interaction.SHARED_COUNTDOWN,
+                SocialGamesEngine.configFor("ldr_sync").interaction);
+        assertEquals(SocialGamesEngine.Interaction.TIMED_PRIVATE_ANSWERS,
+                SocialGamesEngine.configFor("hot_seat").interaction);
+        assertEquals(SocialGamesEngine.Interaction.MISSION,
+                SocialGamesEngine.configFor("secret_mission").interaction);
         assertTrue(SocialGamesEngine.configFor("hot_seat").durationSec > 0);
         assertTrue(SocialGamesEngine.configFor("forfeit_wheel").durationSec > 0);
+        assertEquals(3, SocialGamesEngine.configFor("hot_seat").roundSize);
+        assertEquals(30, SocialGamesEngine.configFor("ldr_sync").durationSec);
+        assertTrue(new SocialGamesEngine("hot_seat").isTimed());
+        assertFalse(new SocialGamesEngine("ldr_sync").isTimed());
     }
 
     @Test

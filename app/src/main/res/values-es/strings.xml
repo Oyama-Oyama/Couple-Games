@@ -19,7 +19,7 @@
     <string name="onboarding_step1_desc">Personalizad la noche con vuestros nombres y pronombres; todo queda guardado únicamente en este teléfono.</string>
     <string name="onboarding_partner_1">Pareja 1</string>
     <string name="onboarding_partner_2">Pareja 2</string>
-    <string name="onboarding_step2_promise">• 100% sin conexión — sin cuentas, sin nube, cero rastreo\n• Cero anuncios — nada interrumpe vuestra noche\n• Consentimiento primero — cualquier límite marcado como NO se oculta en todos los juegos</string>
+    <string name="onboarding_step2_promise" formatted="false">• 100% sin conexión — sin cuentas, sin nube, cero rastreo\n• Cero anuncios — nada interrumpe vuestra noche\n• Consentimiento primero — cualquier límite marcado como NO se oculta en todos los juegos</string>
     <string name="onboarding_safeword_label">Palabra segura (opcional)</string>
     <string name="onboarding_back">Atrás</string>
     <string name="onboarding_continue">Continuar</string>
@@ -140,6 +140,8 @@
     <string name="btn_partner_approved">Aprobado ✓</string>
     <string name="btn_partner_redo">Retroceder -1</string>
     <string name="board_rewards_title">Grandes Premios Finales</string>
+    <string name="board_prize_intro_title">Elijan el premio de la meta</string>
+    <string name="board_prize_intro_body">Definan un premio opcional para quien gane. Pueden cambiarlo cuando quieran desde el botón de premios.</string>
     <string name="board_reward_named_label">Premio si gana %1$s</string>
     <string name="board_rewards_saved">Premios actualizados</string>
     <string name="board_victory_title">♛ ¡%1$s Ganó la Partida!</string>
@@ -162,8 +164,12 @@
     <string name="wheel_custom_seed_4">Preparar cócteles</string>
     <string name="wheel_custom_max_hint">Hasta 10 opciones caben en la ruleta</string>
     <string name="wheel_custom_count">%1$d opciones listas — ¡gira!</string>
+    <string name="wheel_custom_edit_title">Editar opción de la ruleta</string>
+    <string name="wheel_custom_duplicate_hint">Esa opción ya existe</string>
+    <string name="wheel_custom_restore_hint">No se pudieron leer las opciones guardadas; se restauraron las iniciales.</string>
     <string name="wheel_desire_loaded">¡%1$d Deseos Mutuos cargados en la ruleta!</string>
-    <string name="wheel_no_desire_fallback">Juega primero Match de Deseos; usamos el Mix por ahora.</string>
+    <string name="wheel_no_desire_fallback">Aún no hay coincidencias mutuas. Completen Match de Deseos primero; esta ruleta está en pausa.</string>
+    <string name="wheel_desire_loading">Comprobando sus coincidencias mutuas…</string>
     <string name="wheel_ready_hint">Gira la ruleta y deja que el destino decida vuestro siguiente paso.</string>
     <string name="wheel_spinning">Girando la ruleta...</string>
     <string name="wheel_landed_status">El destino eligió: %1$s</string>
@@ -193,7 +199,7 @@
     <string name="draw_guessed_toast">¡Química pura! +1 punto</string>
     <string name="draw_penalty_badge">Reto de Dibujo</string>
     <string name="paywall_title">Pase Velvet VIP</string>
-    <string name="paywall_subtitle">Sin anuncios · 100% sin conexión · Desbloquea todos los retos y temas.</string>
+    <string name="paywall_subtitle" formatted="false">Sin anuncios · 100% sin conexión · Desbloquea todos los retos y temas.</string>
     <string name="paywall_benefits">• Desbloquea 12 Modos VIP (Ruleta Íntima, Subida en 5 Etapas, Mapa Corporal, Escalera del Deseo, Laboratorio de Accesorios, Conecta 4, Subasta y más)\n• Desbloquea mazos Fuego Lento y Medianoche + los 9 temas sensuales\n• Chispas Velvet ilimitadas en los 36 juegos\n• Funciona siempre sin conexión ni rastreo</string>
     <string name="paywall_plan_lifetime">♛ Acceso Vitalicio · Pago Único</string>
     <string name="paywall_plan_lifetime_desc">Tuyo para siempre, incluidos futuros temas</string>
@@ -214,6 +220,19 @@
     <string name="settings_vip_free">Edición Gratuita (11 Modos · 5 Temas)</string>
     <string name="settings_section_privacy">Privacidad y Registros</string>
     <string name="settings_screen_shield">Bloquear Capturas y Grabación de Pantalla</string>
+    <string name="settings_app_lock">Exigir desbloqueo del dispositivo</string>
+    <string name="settings_app_lock_desc">Usa la biometría o el bloqueo de pantalla del dispositivo. Velvet se bloquea al salir y también bloquea las capturas y las vistas previas en aplicaciones recientes. Aquí no se guardan datos biométricos ni credenciales.</string>
+    <string name="app_lock_auth_title">Desbloquear Velvet</string>
+    <string name="app_lock_auth_subtitle">Verifica tu identidad con el dispositivo para continuar.</string>
+    <string name="app_lock_unlock">Desbloquear</string>
+    <string name="app_lock_exit">Salir de la aplicación</string>
+    <string name="app_lock_use_device_credential">Usar el bloqueo de pantalla</string>
+    <string name="app_lock_auth_unavailable">Configura la biometría o el bloqueo de pantalla en los ajustes del dispositivo para activar el bloqueo de la aplicación.</string>
+    <string name="app_lock_auth_failed">No se pudo completar la autenticación. Inténtalo de nuevo.</string>
+    <string name="app_lock_state_save_failed">No se pudo guardar el ajuste de bloqueo. Inténtalo de nuevo.</string>
+    <string name="app_lock_disable">Desactivar bloqueo</string>
+    <string name="app_lock_disable_title">¿Desactivar el bloqueo de la aplicación?</string>
+    <string name="app_lock_disable_message">La autenticación del dispositivo ya no está disponible. Si desactivas el bloqueo, cualquier persona con acceso a este dispositivo podrá abrir Velvet.</string>
     <string name="settings_privacy_title">Nuestra Promesa de Privacidad</string>
     <string name="settings_privacy_body">Velvet no contiene anuncios, rastreadores ni cuentas en la nube. Vuestros nombres, límites, cartas y recuerdos jamás salen de este dispositivo.</string>
     <string name="settings_clear_matches">Borrar Matches</string>
@@ -283,6 +302,11 @@
     <string name="btn_scratch_next">Siguiente Carta Rasca</string>
     <string name="roleplay_browser_subtitle">Elige una historia de medianoche en 3 actos. Cambia quién lidera cuando quieras.</string>
     <string name="roleplay_acts_count">%1$d Actos</string>
+    <string name="roleplay_act_3">Acto 3</string>
+    <string name="roleplay_act_2">Acto 2</string>
+    <string name="roleplay_act_1">Acto 1</string>
+    <string name="roleplay_role_partner">Pareja</string>
+    <string name="roleplay_role_lead">Quien guía</string>
     <string name="roleplay_cast_fmt">%1$s es %2$s\n%3$s es %4$s</string>
     <string name="roleplay_whisper_label">Frase Sugerida al Oído</string>
     <string name="roleplay_btn_next_act">Siguiente Acto →</string>
@@ -412,6 +436,18 @@
     <string name="props_checklist_hint">Toca los accesorios que tengáis a mano hoy para adaptar los retos:</string>
     <string name="prop_ice">🧊 Hielo</string>
     <string name="prop_blindfold">🎀 Venda</string>
+    <string name="props_custom_hint">Tu objeto (p. ej., pañuelo de seda)</string>
+    <string name="props_custom_add">Añadir</string>
+    <string name="props_custom_required">Escribe primero el nombre del objeto</string>
+    <string name="props_custom_duplicate">Este objeto ya está en tu lista</string>
+    <string name="props_custom_max">Puedes guardar hasta 8 objetos personalizados</string>
+    <string name="props_custom_restore_hint">No se pudieron recuperar los objetos guardados y se borraron los datos dañados.</string>
+    <string name="props_custom_prompt_template">Si ambos están de acuerdo, usen %1$s con suavidad sobre la ropa en una zona cómoda. Eviten el calor, los bordes afilados, la cara y la piel dañada; paren ante cualquier molestia.</string>
+    <string-array name="props_custom_prompt_templates">
+        <item>Con el acuerdo de ambos, usen %1$s solo si está limpio, es seguro para el cuerpo y resulta cómodo. Quien recibe guía el contacto sobre la ropa; si no, explórenlo sin contacto. Paren si alguien duda.</item>
+        <item>Por turnos, elijan una sensación suave con %1$s: tacto sobre la ropa, sonido o vista. Comprueben que esté limpio y sea seguro para el cuerpo, pidan permiso antes del contacto y paren ante cualquier molestia.</item>
+        <item>Creen un momento divertido de 30 segundos con %1$s: quien recibe puede sentirlo sobre la ropa, oírlo, verlo o pasar. Cambien de turno; eviten calor, bordes afilados, la cara y la piel dañada.</item>
+    </string-array>
     <string name="prop_oil">💧 Aceite</string>
     <string name="prop_tie">⛓ Corbata</string>
     <string name="prop_honey">🍯 Miel</string>
@@ -459,13 +495,13 @@
     <string name="mode_bucket_list">Nuestra lista de deseos</string>
     <string name="mode_bucket_list_desc">Saca un deseo, marquen si ambos quieren intentarlo y reúnan sus sueños compartidos.</string>
     <string name="mode_riddle_me">Adivina y enamora</string>
-    <string name="mode_riddle_me_desc">Un acertijo juguetón con un giro dulce. Adivinen juntos y revelen la respuesta.</string>
+    <string name="mode_riddle_me_desc">Resuelvan un acertijo breve en privado, revelen sus respuestas y comprueben la solución.</string>
     <string name="mode_hot_seat">Silla caliente</string>
     <string name="mode_hot_seat_desc">Tres preguntas rápidas contra el reloj. Responde con honestidad y rapidez.</string>
     <string name="mode_secret_mission">Misión secreta</string>
     <string name="mode_secret_mission_desc">Saca una misión privada solo para los dos. Cómplétala antes de sacar otra.</string>
     <string name="mode_ldr_sync">Una Cuenta Atrás Compartida</string>
-    <string name="mode_ldr_sync_desc">Los dos miramos la misma cuenta — el silencio entre respiraciones se acorta. Puedes dejar de contar cuando quieras; este momento ya es nuestro.</string>
+    <string name="mode_ldr_sync_desc">Inicien juntos una cuenta atrás en este dispositivo. Cualquiera de los dos puede detenerla cuando quiera.</string>
     <string name="mode_scenario_choice">Elige el escenario</string>
     <string name="mode_scenario_choice_desc">Enfrenten una situación hipotética y elijan qué harían realmente. Luego comparen.</string>
     <string name="mode_memory_lane">Camino de recuerdos</string>
@@ -654,7 +690,14 @@
     <string name="home_together_since_fmt">Desde el %1$s</string>
     <string name="home_mood_checkin_subtitle">Un rincón privado para los dos: solo vosotros lo leéis.</string>
     <string name="mood_gratitude_a_named">Algo que me encanta de %1$s</string>
-    <string name="mood_gratitude_b_named">Algo que me encantó de nosotros hoy</string>
+    <string name="mood_gratitude_b_named">Algo que me encanta de %1$s hoy</string>
+    <string name="soft_limit_warning">Este reto incluye un tema que una de las dos personas marcó para tratar con cuidado. Habladlo antes de seguir; cualquiera puede pasar.</string>
+    <string name="soft_limit_ack">Ambos queremos continuar con este reto.</string>
+    <string name="body_map_accessibility">Mapa corporal interactivo. Selecciona un punto marcado para ver su reto.</string>
+    <string name="color_picker_accessibility">Selector de color. Arrastra para elegir un color.</string>
+    <string name="drawing_canvas_accessibility">Lienzo de dibujo. Dibuja con el dedo y usa los botones inferiores para cambiar o borrar el dibujo.</string>
+    <string name="scratch_card_accessibility">Rasca la tarjeta para revelar el reto o usa el botón inferior para mostrarlo.</string>
+    <string name="blind_match_card_accessibility">Desliza a la derecha para aceptar y a la izquierda para pasar. También puedes usar los botones inferiores.</string>
     <string name="mode_date_night">Noche de Cita</string>
     <string name="datenight_title">La noche de cita de hoy</string>
     <string name="datenight_subtitle">Cuatro etapas tranquilas para recorrer juntos, al ritmo que tú quieras.</string>
@@ -671,9 +714,17 @@
     <string name="datenight_skip">Saltar esta</string>
     <string name="datenight_pause_safe">La palabra segura está lista: pausa o para cuando quieras.</string>
     <string name="datenight_finish">Hasta aquí la noche… lo dejamos así, y volvemos cuando tú quieras.</string>
+    <string name="datenight_aftercare_note">Dejar una nota privada</string>
+    <string name="datenight_aftercare_body">Respirad despacio y preguntaos cómo está cada uno. Un abrazo, un vaso de agua o terminar aquí son buenas opciones. Lo que siga, solo si ambos quieren.</string>
+    <string name="datenight_aftercare_title">Un final más dulce</string>
+    <string name="datenight_aftercare_button">Cerrar la noche con calma</string>
+    <string name="datenight_aftercare_leave">Terminar la partida</string>
+    <string name="datenight_aftercare_stay">Seguir jugando</string>
     <string name="agegate_title">Solo para adultos</string>
     <string name="agegate_body">Esta es una app íntima para dos adultos. Comprueba que tienes 18 años o más antes de continuar.</string>
     <string name="agegate_confirm">Tengo 18 años o más, continuar</string>
+    <string name="agegate_adult_content_unavailable">El contenido para adultos seguirá oculto hasta completar la confirmación de edad.</string>
+    <string name="agegate_save_failed">No se pudo guardar la elección. Inténtalo de nuevo.</string>
     <string name="agegate_decline">Tengo menos de 18 años</string>
     <string name="agegate_declined_notice">Sin problema — la app se mantiene suave y solo conserva sus juegos básicos.</string>
     <string name="agegate_decline_note">Todo lo que escribas sigue en este dispositivo: sin cuenta, sin subidas, nada sale de aquí.</string>
@@ -686,5 +737,103 @@
     <string name="tonight_note_empty_today">Esta noche todavía no ha dejado ninguna palabra…</string>
     <string name="tonight_note_history_title">Las Noches que Guardamos</string>
     <string name="tonight_note_saved_toast">Guardado en este dispositivo: solo tú y la otra persona.</string>
+    <string name="tonight_note_save_failed">No se pudo guardar la nota. Inténtalo de nuevo.</string>
     <string name="tonight_note_close_hint">Cerrar</string>
+    <string name="reward_wallet_open">Mis vales</string>
+    <string name="reward_wallet_title">Recompensas guardadas</string>
+    <string name="reward_wallet_empty">No hay vales disponibles. Gana un contrato en la Subasta del Deseo y guárdalo aquí. Los vales usados quedan en el historial.</string>
+    <string name="reward_wallet_history">Historial de vales usados</string>
+    <string name="reward_wallet_rules_loading">Se están cargando los límites de consentimiento. Inténtalo de nuevo en un momento.</string>
+    <string name="intimacy_preferences_open">Nuestro estilo</string>
+    <string name="intimacy_preferences_title">¿Qué les gusta compartir?</string>
+    <string name="intimacy_preferences_body">Elijan juntos. Estas preferencias solo sugieren juegos, se guardan en este dispositivo y nunca cambian sus límites ni la intensidad elegida para esta noche.</string>
+    <string name="intimacy_style_romantic">Romántico — hablar desde el corazón y mostrar cariño</string>
+    <string name="intimacy_style_playful">Juguetón — risas y juegos ligeros</string>
+    <string name="intimacy_style_sensory">Sensorial — acercarse con calma y disfrutar los sentidos</string>
+    <string name="intimacy_style_imaginative">Imaginativo — historias y juegos de rol</string>
+    <string name="intimacy_preferences_save">Guardar preferencias</string>
+    <string name="intimacy_preferences_saved">Preferencias guardadas en este dispositivo.</string>
+    <string name="intimacy_preferences_save_failed">No se pudieron guardar las preferencias. Inténtalo de nuevo.</string>
+    <string name="intimacy_recommendations_button">Para nuestro estilo</string>
+    <string name="intimacy_recommendations_empty">No hay juegos que coincidan con estos filtros. Prueben otro filtro o ajusten sus preferencias compartidas.</string>
+    <string name="reward_wallet_item_fmt">%1$s ganó: %2$s</string>
+    <string name="reward_wallet_detail_fmt">Lo ganó %1$s\n\n%2$s\n\n%3$s\n\nCanjéenlo solo si ambos quieren.</string>
+    <string name="reward_wallet_save">Guardar como vale</string>
+    <string name="reward_wallet_saved">Guardado</string>
+    <string name="reward_wallet_saved_toast">Guardado en los vales locales.</string>
+    <string name="reward_wallet_save_failed">No se pudo guardar el vale en este dispositivo. Inténtalo de nuevo.</string>
+    <string name="reward_wallet_redeem">Marcar como usado</string>
+    <string name="reward_wallet_redeemed">Vale marcado como usado.</string>
+    <string name="reward_wallet_redeem_failed">No se pudo usar el vale. Es posible que ya se haya usado.</string>
+    <string name="reward_wallet_blocked">Este vale ya no está disponible según los límites o las preferencias actuales.</string>
+    <string name="social_answer_privately">Responder en privado</string>
+    <string name="social_choose_privately">Elegir en privado</string>
+    <string name="social_answer_hint">Escribe tu respuesta...</string>
+    <string name="social_answer_required">Escribe una respuesta primero.</string>
+    <string name="social_save_answer">Guardar respuesta</string>
+    <string name="social_turn_a">Persona 1: responde en privado</string>
+    <string name="social_turn_b">Persona 2: responde en privado</string>
+    <string name="social_revealed_answers">%1$s: %2$s\n\n%3$s: %4$s</string>
+    <string name="social_add_wish">Añadir a los deseos compartidos</string>
+    <string name="social_view_wishlist">Ver la lista compartida</string>
+    <string name="social_add_wish_title">Guardar este deseo compartido</string>
+    <string name="social_save_wish">Guardar deseo</string>
+    <string name="social_wish_required">Escribe un deseo primero.</string>
+    <string name="social_wish_too_long">El deseo debe tener menos de %1$d caracteres.</string>
+    <string name="social_wish_saved">Añadido a la lista compartida.</string>
+    <string name="social_wish_exists">Ese deseo ya está en la lista.</string>
+    <string name="social_wishlist_title">Sus deseos compartidos</string>
+    <string name="social_wishlist_empty">La lista está vacía. Añadan algo que les gustaría hacer juntos.</string>
+    <string name="social_wishlist_full">La lista de deseos compartidos está llena.</string>
+    <string name="social_remove_wish_prompt">¿Quitar «%1$s» de la lista compartida?</string>
+    <string name="social_remove_wish">Quitar deseo</string>
+    <string name="social_sync_start">Empezar juntos</string>
+    <string name="social_sync_stop">Detener juntos</string>
+    <string name="social_spin_forfeit">Girar para elegir un reto</string>
+    <string name="social_riddle_solution">Respuesta: %1$s</string>
+    <string-array name="social_most_likely_options">
+        <item>Yo</item>
+        <item>Mi pareja</item>
+        <item>Los dos</item>
+        <item>Ninguno</item>
+    </string-array>
+    <string-array name="social_love_language_options">
+        <item>Palabras de afirmación</item>
+        <item>Tiempo de calidad</item>
+        <item>Actos de servicio</item>
+        <item>Regalos considerados</item>
+        <item>Contacto afectuoso</item>
+    </string-array>
+    <string-array name="social_most_likely_prompts">
+        <item>¿Quién propondría una cita improvisada?</item>
+        <item>¿Quién recuerda mejor los pequeños detalles de una conversación?</item>
+        <item>¿Quién daría el primer paso para dar un beso?</item>
+        <item>¿Quién convertiría una noche cualquiera en algo especial?</item>
+        <item>¿Quién se quedaría despierto hasta tarde hablando?</item>
+        <item>¿Quién prepararía una pequeña sorpresa sin motivo?</item>
+    </string-array>
+    <string-array name="social_love_language_prompts">
+        <item>¿Qué gesto te hace sentir más querido/a?</item>
+        <item>Después de un día agotador, ¿qué te ayuda a sentirte cuidado/a?</item>
+        <item>¿Qué forma de cariño notas primero?</item>
+        <item>¿Qué te hace sentir valorado/a sin tener que pedirlo?</item>
+        <item>¿Qué momento compartido te hace sentir más cerca?</item>
+        <item>¿Qué gesto extrañarías más cuando estuvieran separados?</item>
+    </string-array>
+    <string-array name="social_riddle_prompts">
+        <item>¿Qué tiene teclas, pero no abre ninguna cerradura?</item>
+        <item>¿Qué se moja cada vez más cuanto más seca?</item>
+        <item>¿Qué tiene cuello, pero no cabeza?</item>
+        <item>¿Qué es tuyo, pero otras personas usan más que tú?</item>
+        <item>¿Qué puede recorrer el mundo sin salir de una esquina?</item>
+        <item>¿Qué tiene un ojo, pero no puede ver?</item>
+    </string-array>
+    <string-array name="social_riddle_answers">
+        <item>Un piano</item>
+        <item>Una toalla</item>
+        <item>Una botella</item>
+        <item>Tu nombre</item>
+        <item>Un sello postal</item>
+        <item>Una aguja</item>
+    </string-array>
 </resources>

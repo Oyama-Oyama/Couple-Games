@@ -1442,7 +1442,7 @@
         {
           "actTitle": "Acte I · L'Étincelle",
           "durationSec": 45,
-          "direction": "{lead} ouvre réserver une suite penthouse sous de faux noms à l'accoudoir du canapé et place {partner} en Garde ses mains plaquées contre la tête de lit.",
+          "direction": "{lead} ouvre réserver une suite penthouse sous de faux noms à l'accoudoir du canapé et place {partner} en les mains libres dans une position confortable choisie ensemble.",
           "whisperLine": "« Ferme les yeux maintenant et remets-toi entièrement à moi. »"
         },
         {
@@ -1530,31 +1530,89 @@
       "tier": 4,
       "tags": [
         "roleplay",
-        "restraint_light",
-        "clothing_dare"
+        "clothing_dare",
+        "deep_talk"
       ],
-      "title": "Maître de Minuit · devant le miroir du dressing",
-      "subtitle": "Trois actes d'abandon total autour de réserver une suite penthouse sous de faux noms",
-      "leadRole": "Meneur",
-      "partnerRole": "Partenaire",
+      "title": "Arrivée de minuit · deux noms, un secret",
+      "subtitle": "Une fantaisie en trois actes, choisie ensemble, dans une suite imaginaire.",
+      "leadRole": "La personne qui a la clé",
+      "partnerRole": "L’invité·e",
       "acts": [
         {
-          "actTitle": "Acte I · L'Étincelle",
+          "actTitle": "Acte I · La réservation",
           "durationSec": 45,
-          "direction": "{lead} ouvre réserver une suite penthouse sous de faux noms à devant le miroir du dressing et place {partner} en Maintiens ses deux poignets au-dessus de sa tête d'une main.",
-          "whisperLine": "« Ferme les yeux maintenant et remets-toi entièrement à moi. »"
+          "direction": "{lead} propose deux faux prénoms et demande à {partner} lequel lui plaît. Avant de commencer, choisissez un mot pour faire une pause et une position confortable.",
+          "whisperLine": "Ce soir, inventons une histoire qui nous ressemble, ensemble."
         },
         {
-          "actTitle": "Acte II · Montée du Désir",
+          "actTitle": "Acte II · Le miroir",
           "durationSec": 55,
-          "direction": "{lead} glisse le bout de tes doigts au ralenti extrême sous un accessoire plus une couche, taquinant le bas-ventre avec doigts dans les cheveux t'attirant tout près.",
-          "whisperLine": "« Chut… te retenir rend chaque frisson plus fort. »"
+          "direction": "En gardant vos vêtements, {lead} se place près de {partner} devant le miroir et nomme un détail qui l’attire. Demandez avant de vous rapprocher ; un sourire ou une main tenue suffit.",
+          "whisperLine": "Dis-moi ce qui te ferait plaisir, je t’écoute."
         },
         {
-          "actTitle": "Acte III · Final de Minuit",
+          "actTitle": "Acte III · La clé de la chambre",
           "durationSec": 65,
-          "direction": "Passant en « plaqué(e) doucement contre le mur », {lead} concentre mordille puis apaise d'un long baiser sur le le bas de la colonne de {partner}.",
-          "whisperLine": "« C'est exactement ce que tu espérais toute la soirée, n'est-ce pas ? »"
+          "direction": "Choisissez ensemble un geste tendre pour conclure : un baiser, une étreinte ou aucun contact. Dites ce qui vous a plu ; chacun peut faire une pause ou arrêter la scène.",
+          "whisperLine": "La prochaine scène, nous la choisirons ensemble."
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_01",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk"],
+      "title": "La dernière librairie",
+      "subtitle": "Une rencontre après la fermeture, faite de regards et d’histoires partagées.",
+      "leadRole": "La personne libraire",
+      "partnerRole": "Le dernier client",
+      "acts": [
+        {
+          "actTitle": "Encore une minute",
+          "durationSec": 45,
+          "direction": "Si vous en avez tous les deux envie, {lead} propose à {partner} de parcourir une étagère et de choisir un livre pour l’autre. Expliquez votre choix en une phrase.",
+          "whisperLine": "J’ai gardé une dernière histoire pour toi."
+        },
+        {
+          "actTitle": "Une phrase empruntée",
+          "durationSec": 55,
+          "direction": "{partner} partage une phrase qui lui plaît ou en invente une. {lead} demande si se rapprocher serait agréable ; chaque réponse convient à la scène.",
+          "whisperLine": "Certaines histoires se partagent mieux à voix basse."
+        },
+        {
+          "actTitle": "L’heure de fermer",
+          "durationSec": 60,
+          "direction": "Chacun nomme une qualité qu’il admire chez l’autre, puis vous choisissez comment conclure : vous tenir la main, vous enlacer ou vous souhaiter une douce soirée.",
+          "whisperLine": "Je resterais bien pour un chapitre de plus."
+        }
+      ]
+    },
+    {
+      "id": "rp_v22_02",
+      "tier": 2,
+      "tags": ["roleplay", "deep_talk", "physical_light"],
+      "title": "Rendez-vous reporté sur le toit",
+      "subtitle": "Une réservation retardée devient un rendez-vous imaginaire aux chandelles, à votre rythme.",
+      "leadRole": "La personne qui reçoit",
+      "partnerRole": "La personne invitée",
+      "acts": [
+        {
+          "actTitle": "L’invitation",
+          "durationSec": 45,
+          "direction": "Choisissez d’abord le scénario et un signe pour faire une pause. {lead} accueille {partner} à une table imaginaire sur le toit et demande ce qui rendrait la soirée agréable.",
+          "whisperLine": "Je suis heureux·se que tu sois venu·e, malgré la pluie."
+        },
+        {
+          "actTitle": "La vue",
+          "durationSec": 55,
+          "direction": "Décrivez chacun un détail du ciel nocturne imaginaire. Si vous êtes tous les deux d’accord, tenez-vous la main ; sinon, gardez ce moment en paroles.",
+          "whisperLine": "La vue est belle, mais c’est toi que je regarde."
+        },
+        {
+          "actTitle": "Le prochain rendez-vous",
+          "durationSec": 60,
+          "direction": "Partagez une petite idée pour un prochain rendez-vous. Choisissez ensemble un baiser, une étreinte ou un compliment pour conclure ; chacun peut passer.",
+          "whisperLine": "Gardons un peu d’impatience pour la prochaine fois."
         }
       ]
     }

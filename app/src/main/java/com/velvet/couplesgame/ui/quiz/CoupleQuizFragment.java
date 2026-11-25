@@ -88,7 +88,7 @@ public class CoupleQuizFragment extends Fragment {
     }
 
     private void startFreshQuizRound() {
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         engine.startRound(loadedQuestions, container.consentFilter, maxTier);
         renderPhase();
     }
@@ -197,7 +197,7 @@ public class CoupleQuizFragment extends Fragment {
     }
 
     private void triggerMissPenaltyDare() {
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         boolean guesserIsPlayerA = !engine.isSubjectPlayerA();
         container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
             TaskCard dare = container.taskEngine.drawNext(allCards, mutualMatches, maxTier, null, true);

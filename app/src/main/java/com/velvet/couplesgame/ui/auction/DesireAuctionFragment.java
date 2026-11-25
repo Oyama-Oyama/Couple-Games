@@ -18,6 +18,7 @@ import com.velvet.couplesgame.core.model.TaskCard;
 import com.velvet.couplesgame.databinding.FragmentDesireAuctionBinding;
 import com.velvet.couplesgame.ui.common.HapticHelper;
 import com.velvet.couplesgame.ui.common.PhysicsAnimator;
+import com.velvet.couplesgame.ui.common.SoftLimitPromptHelper;
 import com.velvet.couplesgame.ui.common.TaskPromptDialogHelper;
 import java.util.ArrayList;
 import java.util.List;
@@ -27,6 +28,8 @@ public class DesireAuctionFragment extends Fragment {
     private AppContainer container;
     private final DesireAuctionEngine engine = new DesireAuctionEngine();
     private final DareTimerHelper timerHelper = new DareTimerHelper();
+    private AuctionContractDto boundContract;
+    private String savedVoucherContractId;
 
     @Nullable
     @Override
@@ -61,9 +64,13 @@ public class DesireAuctionFragment extends Fragment {
             PhysicsAnimator.popIn(binding.cardAuctionContract);
         });
 
+        binding.btnAuctionSaveVoucher.setOnClickListener(v -> saveCurrentContractAsVoucher());
+
         binding.btnAuctionTimer.setOnClickListener(v -> {
             AuctionContractDto c = engine.getActiveContract();
-            if (c == null || c.durationSec <= 0) return;
+            if (c == null || c.durationSec <= 0
+                    || (container.consentFilter.hasSoftLimit(c.tags)
+                    && !binding.checkAuctionSoftLimitAck.isChecked())) return;
             binding.tvAuctionTimer.setVisibility(View.VISIBLE);
             timerHelper.start(c.durationSec, new DareTimerHelper.Listener() {
                 @Override
@@ -86,6 +93,8 @@ public class DesireAuctionFragment extends Fragment {
         binding.btnAuctionNextLot.setOnClickListener(v -> {
             HapticHelper.tick(v);
             timerHelper.cancel();
+            boundContract = null;
+            savedVoucherContractId = null;
             engine.nextContract();
             PhysicsAnimator.flipCard3D(binding.cardAuctionContract, this::renderUi);
         });
@@ -96,7 +105,7 @@ public class DesireAuctionFragment extends Fragment {
             launchBailoutDare(targetA);
         });
 
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadIntimateModesAsync(bundle -> {
             List<AuctionContractDto> combined = new ArrayList<>();
             if (bundle.auctionContracts != null) combined.addAll(bundle.auctionContracts);
@@ -123,7 +132,7 @@ public class DesireAuctionFragment extends Fragment {
     }
 
     private void launchBailoutDare(boolean forPlayerA) {
-        int maxTier = container.entitlementManager.getSelectedMaxTier();
+        int maxTier = container.getEffectiveMaxTier();
         container.contentRepository.loadMergedPoolAsync((allCards, mutualMatches) -> {
             TaskCard dare = container.taskEngine.drawNext(allCards, mutualMatches, maxTier, null, true);
             if (!isAdded()) return;
@@ -166,6 +175,10 @@ public class DesireAuctionFragment extends Fragment {
 
         AuctionContractDto c = engine.getActiveContract();
         if (c == null) {
+            boundContract = null;
+            binding.tvAuctionSoftLimitWarning.setVisibility(View.GONE);
+            binding.checkAuctionSoftLimitAck.setVisibility(View.GONE);
+            binding.btnAuctionTimer.setEnabled(true);
             binding.tvAuctionTitle.setText(R.string.msg_no_eligible_cards);
             binding.tvAuctionDesc.setText("");
             binding.layoutAuctionBidding.setVisibility(View.GONE);
@@ -173,6 +186,16 @@ public class DesireAuctionFragment extends Fragment {
             return;
         }
 
+        if (boundContract != c) {
+            boundContract = c;
+            SoftLimitPromptHelper.bind(
+                    container.consentFilter,
+                    c.tags,
+                    binding.tvAuctionSoftLimitWarning,
+                    binding.checkAuctionSoftLimitAck,
+                    binding.btnAuctionTimer
+            );
+        }
         binding.tvAuctionTier.setText(TagDisplayMapper.resolveTierNameRes(c.tier));
         binding.tvAuctionTitle.setText(c.title);
         binding.tvAuctionDesc.setText(c.text);
@@ -201,12 +224,47 @@ public class DesireAuctionFragment extends Fragment {
         } else {
             String winner = Boolean.TRUE.equals(topA) ? nameA : nameB;
             binding.tvAuctionTurn.setText(getString(R.string.auction_sold_banner, winner, engine.getCurrentBid()));
+            boolean alreadySaved = c.id != null && c.id.equals(savedVoucherContractId);
+            binding.btnAuctionSaveVoucher.setEnabled(!alreadySaved);
+            binding.btnAuctionSaveVoucher.setText(alreadySaved
+                    ? R.string.reward_wallet_saved : R.string.reward_wallet_save);
             if (c.durationSec > 0) {
                 binding.btnAuctionTimer.setVisibility(View.VISIBLE);
                 binding.btnAuctionTimer.setText(getString(R.string.btn_start_timer, c.durationSec));
             } else {
                 binding.btnAuctionTimer.setVisibility(View.GONE);
             }
+        }
+    }
+
+    private void saveCurrentContractAsVoucher() {
+        AuctionContractDto contract = engine.getActiveContract();
+        Boolean winnerIsA = engine.getHighestBidderIsA();
+        if (contract == null || engine.getPhase() != DesireAuctionEngine.BidPhase.SOLD
+                || winnerIsA == null || contract.id == null || contract.id.trim().isEmpty()) {
+            return;
+        }
+        if (!container.consentRepository.isInitialized()) {
+            Toast.makeText(requireContext(), R.string.reward_wallet_rules_loading,
+                    Toast.LENGTH_LONG).show();
+            return;
+        }
+        if (!container.consentFilter.isAllowed(contract.tags)
+                || contract.tier > container.getEffectiveMaxTier()) {
+            Toast.makeText(requireContext(), R.string.reward_wallet_blocked,
+                    Toast.LENGTH_LONG).show();
+            return;
+        }
+        String winner = container.profileManager.getPlayerName(winnerIsA);
+        boolean saved = container.rewardVoucherManager.saveVoucher(
+                contract.id, contract.title, contract.text, winner, contract.tier, contract.tags);
+        if (saved) {
+            savedVoucherContractId = contract.id;
+            binding.btnAuctionSaveVoucher.setEnabled(false);
+            binding.btnAuctionSaveVoucher.setText(R.string.reward_wallet_saved);
+            Toast.makeText(requireContext(), R.string.reward_wallet_saved_toast, Toast.LENGTH_SHORT).show();
+        } else {
+            Toast.makeText(requireContext(), R.string.reward_wallet_save_failed, Toast.LENGTH_LONG).show();
         }
     }
 
